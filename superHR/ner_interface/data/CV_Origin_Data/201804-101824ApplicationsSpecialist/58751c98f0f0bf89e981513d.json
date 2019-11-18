@@ -1,0 +1,125 @@
+{
+    "basic": {
+        "birthday": "1987-6-16",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=30181184&amp;key=0ec1defbd372e6d99bc446da235b08cb",
+        "politicalStatus": "",
+        "registeredResidence": "福州",
+        "zipCode": "350000"
+    },
+    "certificate": " \n2010/11 驾驶执照C1 \n2008/3 大学英语四级 （572） \n2006/4 全国计算机等级二级 ",
+    "confidentialResume": "N",
+    "currentCompany": "贵州益佰制药有限公司",
+    "currentPosition": "大客户销售",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "电视摄像 新闻采编与制作 非线性编辑 电视特技 电视画面编辑 电视节目制作 电视节目策划 纪录片制作 电视音乐音响 电影评论 古典文学 现当代文学 现代汉语",
+            "endDate": "2008-06",
+            "major": "导演，广播电视编导",
+            "school": "成都理工大学广播影视学院 海外经历",
+            "startDate": "2005-09"
+        }
+    ],
+    "graduateSchool": "成都理工大学广播影视学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": " 制药/生物工程 ",
+        "position": "",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": " \n\nPhotoshop 熟练 \nMS Excel 精通 \n\nMS Powerpoint 精通 \n英语 熟练 \n\n普通话 精通 ",
+    "otherLangResumeId": "58751c98f0f0bf89e981513d",
+    "proSkill": "Photoshop熟练 MS Excel精通 MS Powerpoint精通 英语良好 普通话一般",
+    "projectExp": [],
+    "salaryRemark": "年薪10 万元",
+    "selfComm": "熟悉品牌推广，极具判断、决策、计划、执行、公关能力；\n文字功底深厚，较强的多文体文案写作能力；策略丰富，思维活跃、创新意识强；\n具有团队精神，较强的领导能力、表达能力、与人沟通能力及抗高压工作能力；\n性格开朗活泼，具有的高度的责任心与使命感，对事认真负责、善于思考。\n校内职务 \n2006/1-2008/6 班长 ",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "贵州益佰制药有限公司",
+            "department": "福建肿瘤2部",
+            "detail": "负责化疗药洛铂的大客户维护及管理，不定期组织大型学术会议(城市会，沙龙会)",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "大客户销售",
+            "scale": "1000-5000人",
+            "startDate": "2014-01",
+            "type": "上市公司"
+        },
+        {
+            "company": "天津天士力医药营销集团",
+            "department": "福州脑血管办",
+            "detail": "负责公司脑血管产品原有市场的上量维护，空白市场的新开发，综合达成率100%，成功开发了一家三甲医院，两家二甲医院。",
+            "endDate": "2014-01",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "scale": "10000人以上",
+            "startDate": "2012-12",
+            "type": "上市公司"
+        },
+        {
+            "company": "成都永康制药有限公司",
+            "department": "福建办事处",
+            "detail": "负责公司的中成药产品在福州市区2家医院的销售及临床关系维护。\n\n业务医院主要是福建省中医药大学附属第二人民医院和福州市第二医院，客户科室分布为外科、肿瘤科、内分泌科、骨科、脑病科、乳腺科。在职期间通过客情关系建立、维护和深化，福建省中医药大学附属第二人民医院由原有的800盒/月的销售量上升到现在稳定的实际销售量1600盒/月；福州市第二医院由原有的100盒/月的销售量上升到现在稳定的实际销售量500盒/月。",
+            "endDate": "2012-12",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "scale": "500-1000人",
+            "startDate": "2011-04",
+            "type": "民营公司"
+        },
+        {
+            "company": "福建新思维企划集团公司",
+            "department": "营销策划部",
+            "detail": "负责带领团队完成品牌全案推广，先后参与海欣食品，大树户外等品牌项目的相关策划、统筹及方案实施督导。",
+            "endDate": "2011-03",
+            "industry": "广告",
+            "position": "品牌策划经理",
+            "scale": "50-150人",
+            "startDate": "2010-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "成都安德鲁森食品有限公司",
+            "department": "企划部",
+            "detail": "司职企划部企划专员，在职期间，负责策划安德鲁森新品上市专案及品牌活动专案；\n\n拟定各种专案所需各种文案，与广告公司沟通TVC拍摄细节，新闻发布会公关公司评定专案媒体（公交站台、公交车身、楼宇视频、楼宇平面、户外大屏、报纸、电视等）谈判并进行购买。",
+            "endDate": "2010-06",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "市场企划专员",
+            "scale": "500-1000人",
+            "startDate": "2010-03",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "成都禾盛营销策划广告公司",
+            "department": "AE部",
+            "detail": "\n先后司职AE，高级AE，资深品牌AE。在职期间能独立完成统一企业旗下快消品牌项目整合推广的策划、文案、提案、媒介及地面执行、结案等整个过程，先后参与的几个整合推广项目为客户带来最直接的广告效应和经济效应。",
+            "endDate": "2010-03",
+            "industry": "广告",
+            "position": "广告客户主管/专员",
+            "scale": "50-150人",
+            "startDate": "2008-06",
+            "type": "民营公司"
+        },
+        {
+            "company": "成都郫县电视台",
+            "department": "新闻部",
+            "detail": "新闻部实习采编工作``能独立负责采访、 摄像 、写稿 、编辑工作。",
+            "endDate": "2008-03",
+            "industry": "影视/媒体/艺术/文化传播",
+            "position": "记者",
+            "scale": "事业单位",
+            "startDate": "2007-09"
+        }
+    ],
+    "workYears": 11.0
+}

@@ -1,0 +1,108 @@
+{
+    "basic": {
+        "birthday": "1991-9-1",
+        "currentCity": "福州-鼓楼区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 3万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2014-12",
+            "major": "法学",
+            "school": "厦门大学",
+            "startDate": "2011-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "1.部门法，国际法，经济法，公司法。\n2.模拟法庭，法律文书等。",
+            "endDate": "2013-07",
+            "major": "经济法",
+            "school": "福建江夏学院",
+            "startDate": "2010-09"
+        },
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2010-06",
+            "school": "福建福安市第十中学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "其他,其他",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "otherLangResumeId": "5ba0a88ef0f04220dd58de86",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "565717707",
+    "projectExp": [],
+    "selfComm": "1、富有激情，乐于挑战。\n2、工作效率高，工作时间安排科学合理，文笔优秀，良好的文字编辑基础。\n3、熟练Office办公软件，熟悉PS，精通计算机系统，网络等操作。\n4、工作态度端正，富有责任心，良好的团队协作意识，优秀的人际交往能力。\n5、业余爱好涉猎广泛，兴趣丰富，热爱阅读，看电影，数码，听歌，跑步等等。\n6、学习能力强、好奇心强，适应能力强。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海华一国际旅行社有限公司",
+            "department": "运营部",
+            "detail": "\n公司主要从事国际各大邮轮品牌的国内代理，品牌包括歌诗达，MSC地中海，诺唯真，皇家加勒比，天海新世纪，云顶集团等。我主要负责福建省内客户外联工作，经常出差地区福州、南平、宁德、龙岩、三明、厦门和漳州的邮轮市场。一般工作内容主要是，跑区域内的旅行社营业部和总部，和相应的负责人沟通协商相应的邮轮市场合作内容。平时跑跑同行业，沟通更新邮轮产品的报价，负责销售业务。配合客户做好市场的运营和渠道开发工作。维护老客户，开发新客户，然后完成公司业务指标。",
+            "endDate": "2018-07",
+            "industry": "酒店/旅游",
+            "position": "销售代表",
+            "scale": "50-150人",
+            "startDate": "2016-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "福州大码头网络公司",
+            "department": "网络部",
+            "detail": "1，负责大码头商城的日常事务处理，包括商品上下架，广告文案，图片处理，维护。\n2，负责1688,淘宝店铺的维护，运营。\n3，负责商城商品的出入库，仓库管理，打包，卫生，盘点，日常采购。\n4，负责大码头商城的一般运营，活动策划。",
+            "endDate": "2016-08",
+            "industry": "互联网/电子商务",
+            "position": "网店/产品编辑",
+            "scale": "少于50人",
+            "startDate": "2015-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "晋江紫帽派出所",
+            "detail": "配合民警执行公务。\n巡逻辖区治安维稳。\n协助警务内勤工作。\n领导交接的其他事。",
+            "endDate": "2015-01",
+            "industry": "",
+            "position": "后勤",
+            "startDate": "2014-05"
+        },
+        {
+            "company": "福州元丰文化有限公司",
+            "department": "网络部",
+            "detail": "新闻伪原创，网站新闻编辑更新。",
+            "endDate": "2014-03",
+            "industry": "互联网/电子商务",
+            "position": "编辑",
+            "scale": "少于50人",
+            "startDate": "2013-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "福安东方康宁超市",
+            "department": "干货",
+            "detail": "商品补货，理货，仓库整理。",
+            "endDate": "2013-01",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "陈列员",
+            "scale": "民营公司",
+            "startDate": "2012-06"
+        }
+    ],
+    "workYears": 5.0
+}

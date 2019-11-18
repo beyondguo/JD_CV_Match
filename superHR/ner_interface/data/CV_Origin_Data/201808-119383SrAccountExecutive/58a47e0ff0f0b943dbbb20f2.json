@@ -1,0 +1,83 @@
+{
+    "basic": {
+        "birthday": "1993-1-26",
+        "currentCity": "西安-长安区",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/9680241b7f0962c59b8e02edb3b89347.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "修正药业集团",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药销售代表",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "网络经济学",
+            "school": "陕西航天职工大学",
+            "startDate": "2011-02"
+        }
+    ],
+    "graduateSchool": "陕西航天职工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械,医疗/护理/卫生",
+        "position": "医药代表,销售人员,销售代表",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "58a47e0ff0f0b943dbbb20f2",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "年薪5 万元",
+    "selfComm": "\n本人对工作认真负责，具有良好的沟通协调能力及应变能力，善于沟通，工作细心，接受能力强，能吃苦耐劳，责任心强；希望贵公司能给予我一个施展才华的平台，愿与贵公司一起成长发展，能为公司添砖增瓦，如果我能成为贵公司的一员，我定当用我的热情和我的能力投入到我的工作中去。请相信：你们所要实现的正是我想要达到的，我将会把我的工作当做我的事业看待，全力以赴的对待工作中的每一件事情",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西医药控股集团派昂医疗器械有限责任公司",
+            "department": "销售部",
+            "detail": "1、负责公司指定区域产品的销售，确保达成销售目标\n2、定期拜访客户，维护现有客户关系，开发新客户\n3、分析区域销售和市场数据，制订相关计划，包括重点目标的筛选，确保合理制订预 算和资源合力利用,充分执行和评估\n4、熟练掌握产品相关知识，指导医生及客户正确使用产品",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医药销售代表",
+            "scale": "150-500人",
+            "startDate": "2016-03",
+            "type": "国企"
+        },
+        {
+            "company": "修正药业集团",
+            "department": "销售部",
+            "detail": "1、协助销售经理完成公司既定任务目标，并且开发新客户\n2、协助销售经理开展人员招聘，扩建团队\n3、对所有客户进行会议培训，及时拜访客户并进行指导；\n4、根据销售进度组织客户进行商业答谢，互动旅游等。\n5、建立客户档案，并做好客户销售分析，及时报告给经理后对代表进行客户分析整理再开发。",
+            "endDate": "2016-03",
+            "industry": "制药/生物工程",
+            "position": "医药销售代表",
+            "scale": "1000-5000人",
+            "startDate": "2015-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "智联招聘西安分公司",
+            "department": "销售部",
+            "detail": "1．负责协助电话销售部经理制定各类电话销售指标\n2．负责CRM系统的管理和工作分享\n3. 开发新客户，维护老客户，完成各项销售考核指标",
+            "endDate": "2015-03",
+            "industry": "专业服务(咨询、人力资源、财会)",
+            "position": "销售代表",
+            "scale": "150-500人",
+            "startDate": "2014-08",
+            "type": "上市公司"
+        }
+    ],
+    "workYears": 5.0
+}

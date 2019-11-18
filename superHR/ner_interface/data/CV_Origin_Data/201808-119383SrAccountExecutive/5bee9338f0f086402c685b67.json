@@ -1,0 +1,245 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "gender": " 男 "
+    },
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "汉中市铁路中心医院 ",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": " 主管检验师 ",
+    "currentSalary": "9.60万（8000元/月 * 12个月）",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2009-07",
+            "major": "医学检验",
+            "school": "陕西中医学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "extendFields": "大学期间获得奖学金一次。\n参加工作后先后于市中心医院、西交大一附院、省人民医院等进修培训学习；12年于天津武警学院附属医院进修六个月。\n11年取得&ldquo;检验师&rdquo;资格证。\n16年取得&ldquo;主管检验师&rdquo;资格证。",
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681236.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "5",
+                    "enumValue": "IVD(医院)",
+                    "id": "4",
+                    "isDefault": false,
+                    "orderIndex": 4.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681238.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681241.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681243.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3a26b09c7909715ed2e89",
+            "id": "5",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681248.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "流水线@#Workflow",
+                "id": "13",
+                "orderIndex": 13.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681250.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681255.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681257.0,
+            "strValue": "西安",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681258.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681261.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681263.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Jan 2, 2019 3:04:41 PM",
+            "lastUpdated": 1546412681266.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "graduateSchool": "陕西中医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西;西安;汉中",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "临床研究员;维修工程师;医药学检验",
+        "salary": "18.00万（15000元/月 * 12个月）",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "普通话,团队管理经验.1-2年管理经验,团队管理经验.中层管理,团队管理经验.6-10年管理经验,团队管理经验.基层管理",
+    "projectExp": [
+        {
+            "detail": "项目简介：\n于2009年在汉中市铁路中心医院检验科工作至今，对检验科各个项目、岗位、仪器都很熟悉，负责设备日常维护保养，医院评审期间主要负责质量控制。对科室管理、制度等也有一定经验。\n项目业绩：\n工作近十年从未出现报告错误以及患者投诉，能很好的维系科室人员之间的关系。",
+            "endDate": "4000-10",
+            "name": "汉中市铁路中心医院检验科",
+            "responsibility": "生化室组长。兼负责科室质量控制、设备维修养护、科室用品申领、试剂计划、绩效工资核算等。",
+            "startDate": "2009-07"
+        }
+    ],
+    "selfComm": "本人专业业务能力扎实，工作后两次职称考试皆一次性通过，日常除本岗位工作外还负责协助主任管理科室事物以及科室整体质控和设备维修保养。完全可以胜任第三方实验室等相关岗位。动手能力强，在自己摸索下既能对设备仪器简单维修，相信也能很好的胜任设备/应用工程师。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "汉中市铁路中心医院",
+            "department": "",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t专业业务知识扎实，对检验科开展各项业务都能熟练操作，平时主要负责生化室工作以及全科的室内室间质评工作。检验相关各种仪器都能熟练操作，对仪器维护保养有较强动手能力。可以胜任软/硬件、售后工程师等职位。",
+            "endDate": "4000-10",
+            "position": "主管检验师",
+            "salary": "8000",
+            "startDate": "2009-08"
+        }
+    ],
+    "workYears": 10.0
+}

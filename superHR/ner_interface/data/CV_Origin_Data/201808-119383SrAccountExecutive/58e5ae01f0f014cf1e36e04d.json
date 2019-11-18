@@ -1,0 +1,265 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1980-01",
+        "currentCity": "西安-新城区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "法国睛确医疗中国有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "西北地区销售经理",
+    "currentSalary": " 30万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2003-07",
+            "major": "临床医学",
+            "school": "陕西交大医学院",
+            "startDate": "1998-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "5",
+                "enumValue": "老数据待补",
+                "id": "4",
+                "isDefault": false,
+                "orderIndex": 4.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608312.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "医疗器械（非IVD)",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608371.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608428.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608487.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608489.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608491.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608495.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608497.0,
+            "strValue": "西安",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608499.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "临床医学",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608502.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608553.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Jul 17, 2018 11:03:28 AM",
+            "lastUpdated": 1531796608557.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "陕西交大医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械市场推广",
+        "salary": "面议"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "58e5ae01f0f014cf1e36e04d",
+    "proSkill": "英语    良好",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：西北大区 \n - 所在公司：法国爱科森中国有限公司 \n - 项目简介： \n其新技术，FibroScan&reg;采用振动控制的瞬时弹性成像技术，在法国经过多年的研究之后得到极大发展。2007年，Echosens进驻中国市场; \n2012年，Echosens上海全球子公司正式成立。\n - 项目职责： \n按照公司要求完成全年任务及任务分解，组织区域内学术活动，区域内项目开发，挖掘代理商，打开空白市场，\n - 项目业绩： \n在职期间成功销售设备8台。创造了2014年中国区销售个人冠军。2014年销售设备7台。包括第四军医大学西京医院、唐都医院、交大第一附属医院、西安市第八人民医院、延安大学附属医院、兰州大学第一附属医院、第二附属医院、宁夏中医院以及宁医大附属医院在2014年成功装机回款。另外2014年成功使兰州陆军总院项目立项。其中西安市八院和交大一附院以及兰州大学第一附属医院、西京医院都是我个人代表公司直接投标。直接销售。直接全程参与陕西、兰州等地物价立项工作。兰州物价创造了公司全国最高纪录。\n",
+            "endDate": "2017-10",
+            "name": "肝纤维化超声诊断仪",
+            "startDate": "2010-12"
+        }
+    ],
+    "projectExpStr": "",
+    "salaryRemark": " 30万元 ",
+    "selfComm": "\n自信。有激情。熟悉产品从生产领域到销售终端的各个环节。在职期间主要负责医院的开发维护、学术推广、人员培训与管理、重点客户的分级管理、销售任务的分解。在工作期间，完满完成公司的各种活动与销售指标，有效的解决了公司产品在医院科室的占有量，在很大程度上提升了公司产品在各科室的学术影响力和首推率。\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "法国睛确医疗中国有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：3人 \n - 职责业绩： \n职责：下属3人；\n? 负责公司聚焦超声青光眼治疗仪产品在西北五省的销售及渠道建设管理等工作；\n? 入职至今，在市场开发、渠道建设、个人销售及团队建设方面取得良好的业绩：\n",
+            "endDate": "4000-10",
+            "position": "西北地区销售经理",
+            "startDate": "2017-11"
+        },
+        {
+            "company": "法国爱科森中国有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：销售总监 \n - 下属人数：1人 \n - 职责业绩： \n负责公司肝纤维化超声诊断仪产品在西北五省的销售及渠道建设管理等工作；\n? 入职至今，在市场开发、渠道建设、个人销售及团队建设方面取得良好的业绩：\n? \n在公司产品进入中国市场初期，第一年即拿下西京医院及唐都医院感染科，为西北区域后续市场开发树立标杆，连续两年内，陆续开发西安交大一附院、兰州大学一附院、新疆医学院等多家三甲医院，完全打开西北市场；\n? \n渠道建设方面，为公司建立了清晰的渠道网络，各省建立1家一级经销商及下属3-4家二级经销商体系，使公司产品由省到市再到县实现全面覆盖，西北市场占有率高达90%以上；\n? 直接全程参与陕西、兰州等地物价立项工作，兰州物价创造了公司全国最高纪录；\n? 2014年获得中国区个人销售Top Sales，团队销售业绩在全国七个大区中排名第一；\n? 入职建立销售团队，并稳定至今，几乎无人离职。\n",
+            "endDate": "2017-10",
+            "position": "大区销售经理",
+            "startDate": "2010-12"
+        },
+        {
+            "company": "卫材（中国）药业有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：大区经理 \n - 下属人数：32人 \n - 职责业绩： \n? 负责医院的开发维护、学术推广、人员培训与管理、重点客户的分级管理、销售任务的分解；\n? 执行中央市场部策略。制定区域市场策略。KOL维护。POA策划和执行。市场调研分析。\n",
+            "endDate": "2010-12",
+            "position": "产品主任",
+            "startDate": "2003-08"
+        }
+    ],
+    "workYears": 16.0
+}

@@ -1,0 +1,97 @@
+{
+    "basic": {
+        "birthday": "1989-8-6",
+        "currentCity": "厦门",
+        "gender": "男",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=77428748&amp;key=a6dda1c417ecedc0e19d07a036e64bfd",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2009/6 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "化学",
+            "school": "厦门大学",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "化学类课程，工程制图cad等工科类课程学习",
+            "endDate": "2011-07",
+            "major": "化学",
+            "school": "华东理工大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 厦门 ",
+        "contractTerm": "全职",
+        "industry": " 制药/生物工程 ",
+        "position": "",
+        "salary": "8000-9999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n\n办公应用软件 熟练 \n英语 熟练 ",
+    "projectExp": [],
+    "selfComm": "本人性格热情开朗，待人友好，为人诚实谦虚。热爱运动，喜欢骑行与健身；亲近大自然。在校期间勤奋好学，具有团队精神，能够很好的融入团队，为团队做出自己的贡献。\n 对待工作能够全身心投入，细心负责的工作态度，热爱学习，勇于探索，喜欢挑战性的工作，有6-7年的实验室研发经验，认真负责，诚实稳重，逻辑清晰、服从公司安排。\n校内职务 \n2007/7-2008/5 体育委员 \n\n职务描述： 体育动员 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "睿科仪器",
+            "department": "Product &amp; Research",
+            "detail": "主要从事食品中兽残，农残的固相萃取净化及水样中痕量半挥发性物质的富集检测。\n定期对客户进行样品前处理原理培训，对国内外代理商进行仪器讲解及本公司产品功能介绍，对意向客户进行现场或实验室内DEMO。\n基于客户的复杂样品或特殊应用，为客户提供从样品前处理(SPE)到分析检测(GC, LC, LC-MS &amp; GC-MS)的整体解决方案。",
+            "endDate": "4000-10",
+            "industry": "检测，认证",
+            "position": "售前/售后技术支持工程师",
+            "scale": "民营公司",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "课程助教",
+            "detail": "厦门大学本科课程《无机化学》助教，批改作业与考卷，上习题课。",
+            "endDate": "2014-12",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2014-07"
+        },
+        {
+            "company": "上海市睿智化学有限公司",
+            "department": "合成部门",
+            "detail": "上海市睿智化学有限公司，负责医药中间体的合成，能够独立完成客户(merck, \n罗氏等)提供的项目路线的调研与生产，常常突破合成步骤中有困难的环节，率先获得合成路线中的终产物。",
+            "endDate": "2013-08",
+            "industry": "制药/生物工程",
+            "position": "合成 分析",
+            "scale": "1000-5000人",
+            "startDate": "2011-11",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "上海市通标标准技术有限公司",
+            "department": "化学分析",
+            "detail": "\n上海市SGS通标标准技术有限公司，食品中重金属含量检测员。负责食品的前处理，熟知食品中重金属检测的一整套SOP操作，主要工作内容使用ICP-MS仪器对食品中在ppb级重金属含量检测。",
+            "endDate": "2011-11",
+            "industry": "检测，认证",
+            "position": "其他",
+            "scale": "5000-10000人",
+            "startDate": "2011-08",
+            "type": "合资"
+        },
+        {
+            "company": "上海石化",
+            "detail": "参观上海石化的烯烃制备部，现场了解化工生产与安全措施。",
+            "endDate": "2011-04",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2011-03"
+        }
+    ],
+    "workYears": 7.0
+}

@@ -1,0 +1,78 @@
+{
+    "basic": {
+        "birthday": "1994-9-4",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/41fb24d9a1d96ca881b89602914bd7ed.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2017/9 秘书资格证 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "文化产业管理",
+            "school": "西安外事学院的",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "信托/担保/拍卖/典当,贸易/进出口,批发/零售,影视/媒体/艺术/文化传播,电气/电力/水利",
+        "position": "大客户管理,拍卖/担保/典当业务,贸易,市场/营销,影视/媒体,销售助理",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：随时"
+    },
+    "projectExp": [
+        {
+            "detail": "大三在校期间自己开过一家饭店",
+            "endDate": "2017-07",
+            "name": "自己开过一家饭店",
+            "responsibility": "",
+            "startDate": "2017-03"
+        },
+        {
+            "detail": "大学生创业项目",
+            "endDate": "2017-02",
+            "name": "&lsquo;&rsquo;吃了么&lsquo;&rsquo;app大学生创新开发项目",
+            "responsibility": "",
+            "startDate": "2016-12"
+        }
+    ],
+    "selfComm": "\n本人好学上进，诚信、敬业、责任心强，有强烈的团体精神，对工作认真积极，严谨负责。本人性格内外结合,适应能力强，为人诚实，有良好的人际交往能力，具备相关的专业知识和认真、细心、耐心的工作态度及良好的职业道德。同时善于观察周围的事物，善于收集资料分析问题。学习能力强，刻苦努力，不断要求自己、提升自己。对人对事也拥有较足够的耐心和信心,且勇于接受新鲜事物带来的挑战。在生活中，我也喜欢以幽默来改善大家紧张而又繁忙的脚步，对未来生活和工作充满着期待和憧憬。\n校内职务 \n2014/9-2018/7 体育委员 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西省企业质量管理中心",
+            "department": "办公室",
+            "detail": "负责单位一些事情的处理",
+            "endDate": "2018-11",
+            "industry": "非营利组织",
+            "position": "大客户管理",
+            "scale": "50-150人",
+            "startDate": "2018-03",
+            "type": "非营利组织"
+        },
+        {
+            "company": "陕西紫苹果装饰集团",
+            "department": "市场部",
+            "detail": "负责维护老客户，开发新客户",
+            "endDate": "2018-02",
+            "industry": "家居/室内设计/装潢",
+            "position": "市场专员",
+            "scale": "150-500人",
+            "startDate": "2017-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 2.0
+}

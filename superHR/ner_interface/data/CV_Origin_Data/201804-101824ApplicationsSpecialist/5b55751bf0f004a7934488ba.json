@@ -1,0 +1,78 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "福建 福州-马尾区",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg",
+        "registeredResidence": "福建-漳州"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "泰普医学检验所",
+    "currentIndustry": "",
+    "currentPosition": "组长",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "其他",
+            "school": "中国医科大学",
+            "startDate": "2011-07"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "中国医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门、泉州、漳州",
+        "contractTerm": "全职",
+        "industry": "检验/检测/认证",
+        "position": "化验/检验科医师、",
+        "salary": "6001-8000元/月",
+        "state": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b55751bf0f004a7934488ba",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "悉本专业的各个项目的临床意义与检测原理，能够独立审核结果。可以熟练操作罗氏的仪器能够熟练完成每天的定标质控。曾当过生化发光组组长，协助实验室做过性能验证以及科室文件编写",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泰普医学检验所",
+            "department": "",
+            "detail": "\n协助上级领导管理整个科室，并对仪器做日常维护保养以及质控，并完成日常标本的检测和审核\n",
+            "endDate": "2018-07",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "PCR组组长",
+            "scale": "",
+            "startDate": "2017-10",
+            "type": ""
+        },
+        {
+            "company": "迪安医学检验所",
+            "department": "",
+            "detail": "\n基本可以独立上岗\n",
+            "endDate": "2017-09",
+            "industry": "检验/检测/认证",
+            "position": "检验员",
+            "scale": "",
+            "startDate": "2016-07",
+            "type": ""
+        },
+        {
+            "company": "中国医科大学",
+            "department": "",
+            "detail": "\n帮助老师完成日常工作\n",
+            "endDate": "2016-06",
+            "industry": "检验/检测/认证",
+            "position": "实习生",
+            "scale": "",
+            "startDate": "2015-06",
+            "type": ""
+        }
+    ],
+    "workYears": 2.0
+}

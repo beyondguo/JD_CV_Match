@@ -1,0 +1,82 @@
+{
+    "basic": {
+        "birthday": "1991-5-7",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-11/74394131277d2235450ff4dd48f9c0a5/57e953d528e7fb16ca5f49fbdce870d0.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2012/6 英语专业四级 \n2010/6 大学英语六级 \n2010/1 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "GPA：3.7 / 4.0\n荣誉/奖项：一等奖学金（2016-2018）",
+            "endDate": "4000-10",
+            "major": "哲学（含伦理学）",
+            "school": "西北政法大学",
+            "startDate": "2016-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "GPA：3.1/ 4.0\n荣誉/奖项：二等奖学金（2010-2012）；十校联合德富祥营销大赛一等奖；",
+            "endDate": "2013-06",
+            "major": "金融学",
+            "school": "西安外国语大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医疗器械注册,医药代表,医疗器械销售代表,药品注册,销售代表",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 熟练 ",
+    "projectExp": [],
+    "selfComm": "学习能力强，工作认真积极，喜欢挑战，热爱销售行业，有一定的抗压能力。\n校内职务 \n2009/1-2012/1 外联部干事 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "辉瑞医药",
+            "department": "销售部",
+            "detail": "l协助在职员工承办会议，客户的拜访以及服务工作。",
+            "endDate": "2018-01",
+            "industry": "制药/生物工程",
+            "position": "实习生 (兼职)",
+            "scale": "1000-5000人",
+            "startDate": "2018-01",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "恒瑞医药",
+            "department": "销售部",
+            "detail": "l \n负责上海大型三甲重点医院若干科室，制订区域销售计划，活动计划和费用预算。发展和拓宽市场，了解市场潜力和维护销售的持续稳定增长，建立和维护与重点客户、学术带头人的关系。组织大型学术会议并且做好客户服务工作。对执行后的情况进行分析和反馈，及时修正。\nl 重点客户维护，在众多竞品竞争中我方市场份额达到65%以上。\nl 协助开发市场，协助内部外部会议举办。\nl 从零开始独立开发到较成熟的市场，在一个月的时间内迅速扩大某产品在科室的份额。\nl 相关临床试验的跟进，定期沟通各中心试验进度。",
+            "endDate": "2015-08",
+            "industry": "制药/生物工程",
+            "position": "医药销售代表",
+            "scale": "国企",
+            "startDate": "2013-07"
+        },
+        {
+            "company": "中国银行甘肃省行",
+            "department": "对公业务部门",
+            "detail": "l 办理各币别对公活期账户（外汇账户）的开户、销户业务。\nl 整理保管和装订开户资料，建立开销户登记簿。\nl 严格按照会计核算和支付结算制度要求，受理审查各种凭证、票据，核对印鉴，及时、正确处理账务。\nl 受理各种对公业务查询、派发回单、对账单工作。",
+            "endDate": "2010-09",
+            "industry": "银行",
+            "position": "实习生 (兼职)",
+            "scale": "10000人以上",
+            "startDate": "2010-07",
+            "type": "国企"
+        }
+    ],
+    "workYears": 5.0
+}

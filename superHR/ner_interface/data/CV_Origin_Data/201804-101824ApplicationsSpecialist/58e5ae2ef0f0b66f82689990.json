@@ -1,0 +1,293 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1979-01",
+        "currentCity": "福建省",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门基科生物科技有限公司",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "大区总监",
+    "currentSalary": "税前12k*13M+奖金提成（2~5个点）260k=约420k。",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2013-01",
+            "major": "临床检验",
+            "school": "蚌埠医学院",
+            "startDate": "2010-03"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2002-07",
+            "major": "临床",
+            "school": "蚌埠医学院",
+            "startDate": "1999-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276045.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276048.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276051.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276053.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276056.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "总监及以上",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276058.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276063.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276065.0,
+            "strValue": "厦门",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276067.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "临床医学",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276069.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276071.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "19",
+                    "enumValue": "福建省",
+                    "id": "18",
+                    "isDefault": false,
+                    "orderIndex": 18.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Nov 2, 2017 3:37:56 PM",
+            "lastUpdated": 1509608276074.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "蚌埠医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "industry": "医疗设备/器械;制药/生物工程",
+        "position": "销售经理/主管;区域销售经理/主管",
+        "salary": "12.00万（10000元/月 * 12个月）"
+    },
+    "langAbility": "普通话:母  语\r\n英  语:可读写",
+    "otherLangResumeId": "58e5ae2ef0f0b66f82689990",
+    "proSkill": "",
+    "projectExp": [
+        {
+            "detail": "\n - 所在公司：厦门科宝商贸有限公司 \n - 项目简介： \n\n项目分为售前、售中、售后三个阶段，售前针对医院产品需求及预算来制定销售方案，向主任及院方领导推荐相关品牌产品，组织公司产品线经理向院方领导介绍产品性能一系列工作。售中要做院方领导和使用科室工作来接受推荐的产品，及其设备科工作参数确定及招标公司相关工作。售后仪器安装及验收、设备款项结算等\n - 项目职责： \n带领团队分梯次来做项目的工作，业务经理主要做科室工作，我主要负责设备科及院方领导工作，来促使项目能顺利进行。\n - 项目业绩： \n厦门各大医院都一定的销售业绩\n",
+            "endDate": "4000-10",
+            "name": "放射、B超等产品",
+            "startDate": "2013-03"
+        }
+    ],
+    "salaryRemark": "税前12k*13M+奖金提成（2~5个点）260k=约420k。",
+    "selfComm": "本人组织能力强，在职工作时善于组建团队,组织培训,制定计划,并达成目标.善于资源分析,能充分利用各种资源.有较强的独立性.有较强的分析能力.能够适应快节奏的工作,有较强的实战经验和实际操作能力； \n性格乐观开朗，做人本分，原则性较强， 有比较沉稳的性格.对工作认真负责，有上进心，能够吃苦耐劳。\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门基科生物科技有限公司",
+            "detail": "\n - 汇报对象：coo \n - 下属人数：5人 \n - 职责业绩： \n\n指导销售人员如何开拓市场，产品宣传和提高公司的知名度，并定期去区域开会培训。并指导他们对体检中心的建设基因检测科室的评估，建设，运营、回款。提高体检中心全体人员对基因市场认知和发展趋势。渠道建设主要是筛选优质的代理商，不定期组织代理商和体检中心高端客户开产品的推荐会。针对连锁经营体检中心知道销售如果去谈判、跟进。目前主要业绩山东体检中心10家，成立济南办事处、安徽成功连锁体检中心10家、上市公司一家，淮北最大的体检中心一家，浙江连锁体检中心5家，各个省优质渠道各3家。\n",
+            "endDate": "4000-10",
+            "position": "大区总监",
+            "startDate": "2017-04"
+        },
+        {
+            "company": "厦门科宝商贸有限公司",
+            "detail": "- 所在地区：厦门 \n - 汇报对象：1 \n - 下属人数：3人 \n - 职责业绩： \n1、负责医院设备跟进主要是和医院领导及科室主任进行沟通，定期进行跟踪拜访。\n2、负责医院商务及设备招标 \n3、对所医院设备售后服务及医院回款进行跟踪\n\n厦门中山医院基因测序仪器、厦门中医院肝病生物治疗仪器、湖里妇幼DR、龙岩二院全自动核酸处理工作站、泉州德化县放射等及相关耗材。\n",
+            "endDate": "2017-04",
+            "position": "高级销售经理",
+            "startDate": "2013-02"
+        },
+        {
+            "company": "北京万泰生物药业",
+            "detail": "- 所在地区：福建省 \n - 汇报对象：大区 \n - 下属人数：3人 \n - 职责业绩： \n负责全省生化市场、血型仪器销售，生化仪器及血型仪器投放工作,带领福建团队做好招投标工作及渠道建立。并做好招标办及招标专家工作关系。 \n万泰生化试剂及仪器在全省终端客户作品牌推广工作。\n",
+            "endDate": "2012-12",
+            "position": "省区经理",
+            "startDate": "2011-06"
+        },
+        {
+            "company": "上海科华",
+            "detail": "- 所在地区：上海 \n - 汇报对象：大区经理 \n - 职责业绩： \n主要负责全省核酸试剂产品销售为所辖区域内销售市场提供专业性支持工作，在本辖区内建立分销网及扩大公司产品覆盖率。 区域内经销商的管理， \n包括配合经销商终端客户开发、 \n公司与经销商签订任务合同的完成情况进行沟通。制定合理开发计划和准确的思路进行销售。负责区域内客户的产品售后服务工作，处理客户咨询与投诉 \n。建立客户资料卡及客户档案，完成相关销售报表与客户建立良好关系，以维护企业形象。\n主要业绩是三明大田中医院、三明沙县医院、泉州永春县医院、泉州二院、漳州妇幼、厦门妇幼、安溪县医院、晋江市中医院、泉州180医院、厦门中医院、厦门湖里区妇幼等。\n",
+            "endDate": "2011-04",
+            "position": "销售经理",
+            "startDate": "2009-04"
+        },
+        {
+            "company": "广州达安基因",
+            "detail": "- 所在地区：广州 \n - 汇报对象：省区经理 \n - 职责业绩： \n\n负责区域内终端客户开发及市场动态，销售动态，市场竞争发展状况等并做进步的分析及提出销售方案和措施，为销售任务完成做好铺垫。保持与客户的良好关系，为所辖区域内销售市场提供专业性支持工作 \n。能够完成公司制定销售额 。主要职责是负责闽南地区终端客户核酸诊断试剂市场开发 \n，销售对象是闽南地区二甲以上医院检验科以直销及合作营销模式进行对销售PCR仪器、核酸试剂销售。并要对福建省闽南地区市场动态及竞争对手了解、并要做好对终端客户维护工作。 \n跟踪区域内终端客户回款情况。\n业绩：厦门中医院、厦门中山医院、厦门妇幼、厦门174、漳州175医院、泉州第一医院、泉州儿童医院、安溪铭选医院等。\n",
+            "endDate": "2009-03",
+            "position": "销售主管",
+            "startDate": "2002-08"
+        }
+    ],
+    "workYears": 4.0
+}

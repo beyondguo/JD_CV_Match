@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1989-6-2",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "中共党员",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2011/10 C1驾照 ",
+    "confidentialResume": "N",
+    "currentSalary": " 11万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "网络工程",
+            "school": "西安欧亚学院",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "仪器仪表/工业自动化,汽车及零配件,机械/设备/重工,医疗设备/器械",
+        "position": "大客户管理,大客户销售,销售工程师,渠道/分销专员,销售代表,助理销售工程师",
+        "salary": "8-10万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \nJava 良好 \nIllustrator 良好 \nMS Powerpoint 精通 \nC#.NET 良好 \nCorel Draw 精通 \nC/C++ 一般 \nHTML5 熟练 \nMySQL 良好 \nPhotoshop 良好 \nMS Excel 精通 \nMS WORD 精通 ",
+    "otherLangResumeId": "5bcf184df0f011137649e816",
+    "projectExp": [
+        {
+            "detail": "华天科技第二厂房的IC芯片打标机进行产能升级，其中的读码器由cognex DM50升级成cognex \nDM152，由于前者是很早以前的产品，运行在XP系统之上，而升级后的DM152 \n官方驱动只兼容到WIN7系统。为了满足客服只更换硬件不动系统的要求，代领同事对cognex \nDM系列的读码器调试工具进行破解，重写底层通信接口，满足在XP系统上调式运行DM152读码器的需求。",
+            "endDate": "2018-10",
+            "name": "华天科技-芯片打标机读码器向下兼容升级",
+            "responsibility": "拜访客户 \n了解需求 \n根据生产环境确定选型相机参数性能和具体型号\n与客户协商价格\n配合客户时间做初期测试 \n对相机不兼容情况进行分析判断 \n重做底层接口，使其向下兼容XP系统\n协调同事配合客户做好验收工作 \n协调财务管理收款信息 \n跟踪售后服务",
+            "startDate": "2018-06"
+        }
+    ],
+    "selfComm": "自学能力强，能快速学习了解新的产品。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安市亘博视觉科技有限公司",
+            "department": "销售",
+            "detail": "在该公司主要负责光电传感器、光纤传感器、激光位移传感器、固定式读码器、视觉引导系统的售前选型，现场测试，尾款管理，售后使用培训等工作。",
+            "endDate": "4000-10",
+            "industry": "仪器仪表/工业自动化",
+            "position": "销售工程师",
+            "scale": "民营公司",
+            "startDate": "2014-02"
+        }
+    ],
+    "workYears": 6.0
+}

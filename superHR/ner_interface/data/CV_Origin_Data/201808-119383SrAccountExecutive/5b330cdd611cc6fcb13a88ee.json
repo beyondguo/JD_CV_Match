@@ -1,0 +1,109 @@
+{
+    "basic": {
+        "birthday": "1983-7-17",
+        "currentCity": "西安-莲湖区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": "712000"
+    },
+    "certificate": " \n2005/9 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "广州索诺星信息科技有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "大区经理",
+    "currentSalary": " 30万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "生物医学工程",
+            "school": "河南科技大学",
+            "startDate": "2002-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,医疗/护理/卫生",
+        "position": "销售管理,销售人员,销售行政及商务,大区经理",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5b330cdd611cc6fcb13a88ee",
+    "projectExp": [
+        {
+            "detail": "运作西北区域所服务公司产品的政府招标采购项目，提升公司形象，维护和所对用客户的长期稳定的合作关系",
+            "endDate": "4000-10",
+            "name": "服务所在公司",
+            "responsibility": "",
+            "startDate": "2014-01"
+        }
+    ],
+    "selfComm": "\n对事物有敏锐的洞察力；能很好得与人沟通，具有团队合作精神；对负责的工作会付出全部精力和热情，制定缜密计划，力争在最短时间内将目标达成；喜欢挑战，能在较短时间内适应高压力的工作。可以经常出差！",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "广州索诺星信息科技有限公司",
+            "department": "销售部",
+            "detail": "\n负责公司无线超声产品在西北地区的招商及渠道建设工作，建立省级样板医院，联络相关学科专家，建立学术推广营销体系，布局无线超声在肾内科、透析室、急诊科、麻醉科、介入科、手术室等等各个相关科室销售的渠道，建立覆盖西北区域从渠道销售到各级科室学术带头人帮助推广的模式，从理论到实践验证医疗新产品营销模式的体系搭建。",
+            "endDate": "2018-12",
+            "industry": "医疗设备/器械",
+            "position": "大区经理",
+            "scale": "50-150人",
+            "startDate": "2016-11",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京威格瑞技术服务有限公司",
+            "department": "销售部",
+            "detail": "负责威格瑞公司西北区业务，专业提供SIEMENS、 GE、 PHILIPS等国际医疗器械设备售后服务， \n公司主营业务包括核磁、CT、DR、DSA等医疗设备的全包服务、技术保养、设备移机、安装调试等技术服务，同时提供全系列的备件和耗材服务",
+            "endDate": "2016-11",
+            "industry": "医疗设备/器械",
+            "position": "大区经理",
+            "scale": "150-500人",
+            "startDate": "2015-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "长春汇力生物技术有限公司",
+            "department": "销售部",
+            "detail": "\n负责长春汇力生化试剂在陕西，甘肃,青海，宁夏，新疆等区域的市场开发及经销商维护管理工作。制定季度销售计划，拓展客户群并保持良好的合作关系，跟踪销售情况，完成预定销售目标",
+            "endDate": "2014-03",
+            "industry": "医疗设备/器械",
+            "position": "大区经理",
+            "scale": "150-500人",
+            "startDate": "2011-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "陕西迅达电子科技有限公司",
+            "department": "销售部",
+            "detail": "\n负责公司代理美国贝克曼检验科全系列产品如血球，生化仪，化学发光在指定区域内医院的直销工作，耗材渠道及售后回款工作。为确保达成目标，跟进项目进度，包括产品知识、客户沟通、关键客户管理、区域规划及管理、团队合作等方面分析区域销售和市场数据，与经理和其他销售代表讨论发掘市场潜力，制订相关计划，包括重点目标的筛选，确保合理制订预算和资源合力利用充分执行和评估",
+            "endDate": "2011-03",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "少于50人",
+            "startDate": "2009-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "步长药业",
+            "department": "销售部",
+            "detail": "步长药业驻吉林省延边办事处负责步长心脑血管产品稳心颗粒 ，丹红注射液在延边州内各级医院的销售及学术推广活动。",
+            "endDate": "2009-07",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "scale": "150-500人",
+            "startDate": "2006-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 13.0
+}

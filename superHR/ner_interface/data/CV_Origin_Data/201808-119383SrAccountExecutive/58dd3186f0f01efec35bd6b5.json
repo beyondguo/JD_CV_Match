@@ -1,0 +1,243 @@
+{
+    "basic": {
+        "birthday": "1978-01",
+        "currentCity": "西安-高新区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "珀金埃尔默医学诊断产品有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2003-07",
+            "major": "药学",
+            "school": "兰州大学医学院",
+            "startDate": "1999-09"
+        }
+    ],
+    "extendFields": "",
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887748.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887751.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "分子－临床",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887753.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887755.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887757.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887762.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887764.0,
+            "strValue": "西安",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887765.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887767.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Nov 27, 2017 11:54:47 AM",
+            "lastUpdated": 1511754887771.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "兰州大学医学院药学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理/主管",
+        "salary": "面议"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "58e509baf0f014cf1d88a5f6",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "74382001",
+    "proSkill": "英语    良好",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "税前月薪：16800元 全年年薪：12个月 补贴：市内交通补贴：800元/月；通讯实报实销；餐补：300元/月 奖金：100%完成销售任务6个月底薪",
+    "selfComm": "\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "珀金埃尔默医学诊断产品有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：销售总监 \n - 下属人数：0人 \n - 职责业绩： \n1、 主要负责产前筛查、新生儿筛查检验试剂及产前筛查、新生儿筛查、基因芯片、高通量测序等外包检测项目。\n2、 主要覆盖客户为产筛中心、新生儿筛查中心、妇产科、新生儿科、儿科、生殖中心、遗传中心、神经内科等科室客户。\n3、 主要职责：a\\直销和代理商销售模式为。b\\部分三甲医院以共建实验室合作。医院相关科室、设备科、采供中心、等部门关系良好。\n",
+            "endDate": "4000-10",
+            "position": "区域经理",
+            "startDate": "2015-07"
+        },
+        {
+            "company": "欧蒙医学诊断(中国",
+            "detail": "- 所在地区：西安 \n - 汇报对象：销售总监 \n - 下属人数：12人 \n - 职责业绩： \n主要负责我公司产品在陕西、甘肃、宁夏、青海及新疆五省的销售管理工作。和西北地区各大医院的检验科、风湿免疫科实验室、肾病科实验室、呼吸科实验室、儿科实验室、 \n皮肤科实验室、变态反应室等科室主任、组长、实验主要负责人有很好的客情关系。其中自身抗体检验试剂、过敏原检验试剂、呼吸道病原体普检验试剂等，在同类市场中占有率第一。另外，二级市场和经销商有稳定的合作，二级市场同类产品的占有率达100%。\n",
+            "endDate": "2015-07",
+            "position": "区域经理",
+            "startDate": "2012-04"
+        },
+        {
+            "company": "碧迪医疗器械(上海)有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：大区经理 \n - 下属人数：5人 \n - 职责业绩： \n主要负责公司糖尿病护理产品西北地区陕西、甘肃、宁夏、青海、新疆的销售管理工作。和陕西、甘肃、宁夏、青海、新疆五省的各大医院内分泌科、干部科、心内科、肾内科等科室有很好的客户关系，同时和各区域大型OTC连锁及渠道医药销售公司有很好的合作关系。对团队的领导和代表的辅导能力较强，能够指导代表完成销售指标和公司安排的各项工作。能够完成区域KOL管理工作,维持并培养地区KOL，制定区域医院及渠道的营销策略及方案等。同时负责本区域的产品招标、物价医保及政府事务工作。\n",
+            "endDate": "2012-04",
+            "position": "销售经理",
+            "startDate": "2008-07"
+        },
+        {
+            "company": "默沙东中国制药有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n负责我公司呼吸哮喘治疗产品&ldquo;顺尔宁&rdquo;陕西地区的临床推广工作。主要负责西安交通大学第一附属医院、第四军医大学唐都医院、陕西省人民医院、西安市中心医院、西安市高新医院、西安市第四医院、陕西省妇幼保健院等;以及咸阳市、延安市、榆林市的各大医院。先后自己独立开发了西安市部分三甲医院和咸阳地区、延安地区、榆林地区的部分医院。在陕西省各大医院呼吸科、老干科、儿科、耳鼻喉等科室有非常良好的关系。能够充分利用学术推广及自己的专业特长，达到并超额完成临床销售指标。\n",
+            "endDate": "2008-07",
+            "position": "高级销售代表",
+            "startDate": "2003-09"
+        }
+    ],
+    "workYears": 16.0
+}

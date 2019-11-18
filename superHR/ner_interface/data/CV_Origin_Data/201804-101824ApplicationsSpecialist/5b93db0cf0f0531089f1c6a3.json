@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1980-9-12",
+        "currentCity": "福州-长乐市",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2000-06",
+            "school": "长乐一中",
+            "startDate": "1997-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "物业管理/商业中心",
+        "position": "客服专员/助理,物业管理专员/助理,客服专员/助理 监控员 收费员",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "新摇篮物业 冠深物业等等",
+            "department": "客服部 工程部",
+            "detail": "主要负责装修管控，收费，业主投诉，报修，馆区内的安全监控，检查卫生，上级领导交代的事情等。",
+            "endDate": "2017-11",
+            "industry": "物业管理/商业中心",
+            "position": "客服专员/助理 监控员 收费员",
+            "startDate": "2014-12"
+        }
+    ],
+    "workYears": 9.0
+}

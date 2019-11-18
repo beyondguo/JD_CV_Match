@@ -1,0 +1,73 @@
+{
+    "basic": {
+        "birthday": "1994-12-14",
+        "currentCity": "厦门",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/27312af7a6b0bc8b0bea9f164a7a64b4.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "厦门",
+        "zipCode": ""
+    },
+    "certificate": " \n2016/12 大学英语四级 （466） ",
+    "confidentialResume": "N",
+    "currentSalary": " 0万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "医学检验",
+            "school": "温州医科大学仁济学院",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生",
+        "position": "医药学检验,医学检验",
+        "salary": "5-6万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [],
+    "selfComm": "\n作为一名医学检验专业学生，努力学习，勤奋向上，有丰富的医学检验知识体系做基础；个性开朗，诚实守信，容易相处，团队荣誉感强，服务意识强，作为一名检验专业人员，始终把服务他人放在第一位。较强的责任心与执行力，较强的条理性和逻辑能力，工作认真细致，具备团队合作精神，善于自我激励，热爱生活，积极参加体育锻炼，增强体魄，身体是革命的本钱，只有拥有健康的身体，才能更好的投入于学习和工作",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门大学附属眼科医院",
+            "department": "检验科",
+            "detail": "检验技师，主要负责门诊抽血，临检的工作，熟悉免疫酶联手工操作，完成科室领导安排的其他工作。熟悉检验科的工作流程。",
+            "endDate": "2018-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "150-500人",
+            "startDate": "2018-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "英科新创（厦门）科技有限公司",
+            "department": "生化",
+            "detail": "配合研发工程师的工作，对研发试剂性能进行调试和优化。通过实验解决客户使用过程中出现的试剂问题，熟练掌握自动生化分析仪。",
+            "endDate": "2018-06",
+            "industry": "制药/生物工程",
+            "position": "医药技术研发人员",
+            "scale": "500-1000人",
+            "startDate": "2017-10",
+            "type": "合资"
+        },
+        {
+            "company": "温州医科大学附属第一医院",
+            "department": "检验科",
+            "detail": "实习生",
+            "endDate": "2017-06",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "事业单位",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 2.0
+}

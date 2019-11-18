@@ -1,0 +1,84 @@
+{
+    "basic": {
+        "birthday": "1989-4-18",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "《福州闽江两岸元宵灯会游客满意度调查》获优秀论文。所学课程有《旅游市场营销》、《旅游饭店管理》、《旅游经济学》、《旅游财务管理》、《旅游礼仪》等",
+            "endDate": "2013-07",
+            "major": "旅游管理",
+            "school": "福建师范大学",
+            "startDate": "2011-09"
+        },
+        {
+            "degree": "大专",
+            "detail": "市场营销学、管理学基础、现代推销理论与实务、市场营销策划、消费心理学、销售管理、电子商务、国际市场营销学、公共关系原理、有效沟通技巧、零售营销管理等课程",
+            "endDate": "2011-06",
+            "major": "市场营销",
+            "school": "福州软件职业技术学院",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州-晋安区",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "网店/淘宝客服,采购员,出纳员,物业管理专员/助理,助理",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5bbb6850f0f07d46422510b6",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "百氏壹品家具有限公司",
+            "detail": "通过天猫，京东，苏宁，当当平台销售家具，处理发货，客户取货后的售后问题",
+            "endDate": "2015-09",
+            "industry": "家具/家电/玩具/礼品",
+            "position": "淘宝客服，售后客服",
+            "startDate": "2014-05"
+        },
+        {
+            "company": "福州国美电器有限公司",
+            "department": "2013届蓄水池",
+            "detail": "作为2013届国美蓄水池，我轮岗过电脑、空调、手机品类。定岗后，作为手机主任助理，从该岗位中我发现自己热爱销售，喜欢带领自己品类促销员为同期目标而销售。",
+            "endDate": "2014-01",
+            "industry": "批发/零售",
+            "position": "主任助理",
+            "scale": "1000-5000人",
+            "startDate": "2013-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "促销",
+            "detail": "在陶园贸易有限公司从事话梅的促销\n在陶园贸易有限公司从事爱尚非蛋糕的促销",
+            "endDate": "2010-08",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2010-07"
+        },
+        {
+            "company": "实习",
+            "detail": "在番茄主义西餐厅实习",
+            "endDate": "2009-11",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2009-09"
+        }
+    ],
+    "workYears": 5.0
+}

@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1992-06",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "还没工作过",
+    "currentIndustry": "",
+    "currentPosition": "还没工作过",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b50205ff0f079b7a5ba8925",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "         有一定的绘画基础，爱好羽毛球。实验操作能力强。人际关系处理得好。能把操作能力和基础知识紧密结合起来应用临床检验。熟练掌握各种仪器的操作，如全自动生化分析仪，化学发光免疫仪器。擅长手工项目，如显微镜操作，尿沉渣，血片，骨髓片各有形成分和细胞的辨别\n         性格开朗，能处理好人际关系，做事细心，认真负责，接受新知识能力快。作为一个医学生，希望自己不忘初心，奉献医学。保持最好的心态，对病人对标本负责",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "还没工作过",
+            "department": "还没工作过",
+            "detail": "",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "还没工作过",
+            "salary": "",
+            "scale": "",
+            "startDate": "2017-03",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

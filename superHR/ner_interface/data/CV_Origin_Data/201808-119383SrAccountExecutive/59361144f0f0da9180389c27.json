@@ -1,0 +1,112 @@
+{
+    "basic": {
+        "birthday": "1985-2-27",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/26690a709db559d9554021ede4148892.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2011/7 会计从业资格 \n2006/5 大学英语四级 （529） \n2005/11 办公自动化应用师 ",
+    "confidentialResume": "N",
+    "currentCompany": "东芝电梯（中国）有限公司陕西分公司",
+    "currentPosition": "销售代表",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "西方经济学、财务管理、信息管理与信息系统、企业资源管理(ERP)",
+            "endDate": "2010-01",
+            "major": "计算机信息管理",
+            "school": "西安理工大学",
+            "startDate": "2007-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "C语言程序设计 VF VB 电子商务概论 市场营销 网络营销 \n经济学基础 西方经济学 国际金融 国际贸易 会计基础\n网页制作 计算机网络技术 广告学 计算机基础 3DMAX 经济法",
+            "endDate": "2006-07",
+            "major": "电子商务",
+            "school": "西安理工大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "graduateSchool": "西安理工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "销售主管,销售代表,销售",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1周内"
+    },
+    "langAbility": " \n英语 熟练 ",
+    "otherLangResumeId": "59361145f0f0da9180389c7d",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "63834027",
+    "proSkill": "英语    熟练\n",
+    "projectExp": [
+        {
+            "detail": "\n整个电厂电梯大修工程洽谈。按照现场情况制定了详细的项目实施计划书，其中包括电梯运行情况分析，实施方案及计划及大修报价等。洽谈过程中从各个方面向用户分析的实施大修的必要性。全程参与合同洽谈，签订，应收账款回收。",
+            "endDate": "2017-11",
+            "name": "大唐宝鸡热电厂电梯大修工程",
+            "responsibility": "",
+            "startDate": "2017-10"
+        },
+        {
+            "detail": "陕西航天医院电梯加层改造工程全程洽谈。从项目开始的工地勘测，实施方案制定，到后期项目跟踪全程参与。",
+            "endDate": "2016-05",
+            "name": "航天医院电梯改造工程",
+            "responsibility": "",
+            "startDate": "2015-07"
+        },
+        {
+            "detail": "汉神商业扶梯改造工程洽谈，合同签订，应收相聚回收",
+            "endDate": "2016-10",
+            "name": "汉神商业电梯改造工程",
+            "responsibility": "",
+            "startDate": "2014-08"
+        }
+    ],
+    "projectExpStr": "",
+    "salaryRemark": "6000-7999元/月",
+    "selfComm": "销售就是搞定人。擅长顾问式销售，为客户制定合理方案。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "大金(中国)投资有限公司武汉分公司",
+            "detail": "区域内大客户的维护及开发，保持一定频率的客户拜访。分析市场，进行准确市场定位，",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "大客户销售",
+            "startDate": "2018-06"
+        },
+        {
+            "company": "东芝电梯（中国）有限公司陕西分公司",
+            "department": "陕西分公司维修营业科",
+            "detail": "1.定期拜访客户，进行电梯售后有偿维修保养服务及零配件或配套工程的销售。\n2.提供保养服务及维修更新改造业务销售方案，合同评审，合同签订，应收账款回收及全程业务跟踪。\n3.向上级及总部进行维修业绩分析和汇报。\n4.同时负责陕西地区经销商的维修业务管理，培训。\n5.流失客户的再签。",
+            "endDate": "2018-06",
+            "industry": "机械/设备/重工",
+            "position": "维修营业",
+            "scale": "500-1000人",
+            "startDate": "2010-05",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "西安精工轴承有限公司",
+            "department": "销售部",
+            "detail": "负责轴承的销售，维护老客户，开发新客户。签订合同，发货跟踪，售后服务，应收账款回收，市场分析等等。同时管理和开发区域内经销商",
+            "endDate": "2010-04",
+            "industry": "机械/设备/重工",
+            "position": "销售工程师",
+            "scale": "50-150人",
+            "startDate": "2006-04",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 13.0
+}

@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1989-1-1",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "医学检验",
+            "school": "福建省医科大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医院/医疗/护理",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "projectExp": [],
+    "selfComm": "\n本人于2012年福建医科大学医学检验系本科毕业，同年工作于三甲级医院感染控制科，工作的四年期间本人主要负责全院环境卫生学的采集检验分析、手卫生依从性督导、医院多重耐药菌分析、院内感染的监测等工作，工作态度积极，注重团队合作，现希望个人发展能有更广阔的提升。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州总医院",
+            "department": "感染控制科",
+            "detail": "工作",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "医院管理人员",
+            "startDate": "2012-07"
+        }
+    ],
+    "workYears": 6.0
+}

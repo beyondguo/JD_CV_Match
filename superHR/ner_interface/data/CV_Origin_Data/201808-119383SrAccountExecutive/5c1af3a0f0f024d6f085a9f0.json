@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安-莲湖区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "通联支付网络服务股份有限公司",
+    "currentIndustry": "银行",
+    "currentPosition": "产品经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2012-07",
+            "major": "金融管理与实务",
+            "school": "西北大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "银行",
+        "position": "银行卡/电子银行/新业务开拓",
+        "salary": "24.00万（20000元/月 * 12个月）"
+    },
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：项目拓展人 \n - 所在公司：通联 \n - 项目简介： \n在职期间，与合作银行共同拓展三个西安大型商业综合体收银一体化项目，运营至今良好，为公司带来较高收益\n - 项目职责： \n项目拓展人，负责人，参与设计产品，沟通并跟进最终项目落成及运营中维护，数据分析\n - 项目业绩： \n以上三个项目，为公司带来较大收益，并以标杆性产品在在全国各分公司推广宣传\n",
+            "endDate": "4000-10",
+            "name": "西安某大型综合商业体",
+            "startDate": "2016-09"
+        }
+    ],
+    "selfComm": "\n 本人从事销售工作至今7年，带领5人团队两年，成绩突出，经常超额完成任务，得到公司认可，拥有丰富社会各行业经验及资源。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "通联支付网络服务股份有限公司",
+            "detail": "- 所在地区：西安-莲湖区 \n - 职责业绩： \n市场拓展，大客户营销维护\n",
+            "endDate": "4000-10",
+            "position": "产品经理",
+            "startDate": "2012-07"
+        }
+    ],
+    "workYears": 10.0
+}

@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1994-12-23",
+        "currentCity": "福建省",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/ca276f2a606bcfb0999e756b146960ca.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "三明",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-06",
+            "major": "生物医学工程",
+            "school": "井冈山大学",
+            "startDate": "2013-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福建省 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械维修人员,售后工程师",
+        "salary": "5500-8000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [],
+    "selfComm": "\n本人性格开朗，吃苦耐劳，适应能力强并且能快速融入团队，能适应频繁出差。有两年左右的放射类医疗器械（DR、C型臂等）工作经验，对机器在现场的安装调试，以及售后服务等方面得心应手。熟练使用电烙铁，热风枪，电转等电装工具。熟练掌握万用表，示波器等电子仪器。能根据电路图对仪器原理进行分析，并快速解决问题，及时完成任务。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "南京普爱医疗设备股份有限公司",
+            "department": "售后服务部",
+            "detail": "1.负责公司医疗仪器、器械的现场安装、调试及售后服务支持；\n2.负责公司产品在现场对操作人员的操作培训及注意事项\n3.负责受理投诉，解决售后技术使用问题，和客户保持良好沟通；\n4.负责公司维修、保养计划进行设备保养及校准；\n5.对设备保养记录进行总结分析，发现问题及时上报解决；\n6.协助销售部门解决技术问题，以及售前售后技术支持。",
+            "endDate": "2019-01",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "150-500人",
+            "startDate": "2017-02",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 2.0
+}

@@ -1,0 +1,79 @@
+{
+    "basic": {
+        "birthday": "1995-8-28",
+        "currentCity": "汉中",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/f11c2ce3f328e102bcb007517534d020.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "汉中",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2020-07",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2017-09"
+        },
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "医学检验",
+            "school": "汉中职业技术学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "其他,与医学相关",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：随时"
+    },
+    "projectExp": [
+        {
+            "detail": "主要负责产筛实验。能熟练掌握PE1235仪器，懂得实验原理，对工作认真负责。",
+            "endDate": "4000-10",
+            "name": "唐氏筛查",
+            "responsibility": "",
+            "startDate": "2017-02"
+        },
+        {
+            "detail": "在职期间，在中心医院检验科实习，检验仪器都能熟练掌握，例如罗氏、亚辉隆iflash3000、西森美康系列仪器等，懂得基本的操作流程，实习期间认真负责，任劳任怨。",
+            "endDate": "2017-01",
+            "name": "检验员",
+            "responsibility": "",
+            "startDate": "2016-06"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西高源体外诊断有限公司",
+            "detail": "\n主要负责产筛实验。能熟练掌握PE1235仪器，懂得实验原理，对工作认真负责。在休息时间能虚心请教老师问题，了解更多的仪器的使用，例如亚辉龙flash3000、微量元素测试仪、母乳分析仪、罗氏等。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实验员",
+            "startDate": "2017-03"
+        },
+        {
+            "company": "汉中市中心医院",
+            "detail": "在中心医院检验科实习，检验仪器都能熟练掌握，懂得基本的操作流程，实习期间认真负责，任劳任怨",
+            "endDate": "2017-02",
+            "industry": "",
+            "position": "实习生",
+            "startDate": "2016-08"
+        }
+    ],
+    "workYears": 3.0
+}

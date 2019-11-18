@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1987-2-1",
+        "currentCity": "北京-朝阳区",
+        "gender": "女",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/d15fdba0a577ac8bccf1bb8f7e75d7a1.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2006/10 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "DATA MINING CONCEPTS/ ARTIFICIAL COMMUNICATION AND NETWORKS/ MULTIMEDIA \nDATABASE SYSTEMS/ CLIENT SERVER COMPUTING/ ADVANCED DATA STRUCTURE/ BIOMETRIC..\n毕业设计：\n基于.Net平台的&ldquo;Low Cost Mobile&rdquo;即手机查词自主数据库系统的分析设计。",
+            "endDate": "2011-06",
+            "major": "计算机科学与技术",
+            "school": "University of Mysore 海外经历",
+            "startDate": "2008-10"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "国外",
+        "contractTerm": "全职",
+        "industry": "通信/电信/网络设备,互联网/电子商务,新能源,通信/电信运营、增值服务,建筑/建材/工程",
+        "position": "其他,客户经理/主管",
+        "salary": "30000-39999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 精通 \n其它 一般 ",
+    "projectExp": [],
+    "selfComm": "\n积极乐观，对工作认真、负责、专注。兴趣广泛、热爱生活。5、6年印度学习、工作生活经历，1.5年印度市场新能源项目开发经验。对印度市场及社会环境有较深刻理解。较强的团队合作意识与多文化工作氛围适应能力。英语可作为工作语言。 \n有进取心及较高的自我要求，喜欢不断迎接挑战。善于分析、解决问题。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "华为苏丹代表处",
+            "department": "行政管理科",
+            "detail": "1、业务流程本地化适配、优化及发布；\n2、负责具体执行内控工作（CT、SACA、PR等），并跟踪CT、RT问题及时、实质闭环；\n3、协助CPO落实本地流程内控责任体系，例行开展内控培训、宣传、营造良好的内控环境；\n4、例行组织部门例会并发布行政科工作简报；\n5、跟踪、推动、监控行政业务KPI及各项年度重点工作达成，对完成有风险的KPI及TOP工作提前预警，协助CPO及时采取应对措施；\n6、推动协助财报内控的相关指标达成；\n7、统筹负责行政后勤服务质量、满意度和IT数据管理，维护微信群等公共信息平台，推动行政业务持续改进和业务改革。",
+            "endDate": "2017-01",
+            "industry": "通信/电信/网络设备",
+            "position": "行政PC",
+            "scale": "民营公司",
+            "startDate": "2016-05"
+        },
+        {
+            "company": "汉能控股集团有限公司",
+            "department": "汉能全球光伏应用集团亚太有限公司/项目开发部",
+            "detail": "1.负责参与亚太公司相关行政事务：\n － 财务报账及提供财务流程改进建议；\n － 车辆、酒店预定及来访接待；\n － 日本、印度办公室预算编制；\n － 参与印度办公室租赁事宜；\n － 日本项目公司成立相关材料准备及公证；\n － 日本、澳大利亚及新加坡同事工资申请及打款；\n － 负责合作协议及其他营销文件资料的协助签署、管理、归类、整理、建档和保管工作。\n － 周、月例会会议安排、会议纪要纪录整理及发布；\n － 项目进度表制定、更新及相关负责项目进展汇报；\n － 工作联系单编制；\n － 日常办公采购事宜；\n － 展品国际物流运输相关事宜；\n2. 主要负责印度市场新能源项目的开发工作：\n - 印度当地新能源政策及竞争对手相关信息的收集、分析及市场策略制定；\n - 项目资源收集及其财务模型分析、业务模式洽谈；\n - 国内及印度新能源展会展台服务及商务接洽；\n - 使馆拜访及其相关外联事宜；\n - 建立并维护与当地政府、银行、商会及中资企业的关系；\n - 印度办事处的日常运营协助办理印度子公司成立相关材料；\n - 印度当地客户的拓展、维护；\n - 扩大企业的当地品牌影响力的相关事宜；\n - 办事处日常工作协调及与公司总部法务、金融部的日常工作协调等。",
+            "endDate": "2014-07",
+            "industry": "新能源",
+            "position": "BD",
+            "scale": "10000人以上",
+            "startDate": "2013-03",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 8.0
+}

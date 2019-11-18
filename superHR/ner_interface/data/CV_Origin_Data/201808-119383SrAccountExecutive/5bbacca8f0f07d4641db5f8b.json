@@ -1,0 +1,79 @@
+{
+    "basic": {
+        "birthday": "1983-4-12",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/8c0ae6df4457b1ede59d4961b6011a49.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "佳能医疗系统（中国）有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售工程师",
+    "currentSalary": " 14.15万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n所学课程包括自动控制原理，机械设计制造及其原理，计算机软件基础，现代控制理论，计算机控制理论，数控技术，可编程控制器，电工原理，模拟电子技术基础，高频电子线路，数字电路与系统，信号与系统，数字图象处理，数字信号处理，信号检测与估值，微机原理与系统设计，C语言程序设计，MATLAB，VHDL硬件设计语言等。\n毕业设计为《控制系统中误动的产生及其解决方案》",
+            "endDate": "2007-07",
+            "major": "自动化",
+            "school": "西安电子科技大学",
+            "startDate": "2003-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表,销售经理",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5bbacca8f0f07d4641db5f8b",
+    "projectExp": [],
+    "selfComm": "做事认真，有毅力，不会轻易放弃自己追求的东西。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "佳能医疗系统（中国）有限公司",
+            "department": "维修超生生化部",
+            "detail": "\n1.负责超声和生化产品线零配件、耗材和维修服务的销售及保修合同的推广(2017年度完成销售任务的170%并被评为优秀员工，2014年度完成140%，其它年度均在部门前列)\n2.维护和客户的关系&mdash;&mdash;与客户保持沟通、互动，当设备出现问题时及时有效的解决问题，为进一步的相关销售创造长效的联系 \n3.每周将更新后的客户信息汇总，随工作周报一起提交区域经理\n4.为区域代理商提供支持，如参加产品推介会等，配合代理商的销售工作\n5.负责区域内超生和生化产品的技术支持",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售工程师",
+            "scale": "500-1000人",
+            "startDate": "2012-07",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "深圳市开立科技有限公司",
+            "department": "售后服务部",
+            "detail": "1、负责公司全线超声设备的安装调试和售后服务支持； \n2、负责公司产品在用户现场的安装调试及故障排除，产品演示、应用测试； \n3、通过电话、现场等方式协助用户或代理商解决公司产品应用和维修问题； \n4、根据公司需求，为用户提供产品应用方面的技术培训。",
+            "endDate": "2012-06",
+            "industry": "医疗设备/器械",
+            "position": "售后工程师",
+            "scale": "500-1000人",
+            "startDate": "2010-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "中国一航陕西航空电气有限责任公司",
+            "department": "航空点火器研究所",
+            "detail": "从事PCB版图的绘制及航空点火器生产工艺流程的监督与指导。",
+            "endDate": "2009-05",
+            "industry": "航天/航空",
+            "position": "技术员",
+            "scale": "500-1000人",
+            "startDate": "2007-07",
+            "type": "国企"
+        }
+    ],
+    "workYears": 12.0
+}

@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "银川-西夏区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "共享集团",
+    "currentIndustry": "机械制造/机电/重工",
+    "currentPosition": "VM工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-07",
+            "major": "材料成型及控制工程",
+            "school": "西安理工大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "兰州;西安",
+        "industry": "机械制造/机电/重工;规划/设计/装潢;航空/航天",
+        "position": "工艺/制程工程师(PE)",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b6af56af0f073df02c88c7f",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：vm工程师 \n - 所在公司：宁夏共享集团有限责任公司 \n - 项目简介： \n产品的设计、优化及其模拟仿真\n - 项目职责： \n主要负责公司国内外发动机类产品的工艺设计、虚拟仿真及其优化改进\n - 项目业绩： \n完成效果良好，得到顾客的高度认可。\n",
+            "endDate": "4000-10",
+            "name": "发动机项目",
+            "startDate": "2016-08"
+        },
+        {
+            "detail": "\n - 项目职务：VM工程师 \n - 所在公司：宁夏共享集团有限责任公司 \n - 项目简介： \n产品的设计、虚拟仿真及其优化改进\n - 项目职责： \n主要负责产品的工艺设计、虚拟仿真、及其优化改进，从而推进顾客成功\n - 项目业绩： \n完成效果显著，得到顾客的高度认可。\n",
+            "endDate": "4000-10",
+            "name": "CC隔板项目",
+            "startDate": "2017-02"
+        },
+        {
+            "detail": "\n - 项目职务：VM工程师 \n - 所在公司：宁夏共享集团有限责任公司 \n - 项目简介： \nAV56机壳类产品的虚拟仿真及其优化改进\n - 项目职责： \n主要负责AV56机壳类产品的虚拟仿真，生产及其优化改进，从而推进顾客成功。\n - 项目业绩： \n完成效果显著，得到顾客顾问的高度赞扬和认可。\n",
+            "endDate": "4000-10",
+            "name": "陕鼓机壳项目",
+            "startDate": "2017-11"
+        }
+    ],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "宁夏共享集团有限责任公司",
+            "detail": "- 所在地区：银川 \n - 下属人数：30人 \n - 职责业绩： \n产品的设计、优化及其仿真模拟\n",
+            "endDate": "4000-10",
+            "position": "vm工程师",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "宁夏共享集团有限责任公司",
+            "detail": "- 所在地区：银川-西夏区 \n - 职责业绩： \n新产品设计及其仿真模拟\n",
+            "endDate": "4000-10",
+            "position": "vm工程师",
+            "startDate": "2016-08"
+        },
+        {
+            "company": "共享集团",
+            "detail": "- 所在地区：银川 \n - 下属人数：50人 \n - 职责业绩： \n主要从事产品的工艺设计，仿真模拟及其优化改进\n",
+            "endDate": "4000-10",
+            "position": "VM工程师",
+            "startDate": "2016-08"
+        }
+    ],
+    "workYears": 2.0
+}

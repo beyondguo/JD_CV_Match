@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1990-6-21",
+        "currentCity": "西安-雁塔区",
+        "gender": "女",
+        "photoAddress": "a6df659d5ee14a10ebc71d22b2ec9e0a_avatar_1539525600.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2013-07",
+            "major": "财政学",
+            "school": "西安交通大学继续教育学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械",
+        "position": "医疗器械销售代表,医药代表,医药销售代表 医疗器械销售代表",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [],
+    "selfComm": "本人性格极好，调适能力强，为人热情积极，具有较强的心理因素及抗压能力。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西省妇幼保健院",
+            "department": "财务科收费处",
+            "detail": "1、处理院内日常医保类结算，门诊及住院收费\n2、安排科室内人员排班和日常管理\n3、协助各科室处理日常医患关系问题",
+            "endDate": "2017-09",
+            "industry": "医疗/护理/卫生",
+            "position": "收费员",
+            "scale": "国企",
+            "startDate": "2012-08"
+        }
+    ],
+    "workYears": 6.0
+}

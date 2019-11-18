@@ -1,0 +1,73 @@
+{
+    "basic": {
+        "birthday": "1978-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "certificate": "1998/12 全国计算机等级一级",
+    "confidentialResume": "N",
+    "currentCompany": "波科国际医疗贸易(上海)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域销售经理",
+    "currentSalary": " 20万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2009-07",
+            "major": "人力资源管理",
+            "school": "浙江大学",
+            "startDate": "2007-09"
+        },
+        {
+            "degree": "大专",
+            "endDate": "1999-07",
+            "major": "现代公司管理",
+            "school": "西北工业大学",
+            "startDate": "1996-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理/主管",
+        "salary": "面议"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5bdbb3b6f0f0d24d61f13f63",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "7184817",
+    "proSkill": "C照  良好|60",
+    "projectExp": [],
+    "projectExpStr": "2017/03 - 2017/11\n西北呼吸介入培训基地\n责任描述:西北地区基层医院培训中心建立，合作协议拟定，培训学员的筛选\n\n项目简介:该项目为了提高基层医院的介入医师临床技能，设立高中低三个培训中心，分别为唐都医院高级培训中心，兰州大学第二医院培训中心，新疆自治区中医院培训中心\n\n\n2013/03 - 2013/08\n甲状腺结节和甲状腺瘤微创治疗术式\n责任描述:确定多中心项目医院，拟定合作协议，牵头三地专家组织会议制定单病种治疗指南\n\n项目简介:甲状腺结节和甲状腺瘤微创治疗术式，推动宁夏、云南、新疆三地客户联动，突破射频消融产品应用新科室\n\n\n2011/08 - 2012/03\n西安市红会医院\n责任描述:高温高压灭菌器整体交付项目\n前期技术准备、设备安装就位、水电气配套协调，装修隐蔽工程\n\n项目简介:医院整体供应室项目，总体预算2000万",
+    "selfComm": "\n",
+    "trainExp": " \n2004/9--2004/10 蛇牌产品应用 \n培训机构： 上海蛇牌学院 \n培训地点： \n2004/7--2004/11 证券从业资格 \n培训机构： 中国证券业协会 \n培训地点： \n1999/5--1999/6 机动车驾驶 \n培训机构： 西安市南郊车管所 \n培训地点： ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "波科国际医疗贸易(上海)有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n呼吸介入产品和哮喘治疗产品，临床学术推广和渠道管理工作，负责西北五省\n",
+            "endDate": "4000-10",
+            "position": "区域销售经理",
+            "startDate": "2016-05"
+        },
+        {
+            "company": "强生(上海)医疗器材有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \nCNV产品组，神经外科介入\n",
+            "endDate": "2016-05",
+            "position": "销售",
+            "startDate": "2015-03"
+        },
+        {
+            "company": "史帝瑞(上海)贸易有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n供应室，手术室设备销售\n",
+            "endDate": "2015-02",
+            "position": "大客户经理",
+            "startDate": "2012-08"
+        }
+    ],
+    "workYears": 18.0
+}

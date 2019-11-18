@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1984-01",
+        "currentCity": "Xi&#39;an",
+        "gender": "Male",
+        "nationality": "China",
+        "registeredResidence": "Xi&#39;an"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "美光半导体(西安)有限责任公司",
+    "currentIndustry": "Electronics/Microelectronics",
+    "currentPosition": "工程师",
+    "degree": "Bachelor",
+    "eduExp": [
+        {
+            "degree": "Bachelor",
+            "endDate": "2012-05",
+            "major": "Bachelor|Mechanical Design/Manufacturing/Automation",
+            "school": "Xi`an Jiaotong University",
+            "startDate": "2009-09"
+        },
+        {
+            "degree": "Junior College",
+            "endDate": "2006-07",
+            "major": "Polytechnic|Mechanical Electronic Engineering",
+            "school": "Wuhan Technology College",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "Xi&#39;an",
+        "industry": "Electronics/Microelectronics;Instrumentation/Industrial Automation/Electrical;Medical Equipment/Devices",
+        "position": "After-Sales Support Manager/Supervisor;Pre-Sales Support Manager/Supervisor;Sales Support Engineer",
+        "salary": "180.00K(15000Yuan/Month * 12Months)"
+    },
+    "projectExp": [],
+    "selfComm": "\n I am an active worker, have strong sense of responsibility and execution, \nalways try my best to solve the problems met at work and propose a solution to \nprevent the problem is occurred again. I pay great attention to teamwork and \nteam building, which is one of the effective ways to ensure efficient work.\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Micron Semiconductor (Xi&#39;an) Co., Ltd.",
+            "detail": "- 所在地区：Xi&#39;an \n - 汇报对象：Bearzhang \n - 下属人数：8人 \n - 职责业绩： \n1.Strong ability in maintenance,troubleshooting and improvement of \nsemiconductor equipment, determine the root cause of the issues and improve and \nprevent them effectively by engineering techniques.\n2.To be respond to troubleshoot and analyze for SMT major machine failure \nmechanism and provide effective solutions and track result.\n3.To be respond to monitor and promote overall process yield by CIP proposed \nand implement.\n4.To be respond to propose improvement ideas on machine function and \nautomation and implement.\n5.To be respond to promote SMT OEE.\n6.To be respond to evaluation ,installation, debugging &amp; buyoff for new coming \nmachine and new creation engineering documents (Spec,SOP,SWP,PM checklist, \netc.) before release to production.\n7.To be respond to professional training for new employees in equipment \napplication and operation.\n8.To be respond to create ECN,TCN ,SWR,etc. engineering documents and \ncoordinate with related department to follow up.\n9.Support prototype trail run and process optimization for NPI team.\n10.To be manage and coordinate with BOM group,programmer group and support \ntooling group to co-work smoothly to hit target.\n",
+            "endDate": "4000-10",
+            "position": "Equipment Engineer",
+            "startDate": "2009-09"
+        },
+        {
+            "company": "Solectron (suzhou) Technology Co.,Ltd",
+            "detail": "- 所在地区：Suzhou \n - 汇报对象：Richard Mei \n - 下属人数：0人 \n - 职责业绩： \n1.Improve production yield, build in BOM and maintain the machine is run \nsmoothly, be familiar with QC seven tools and have actual process improve \nskills, in addition according to SPC tools etc. improving and tracking with \nmethodical and systematic .\n2. Assist with NPI to Q-Run new product on line, familiarly with use tools \nabout PFMEA to analyze the issue what it was appeared in the produce process \nand advance take a necessary action ASAP to improve product quality and \nreliability.\n3.mastery setup parameter of MPM&amp;BTU,in practice produce,across to optimize \nparameter&amp;profile to solve any issue of product quality, masterly use the \nKIC24/7 system to real-time monitor the actual PCBA profile in the BTU,and \neffectively deal with the issue about the system.\n4.Master improving performance of placement machine, do &amp; optimize program and \nsolve equipment issue in time. Reduce downtime and attrition.\n5.Skillful make the fixture for the production and maintain the tooling \nmanagement to optimize the process windows why it more improve the production \nquality, cost down.\n",
+            "endDate": "2009-06",
+            "position": "Process engineer",
+            "startDate": "2007-05"
+        },
+        {
+            "company": "ASUS (suzhou) computer Co.,Ltd.",
+            "detail": "- 所在地区：Suzhou \n - 汇报对象：Zhangzhicheng \n - 下属人数：12人 \n - 职责业绩： \n1.Manage and coordinate line operator to co-work smoothly to hit daily output.\n2.Assistant to improve product overall yield.\n3.Tracking product quality.\n",
+            "endDate": "2007-01",
+            "position": "Engineer assistant",
+            "startDate": "2006-01"
+        }
+    ],
+    "workYears": 13.0
+}

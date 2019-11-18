@@ -1,0 +1,102 @@
+{
+    "basic": {
+        "birthday": "1984-7-28",
+        "currentCity": "福州-台江区",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "福建省",
+        "zipCode": "510220"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "\n在大学三年里主要学了机械制图、计算机应用基础马克思主义哲学、人体解剖生理学、数学、语文、英语、放射维修、摸电、数电、制冷、法律、B超=装备管理、医用检验仪器、医用电子仪器、电路分析、大学物理、邓小平理论、电路电工等专业学科。\n在05年6月-06年4月13日在湖北黄石室第一人民医院实习。",
+            "endDate": "2006-07",
+            "major": "医学工程（关于医疗器械维修）",
+            "school": "湖北中医药高等专科学校",
+            "startDate": "2003-09"
+        },
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2003-07",
+            "school": "福建省建瓯市第三中学",
+            "startDate": "2000-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,机械/设备/重工",
+        "position": "售前/售后技术支持工程师,医疗器械维修人员,技术支持工程师",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 一般 ",
+    "projectExp": [],
+    "selfComm": "认真负责的人。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海富吉医疗器械有限公司",
+            "department": "技术部",
+            "detail": "负责福建省内富士CR和相机安装维修",
+            "endDate": "2018-09",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修人员",
+            "scale": "民营公司",
+            "startDate": "2013-07"
+        },
+        {
+            "company": "广州市高鑫科技有限公司",
+            "department": "售后",
+            "detail": "GE呼吸机，麻醉机，监护仪的安装和维修。",
+            "endDate": "2013-05",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修人员",
+            "scale": "少于50人",
+            "startDate": "2011-08",
+            "type": "民营公司"
+        },
+        {
+            "company": "广州市显浩医疗器械维修有限公司",
+            "department": "售后",
+            "detail": "X光机维修；供应室设备维修。",
+            "endDate": "2011-06",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修人员",
+            "scale": "少于50人",
+            "startDate": "2010-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京国诺喷码",
+            "department": "售后",
+            "detail": "喷码机维修",
+            "endDate": "2010-01",
+            "industry": "机械/设备/重工",
+            "position": "售前/售后技术支持工程师",
+            "scale": "50-150人",
+            "startDate": "2008-06",
+            "type": "民营公司"
+        },
+        {
+            "company": "广州嘉叙工业设备有限公司",
+            "department": "技术部",
+            "detail": "激光打标机维修",
+            "endDate": "2008-05",
+            "industry": "机械/设备/重工",
+            "position": "售前/售后技术支持工程师",
+            "scale": "少于50人",
+            "startDate": "2006-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 12.0
+}

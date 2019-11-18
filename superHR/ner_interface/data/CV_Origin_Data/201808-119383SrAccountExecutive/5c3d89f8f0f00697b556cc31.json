@@ -1,0 +1,76 @@
+{
+    "basic": {
+        "birthday": "1989-4-10",
+        "currentCity": "西安-莲湖区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "渭南",
+        "zipCode": ""
+    },
+    "certificate": " \n2012/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 15万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "液压与气动技术（航空液压控制方向）",
+            "endDate": "2013-06",
+            "major": "飞行器动力工程",
+            "school": "西安航空学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售经理,医疗器械销售",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 一般 ",
+    "projectExp": [],
+    "selfComm": "\n本人为人真诚，守信，有很强的责任心及时间管理能力，善于与人交往，有过大型航空企业和大型医疗设备制造企业从业经验，对各种设备的电子，机械的部分有很强的专业知识及动手能力，在著名医疗设备生产厂家从事过销售工作，对监护仪，麻醉机，呼吸机，心电图机，腔镜，电外科工作站等医疗设备比较熟悉，同时对医院各科室设备比较熟悉。熟悉医院设备采购流程，独立成功开发过医院和经销商，有经销商渠道管理经验。\n校内职务 \n2011/10-2012/6 校青年志愿者团团长 \n职务描述： 组织学校志愿者参加各种校内外活动。 ",
+    "trainExp": " \n2014/8--2014/10 产品知识及商务知识 \n培训机构： 深圳市科曼医疗设备有限公司 \n培训地点： ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安奇汇医疗器械有限公司",
+            "department": "销售部",
+            "detail": "西安奇汇医疗器械有",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "少于50人",
+            "startDate": "2015-12",
+            "type": "民营公司"
+        },
+        {
+            "company": "深圳市科曼医疗设备有限公司",
+            "department": "国内销售部",
+            "detail": "\n在科曼公司从事监护仪，心电图机，新生儿无创呼吸机，麻醉机等医疗设备的销售，对医疗设备行业有较深的了解，熟悉医院采购流程，成功开发过医院及及经销商，有良好的销售业绩。",
+            "endDate": "2015-11",
+            "industry": "医疗设备/器械",
+            "position": "销售工程师",
+            "scale": "500-1000人",
+            "startDate": "2013-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "江西洪都航空工业集团公司",
+            "department": "钳焊液压附件分厂",
+            "detail": "负责飞机液压系统元器件的组装",
+            "endDate": "2013-07",
+            "industry": "航天/航空",
+            "position": "组装工",
+            "scale": "10000人以上",
+            "startDate": "2012-11",
+            "type": "国企"
+        }
+    ],
+    "workYears": 6.0
+}

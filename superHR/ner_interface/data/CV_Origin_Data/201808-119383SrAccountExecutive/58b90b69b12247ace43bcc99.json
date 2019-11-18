@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "Beijing",
+        "gender": "Male",
+        "nationality": "China",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "瑞绅葆分析技术（上海）有限公司",
+    "currentIndustry": "Instrumentation/Industrial Automation/Electrical",
+    "currentPosition": "安装工程师",
+    "degree": "Bachelor",
+    "eduExp": [
+        {
+            "degree": "Bachelor",
+            "endDate": "2013-07",
+            "major": "Appiled chemistry",
+            "school": "Hua qing college of xi &#39;an university of architecture and technology",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "Xi&#39;an",
+        "industry": "Instrumentation/Industrial Automation/Electrical",
+        "position": "Instrument/Measurement Analyst;Field Application Engineer(FAE);Electronics/Electronics Repair",
+        "salary": "120.00K(10000Yuan/Month * 12Months)"
+    },
+    "otherLangResumeId": "58b90b69b12247ace43bcc99",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：Application Engineer \n - 所在公司：Ruishenbao analytical technology (Shanghai) co. LTD \n - 项目简介： \nUHPS ultra-high pressure system is developed by RUISHENBAO&reg; and remains the \nworld&#39;s first automatic ultrahigh pressure pellet press to sample preparation \nfor spectral or X-ray fluorescence analysis, which is maximum press force can \nreach 320T so that it press produces high-quality pressed pellets with a \nmirrorlike surface necessary for optimal XRF results. The UHPS achieves the \ndesired homogeneity and stability of each individual pellet with a maximum of \nreproducibility. There is no dilution effect and effectively overcomes powder \neffect of the XRF thanks to ultra-high pressure direct powder pelletizing press \nmode. It greatly improves the analysis of technical indicators for XRF method \nfor example: the detection limit, precision, accuracy and long-term stability. \nIt effectively expands the XRF on the applicable scope for all kinds of \nsamples. The system can be used as an important direct pressing sample \ntechnology and method for sample preparation of the XRF, XRD, laser \nfluorescence spectroscopy, and laser induced breakdown spectroscopy.\n - 项目职责： \nExplore powder materials: soil, ore, concentrate, dust, slag, cement, \nlimestone, dolomite, glass, quartz, clay, etc.\nHard materials prepared directly by traditional granule press or additive: \nferrosilicon, iron concentrate, etc.;Sample preparation method.\n - 项目业绩： \nPowder materials: soil, ore, concentrate, dust, slag, cement, limestone, \ndolomite, glass, quartz, clay, etc.\nHard materials prepared directly by traditional granule press or additive: \nferrosilicon, iron concentrate, etc.;Sample preparation method.\n",
+            "endDate": "2016-07",
+            "name": "Ultra High Pressure System",
+            "startDate": "2016-03"
+        }
+    ],
+    "selfComm": "\n I have good personal quality, good conduct, no bad habits.Strong learning and \nadaptation ability, have the spirit of research, can constantly accept new \nthings, meet new challenges, life and work full of enthusiasm!\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Ruishenbao analytical technology (Shanghai) co. LTD",
+            "detail": "- 所在地区：Beijing \n - 下属人数：0人 \n - 职责业绩： \nResponsibilities &amp; Achievement: Installation of XRF and field application \ntraining\n 2016.07 Sinoma international project x-ray spectrometer application \ninstallation and on-site training in Nigeria, equipment model: Axios.\n 2016.10 Zibo Leifa International project Autofluxer Plus \n. 2016.11 Jiangsu hengyuan project x-ray spectrometer application installation \nand on-site training in Iraq, equipment model: Axios.\n2017.03 research department of tianyu cement (Beijing) XRF installation and \non-site installation and application training, equipment model: E1\n2017.05 XRF installation and field application training of China plant \nresearch institute, equipment model: E1\n2017.11: Published an article on the substitution of ultra-high pressure \nsample system in the metallurgical industry for the traditional sample making \nmethod at the national academic exchange conference on metallurgy and material \nanalysis and testing.\n2018.06 TANGSHAN FEILONG cement XRF replacement window film, equipment model: \nAxios.\n2018.11 XRF installation and field application training of China institute of \nradiation protection, equipment model: Axios mAX\n2018.12 replacement of XRF optical tubes in baotou steel rare earth research \ninstitute, equipment model: Axios mAX\n In China are mainly responsible for Tablet press machine, Grinder machines, \nFusion machine, Water-cooled machine installation and after-sales.\n",
+            "endDate": "2018-08",
+            "position": "Installation Engineer",
+            "startDate": "2015-03"
+        },
+        {
+            "company": "Xinjiang aletai jinhao iron industry co",
+            "detail": "- 所在地区：Altay Prefecture \n - 下属人数：0人 \n - 职责业绩： \nResponsible for daily maintenance of laboratory testing equipment, mainly \nmaintain objects PANalyticay AxiosMax , Infrared carbon and sulfur Analyzer \ntypes of spectrometer.\n",
+            "endDate": "2015-02",
+            "position": "Laboratory technician",
+            "startDate": "2013-07"
+        }
+    ],
+    "workYears": 5.0
+}

@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1996-09",
+        "currentCity": "福建漳州市",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "",
+        "registeredResidence": "福建厦门市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门大学附属成功医院",
+    "currentIndustry": "",
+    "currentPosition": "实习生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2018-06",
+            "major": "医学检验技术",
+            "school": "厦门大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未定级\n发表论文:\n《Highly specific noninvasive photoacoustic and positron emission tomography of brain plaque with functionalized croconium dye labeled by a radiotracer》, Chem. Sci., 2017,8, 2710-2716 ",
+    "graduateSchool": "厦门大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "proSkill": "在校期间，认真投身于实验室进行科研活动，掌握了有机合成、柱层析纯化技术及相关仪器的操作；掌握了基本绘图软件的使用（Photoshop, Chemdraw, Origin, GraphPad Prism）；掌握了搜集相关文献的能力。",
+    "projectExp": [
+        {
+            "detail": "本人所负责的大创项目《新型A&beta;斑块光声成像探针的研究》于2016年12月圆满结题，此项目荣获第一届厦门大学本科生创新创业年会优秀大学生创新创业训练计划项目。",
+            "endDate": "",
+            "name": "",
+            "startDate": ""
+        }
+    ],
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门大学附属成功医院",
+            "department": "检验科",
+            "detail": "在检验科各组进行实习轮转。",
+            "endDate": "2018-01",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2017-06",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

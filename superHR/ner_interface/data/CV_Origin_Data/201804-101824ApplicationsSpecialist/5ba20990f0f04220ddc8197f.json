@@ -1,0 +1,87 @@
+{
+    "basic": {
+        "birthday": "1994-9-11",
+        "currentCity": "福州-仓山区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 13万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "植物保护学",
+            "school": "海南大学",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2014-06",
+            "major": "植物保护学",
+            "school": "海南大学",
+            "startDate": "2010-09"
+        },
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2010-07",
+            "school": "福州第十八中学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "科研人员,农/林/牧/渔,生物/制药/医疗器械,科研人员",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5ba20990f0f04220ddc8197f",
+    "projectExp": [
+        {
+            "detail": "根据客户的要求，提供设计方案。已完成多项医学类省、市级课题设计与标书申请工作。",
+            "endDate": "4000-10",
+            "name": "医学类省、市级课题设计与标书申请",
+            "responsibility": "",
+            "startDate": "2017-07"
+        },
+        {
+            "detail": "\n参与公益性行业（农业）科研专项&ldquo;南繁区生物安全监测预警及控制关键技术研究与示范&rdquo;，完成&ldquo;南繁区检疫性果实蝇害虫检测技术的研发、集成及应用&rdquo;项目的方案设计、出差、检测技术研发、物种鉴定、论文撰写、项目汇报等工作。论文《海南岛果实蝇昆虫形态及其DNA条形码研究》已提交至&ldquo;CALIS高校学位论文全文数据库&rdquo;。",
+            "endDate": "2017-06",
+            "name": "南繁区生物安全监测预警及控制关键技术研究与示范",
+            "responsibility": "",
+            "startDate": "2014-06"
+        },
+        {
+            "detail": "完成&ldquo;基于DNA条形码技术的海南岛检疫性果实蝇的分子鉴定&rdquo;的项目申请、方案设计、文章发表、项目汇报等工作。",
+            "endDate": "2016-10",
+            "name": "海南大学研究生实践创新项目",
+            "responsibility": "",
+            "startDate": "2014-06"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州世宸生物科技有限公司",
+            "department": "技术支持",
+            "detail": "2017年至今，就职于福州世宸生物科技有限公司技术支持岗位。主要负责医学类省、市级课题设计与标书申请，兼实验课题、项目承包等工作。",
+            "endDate": "4000-10",
+            "industry": "外包服务",
+            "position": "技术专员",
+            "scale": "民营公司",
+            "startDate": "2017-07"
+        }
+    ],
+    "workYears": 1.0
+}

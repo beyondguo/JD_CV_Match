@@ -1,0 +1,196 @@
+{
+    "awards": "荣誉证书：\r\n获 奖： 2007年&mdash;2011年 连续四年获得国家农林奖学金\r\n2009-2010年度 获&ldquo;三好学生称号&rdquo;\r\n计算机能力：通过计算机二级 能熟练操作office办公软件\r\n毕业证编号：106561201105010446 \r\n学位证编号：1065642011003241\r\n本科毕业论文：新型鸭肝炎病毒的分离与鉴定 \r\n",
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "西安艾迪康医学检验实验室有限公司",
+    "currentIndustry": "外包服务",
+    "currentPosition": "区域销售经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2011-07",
+            "major": "动物科学",
+            "school": "西南民族大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "5",
+                "enumValue": "老数据待补",
+                "id": "4",
+                "isDefault": false,
+                "orderIndex": 4.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255866.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "4",
+                    "enumValue": "IVD(独立实验室）",
+                    "id": "3",
+                    "isDefault": false,
+                    "orderIndex": 3.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255869.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255871.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255874.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255876.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255881.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255883.0,
+            "strValue": "西安",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255885.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "Mar 9, 2018 3:07:35 PM",
+            "lastUpdated": 1520579255890.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "西南民族大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "langAbility": "英语： 良好 （ 听说能力良好 读写能力良好 ） \r\n汉语： 熟练 （ 听说能力精通 读写能力熟练 ） ",
+    "otherLangResumeId": null,
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安艾迪康医学检验实验室有限公司",
+            "detail": "- 所在地区：西安 \n",
+            "endDate": "4000-10",
+            "position": "区域销售经理",
+            "startDate": "2017-08"
+        }
+    ],
+    "workYears": 1.0
+}

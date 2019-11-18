@@ -1,0 +1,63 @@
+{
+    "basic": {
+        "birthday": "1995-9-14",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "5e9bba15c9c272e231786e70c5d768fa_avatar_1537529045.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "福州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福州科联医疗器械有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "售后工程师",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2020-06",
+            "major": "电气工程及其自动化",
+            "school": "电子科技大学",
+            "startDate": "2018-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "医用电子仪器与维护",
+            "school": "福建卫生职业技术学院",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "售前/售后技术支持工程师,售前/售后技术支持工程师",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5b723cdff0f00fbf8a341544",
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2014/2-2016/6 体育部部长 \n\n职务描述： 负责举办院内各项体育活动，分配任务到各系部，管理监督。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州科联医疗器械有限公司",
+            "department": "工程部",
+            "detail": "1.负责相关区域各种医疗仪器、器械的现场安装、调试及维系服务工作。\n2.受理投诉，解决售后技术使用问题。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "50-150人",
+            "startDate": "2015-11",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 3.0
+}

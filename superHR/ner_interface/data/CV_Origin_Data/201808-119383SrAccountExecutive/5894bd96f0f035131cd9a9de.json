@@ -1,0 +1,275 @@
+{
+    "basic": {
+        "birthday": "1989-09",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/SZProj/newrd/img/banner/personpic_m.png",
+        "registeredResidence": "驻马店"
+    },
+    "certificate": " \n2010/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "深圳迈瑞生物医疗电子股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "临床应用工程师",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "4000-10",
+            "major": "临床诊断",
+            "school": "&nbsp;&nbsp;吉林医药学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280424.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280426.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280429.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280431.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280433.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280435.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280440.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280442.0,
+            "strValue": "西安",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280443.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280446.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280451.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Sep 6, 2018 10:18:00 AM",
+            "lastUpdated": 1536200280457.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "graduateSchool": "吉林医药学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械、医药/生物工程",
+        "position": "医疗器械维修/保养、售前/售后技术支持工程师",
+        "salary": "6001-8000元/月",
+        "state": "我目前在职，正考虑换个新环境"
+    },
+    "langAbility": "普通话",
+    "otherLangResumeId": "5894bd96f0f035131cd9a9de",
+    "proSkill": "",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": " 10万元 一年",
+    "selfComm": "一年多的工作经验让我学到了很多的专业知识，也培养了我认真细心、刻苦努力的工作态度，从工作中也深刻领悟到要不断学习。 ",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "长春迪瑞医疗科技股份有限公司",
+            "department": "",
+            "detail": "\n\n负责尿机、尿沉渣、生化仪装机后的培训工作以及客户应用过程中软件问题的解决和测值不好的解决，也负责给其他厂家生化仪上迪瑞试剂，目前给贝克曼、奥林巴斯、日立、东芝、希森美康、迈瑞的生化仪上过试剂。\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "salary": "4001-6000元/月",
+            "scale": "",
+            "startDate": "2014-05",
+            "type": "上市公司"
+        },
+        {
+            "company": "深圳市新产业生物医学工程股份有限公司",
+            "department": "",
+            "detail": "\n在三个月实习中，学会了自动化学发光免疫分析仪器的操作及解决一些常见问题\n",
+            "endDate": "2014-04",
+            "industry": "医疗设备/器械",
+            "position": "技术服务工程师",
+            "salary": "2001-4000元/月",
+            "scale": "",
+            "startDate": "2014-02",
+            "type": "民营"
+        },
+        {
+            "company": "艾迪康医学检验中心",
+            "department": "",
+            "detail": "\n在工作中学会了各种临床检测项目的检测、各种检验仪器的操作和丰富的临床知识。\n",
+            "endDate": "2013-12",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "实习生",
+            "salary": "2001-4000元/月",
+            "scale": "1000-9999人",
+            "startDate": "2013-07",
+            "type": "合资"
+        }
+    ],
+    "workYears": 6.0
+}

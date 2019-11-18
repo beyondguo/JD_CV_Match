@@ -1,0 +1,70 @@
+{
+    "basic": {
+        "birthday": "1993-08",
+        "currentCity": "福建",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "",
+        "registeredResidence": "福建"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门大学附属成功医院",
+    "currentIndustry": "",
+    "currentPosition": "组员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "医学检验技术",
+            "school": "长沙医学院",
+            "startDate": "2012-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "长沙医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "8000-9999",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b501b83f0f079b7a5b8b0be",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "踏实肯干，积极努力，待人诚恳，有上进心。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门大学附属成功医院",
+            "department": "检验科",
+            "detail": "",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "组员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-07",
+            "type": ""
+        },
+        {
+            "company": "厦门大学附属成功医院",
+            "department": "检验科",
+            "detail": "2015年7月至2016年5月在一七四医院实习；2016年7月至今在一七四医院分子生物室工作，熟悉检验科各项操作流程，熟练PCR 实验的各项工作与要求，期间参加过重庆市临床基因扩增检验技术人员上岗培训并获得PCR 上岗证。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "检验技师",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-07",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

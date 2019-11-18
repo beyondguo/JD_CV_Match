@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1988-11-16",
+        "currentCity": "福州",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-01",
+            "major": "会计学",
+            "school": "国家开放大学",
+            "startDate": "2014-04"
+        },
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2007-07",
+            "school": "莆田华侨中学",
+            "startDate": "2003-07"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "美容/保健",
+        "position": "美容顾问,网电咨询",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5b73f04af0f0b1d8f8cdf0be",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "名韩医疗美容",
+            "department": "网电部门",
+            "detail": "\n2012年开始进入医美网电咨询，2014年在福州爱美尔做网电，2015年开始至今在福州名韩做网电咨询，依然热爱这个工作岗位，网电咨询，每天接待商务通上的来访顾客，针对顾客提供咨询，解答疑问，邀约留电，做好回访邀约顾客来院，完成kpi考核。现在想换个环境，现在找大夜班工作。现在还在职，需要半个月到一个月内交接工作。微信号：a577318326",
+            "endDate": "4000-10",
+            "industry": "美容/保健",
+            "position": "网络/在线客服",
+            "scale": "150-500人",
+            "startDate": "2013-05",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 7.0
+}

@@ -1,0 +1,29 @@
+{
+    "basic": {
+        "birthday": "1987-12-13",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "",
+    "eduExp": [],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "其他",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

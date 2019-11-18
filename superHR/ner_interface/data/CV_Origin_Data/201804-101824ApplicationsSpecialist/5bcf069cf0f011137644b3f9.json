@@ -1,0 +1,79 @@
+{
+    "basic": {
+        "birthday": "1987-9-22",
+        "currentCity": "泉州",
+        "gender": "男",
+        "maritalStatus": "保密",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "福建省",
+        "zipCode": "362000"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n接受过全方位的大学基础教育，受到良好的专业训练和能力的培养，在食品营养，食品安全，食品管理，生物科学等等各个领域有扎实的理论基础和实践经验，熟悉windows操作系统和office2003、Internet互联网的基本操作。",
+            "endDate": "2009-07",
+            "major": "食品质量与安全",
+            "school": "泉州师范学院",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 泉州 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "生物/制药/医疗器械,售后工程师",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：3个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "projectExp": [],
+    "selfComm": "\n接受过全方位的大学基础教育，受到良好的专业训练和能力的培养为人正直，乐观向上、兴趣广泛、适应力强、勤奋好学、脚踏实地、认真负责、坚毅不拔、吃苦耐劳、勇于迎接新挑战。有较强的团队精神为人正直，责任心强，上级交给的任务能及时很好的完成，有较强的工作能力，善于交际，能正确的处理人事关系，团结人心。，",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳市理邦精密仪器股份有限公司",
+            "detail": "服务工程师",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "售前/售后技术支持经理",
+            "startDate": "2016-05"
+        },
+        {
+            "company": "泉州市明丰医疗器械有限公司",
+            "detail": "客服",
+            "endDate": "2016-05",
+            "industry": "",
+            "position": "客服经理",
+            "startDate": "2014-03"
+        },
+        {
+            "company": "南宁培城水暖有限公司",
+            "department": "管理",
+            "detail": "卫浴洁具店长，门店销售，活动策划，采购订货，物流管理",
+            "endDate": "2014-02",
+            "industry": "建筑/建材/工程",
+            "position": "其他",
+            "scale": "50-150人",
+            "startDate": "2009-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "泉州嘉禾食品有限公司",
+            "department": "质检部",
+            "detail": "\n接受过全方位的大学基础教育，受到良好的专业训练和能力的培养，在食品营养，食品安全，食品管理，生物科学等等各个领域有扎实的理论基础和实践经验，熟悉windows操作系统和office2003、Internet互联网的基本操作。",
+            "endDate": "2008-09",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "质量检验员/测试员",
+            "scale": "150-500人",
+            "startDate": "2008-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 11.0
+}

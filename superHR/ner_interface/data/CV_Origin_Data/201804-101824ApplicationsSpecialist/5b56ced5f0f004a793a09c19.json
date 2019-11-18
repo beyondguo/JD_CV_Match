@@ -1,0 +1,60 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "福建省",
+        "gender": "男",
+        "maritalStatus": "保密",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "福州医疗设备有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "技术支持工程师",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2014-07",
+            "major": "分子生物学",
+            "school": "河北师范大学",
+            "startDate": "2011-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2011-07",
+            "major": "生物工程",
+            "school": "怀化学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "industry": "医疗设备/器械",
+        "position": "销售代表;客户服务专员/助理;售后支持工程师",
+        "salary": "7.80万（6500元/月 * 12个月）",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "\n普通话\n",
+    "projectExp": [],
+    "selfComm": "\n本人乐观开朗，乐于助人，喜欢运动。对事积极认真负责，力求做到最好，善于动脑解决问题，有很好的与人沟通交流。\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州医疗设备有限公司",
+            "companyDescription": "",
+            "department": "",
+            "detail": "职责业绩： 1.贝壳曼生化和免疫发光试剂、仪器推广以及市场动态方向的调查，通过对各医院数据的收集反馈给销售，并配合给以技术支持\n2.协调负责区域内经销商关系，并完成指定指标\n3、提供试剂售后服务和技术支持确保医院工作有序进行\n4、新员工的上岗培训及对销售进行市场新项目的分析讲解工作\n5,新项目临床技术支持讲解",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "技术支持工程师",
+            "salary": "保密",
+            "scale": "",
+            "startDate": "2014-06",
+            "type": ""
+        }
+    ],
+    "workYears": 4.0
+}

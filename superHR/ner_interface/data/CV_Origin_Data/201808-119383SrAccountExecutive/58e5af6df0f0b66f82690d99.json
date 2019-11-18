@@ -1,0 +1,236 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1985-5-17",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "保密",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "太原",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "百达千里",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2009-06",
+            "major": "制药工程",
+            "school": "西南大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871743.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871746.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "病理",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871749.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871752.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871754.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871760.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871762.0,
+            "strValue": "太原",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871764.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871765.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "16",
+                    "enumValue": "山西省",
+                    "id": "15",
+                    "isDefault": false,
+                    "orderIndex": 15.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jul 13, 2018 1:14:31 PM",
+            "lastUpdated": 1531458871768.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "西南大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": " 太原 ",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医疗器械市场推广,销售经理,销售代表,地区经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "otherLangResumeId": "58e5af6df0f0b66f82690d99",
+    "proSkill": "",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "",
+    "selfComm": "本人成熟稳重，对工作有高度的进取心和责任心，经过九年医疗领域销售工作的锻炼和塑造，拥有丰富的临床销售经验、良好的演讲能力、较强的抗压力以及团队协作精神.\n校内职务 \n2007/9-2009/6 班级团支书 ",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "大连欧文科技发展有限公司",
+            "department": "销售部",
+            "detail": "\n大连欧文作为美国艾克曼骨科创伤耗材北中国总代理，负责北方市场的开发和上量工作。入职后任职山西和内蒙两省地区经理职位。面对空白市场，一方面积极寻找经销商，一方面深入临床推广，先后入院了内蒙古国际中蒙医院、内蒙古医科大学第一附属医院、内蒙古医科大学第二附属医院（骨科专科医院）、山西医科大学第一医院，山西医科大学第二医院、山西省中医研究所、武警医院山西晋煤集团总医院等。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "地区经理",
+            "scale": "50-150人",
+            "startDate": "2016-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "强生医疗器材有限公司",
+            "department": "爱惜康",
+            "detail": "\n任职于强生妇女健康部，面对完全空白的山西市场，积极展开主要产品的开发入院工作，通过筛选合适的经销商，利用几家医院招标的机会合理分配资源先后开发了山西省儿童医院、大同市第一医院、同煤集团总医院、长治市妇幼医院、山西省肿瘤医院、山西医科大学第二医院、运城市中心医院、晋煤集团总医院、临汾市人民医院等，销量稳步增长。",
+            "endDate": "2015-12",
+            "industry": "医疗设备/器械",
+            "position": "高级技术产品专员",
+            "scale": "10000人以上",
+            "startDate": "2014-09",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "葛兰素史克投资有限公司",
+            "department": "销售部",
+            "detail": "2009.8-2011.6 负责上海市徐汇区中心医院 及上海市第二人民医院呼吸产品的开发与上量，均100%以上达成指标。 \n 2011.7-2011.12 \n月负责山西省人民医院和山西省儿童医院的耳鼻喉科该市场接手前达成率不足30%，接手后2011年Q3达成106%；102%；10月成功恢复山大二院进药工作。\n 2012.1-2014.9 \n负责山西省人民医院、山大二院、解放军第264医院及晋城市场。短期内进药开户8个品规，并得到了客户的广泛认可。全大区增长率排名第一，市场同比增长率达687%。山西省人民医院市场占有率保持在90%。",
+            "endDate": "2014-09",
+            "industry": "制药/生物工程",
+            "position": "KA产品专员",
+            "scale": "500-1000人",
+            "startDate": "2009-08",
+            "type": "外资(欧美)"
+        }
+    ],
+    "workYears": 9.0
+}

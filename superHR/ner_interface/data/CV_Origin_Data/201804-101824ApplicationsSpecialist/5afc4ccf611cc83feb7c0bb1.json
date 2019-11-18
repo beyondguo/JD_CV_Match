@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1985-11-17",
+        "currentCity": "厦门",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2008-06",
+            "major": "生物工程",
+            "school": "安徽工程科技学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5afc4cd0611cc83feb7c0c0f",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "537528484",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门万泰沧海(凯瑞）生物技术有限公司",
+            "department": "研发部",
+            "detail": "在厦门万泰沧海(凯瑞）生物技术有限公司做研发技术员，主要从事化学发光试剂的研制工作和仪器试剂一体化工作，并且协助研发平台建设和研发血清库的建立与维护。\n\n在近3年的工作中，熟悉了化学发光试剂试剂研发过程，包括原料筛选，上机前研究，上机研究，临床试验，并且熟悉全自动化学发光免疫分析系统仪器的原理，运行，维护工作。主要完成工作如下：\n2.1 \n在仪器试剂一体化验证方面，主要完成3台全自动化学发光免疫分析系统的运行，维护，故障处理与反馈工作；参与仪器改进，升级与验证工作；参与仪器与试剂匹配验证工作。\n2.2 \n在化学发光试剂研发工作中，总共参与了8个项目的研究工作，包括肝纤维，肿瘤，贫血类项目。其中3个项目（2个肿瘤项目，1个贫血项目）完成临床，进入注册阶段。另外5个项目进入上机前研究阶段。\n2.3 参与了研发平台的建设，包括磁珠，SAE和生物素的筛选工作。总共尝试&gt;30种各个厂家，各种类型的磁珠，超过&gt;10种SAE和近10种生物素。\n2.4 在研发血清库建设中，完成超过40种项目血清和50000份血清标本的收集与整理工作。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "医药技术研发人员",
+            "scale": "民营公司",
+            "startDate": "2011-09"
+        }
+    ],
+    "workYears": 0.0
+}

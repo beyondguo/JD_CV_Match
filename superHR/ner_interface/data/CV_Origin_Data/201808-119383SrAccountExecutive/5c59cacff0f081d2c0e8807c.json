@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1994-01",
+        "currentCity": "陕西",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "离职",
+    "currentIndustry": "其他",
+    "currentPosition": "教师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-07",
+            "major": "市场营销",
+            "school": "西安外国语大学",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西",
+        "industry": "其他",
+        "position": "实习生",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "离职",
+            "detail": "- 所在地区：陕西 \n - 职责业绩： \n一、接收新生时与班主任对接，了解学生基本情况。\n有针对性进行备课，准备课堂活动及课堂内容。\n课前测试，上课，课堂结尾测试，布置作业。\n课后向家长反馈学生本次学习情况。\n一月一次检测，总结学生的进步及学习中存在的新、旧问题，以此制定之后的教学计划。\n二、与家长保持长期友好的沟通，帮助班主任续班。\n",
+            "endDate": "4000-10",
+            "position": "教师",
+            "startDate": "2018-02"
+        }
+    ],
+    "workYears": 3.0
+}

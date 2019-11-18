@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1985-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "甘肃鹏润生物制品有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "业务主管",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2007-07",
+            "major": "药学",
+            "school": "兰州大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "甘肃鹏润生物制品有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n2009.1----2011.1在甘肃鹏润生物制品有限公司任职业务员，负责开发疾控中心，医院，社区卫生服务中心的销售量. \n2011.2--2016.8在甘肃鹏润生物制品有限公司任业务主管，负责各个地区的招标，采购，业绩达成，团队精神，回款等。\n",
+            "endDate": "2016-08",
+            "position": "业务主管",
+            "startDate": "2009-01"
+        }
+    ],
+    "workYears": 9.0
+}

@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1986-11",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "",
+        "registeredResidence": "福建-三明"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "威士达医疗设备（上海）有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "售前/售后技术支持",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2008-06",
+            "major": "医学检验",
+            "school": "上海交通大学医学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "graduateSchool": "上海交通大学医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "售前/售后技术支持管理,售前/售后技术支持工程师",
+        "salary": "10001-15000元/月",
+        "state": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "威士达医疗设备（上海）有限公司",
+            "department": "",
+            "detail": "担任产品专员，带教管理福建地区技术应用工程师团队的日常工作。主要负责福建地区sysmex全自动血凝仪、TECAN全自动酶免工作站和Chrono-log血小板聚集仪的安装、调试、客户培训、故障处理、维护保养并解决客户疑难问题，组织二级市场会议，保证试剂使用增长。在D-二聚体试剂由低敏更换为高敏试剂过程中，为消除临床科室的不适应给客户提供充足的学术支持，必要时在全院业务学习会议中直接给临床医生讲解并交流讨论。收集区域内客户和竞争对手信息，协助地区销售完成原装试剂耗材的任务。给经销商提供技术支持和培训，一同参加医院院内招标谈判介绍产品。参与各种临检会议和用户会。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持",
+            "salary": "",
+            "scale": "",
+            "startDate": "2011-09",
+            "type": ""
+        }
+    ],
+    "workYears": 10.0
+}

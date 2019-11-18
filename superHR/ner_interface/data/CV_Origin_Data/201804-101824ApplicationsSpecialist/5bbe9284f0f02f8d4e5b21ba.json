@@ -1,0 +1,92 @@
+{
+    "basic": {
+        "birthday": "1975-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "迪堡金融设备有限公司",
+    "currentIndustry": "IT服务/系统集成",
+    "currentPosition": "区域服务经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-06",
+            "major": "英语",
+            "school": "福建师范大学",
+            "startDate": "2009-09"
+        },
+        {
+            "degree": "大专",
+            "endDate": "1994-07",
+            "major": "机械电子工程/机电一体化",
+            "school": "福建机电学校",
+            "startDate": "1991-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "IT服务/系统集成;医疗设备/器械;计算机硬件/网络设备",
+        "position": "运营经理/主管",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "5bbe9284f0f02f8d4e5b21ba",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：技术主管 \n - 项目简介： \n负责设备维护培训及相关技术的交接、测试、维护\n",
+            "endDate": "2017-03",
+            "name": "Ortho-Clinical Diagnostics 350设备维护",
+            "startDate": "2016-10"
+        }
+    ],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "迪堡金融设备有限公司",
+            "detail": "- 所在地区：福州-仓山区 \n - 下属人数：33人 \n - 职责业绩： \n 主要职责：负责迪堡在福建所有产品（ATM、CRS、保险柜、RTS、IS服务、浪潮自助设备）售后服务的运作管理及技术支持\nA、 负责辖区内ATM、CRS、保险柜、RTS等设备的安装调试、升级、维护、保养、客户培训等工作\nB、 负责福建建行、福建交行、福建邮储、福建中信、福建中行等银行客户关系维护及报表制作\nC、 每个月对服务数据进行分析，不断调整服务运作和加强服务人员培训，提高客户对于服务的满意度\nD、 所有服务人员的日常管理、报销控制、备件控制、人员培训\nE、 服务备件的销售和收费服务AR的收款\nF、 服务合同的谈判、签订、收款\n增值服务产品管理：选点、钞箱维修收费等\n",
+            "endDate": "4000-10",
+            "position": "区域服务经理",
+            "startDate": "2012-01"
+        },
+        {
+            "company": "迪堡金融设备有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：33人 \n - 职责业绩： \n负责迪堡在福建、江西所有产品（ATM、CRS、保险柜、RTS、IS服务）售后服务的运作管理及技术支持\n",
+            "endDate": "2011-12",
+            "position": "小区服务主管",
+            "startDate": "2006-05"
+        },
+        {
+            "company": "迪堡金融设备有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：6人 \n - 职责业绩： \n主要职责：负责迪堡在福建所有技术的支持与管理（技术资料管理、技术级别评选、疑难问题解决与提包、工、建总行在福建测试中心的技术支持）\n",
+            "endDate": "2006-05",
+            "position": "小区技术主管",
+            "startDate": "2004-02"
+        },
+        {
+            "company": "迪堡金融设备有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n负责迪堡在福建所有产品ATM、CRS的售后，同时对其他服务人员进行技术支持\n",
+            "endDate": "2004-01",
+            "position": "高级服务工程师",
+            "startDate": "2002-02"
+        },
+        {
+            "company": "迪堡金融设备有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n从事ATM售后维护及保养\n",
+            "endDate": "2002-01",
+            "position": "服务工程师",
+            "startDate": "1999-01"
+        },
+        {
+            "company": "福州闽东特种电机厂",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n负责产品加工车间的生产工艺及数控设备的维护、调试、培训\n",
+            "endDate": "1999-01",
+            "position": "技术人员",
+            "startDate": "1995-07"
+        }
+    ]
+}

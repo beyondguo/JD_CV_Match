@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1995-4-13",
+        "currentCity": "乌鲁木齐",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 0.8万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "护理学",
+            "school": "新疆现代职业技术学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 乌鲁木齐 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程",
+        "position": "医疗器械销售代表,医疗器械销售",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5b3444cd611cc6fcb1e7f2f7",
+    "projectExp": [],
+    "selfComm": "\n因为工作原因，比较细心和耐心。对于学习医疗相关产品比较快，家里人也是医务人员，有强烈的医疗销售欲望，虽然自己没经验，但是发展空间很大，得到公司的培养一定会用自己创造的价值报答公司。（如果有好的发展空间，可以考虑去别的地方）",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "新疆医科大学第一附属医院",
+            "department": "急诊重症监护室",
+            "detail": "2016年5月至2017年五月于新疆医科大学第一附属医院各个科室实习，20176月至今在新疆医科大学第一附属医院ICU工作",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "护士/护理人员",
+            "startDate": "2017-08"
+        }
+    ],
+    "workYears": 1.0
+}

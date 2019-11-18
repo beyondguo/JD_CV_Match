@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "birthday": "1994-6-25",
+        "currentCity": "泉州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "泉州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2016-06",
+            "major": "药学",
+            "school": "福建医科大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2014/9-2015/7 班级生活委员 \n\n职务描述： 作为班级生活委员，管理并合理利用班费。锻炼了自我的管理能力 \n2013/2-2013/6 班级组织委员 \n\n职务描述： 作为班级组织委员，组织同学进行校内与院内的各种活动，以及志愿者活动。锻炼了自身的组织能力。 \n2012/9-2013/7 院学生会青年志愿者协会干事 \n\n职务描述： 做为一个院青年志愿者协会干事，负责协会志愿者活动以及志愿者证书的认证。并获得13年度的校青年志愿者协会优秀干事称号。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州辰星药业有限公司",
+            "department": "销售部",
+            "detail": "从事药厂药品销售",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "招商经理",
+            "scale": "50-150人",
+            "startDate": "2017-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "福州辰星药业有限公司",
+            "department": "销售部",
+            "detail": "从事药厂药品销售",
+            "endDate": "2017-01",
+            "industry": "制药/生物工程",
+            "position": "招商助理",
+            "scale": "50-150人",
+            "startDate": "2016-11",
+            "type": "民营公司"
+        },
+        {
+            "company": "晋江阳光大药房有限公司",
+            "department": "药店",
+            "detail": "从事药店药品销售",
+            "endDate": "2016-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医药销售人员",
+            "scale": "150-500人",
+            "startDate": "2016-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "三下乡",
+            "detail": "跟同学到晋江进行三下乡活动。",
+            "endDate": "2013-08",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2013-07"
+        }
+    ],
+    "workYears": 2.0
+}

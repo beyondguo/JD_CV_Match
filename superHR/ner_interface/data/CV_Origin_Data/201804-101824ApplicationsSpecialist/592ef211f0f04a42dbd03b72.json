@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1995-05",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/SZProj/newrd/img/banner/personpic_m.png",
+        "registeredResidence": "长沙"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "圣犹达医疗用品（上海）有限公司",
+    "currentPosition": "实习生",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-07",
+            "major": "其他",
+            "school": "&nbsp;&nbsp;湖南师范大学",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2017-07",
+            "major": "其他",
+            "school": "&nbsp;&nbsp;湖南师范大学",
+            "startDate": "2013-09"
+        }
+    ],
+    "graduateSchool": "湖南师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售业务",
+        "salary": "10001-15000元/月",
+        "state": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。"
+    },
+    "langAbility": " \nMS Excel 精通 \nSPSS 良好 \nMS Powerpoint 精通 \n英语 熟练 \nMS WORD 熟练 ",
+    "otherLangResumeId": "592ef211f0f04a42dbd03b72",
+    "proSkill": "MS Excel精通 SPSS良好 MS Powerpoint精通 英语熟练 MS WORD熟练",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "4-5万元/年",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京品驰医疗设备有限公司",
+            "department": "",
+            "detail": "\n本人于2017年07月就职于北京品驰医疗设备有限公司担任市场经理一职.\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "市场经理",
+            "salary": "10001-15000元/月",
+            "scale": "",
+            "startDate": "2017-07",
+            "type": ""
+        },
+        {
+            "company": "圣犹达医疗用品有限公司",
+            "department": "",
+            "detail": "\n学习电生理技术，完成跟台\n",
+            "endDate": "2017-07",
+            "industry": "医疗设备/器械",
+            "position": "实习生",
+            "salary": "2001-4000元/月",
+            "scale": "",
+            "startDate": "2017-03",
+            "type": ""
+        }
+    ],
+    "workYears": 3.0
+}

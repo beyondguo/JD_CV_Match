@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1995-8-12",
+        "currentCity": "莆田",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": "英语四级",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n在校期间通过学习具备临床基础检验、临床微生物检验、临床生物化学检验、临床血液学检验、临床免疫学检验、病理检验技术等技术基础和一定的专业知识。并通过大学英语四级，计算机等级考试。",
+            "endDate": "2018-07",
+            "major": "医学检验技术",
+            "school": "莆田学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称未定级",
+    "graduateSchool": "2014-07 至今",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械",
+        "position": "医药学检验,产品应用工程师，医学检验技术员",
+        "salary": "3500-6000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5bacdf1ff0f00da093c2e912",
+    "projectExp": [],
+    "selfComm": "专业知识扎实，智育分居专业前25%.为人诚恳，勤奋好学。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "莆田人民医院",
+            "department": "检验科",
+            "detail": "负责日常标本的采集与检验",
+            "endDate": "2018-08",
+            "industry": "医疗/护理/卫生",
+            "position": "医学检验",
+            "scale": "150-500人",
+            "startDate": "2018-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "莆田市第一医院",
+            "department": "检验科",
+            "detail": "在莆田市第一医院检验科实习期间，学会检验的基本操作。熟悉一些常见的异常检验结果的处理，知道常见的影响检验结果的因素。",
+            "endDate": "2018-04",
+            "industry": "医疗/护理/卫生",
+            "position": "检验科实习生",
+            "startDate": "2017-07"
+        }
+    ],
+    "workYears": 0.0
+}

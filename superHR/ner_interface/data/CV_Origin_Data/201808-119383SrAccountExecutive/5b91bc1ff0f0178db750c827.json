@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安-未央区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "陕西省"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "北京微旋基因技术有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售部经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "生物科学",
+            "school": "延安大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械;制药/生物工程",
+        "position": "销售经理/主管",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b91bc1ff0f0178db750c827",
+    "projectExp": [],
+    "selfComm": "\n 做事积极主动，细致认真，学习能力较强。能够迅速适应环境，能承受较大的工作压力，具有一定的创新型思维。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京微旋基因技术有限公司",
+            "detail": "- 所在地区：北京-海淀区 \n - 下属人数：2人 \n - 职责业绩： \n1、负责公司销售部门的管理工作，包含销售计划的制定与实施，考核与评估；\n2、负责公司肿瘤基因检测项目、医学科研外包服务（二代测序服务、基因编辑服务、实验动物服务、分子细胞生物学服务）；\n3、负责公司三十五期生物医学技术培训的组织工作。\n",
+            "endDate": "2018-07",
+            "position": "销售部经理",
+            "startDate": "2016-05"
+        },
+        {
+            "company": "北京市理化分析测试中心",
+            "detail": "- 所在地区：北京 \n - 下属人数：0人 \n - 职责业绩： \n1、负责北京区域的市场开发、客户维护工作；\n2、负责医学科研外包服务（二代测序、Western blot、Elisa、Qpcr等实验）；\n3、负责北京市理化分析测试中心司法鉴定所的亲子鉴定业务，运营线上百度推广以及线下的司法/匿名亲子鉴定检测。\n",
+            "endDate": "2016-05",
+            "position": "销售代表",
+            "startDate": "2012-08"
+        }
+    ]
+}

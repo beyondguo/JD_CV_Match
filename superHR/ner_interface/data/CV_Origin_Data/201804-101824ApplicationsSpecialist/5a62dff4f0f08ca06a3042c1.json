@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "2016-11-16",
+        "currentCity": "厦门",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-06",
+            "major": "医学检验",
+            "school": "四川大学",
+            "startDate": "2016-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2015-06",
+            "major": "医学检验",
+            "school": "重庆医药高等专科学校",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生",
+        "position": "",
+        "salary": "8-10万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "四川大学华西第二医院",
+            "department": "医学检验科",
+            "detail": "医院检验科室：血液、生化、免疫、微生物、细胞学、门急诊、输血科/血库等亚专业组常规项目检测及常见疾病分析；科研：参与完成省、市级科研项目临床、基础研究。",
+            "endDate": "2016-08",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "事业单位",
+            "startDate": "2014-07"
+        }
+    ],
+    "workYears": 3.0
+}

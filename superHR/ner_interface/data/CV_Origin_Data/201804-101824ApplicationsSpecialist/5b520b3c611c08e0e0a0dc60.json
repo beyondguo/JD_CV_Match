@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1995-5-28",
+        "currentCity": "龙岩",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": "未参加",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "医学检验技术",
+            "school": "河北医科大学临床学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培：已规培\n执业证书：暂无执业证书\n职称：职称职称未定级",
+    "graduateSchool": "2014-01 至 2017-09",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医药学检验,医药学检验",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b520b3c611c08e0e0a0dc60",
+    "proSkill": "医学检验技术专业，有很好执行能力，和时间意识，熟悉实验室二级，三级的操作流程还有实验室管理，知道医院缺少什么，希望能给我一个面试机会，现在正在二甲医院工作",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "漳平市第一医院",
+            "detail": "熟悉二三级实验室流程，实习在河北医科大学实习，对于三级医院有很多的了解，平时工作过程中细心认真完成任务。有很好的基础知识",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "医药学检验",
+            "startDate": "2018-07"
+        }
+    ],
+    "workYears": 1.0
+}

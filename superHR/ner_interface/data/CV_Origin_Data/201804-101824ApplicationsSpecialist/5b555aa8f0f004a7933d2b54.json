@@ -1,0 +1,65 @@
+{
+    "basic": {
+        "birthday": "1990-05",
+        "currentCity": " 福州-晋安区",
+        "currentSalary": "年薪6 万元",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "uploads/talent_photo/1807/8da04c0cf74bcaa199c11be4dad45e58.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "福州西陇生物技术有限公司",
+    "currentPosition": "医疗器械销售代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-06",
+            "major": "生物科学",
+            "school": "福建农林大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "graduateSchool": "福建农林大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械&emsp;制药/生物工程",
+        "position": "",
+        "salary": "6-8万元/年",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "年薪6 万元",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州西陇生物技术有限公司",
+            "department": "技术支持部、市场部",
+            "detail": "\n福州西陇生物技术有限公司主要从事临床生化试剂的研发生产与销售的生产型企业，其中肿瘤特异性生长因子及配套试剂是公司的主打产品。2015.4进入公司以来主要从事的工作如下：\n\n1、2015.4-2017.2在公司技术支持部从事应用工程师工作，负责指导临床检验科医生对公司产品的正确使用，检验科生化仪的使用调试，项目性能验证实验等相关工作。同时配合部门经理对新进员工产品知识与实验技能培训。\n2、 \n2017.3-2017.11公司内部转岗，从事诊断试剂产品销售工作，主要负责福建南平与江西省两块区域公立医院、民营体检中心销售工作。目前已新开发南平地区公立二、三级医院与江西民营体检中心（美年大健康）客户5家，且每个月已稳定进货。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械|民营公司",
+            "position": "医疗器械销售代表",
+            "startDate": "2015-04"
+        },
+        {
+            "company": "福州新北生化工业有限公司",
+            "department": "生产部",
+            "detail": "新北生化工业有限公司是从事细菌内毒素检测鲎试剂的研发生产与销售的企业，在该公司主要负责的工作内容有：\n1、鲎试剂的配置与生产，冷冻干燥设备使用，生产工艺的改进。\n2、洁净厂房无菌操作学习与应用，新员工培训。",
+            "endDate": "2013-03",
+            "industry": "制药/生物工程|民营公司",
+            "position": "生物工程/生物制药",
+            "startDate": "2012-03"
+        }
+    ],
+    "workYears": 6.0
+}

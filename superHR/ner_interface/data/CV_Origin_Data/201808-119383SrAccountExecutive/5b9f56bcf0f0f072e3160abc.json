@@ -1,0 +1,108 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": " \n2016/8 大学英语六级 \n2013/6 会计从业资格 \n2013/2 报检员资格 \n2013/1 高级人力资源管理师 \n2012/7 市场营销助理 \n2012/7 ERP工程师 \n2011/9 物流师 \n2011/9 全国计算机等级二级 ",
+    "confidentialResume": "N",
+    "currentCompany": "美商宏鹰国际货运(上海)有限公司",
+    "currentIndustry": "交通/物流/运输",
+    "currentPosition": "客户服务专员",
+    "currentSalary": " 15万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-04",
+            "major": "法学",
+            "school": "西安工程大学",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2014-06",
+            "major": "物流管理",
+            "school": "渤海大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "交通/物流/运输",
+        "position": "物流专员/助理;物流/仓储项目管理",
+        "salary": "9.60万（8000元/月 * 12个月）"
+    },
+    "langAbility": " \n\nVisual FoxPro 一般 \nERP 熟练 \n\n英语 良好 ",
+    "otherLangResumeId": "5b9f56bdf0f0f072e3160ade",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "571691264",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：客服专员 \n - 所在公司：美商宏鹰国际货运(上海)有限公司 \n - 项目简介： \n大客户空运出口客服工作\n - 项目职责： \n联系客户安排相应航班，及时解决客户问题，国内外沟通\n",
+            "endDate": "2018-09",
+            "name": "APPLE/AMAT/CELESTIC",
+            "startDate": "2018-04"
+        },
+        {
+            "detail": "\n - 项目职务：项目专员 \n - 所在公司：DB SCHENKER \n - 项目简介： \n博西华家用电器内向物流方案项目\n - 项目职责： \n支持投标工作，数据分析，方案策划，PPT制作\n - 项目业绩： \n获得客户认可，中标成为客户指定货代\n",
+            "endDate": "2018-03",
+            "name": "BSH INBOUND",
+            "startDate": "2017-10"
+        },
+        {
+            "detail": "\n - 项目职务：项目专员 \n - 所在公司：DB SCHENKER \n - 项目简介： \n德国大陆品牌轮胎国内运输项目\n - 项目职责： \n数据分析，方案设计，报价分析，支持项目投标工作\n",
+            "endDate": "2018-01",
+            "name": "CONTINENTAL TIRE INBOUNF",
+            "startDate": "2017-10"
+        },
+        {
+            "detail": "\n - 项目职务：项目专员 \n - 所在公司：DB SCHENKER \n - 项目简介： \n国门店配送路线方案设计\n - 项目职责： \n配送方案设计 PPT制作\n - 项目业绩： \n客户采纳方案设计，并予以赞赏\n",
+            "endDate": "2017-12",
+            "name": "BURBERRY",
+            "startDate": "2017-10"
+        },
+        {
+            "detail": "\n - 项目职务：操作 \n - 所在公司：DB SCHENKER \n - 项目简介： \n国内运输操作，轮岗实习\n - 项目职责： \n国内运输操作，轮岗实习\n",
+            "endDate": "2017-09",
+            "name": "APLLE/AMAT/SAMSUNG",
+            "startDate": "2016-06"
+        },
+        {
+            "detail": "\n - 项目职务：项目专员 \n - 所在公司：DB SCHENKER \n - 项目简介： \n威能国内内向物流运输方案设计，报价分析\n - 项目职责： \n项目管理，数据分析，方案设计\n",
+            "endDate": "2017-05",
+            "name": "Vaillant",
+            "startDate": "2017-02"
+        }
+    ],
+    "selfComm": "\n 项目管理 数据分析 方案策划 熟练应用办公软件 做事理性 有条理 \n",
+    "trainExp": " \n2018/2--2018/2 高级EXCEL进阶培训 \n\n培训机构： DB SCHENKER \n培训地点： \n2011/9--2011/10 物流师资格培训 \n\n培训机构： 中国物流与采购协会 \n培训地点： \n\n培训描述： 通过培训学习了物流三大部分生产物流，销售物流以及供应链的相关知识。 \n2011/8--2011/9 校团委学生干部培训班 \n\n培训机构： 共青团渤海大学委员会 \n培训地点： 渤海大学 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "美商宏鹰国际货运(上海)有限公司",
+            "detail": "- 所在地区：上海 \n - 汇报对象：空运出口客服副总 \n - 下属人数：0人 \n - 职责业绩： \n操作APPLE/AMAT/CELESTIC国际大客户出口空运\n",
+            "endDate": "4000-10",
+            "position": "客户服务专员",
+            "startDate": "2016-12"
+        },
+        {
+            "company": "全球国际货运代理(中国)有限公司",
+            "detail": "\n - 汇报对象：部门主管 \n - 下属人数：0人 \n - 职责业绩： \n客户对运输方案设计采纳并赞赏，中标成为客户指定货代\n",
+            "endDate": "2018-04",
+            "position": "项目专员",
+            "startDate": "2016-12"
+        },
+        {
+            "company": "美商宏鹰国际货运(上海)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责西安地区大客户出口至欧美，亚洲空运客服工作\n",
+            "endDate": "2016-11",
+            "position": "客服",
+            "startDate": "2016-05"
+        }
+    ],
+    "workYears": 3.0
+}

@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1993-8-12",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "财政学",
+            "school": "武夷学院",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "通信/电信/网络设备,互联网/电子商务,贸易/进出口,银行,多元化业务集团公司",
+        "position": "其他,其他",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中移在线服务有限公司",
+            "department": "客服部",
+            "detail": "主要负责接听移动用户来电，为其解决困难！",
+            "endDate": "4000-10",
+            "industry": "通信/电信/网络设备",
+            "position": "其他",
+            "startDate": "2017-04"
+        }
+    ],
+    "workYears": 3.0
+}

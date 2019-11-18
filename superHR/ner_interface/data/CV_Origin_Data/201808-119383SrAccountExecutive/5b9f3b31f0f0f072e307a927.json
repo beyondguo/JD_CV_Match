@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1985-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "鸿君百年健康有限公司",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "培训师",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2007-07",
+            "major": "中西医临床医学",
+            "school": "青海医学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "鸿君百年健康有限公司",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "培训师",
+            "startDate": "2017-01"
+        },
+        {
+            "company": "小寨社区卫生服务中心",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "2016-12",
+            "position": "全科医生",
+            "startDate": "2012-03"
+        },
+        {
+            "company": "青海省贵德县人民医院",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "2011-06",
+            "position": "医生",
+            "startDate": "2007-08"
+        }
+    ]
+}

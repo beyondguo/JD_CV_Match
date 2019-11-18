@@ -1,0 +1,112 @@
+{
+    "in_path": "D:/Project/NER_Interface_v3_20190412/ner_interface/data/CV_Origin_Data/201804-101824ApplicationsSpecialist/5b14aa82611c47ba293409d6.json",
+    "id": "5b14aa82611c47ba293409d6",
+    "工作年限": 1.0,
+    "工作城市": [
+        "徐汇区-静安区-普陀区-虹口区-黄浦区"
+    ],
+    "专业": [
+        "医学检验"
+    ],
+    "毕业院校": [
+        "厦门大学"
+    ],
+    "学历": [
+        "硕士"
+    ],
+    "工作经验": [
+        {
+            "工作公司": "厦门市妇幼保健院",
+            "工作部门": [
+                "分子生物学实验室"
+            ],
+            "工作职位": [
+                "实验员"
+            ],
+            "岗位工作年限": 1.2,
+            "工作描述": {
+                "技能": [
+                    "Y"
+                ],
+                "学历": [],
+                "专业": [],
+                "行业": [
+                    "产"
+                ],
+                "职能": [],
+                "年限": [],
+                "业务": [
+                    "G"
+                ],
+                "产品": []
+            }
+        }
+    ],
+    "项目经验": [
+        {
+            "项目描述": {
+                "技能": [
+                    "Simultaneous",
+                    "Detection",
+                    "of",
+                    "Spinal",
+                    "muscular",
+                    "atrophy",
+                    "and",
+                    "Duchenne",
+                    "muscular",
+                    "dystrophies",
+                    "with",
+                    "Multiplex",
+                    "Ligation-Dependent",
+                    "Probe",
+                    "Amplification-Based",
+                    "Real-Time",
+                    "Evaluation",
+                    "of a",
+                    "Magnetic",
+                    "Cellulose-Based",
+                    "ExtractionSystem",
+                    "to",
+                    "Improve",
+                    "the",
+                    "Performance",
+                    "of",
+                    "HybriBio",
+                    "Human",
+                    "Papillomavirus",
+                    "Genotyping",
+                    "and",
+                    "Screening",
+                    "Tests",
+                    "for",
+                    "Cervical",
+                    "Swab",
+                    "Samples",
+                    "The",
+                    "gene",
+                    "mutations",
+                    "in",
+                    "Congenital",
+                    "Central",
+                    "Hypoventilation",
+                    "rsquo",
+                    "Syndrome",
+                    "and",
+                    "its",
+                    "pathogenicity"
+                ],
+                "学历": [],
+                "专业": [],
+                "行业": [],
+                "职能": [],
+                "年限": [],
+                "业务": [],
+                "产品": []
+            }
+        }
+    ],
+    "技能": [],
+    "业务": "",
+    "产品": ""
+}

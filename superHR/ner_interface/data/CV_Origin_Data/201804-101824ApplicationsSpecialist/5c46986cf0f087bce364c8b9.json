@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "福建",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "卡尔史托斯内窥镜(上海)有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售经理/主管",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-01",
+            "major": "药学",
+            "school": "莆田学院",
+            "startDate": "2009-01"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "industry": "制药/生物工程",
+        "position": "销售代表;医药销售代表;大客户销售",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "卡尔史托斯内窥镜(上海)有限公司",
+            "detail": "- 所在地区：福建 \n - 下属人数：0人 \n - 职责业绩： \n1. 产品学习：装机与跟台，独立做产品配置\n2. 产品培训：能够对区域经销商进行产品培训\n3. 市场活动：协助举办厦门呼吸内镜学习班、福建神经外科年会、西安神经内镜解剖班、熟悉市场活动流程\n4. 订单跟进：能够同经销商跟进省内重点医院等项目客户拜访、订单跟进、方案制定、院内产品宣讲、招投标工作和合同签订。\n",
+            "endDate": "2018-11",
+            "position": "销售经理/主管",
+            "startDate": "2018-08"
+        }
+    ],
+    "workYears": 11.0
+}

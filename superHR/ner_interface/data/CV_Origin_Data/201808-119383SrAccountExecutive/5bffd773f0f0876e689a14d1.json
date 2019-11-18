@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "北京万泰生物药业股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "技术工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "制药工程",
+            "school": "牡丹江医学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "售后支持工程师",
+        "salary": "10.80万（9000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京万泰生物药业股份有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n1.售前、中、后的临床应用支持； \n2.用户临床应用培训，产品演示推广； \n3.客户临床应用及产品技术问题解答； \n4.窗口维护，与所在市场医疗专家建立紧密的学术交流关系； \n5.策划和支持所在市场的推广会，展会及学术会活动； \n6.用户信息收集、整理和反馈。\n",
+            "endDate": "4000-10",
+            "position": "技术工程师",
+            "startDate": "2016-09"
+        },
+        {
+            "company": "郑州安图生物工程股份有限公司",
+            "detail": "\n - 汇报对象：省经理 \n - 下属人数：0人 \n - 职责业绩： \n负责所属省份微生物项目的售前售后服务，配合销售完成业绩任务，建立及完善客户档案，能独立完成装机及客户培训，及时有效的处理客户问题。\n",
+            "endDate": "2016-08",
+            "position": "技术服务工程师",
+            "startDate": "2014-07"
+        }
+    ],
+    "workYears": 5.0
+}

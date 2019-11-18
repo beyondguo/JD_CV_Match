@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福建省第二人民医院",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "药剂师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "中药学",
+            "school": "福建中医药大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "互联网/移动互联网/电子商务;医疗设备/器械;制药/生物工程",
+        "position": "销售代表;医药销售代表;区域销售专员/助理",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b7391a5f0f0b1d8f8b140d8",
+    "projectExp": [],
+    "selfComm": "做事塌实认真，能吃苦耐劳；学习能力强，能够很快的理解新事物；性格开朗，诚实正直，谦和自信，乐于进取乐于奉献，勤奋好学，用心上进，有较强的社会适应潜力。工作踏实，认真细致，具有强烈的事业心和工作职责心，善于处理人际关系，具有极佳的团队合作精神。\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建省第二人民医院",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n2012-2013 于中药房从事处方调剂工作，工作期间无差错，得到领导肯定，并获得当年优秀员工奖。 \n2013-2016 从事中药房窗口服务工作，服务好每一位患者的同时也提高了自身沟通交流的能力。 \n2016-至今 于制剂室从事院内制剂的研发与生产，期间还参与策划了制剂室的搬迁、重建等工作。\n",
+            "endDate": "4000-10",
+            "position": "药剂师",
+            "startDate": "2012-08"
+        }
+    ]
+}

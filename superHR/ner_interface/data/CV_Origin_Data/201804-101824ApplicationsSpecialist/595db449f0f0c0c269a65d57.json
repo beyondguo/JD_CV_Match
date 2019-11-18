@@ -1,0 +1,267 @@
+{
+    "basic": {
+        "birthday": "1980-01",
+        "currentCity": "南京",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "南京浩谷生物工程有限公司（雅培诊断江苏省总代）",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "工程部经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "医学检验",
+            "school": "南京医科大学",
+            "startDate": "2014-03"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2005-07",
+            "major": "医学检验",
+            "school": "安徽医科大学",
+            "startDate": "2001-09"
+        },
+        {
+            "degree": "中专",
+            "endDate": "2000-07",
+            "major": "医学检验",
+            "school": "安徽巢湖卫校",
+            "startDate": "1997-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "黑名单",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761640.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761643.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761645.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761648.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761651.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3a26b09c7909715ed2e89",
+            "id": "6",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761655.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#工程师",
+                "id": "11",
+                "orderIndex": 11.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "7",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761658.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "8",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761662.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "9",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761664.0,
+            "strValue": "南京",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761667.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761670.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "10",
+                    "enumValue": "江苏省",
+                    "id": "9",
+                    "isDefault": false,
+                    "orderIndex": 9.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Oct 10, 2017 2:09:21 PM",
+            "lastUpdated": 1507615761674.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "南京",
+        "industry": "医疗设备/器械",
+        "position": "售后支持工程师",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "595db449f0f0c0c269a65d57",
+    "projectExp": [],
+    "selfComm": "\n本人性格开朗、稳重、有活力，待人热情、真诚；工作认真负责，积极主动，能吃苦耐劳，勇于承受压力，勇于创新；有很强的组织能力和团队协作精神，具有较强的适应能力；纪律性强，工作积极配合；意志坚强，具有较强的无私奉献精神；善于沟通、协调、乐观上进、有爱心并善于施教并行；上进心强、勤于学习能不断提高自己的能力与综合素质\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "南京浩谷生物工程有限公司（雅培诊断江苏省总代）",
+            "detail": "- 所在地区：南京 \n - 下属人数：4人 \n - 职责业绩： \n负责工程部管理工作，负责江苏地区雅培诊断产品i1000和i2000化学发光分析仪器、i4000模块化学发光分析仪器、C8000全自动生化分析仪、C16000全自动生化分析仪装机，维修和维护工作及对医院检验科操作人员的应用培训、仪器参数设置、检测项目定标、质控出控处理、检测项目异常结果的解释和辅助操作老师进行实验室系统性能验证等技术支持方面工作。\n",
+            "endDate": "4000-10",
+            "position": "工程部经理",
+            "startDate": "2016-03"
+        },
+        {
+            "company": "南京新月生物科技有限公司（雅培诊断江苏省总代）",
+            "detail": "- 所在地区：南京 \n - 下属人数：0人 \n - 职责业绩： \n负责工程部管理工作，负责江苏地区雅培诊断产品AXSYM化学发光分析仪器、i1000化学发光分析仪器、i2000化学发光分析仪器、i4000模块化学发光分析仪器、C8000全自动生化分析仪、C16000全自动生化分析仪装机，维修和维护工作及对医院检验科操作人员的应用培训、仪器参数设置、检测项目定标、质控出控处理、检测项目异常结果的解释和辅助操作老师进行实验室系统性能验证等技术支持方面工作。\n",
+            "endDate": "2016-02",
+            "position": "技术支持工程师",
+            "startDate": "2012-04"
+        },
+        {
+            "company": "南京艾迪康医学检验所有限公司",
+            "detail": "- 所在地区：南京 \n - 下属人数：10人 \n - 职责业绩： \n负责大生化和化学发光。负责仪器的维护保养和参数设置，负责室内质控和室间质评工作，负责试剂的申购。并在实验室评审ISO15189方面准备了大量材料和数据文献。\n",
+            "endDate": "2012-03",
+            "position": "生化和化学发光专业组主管",
+            "startDate": "2009-01"
+        },
+        {
+            "company": "南京科联科医疗设备有限公司",
+            "detail": "- 所在地区：南京 \n - 下属人数：0人 \n - 职责业绩： \n负责Olympus全自动生化分析仪AU400、AU640、AU2700和AU5400系列应用培训工作。\n",
+            "endDate": "2008-12",
+            "position": "应用工程师",
+            "startDate": "2008-01"
+        },
+        {
+            "company": "中国人民解放军南京八一医院",
+            "detail": "- 所在地区：南京 \n - 下属人数：0人 \n - 职责业绩： \n平时工作认真，严谨。能熟练地操作贝克曼五分类血细胞分析仪、ABX三分类和五分类血球仪、希森美康三分类血球仪、尿液分析仪、希森美康尿沉渣分析仪、血液流变仪、ACL血凝仪、希森美康血凝仪、洗板机、酶标仪、日立7600全自动生化分析仪、奥林巴斯AU640全自动生化分析仪、罗氏P800和E170模块式生化发光分析系统、罗氏cobas6000分析系统、雅培C8000全自动生化分析仪、雅培AXSYM化学发光分析仪、雅培i2000化学发光仪、贝克曼ACCESS化学发光分析仪、DPC2000化学发光分析仪、贝克曼IMMAGE特定蛋白分析仪等。能够圆满完成卫生部临检中心的室间质控品检测并网报、取得室间质评结果优秀成绩。\n",
+            "endDate": "2007-12",
+            "position": "检验师",
+            "startDate": "2000-07"
+        }
+    ],
+    "workYears": 18.0
+}

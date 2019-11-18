@@ -1,0 +1,120 @@
+{
+    "basic": {
+        "birthday": "1987-03",
+        "currentCity": "莆田",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/3/1/2a3a732f-d7b6-4b4a-9767-bfd7bcaa00be.jpg",
+        "registeredResidence": "莆田"
+    },
+    "certificate": "\n2010.06 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentCompany": "福州金域医学检验所有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "合作共建经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-06",
+            "major": "中医学",
+            "school": "&nbsp;&nbsp;福建中医药大学",
+            "startDate": "2007-09"
+        },
+        {
+            "degree": "高中",
+            "endDate": "2007-09",
+            "major": "理科",
+            "school": "&nbsp;&nbsp;福建莆田第一中学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门、福州、莆田",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程、医疗设备/器械、医疗/护理/美容/保健/卫生服务",
+        "position": "销售业务、销售管理、业务拓展经理/主管",
+        "salary": "15000-25000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "\n英语：  读写能力熟练| 听说能力良好 ",
+    "otherLangResumeId": "5a983a73f0f0df3ee1b0ed3e",
+    "projectExp": [],
+    "selfComm": " \n本人性格外向开朗，与人处事融洽，具有良好的沟通能力与团队合作精神。对工作善始善终，认真负责，坚毅不拔，能承受日益严重的竞争压力，并能在成功与失败中完善自己，勇于迎接新挑战。适应力强、勤奋好学。\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "金域医学",
+            "department": "",
+            "detail": "\n1、医院检验科托管\n2、县域检验中心合作共建\n3、检验科/检验中心托管后的运营\n",
+            "endDate": "2019-01",
+            "industry": "检验/检测/认证",
+            "position": "合作共建经理",
+            "salary": "10001-15000元/月",
+            "scale": "1000-9999人",
+            "startDate": "2016-08",
+            "type": "民营"
+        },
+        {
+            "company": "金域医学",
+            "department": "",
+            "detail": "\n莆田地区市场管理，销售策略指定，人员带教；重大客户的开发、维护；\n",
+            "endDate": "2016-09",
+            "industry": "医疗设备/器械",
+            "position": "莆田地区经理",
+            "salary": "10001-15000元/月",
+            "scale": "",
+            "startDate": "2016-03",
+            "type": ""
+        },
+        {
+            "company": "金域医学",
+            "department": "",
+            "detail": "\n医院检验外包项目的开发、上量、回款、客户维护。\n",
+            "endDate": "2016-03",
+            "industry": "医疗设备/器械",
+            "position": "诊断支持代表",
+            "salary": "15000-25000元/月",
+            "scale": "",
+            "startDate": "2012-08",
+            "type": ""
+        },
+        {
+            "company": "长春金赛药业有限责任公司",
+            "department": "",
+            "detail": "\n拜访维护老客户，开发新客户，传递产品知识。\n",
+            "endDate": "2012-07",
+            "industry": "医药/生物工程",
+            "position": "医学信息沟通专员",
+            "salary": "6001-8000元/月",
+            "scale": "1000-9999人",
+            "startDate": "2012-05",
+            "type": "国企"
+        },
+        {
+            "company": "福州市中医院",
+            "department": "",
+            "detail": "\n到各个科室实习，理论联系实际\n",
+            "endDate": "2012-05",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "医生/医师",
+            "salary": "1000元/月",
+            "scale": "500-999人",
+            "startDate": "2011-12",
+            "type": "事业单位"
+        },
+        {
+            "company": "福州市第二医院",
+            "department": "",
+            "detail": "\n到各个科室实习，理论联系实际。\n",
+            "endDate": "2011-12",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "医生/医师",
+            "salary": "1000元/月",
+            "scale": "1000-9999人",
+            "startDate": "2011-06",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 8.0
+}

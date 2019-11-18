@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1995-2-21",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "1600434d2a70c66bc8b82560dbc48852_avatar_1535645383.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "榆林",
+        "zipCode": "719400"
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "内科，外科，妇产科，儿科，医学影像学，医学物理学，生理学，生物化学与分子生物学，药学，医学心理学，卫生法，流行病学",
+            "endDate": "2019-06",
+            "major": "临床医学与医学技术",
+            "school": "西安医学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医疗器械市场推广,医疗器械销售经理/主管,医疗器械销售代表,医疗器械销售",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "otherLangResumeId": "5b8826d3f0f075347f5b5d1d",
+    "projectExp": [
+        {
+            "detail": "自助创业，加盟茶物语饮品公司，在自身能力锻炼的同时也为学校提供勤工俭学的岗位",
+            "endDate": "2016-09",
+            "name": "茶物语饮品店的创办",
+            "responsibility": "前期店面选址，店面装修，与公司协商加盟事宜及培训，员工聘用，技术指导，指定营销策略等都由我一人负责",
+            "startDate": "2014-09"
+        }
+    ],
+    "selfComm": "\n性格外向，活泼开朗，俩年开店经历造就了我有良好的组织能力以及团队协作意识，在营销方面有良好的经验基础，有较好的与人沟通能力、感染力，五年临床医学本科学习，奠定了我扎实的医学基础，培养了我熟练掌握医疗器械使用的能力",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安市中心医院",
+            "detail": "对临床常见疾病症状以及治疗手段有更深一步的认识，临床医疗器械有更全面的了解",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实习医生",
+            "startDate": "2018-01"
+        }
+    ],
+    "workYears": 0.0
+}

@@ -1,0 +1,67 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "河南",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": " \n2009/7 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "郑州统一企业有限公司",
+    "currentIndustry": "食品/饮料/烟酒/日化",
+    "currentPosition": "市场推广",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "汉语言文学",
+            "school": "福州大学至诚学院",
+            "startDate": "2008-09"
+        }
+    ],
+    "extendFields": "",
+    "graduateSchool": "福州大学至诚学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "郑州;南京",
+        "industry": "食品/饮料/烟酒/日化;制药/生物工程",
+        "position": "品牌经理/主管;市场企划经理/主管",
+        "salary": "面议"
+    },
+    "langAbility": " \n\n英语 一般 \nMS Powerpoint 精通 \n\nMS Excel 精通 ",
+    "otherLangResumeId": "58f621f3f0f0f7ce1faa2eed",
+    "proSkill": "英语    一般\nMS Powerpoint    精通\nMS Excel    精通\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "15-20万元/年",
+    "selfComm": "\n 学习能力强，有明确的目标导向； \n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "郑州统一企业有限公司",
+            "detail": "- 所在地区：郑州 \n - 下属人数：0人 \n - 职责业绩： \n1.整合区域内事件资源，进行事件营销，增加产品品牌曝光度及消费契机；\n2.结合区域内经营策略，进行产品推广思路的改善，并进行推广活动的落地执行；\n3.结合区域内热点时间，进行公司产品资源线上营销；\n",
+            "endDate": "4000-10",
+            "position": "市场推广",
+            "startDate": "2017-01"
+        },
+        {
+            "company": "上海巴克斯酒业营销有限公司",
+            "detail": "- 所在地区：郑州 \n - 下属人数：2人 \n - 职责业绩： \n发掘郑州区域市场营销机会，进行产品品牌传播；\n办事处市场费用进行管理管控，完善费用使用有效性；\n常规推广活动策划及安排；\n",
+            "endDate": "2016-10",
+            "position": "市场推广主管",
+            "startDate": "2014-09"
+        },
+        {
+            "company": "索尼(中国)有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n1.工作期间，接受CEPS华南大区领导，负责福建区域市场内DI产品对外市场推广工作，区域内异业结合、索尼课堂培训、春秋季新品区域落地巡展等；\n2.负责区域内数码产品培训工作，内容包括，负责对区域内销售公司、经销商人员、门店促销人员等进行产品培训；负责区域内DI课堂摄影培训及外拍活动。\n3.负责区域内线上新媒体方式内容提供，及按照CEPS总部规划进行新媒体维护；\n4.按照CEPS总部规划，进行产品课件内容编写。\n",
+            "endDate": "2014-06",
+            "position": "产品方案市场推广专员",
+            "startDate": "2012-06"
+        }
+    ],
+    "workYears": 7.0
+}

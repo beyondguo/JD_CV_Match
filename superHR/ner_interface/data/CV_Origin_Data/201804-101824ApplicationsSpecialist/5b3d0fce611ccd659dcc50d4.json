@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1993-8-28",
+        "currentCity": "福建省",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "中专",
+    "eduExp": [
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "护理学",
+            "school": "江西省宜春市技术学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "客服及支持,网络/在线销售",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

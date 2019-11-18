@@ -1,0 +1,66 @@
+{
+    "basic": {
+        "birthday": "1993-02",
+        "currentCity": " 泉州 ",
+        "currentSalary": "6000-7999元/月",
+        "gender": "男",
+        "maritalStatus": ""
+    },
+    "certificate": "2013/6大学英语四级 （478）\n",
+    "confidentialResume": "N",
+    "currentCompany": "深圳市新产业生物医学工程股份有限公司",
+    "currentPosition": "售后工程师",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "生物科学，技术",
+            "school": "江西师范大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "extendFields": "",
+    "graduateSchool": "江西师范大学",
+    "jobObjective": {
+        "city": "厦门&emsp;福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "其他&emsp;医疗器械维修人员&emsp;其他",
+        "salary": "6000-7999元/月",
+        "state": "3个月内"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "59914246f0f02c90984aa0d2",
+    "proSkill": "英语    良好\n闽南语    精通\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "6000-7999元/月",
+    "selfComm": "本人擅长医疗器械仪器的售后服务，对应用方面接受程度大，熟悉售后流程。在职期间主要对操作人员进行培训，问题跟踪解决，问题采集反馈。已从事该行业两年多。对实验操作，以及临床知识都有一定的了解。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳市新产业生物医学工程股份有限公司",
+            "department": "国内技术服务部",
+            "detail": "主要负责仪器的安装，操作培训，负责跟踪客户的使用体验，处理仪器故障，帮客户开展新项目，跟临床沟通遇到的相关问题，采集客户反馈信息，及时处理客户问题。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售后工程师",
+            "scale": "1000-5000人",
+            "startDate": "2014-11"
+        },
+        {
+            "company": "中国林科院以及荒漠署",
+            "department": "生态学类别",
+            "detail": "在暑期期间跟随林科院的博士后老师到内蒙古进行科考，建立一个生态基站，该基站将是未来对当地生物的习性观察基地以及是目前为止范围最大的基地。在实习期间表现良好，工作努力，被授予优秀实习生",
+            "endDate": "2013-09",
+            "industry": "学术/科研",
+            "position": "其他",
+            "scale": "非营利机构",
+            "startDate": "2013-08"
+        }
+    ],
+    "workYears": 3.0
+}

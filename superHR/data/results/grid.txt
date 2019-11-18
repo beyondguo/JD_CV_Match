@@ -1,0 +1,160 @@
+
+===Params:业务:1,职位:1,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.47, gain:0.56  ■
+top50-score:0.64, gain:0.28  ■
+--Overall_gain: -0.66
+
+===Params:业务:1,职位:1,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.37, gain:0.22  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: -1.62
+
+===Params:业务:1,职位:1,行业:3
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.15, gain:-0.25
+top30-score:0.30, gain:0.00
+top50-score:0.56, gain:0.12  ■
+--Overall_gain: -2.13
+
+===Params:业务:1,职位:1,行业:4
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.30, gain:0.00
+top50-score:0.56, gain:0.12  ■
+--Overall_gain: -1.88
+
+===Params:业务:1,职位:2,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.10, gain:0.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.64, gain:0.28  ■
+--Overall_gain: 0.22●●●●●这个不错●●●●
+
+===Params:业务:1,职位:2,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.25, gain:0.25  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.62, gain:0.24  ■
+--Overall_gain: -1.07
+
+===Params:业务:1,职位:2,行业:3
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.33, gain:0.11  ■
+top50-score:0.60, gain:0.20  ■
+--Overall_gain: -1.69
+
+===Params:业务:1,职位:3,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.10, gain:0.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: 0.10●●●●●这个不错●●●●
+
+===Params:业务:1,职位:3,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.10, gain:0.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.60, gain:0.20  ■
+--Overall_gain: 0.14●●●●●这个不错●●●●
+
+===Params:业务:1,职位:4,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.20, gain:1.00  ■
+top20-score:0.30, gain:0.50  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: 1.10●●●●●这个不错●●●●
+
+===Params:业务:2,职位:1,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.47, gain:0.56  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: -1.28
+
+===Params:业务:2,职位:1,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.40, gain:0.33  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: -1.51
+
+===Params:业务:2,职位:1,行业:3
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.25, gain:0.25  ■
+top30-score:0.33, gain:0.11  ■
+top50-score:0.62, gain:0.24  ■
+--Overall_gain: -1.40
+
+===Params:业务:2,职位:2,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.47, gain:0.56  ■
+top50-score:0.60, gain:0.20  ■
+--Overall_gain: -0.74
+
+===Params:业务:2,职位:2,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.47, gain:0.56  ■
+top50-score:0.64, gain:0.28  ■
+--Overall_gain: -0.66
+
+===Params:业务:2,职位:3,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.10, gain:0.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.43, gain:0.44  ■
+top50-score:0.64, gain:0.28  ■
+--Overall_gain: 0.22●●●●●这个不错●●●●
+
+===Params:业务:3,职位:1,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.50, gain:0.67  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: -1.17
+
+===Params:业务:3,职位:1,行业:2
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.40, gain:0.33  ■
+top50-score:0.56, gain:0.12  ■
+--Overall_gain: -1.55
+
+===Params:业务:3,职位:2,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.30, gain:0.50  ■
+top30-score:0.50, gain:0.67  ■
+top50-score:0.60, gain:0.20  ■
+--Overall_gain: -0.63
+
+===Params:业务:4,职位:1,行业:1
+top5-score:0.00, gain:-1.00
+top10-score:0.00, gain:-1.00
+top20-score:0.20, gain:0.00
+top30-score:0.43, gain:0.44  ■
+top50-score:0.58, gain:0.16  ■
+--Overall_gain: -1.40

@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "中国空间技术研究院西安分院",
+    "currentIndustry": "电子技术/半导体/集成电路",
+    "currentPosition": "产品开发工程师",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2014-07",
+            "major": "微电子",
+            "school": "西安电子科技大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "电子技术/半导体/集成电路",
+        "position": "项目专员/助理",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5bab7d06f0f00da0936dc8ff",
+    "projectExp": [],
+    "selfComm": "\n 具有较强的学习能力，刻苦勤奋，不畏挑战 优秀的团队协作能力，做事积极、有责任心 善于发现问题，解决问题，抗压能力强，对待工作谨慎细致 \n善于沟通，具有良好的组织能力\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中国空间技术研究院西安分院",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n\n2015.05-至今 担任产品研发、管理环节\n",
+            "endDate": "4000-10",
+            "position": "产品开发工程师",
+            "startDate": "2015-03"
+        }
+    ]
+}

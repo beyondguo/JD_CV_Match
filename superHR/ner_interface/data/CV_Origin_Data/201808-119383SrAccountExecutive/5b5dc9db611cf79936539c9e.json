@@ -1,0 +1,72 @@
+{
+    "basic": {
+        "birthday": "1993-01",
+        "currentCity": "Shanghai",
+        "gender": "Male",
+        "nationality": "China",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "上海春秋飞行培训有限公司",
+    "currentIndustry": "Aerospace/Aviation/Airlines",
+    "currentPosition": "市场销售",
+    "degree": "Master",
+    "eduExp": [
+        {
+            "degree": "Master",
+            "endDate": "2017-07",
+            "major": "International Business Development",
+            "school": "Parma University",
+            "startDate": "2017-02"
+        },
+        {
+            "degree": "Master",
+            "endDate": "2017-02",
+            "major": "International Business Economics Management",
+            "school": "Vilniius University",
+            "startDate": "2015-08"
+        },
+        {
+            "degree": "Technical School",
+            "endDate": "2016-07",
+            "major": "EASA Pilot License",
+            "school": "Baltic Aviation Academy",
+            "startDate": "2015-11"
+        },
+        {
+            "degree": "Bachelor",
+            "endDate": "2014-12",
+            "major": "Political Science/Business Admin.",
+            "school": "California State University",
+            "startDate": "2011-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "Shanghai",
+        "industry": "New Energy;Transportation/Shipping/Logistics;Aerospace/Aviation/Airlines",
+        "position": "Sales Operations Manager/Supervisor",
+        "salary": "180.00K(12000Yuan/Month * 15Months)"
+    },
+    "otherLangResumeId": "5b5dc9db611cf79936539c9e",
+    "projectExp": [],
+    "selfComm": "\n Seeking positions in sales or marketing department where my language, \ncommunication skills with knowledge in business can assist the company to gain \nmore advantages in the market.\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Lufthansa Cargo",
+            "detail": "- 所在地区：Shanghai \n - 下属人数：0人 \n - 职责业绩： \n&bull; Create flight, revenue, sales &amp; numerous other reports serving Asia\n&bull; Track reported data and propose insightful conclusions accordingly\n",
+            "endDate": "2018-01",
+            "position": "North Asia Commercial Manager",
+            "startDate": "2017-07"
+        },
+        {
+            "company": "Dimerco Express",
+            "detail": "- 所在地区：Dallas \n - 下属人数：0人 \n - 职责业绩： \n&bull; Manage Asian export accounts\n&bull; Negotiate price rates with major airlines and customers\n&bull; File government paperwork and consolidate shipments\n&bull; Oversee warehouse inventory &amp; responsible for all incoming shipments\n",
+            "endDate": "2015-08",
+            "position": "Air Export Specialist",
+            "startDate": "2015-01"
+        }
+    ],
+    "workYears": 4.0
+}

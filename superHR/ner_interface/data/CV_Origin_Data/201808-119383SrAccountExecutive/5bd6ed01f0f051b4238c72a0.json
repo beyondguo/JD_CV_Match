@@ -1,0 +1,95 @@
+{
+    "basic": {
+        "birthday": "1992-3-26",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "4ad843406ca3b3a5430d15ec27ce31fd_avatar_1509872915.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "陇南",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/6 高中生物教师资格证 \n2014/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "细胞生物学，发表SCI一篇（IF：5.3），专利两项",
+            "endDate": "2018-06",
+            "major": "细胞生物学",
+            "school": "上海大学",
+            "startDate": "2015-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "省部共建重点师范类生物科学，发表中文核心两篇",
+            "endDate": "2015-06",
+            "major": "生物科学，技术",
+            "school": "西北师范大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,教育/培训/院校",
+        "position": "临床协调员,医药学术推广,医药技术研发人员,生物工程/生物制药,临床研究员,医药代表，学术推广，技术支持，研发，培训，实验员",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 熟练 ",
+    "projectExp": [
+        {
+            "detail": "公司承接强生美林布洛芬宣传推广软文编辑，整理及汇编其相关英文文献，做文字整理及幻灯制作",
+            "endDate": "4000-10",
+            "name": "强生美林布洛芬推广软文",
+            "responsibility": "执行者",
+            "startDate": "2018-06"
+        },
+        {
+            "detail": "组织病例研讨会，邀请上海市三甲医院专家主任，针对临床上遇到的骨质疏松特殊病例交流极其研讨，在会上演讲解说安康信药代动力学",
+            "endDate": "2018-02",
+            "name": "骨质疏松病例研讨会",
+            "responsibility": "参与组织者",
+            "startDate": "2017-01"
+        }
+    ],
+    "selfComm": "乐观积极，热爱生活，具有较强的抗压能力与学习能力，责任心强\n校内职务 \n2016/6-2017/6 学生会秘书部部长 \n职务描述： 主要负责办公室文书工作、活动礼仪协调统筹，协助其他部门组织筹办学院活动 \n2012/6-2014/6 学生会科技部部长 \n职务描述： 主要负责协调策划学院大小型活动，以及社团活动的对外宣传和海报的设计制作，大型晚会筹办 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海医美",
+            "detail": "与甲方医药公司对接，进行针对性的临床研究文献整理以及汇编工作",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "医学编辑",
+            "startDate": "2018-06"
+        },
+        {
+            "company": "默沙东有限公司",
+            "department": "BP",
+            "detail": "主要负责协助召开学术会议、讲座，为医生提供药品专业知识支持以及解答",
+            "endDate": "2018-03",
+            "industry": "制药/生物工程",
+            "position": "医药销售人员",
+            "scale": "5000-10000人",
+            "startDate": "2017-12",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "上海青少年科学社",
+            "department": "教学部",
+            "detail": "协调安排上课事宜，授课，创新课程开发课件制作以及课前培训\nSTEM课程开发以及授课",
+            "endDate": "2017-12",
+            "industry": "教育/培训/院校",
+            "position": "中学教师 (兼职)",
+            "scale": "50-150人",
+            "startDate": "2015-10",
+            "type": "国企"
+        }
+    ],
+    "workYears": 0.0
+}

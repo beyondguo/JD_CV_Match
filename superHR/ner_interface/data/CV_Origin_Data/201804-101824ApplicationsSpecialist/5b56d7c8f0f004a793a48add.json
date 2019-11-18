@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1993-01",
+        "currentCity": "福建省",
+        "gender": "男",
+        "maritalStatus": "保密",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "徐州矿务集团总医院",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "检验科实习生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-06",
+            "major": "医学检验技术",
+            "school": "安徽理工大学",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "医疗技术人员",
+        "salary": "未填",
+        "state": "离职，正在找工作"
+    },
+    "langAbility": "\n普通话\n",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "徐州矿务集团总医院",
+            "companyDescription": "",
+            "department": "",
+            "detail": "职责业绩： 实习科室：生化室、免疫室、微生物室、临检中心、血液室、采血室、核医学、输血科、细胞室。\n实习内容包括：医院检验科各科室半自动及全自动各项仪器的使用、各项手工操作流程和采血技术等。熟悉了检验科的基本运行流程，工作得到了医院老师的一致认可。",
+            "endDate": "2017-04",
+            "industry": "医疗/保健/美容/卫生服务",
+            "position": "检验科实习生",
+            "salary": "保密",
+            "scale": "",
+            "startDate": "2016-06",
+            "type": ""
+        }
+    ],
+    "workYears": 1.0
+}

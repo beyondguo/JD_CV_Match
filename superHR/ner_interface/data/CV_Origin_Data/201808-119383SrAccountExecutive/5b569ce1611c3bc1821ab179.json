@@ -1,0 +1,133 @@
+{
+    "basic": {
+        "birthday": "1989-11-2",
+        "currentCity": "咸阳",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/5dd6eaf5cea4815163d6ee2b9f296f5e.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "咸阳",
+        "zipCode": ""
+    },
+    "certificate": " \n2014/4 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "西安蓝港数字医疗科技股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域销售经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "主要课程：水污染处理，大气污染处理，固体废物处理。毕业设计：医疗医用垃圾的处理工艺。有一定的环评经历。",
+            "endDate": "2013-07",
+            "major": "环境工程",
+            "school": "山东农业大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "咸阳",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售代表,销售经理",
+        "salary": "10-15万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5b569ce1611c3bc1821ab179",
+    "projectExp": [
+        {
+            "detail": "泾阳县康泰医院动态心电图项目。",
+            "endDate": "2018-04",
+            "name": "泾阳县康泰医院",
+            "responsibility": "",
+            "startDate": "2018-04"
+        },
+        {
+            "detail": "湘潭市三医院动态心电图项目。18年1月二次采购项目。",
+            "endDate": "2017-07",
+            "name": "湖南湘潭市第三人民医院",
+            "responsibility": "",
+            "startDate": "2017-07"
+        },
+        {
+            "detail": "旬邑县医院功能科动态心电图项目。",
+            "endDate": "2017-06",
+            "name": "旬邑县医院",
+            "responsibility": "",
+            "startDate": "2017-06"
+        },
+        {
+            "detail": "怀化市第一人民医院运动平板项目，动态心电项目。",
+            "endDate": "2017-05",
+            "name": "怀化市第一人民医院",
+            "responsibility": "",
+            "startDate": "2017-05"
+        },
+        {
+            "detail": "湖南省建设医院动态心电，运动平板项目。",
+            "endDate": "2017-04",
+            "name": "湖南省建设医院",
+            "responsibility": "",
+            "startDate": "2017-04"
+        },
+        {
+            "detail": "蓝山中西医结合医院动态心电图项目。",
+            "endDate": "2017-03",
+            "name": "湖南蓝山中西医结合医院",
+            "responsibility": "",
+            "startDate": "2017-03"
+        },
+        {
+            "detail": "三原县医院心内科动态心电项目。",
+            "endDate": "2017-03",
+            "name": "三原县医院",
+            "responsibility": "",
+            "startDate": "2017-03"
+        },
+        {
+            "detail": "玉溪市博爱医院骨密度项目。",
+            "endDate": "2016-01",
+            "name": "云南省玉溪市博爱医院",
+            "responsibility": "",
+            "startDate": "2016-01"
+        },
+        {
+            "detail": "迪庆州高原病防治中心骨密度项目。",
+            "endDate": "2015-06",
+            "name": "云南省迪庆州高原病防治中心",
+            "responsibility": "",
+            "startDate": "2015-06"
+        }
+    ],
+    "selfComm": "善于与人交流沟通，喜欢具有挑战性的工作。",
+    "trainExp": " \n2012/3--2012/9 机动车驾驶 \n培训机构： 咸阳新民驾校 \n培训地点： 咸阳市师院西门 \n培训描述： 经过半年的培训，顺利拿到驾照，能较为熟练地驾驶小型机动车。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安蓝港数字医疗科技股份有限公司",
+            "department": "销售部",
+            "detail": "从事心电，影像类医疗设备销售工作，负责区域湖南省及陕西部分区域。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "区域销售经理",
+            "scale": "50-150人",
+            "startDate": "2016-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "咸阳康荣信数字超声系统有限公司",
+            "department": "销售部",
+            "detail": "从事超声类医疗设备销售工作，负责区域云南省。",
+            "endDate": "2016-09",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "少于50人",
+            "startDate": "2014-09",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 6.0
+}

@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1993-9-24",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "安诺优达基因科技(北京)有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售经理",
+    "currentSalary": " 9万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "园艺",
+            "school": "华南农业大学",
+            "startDate": "2016-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗/护理/卫生,医疗设备/器械",
+        "position": "销售经理,销售经理",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "热爱销售，在学生时期曾多次兼职销售类工作，毕业后负责某公司在西安医学系统的销售，性格开朗并且抗压能力强",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "安诺优达基因科技有限公司",
+            "department": "销售部",
+            "detail": "1.开发新市场，开发新客户\n2.维护老客户\n3.了解竞争对手信息，做出相应举措",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售经理",
+            "startDate": "2018-07"
+        }
+    ],
+    "workYears": 1.0
+}

@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1993-3-3",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/1d8923708af5b11f7231182ebef29f95.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6.5万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2018-06",
+            "major": "生物制药技术",
+            "school": "天津生物工程职业技术学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "售前/售后技术支持工程师,销售工程师,销售代表",
+        "salary": "3500-5000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2015/10-2017/10 组织部委员 \n2015/9-2017/7 班级体育委员 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "天津微纳芯科技有限公司",
+            "department": "销售部",
+            "detail": "\n天津微纳芯是一家生产与销售全自动生化分析仪与体外诊断试剂的公司，2017/6-2017/9我是负责陕西地区的售后维护主要负责老客户的维护、新客户的新装机培训以及日常的客诉处理，2017/9-2018/7转为销售部主要工作负责陕西省地区销售，销售模式是渠道开发寻求代理商，主要工作是开发陕西地区的新经销商和维护老经销商及维护终端客情，给终端客户做新装机培训及处理客诉等问题，在陕西地区开发出的代理商有陕西恒海医疗，西安强森门诊，陕西华远医疗，陕西九州通惠普医疗，在2017-2018年陕西西安，蒲城县，富平县，咸阳都有新装机。",
+            "endDate": "2018-10",
+            "industry": "医疗设备/器械",
+            "position": "销售工程师",
+            "scale": "500-1000人",
+            "startDate": "2017-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 1.0
+}

@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "成都",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "远东国际租赁有限公司",
+    "currentIndustry": "银行",
+    "currentPosition": "融资租赁客户经理",
+    "degree": "MBA/EMBA",
+    "eduExp": [
+        {
+            "degree": "MBA/EMBA",
+            "endDate": "4000-10",
+            "major": "MBA",
+            "school": "四川大学",
+            "startDate": "2016-01"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2008-06",
+            "major": "探测制导与控制技术",
+            "school": "西安电子科技大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "成都",
+        "industry": "银行;基金/证券/期货/投资;仪器/仪表/工业自动化/电气",
+        "position": "大客户销售;公司业务部门经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 7年大客户销售工作经验，其中500强美资工业设备领域大客户销售经验5年，融资租赁行业客户经理工作经验2.5年。2017年融资租赁业绩完成率300%以上。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "远东国际租赁有限公司",
+            "detail": "- 所在地区：成都 \n - 下属人数：0人 \n - 职责业绩： \n开发四川区域政信类和产业类客户（公交水务燃气环保等行业）融资租赁业务，以及投行类业务承揽，导入某公交ABS项目，某省级环保企业股权投资项目。与川内主要地区城投公司和相关管理部门有一定关系。2017年业绩指标完成率超过300%，2018年业绩指标完成率超过200%。\n一些项目业绩：某省会城市区级城投公司4.5亿（传统租赁+投行化产品），某地级市城投3亿等，某地级市主城区城投3.5亿。\n",
+            "endDate": "4000-10",
+            "position": "融资租赁客户经理",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "霍尼韦尔(中国)有限公司",
+            "detail": "- 所在地区：成都 \n - 下属人数：0人 \n - 职责业绩： \n油气行业行业仪器仪表销售，参与和执行国内前20个LNG储罐LNG项目，连续两年业绩完成率超过200%，并为SBU top sales.\n一些项目业绩：中石油江苏LNG项目20万美金，新奥燃气舟山LNG项目50万美金，四川空分LNG项目40万美金等\n",
+            "endDate": "2016-06",
+            "position": "Account Manager",
+            "startDate": "2010-08"
+        },
+        {
+            "company": "浙江中控",
+            "detail": "- 所在地区：杭州 \n - 下属人数：0人 \n - 职责业绩： \n负责能源化工企业自动控制系统DCS项目，从项目技术支持工程师到项目经理，先后参与了中石油，中石化以及大型民营炼油企业DCS项目。\n",
+            "endDate": "2010-08",
+            "position": "工业自动化工程师",
+            "startDate": "2008-07"
+        }
+    ],
+    "workYears": 10.0
+}

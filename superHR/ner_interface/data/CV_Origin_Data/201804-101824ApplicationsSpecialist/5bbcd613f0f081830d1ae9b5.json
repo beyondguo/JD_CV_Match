@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1989-7-17",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "莆田",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 17万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2020-07",
+            "major": "自动化",
+            "school": "安徽工业大学",
+            "startDate": "2016-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "仪器仪表/工业自动化",
+        "position": "售前/售后技术支持经理,售前/售后技术支持经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建星云电子股份有限公司",
+            "department": "售后服务中心",
+            "detail": "售前售后技术支持及售后服务中心运营管理",
+            "endDate": "4000-10",
+            "industry": "仪器仪表/工业自动化",
+            "position": "售前/售后技术支持经理",
+            "startDate": "2011-12"
+        }
+    ],
+    "workYears": 7.0
+}

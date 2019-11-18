@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1996-3-19",
+        "currentCity": "成都",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/4e26b0b7134dcef9eea871585b8f66f6.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "自贡",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 5万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "\n在自贡市第四人民医院检验科实习10个月，掌握了医学检验专业的基础理论知识和操作技能。在临检室、生化室、免疫室、微生物室、骨髓室、PCR室和输血科已实习，从医学检验仪器的开机维护、质量控制至标本采集、标本签收、标本上机、结果判定、报告审核等直至报告发给患者的全过程都有所了解。多次参与科室组织的病例分析和论文讨论，对临床相关诊断有了更深刻的了解。",
+            "endDate": "2018-07",
+            "major": "医学检验",
+            "school": "成都中医药大学",
+            "startDate": "2015-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "成都",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生",
+        "position": "其他,医药学检验,检验员",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "otherLangResumeId": "5b86ba86f0f088df9bf8f53b",
+    "projectExp": [
+        {
+            "detail": "HPV与口腔癌",
+            "endDate": "2018-02",
+            "name": "论文",
+            "responsibility": "查找近两年国内外HPV与口腔癌的相关文献，然后开始着手写这方面的论文。写论文期间有实习老师指导。",
+            "startDate": "2017-10"
+        }
+    ],
+    "selfComm": "性格开朗，乐观阳光。爱好运动、旅行、养生。无论对生活还是工作都有细心、耐心、责任心。有较强的适应力和团队协作精神。\n校内职务 \n2015/9-2017/7 英语课代表 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "成都迪安医学检验所",
+            "department": "PCR",
+            "detail": "做PCR",
+            "endDate": "2018-09",
+            "industry": "医疗/护理/卫生",
+            "position": "检验员",
+            "scale": "150-500人",
+            "startDate": "2018-06",
+            "type": "上市公司"
+        },
+        {
+            "company": "自贡市第四人民医院",
+            "department": "检验科",
+            "detail": "\n在自贡市第四人民医院检验科实习10个月，掌握了医学检验专业的基础理论知识和操作技能。在临检室、生化室、免疫室、微生物室、骨髓室、PCR室和输血科已实习，从医学检验仪器的开机维护、质量控制至标本采集、标本签收、标本上机、结果判定、报告审核等直至报告发给患者的全过程都有所了解。多次参与科室组织的病例分析和论文讨论，对临床相关诊断有了更深刻的了解。",
+            "endDate": "2018-05",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验 (兼职)",
+            "scale": "1000-5000人",
+            "startDate": "2017-07",
+            "type": "非营利组织"
+        }
+    ],
+    "workYears": 1.0
+}

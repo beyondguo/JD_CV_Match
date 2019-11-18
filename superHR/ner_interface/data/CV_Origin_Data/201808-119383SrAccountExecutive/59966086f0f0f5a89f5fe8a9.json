@@ -1,0 +1,205 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "金域检验",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "医学检验",
+            "school": "陕西能源",
+            "startDate": "2010-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888369.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "4",
+                    "enumValue": "IVD(独立实验室）",
+                    "id": "3",
+                    "isDefault": false,
+                    "orderIndex": 3.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888373.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888376.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888378.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888381.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888385.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Effy Zhang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888386.0,
+            "strValue": "西安",
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "8",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888388.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888390.0,
+            "userName": "Effy Zhang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Aug 25, 2017 2:34:48 PM",
+            "lastUpdated": 1503642888393.0,
+            "userName": "Effy Zhang"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "销售经理/主管",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "59966086f0f0f5a89f5fe8a9",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "金域检验",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n1.完成上级领导制定销售任务指标。\n2.定期的针对自己负责的区域开展学术交流会议。\n3.协助下属处理比较棘手的客户.\n4.评估市场环境及竞争情况，制定应对方案.\n",
+            "endDate": "4000-10",
+            "position": "区域经理",
+            "startDate": "2015-04"
+        }
+    ],
+    "workYears": 4.0
+}

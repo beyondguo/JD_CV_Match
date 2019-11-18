@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1991-10",
+        "currentCity": " 福州-福清市",
+        "currentSalary": "",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "uploads/talent_photo/1805/fb3acfa16187c44059cbc4b4efa55867.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "2018/5  临床医学检验初级技师\n2016/1  医学检验实验室认可内审员培训证书",
+    "confidentialResume": "N",
+    "currentCompany": "福建省福瑞医疗科技有限公司",
+    "currentPosition": "应用工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生",
+        "position": "",
+        "salary": "5-6万元/年",
+        "state": "随时"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建省福瑞医疗科技有限公司",
+            "department": "工程部",
+            "detail": "负责产品问题的跟踪、反馈、投诉解决及相关问题的处理；\n配合医院科室应用处理相应问题，努力提高用户满意度；\n做好仪器售后技术类咨询等工作；\n对售后服务过程中的问题进行归纳总结，完善问题解决方案；\n收集并反馈客户在使用过程中的产品问题；",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械|少于50人|民营公司",
+            "position": "应用工程师",
+            "startDate": "2017-05"
+        },
+        {
+            "company": "金域医学检验所",
+            "department": "实验诊断部",
+            "detail": "1、负责本专业组的日常标本检测。\n2、负责当天所有检测项目的试剂的配制。\n3、负责24小时报告标本的检测，审核及打印。\n4、负责本专业组的仪器设备保养。\n5、上级交付的其他工作。",
+            "endDate": "2016-06",
+            "industry": "医疗/护理/卫生|民营公司",
+            "position": "医学检验技术员",
+            "startDate": "2015-07"
+        }
+    ],
+    "workYears": 3.0
+}

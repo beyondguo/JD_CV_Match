@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1993-12-8",
+        "currentCity": "南昌",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "铜川",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 5万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "医学检验",
+            "school": "九江学院",
+            "startDate": "2013-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "南昌",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生",
+        "position": "医药学检验,售前/售后技术支持工程师,售后技术支持工程师",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "\n极有耐心，为人诚恳，乐于助人，积极向上，有较强的团队意识和学习能力，业务知识熟练，社会适应能力强，多才多艺。爱好动手，例如手机坏了会自己换屏幕电池等东西，也会组装电脑。对电子机械类的东西极有耐心。一心想成为一名技术支持 \n，目前在实验室从事pcr相关检测工作。动手能力强，特别爱钻研电子机械类产品构造\n校内职务 \n2013/6-2016/9 班级副班长 \n\n职务描述： 认真地去完成老师所给的事。平时每时每刻都要管好班级的纪律 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "南平博瑞医学检验所",
+            "department": "实验室",
+            "detail": "每天按时完成医院送来的标本，做完后审核报告,保证检验报告单准确性",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "50-150人",
+            "startDate": "2018-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "福州迪安医学检验所有限公司",
+            "department": "实验室",
+            "detail": "按照公司的规章制度负责pcr 的各项工作，熟练操作罗氏z480，，期间主要负责pcr乙肝DNA和性病三项及人乳头瘤项目的操作及发布",
+            "endDate": "2017-10",
+            "industry": "医疗/护理/卫生",
+            "position": "化工实验室研究员/技术员",
+            "scale": "1000-5000人",
+            "startDate": "2016-09",
+            "type": "上市公司"
+        }
+    ],
+    "workYears": 2.0
+}

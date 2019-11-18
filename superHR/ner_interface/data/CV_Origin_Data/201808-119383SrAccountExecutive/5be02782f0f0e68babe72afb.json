@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "currentCity": "嘉峪关",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "嘉峪关市第一人民医院",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "临床药师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "临床药理学",
+            "school": "西安医学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安;兰州;珠海",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "药库主任/药剂师",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "嘉峪关市第一人民医院",
+            "detail": "- 所在地区：嘉峪关 \n",
+            "endDate": "4000-10",
+            "position": "临床药师",
+            "startDate": "2013-07"
+        }
+    ],
+    "workYears": 5.0
+}

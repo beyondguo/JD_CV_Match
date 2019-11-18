@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "厦门-思明区",
+        "currentSalary": "保密",
+        "gender": "女"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "厦门基科生物科技有限公司",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "产品经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2012-09",
+            "major": "化学工程",
+            "school": "日本东京工业大学",
+            "startDate": "2010-10"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2010-07",
+            "major": "化学与生物化学",
+            "school": "南洋理工大学",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门;福州",
+        "industry": "医疗/保健/美容/卫生服务;制药/生物工程;环保",
+        "position": "产品经理/主管;产品专员/助理;活动策划",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "学习能力与适应能力超群",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门基科生物科技有限公司",
+            "detail": "- 所在地区：厦门-思明区 - 下属人数：0人",
+            "endDate": "2018-06",
+            "position": "产品经理",
+            "startDate": "2016-10"
+        }
+    ],
+    "workYears": 7.0
+}

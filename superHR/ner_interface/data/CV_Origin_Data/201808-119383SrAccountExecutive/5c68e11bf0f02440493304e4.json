@@ -1,0 +1,140 @@
+{
+    "basic": {
+        "birthday": "1988-6-18",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2014/10 中级工程师 \n2013/7 电气造价员 \n2012/5 注册建造师 \n2011/3 建筑造价员 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "非统招",
+            "endDate": "2015-07",
+            "major": "土木工程",
+            "school": "西安理工大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "建筑/建材/工程",
+        "position": "销售代表,销售代表",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [
+        {
+            "detail": "石材销售与施工",
+            "endDate": "2017-05",
+            "name": "五路口民生立体停车楼工程项目",
+            "responsibility": "",
+            "startDate": "2016-10"
+        },
+        {
+            "detail": "三万多平米别墅石材销售与施工",
+            "endDate": "2017-12",
+            "name": "海航草堂山居别墅工程项目",
+            "responsibility": "",
+            "startDate": "2016-10"
+        },
+        {
+            "detail": "室外两万多平方石材销售与施工",
+            "endDate": "2017-12",
+            "name": "唐延路禾盛京广中心景观工程项目",
+            "responsibility": "",
+            "startDate": "2016-09"
+        },
+        {
+            "detail": "外墙保温及真石漆，室内石材销售与施工",
+            "endDate": "2017-12",
+            "name": "武警工程大学综合保障中心项目",
+            "responsibility": "",
+            "startDate": "2015-10"
+        },
+        {
+            "detail": "石材幕墙施工",
+            "endDate": "2015-09",
+            "name": "临潼区悦椿酒店幕墙项目",
+            "responsibility": "",
+            "startDate": "2014-04"
+        },
+        {
+            "detail": "鄂尔多斯市年产50万吨新能源材料工业厂房施工",
+            "endDate": "2014-03",
+            "name": "内蒙古中煤蒙大新能源工程项目",
+            "responsibility": "",
+            "startDate": "2013-04"
+        },
+        {
+            "detail": "3万平米实验楼施工",
+            "endDate": "2013-03",
+            "name": "西北大学化学实验楼工程项目",
+            "responsibility": "",
+            "startDate": "2011-01"
+        }
+    ],
+    "selfComm": "有外墙材料销售与施工经验，最近几年一直在做外墙真石漆与保温，花岗岩与大理石！",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "建筑公司",
+            "department": "销售与施工管理",
+            "detail": "建筑外墙，石材与真石漆保温销售与施工",
+            "endDate": "4000-10",
+            "industry": "建筑/建材/工程",
+            "position": "建筑工程管理/项目经理",
+            "scale": "民营公司",
+            "startDate": "2016-01"
+        },
+        {
+            "company": "建筑公司",
+            "department": "销售与施工",
+            "detail": "建筑外墙，石材与真石漆保温销售与施工",
+            "endDate": "2016-01",
+            "industry": "建筑/建材/工程",
+            "position": "建筑工程管理/项目经理",
+            "scale": "民营公司",
+            "startDate": "2015-07"
+        },
+        {
+            "company": "建筑公司",
+            "department": "销售与施工",
+            "detail": "建筑外墙，石材与真石漆销售与施工",
+            "endDate": "2015-07",
+            "industry": "建筑/建材/工程",
+            "position": "建筑工程管理/项目经理",
+            "scale": "民营公司",
+            "startDate": "2014-03"
+        },
+        {
+            "company": "陕西华山建设有限公司",
+            "department": "工程部",
+            "detail": "内蒙古中煤蒙大工业园，工业厂房建设",
+            "endDate": "2014-03",
+            "industry": "建筑/建材/工程",
+            "position": "建筑工程管理/项目经理",
+            "scale": "国企",
+            "startDate": "2013-05"
+        },
+        {
+            "company": "施工",
+            "department": "工程部",
+            "detail": "有二级建造师建筑工程专业和中级职称",
+            "endDate": "2013-07",
+            "industry": "建筑/建材/工程",
+            "position": "建筑工程管理",
+            "scale": "民营公司",
+            "startDate": "2011-05"
+        }
+    ],
+    "workYears": 8.0
+}

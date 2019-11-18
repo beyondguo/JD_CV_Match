@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "亚德客福州分公司",
+    "currentIndustry": "仪器/仪表/工业自动化/电气",
+    "currentPosition": "销售经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2011-07",
+            "major": "船舶工程",
+            "school": "福建船政交通",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州;厦门;三明",
+        "industry": "仪器/仪表/工业自动化/电气;机械制造/机电/重工",
+        "position": "区域销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "亚德客福州分公司",
+            "detail": "- 所在地区：福州-仓山区 \n - 下属人数：0人 \n - 职责业绩： \n闽北区域气动设备的销售，与区域经销商的开发跟踪，新客户的开发，老客户的维护，\n",
+            "endDate": "2018-08",
+            "position": "销售经理",
+            "startDate": "2018-01"
+        },
+        {
+            "company": "深圳阿奇夏米尔机电",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n主要负责瑞士GF的机床设备在闽北地区的销售\n",
+            "endDate": "2018-02",
+            "position": "销售经理",
+            "startDate": "2017-04"
+        },
+        {
+            "company": "福州松兴焊接自动化有限公司",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n主要负责福州汽车和机械行业自动化设备及系统的销售，机器人系统，激光系统\n",
+            "endDate": "2017-02",
+            "position": "销售代表",
+            "startDate": "2013-04"
+        }
+    ],
+    "workYears": 8.0
+}

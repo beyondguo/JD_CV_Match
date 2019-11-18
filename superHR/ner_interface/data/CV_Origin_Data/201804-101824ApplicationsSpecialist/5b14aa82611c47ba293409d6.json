@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "cityOfBirth": "山东菏泽市",
+        "currentCity": "福建厦门市",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": ""
+    },
+    "certificate": "英语六级",
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-06",
+            "major": "医学检验",
+            "school": "厦门大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称初级\n发表论文：1. 王增阁, 郭奇伟, 周裕林. 染色体微缺失微重复综合征遗传检测的现状及展望[J]. 中华检 验医学杂志, 2016, 39(6):407-409. 2. Wang Z, Zhou Y, Yang R, Xia Z, Zeng H, Du L, Ren J, Guo Q. WholeExome Sequencing Identifies a c.C2566T Mutation in the Androgen Receptor in a ChineseFamily. Clin Lab. 2017 Sep 1;63(9):1533-1539. doi: 10.7754Clin.Lab.2017.170316. 3. Wang Z, Zhou Y, Ren J, Xia Z, Guo Q. Evaluation of a MagneticCellulose-Based DNA Extraction System to Improve the Performance of HybriBio HumanPapillomavirus Genotyping and Screening Tests for Cervical Swab Samples. Clin Lab. 2017Oct1;63(10):1647-1655. doi: 10.7754Clin.Lab.2017.170416.\n参加会议：2016年，香港中文大学参加妇产科及产前诊断会议",
+    "graduateSchool": "厦门大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "徐汇区-静安区-普陀区-虹口区-黄浦区",
+        "position": "检验科-生殖遗传中心-妇幼保健",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b14aa82611c47ba293409d6",
+    "proSkill": "熟练掌握基本操作技术，例如:细胞培养，PCR，WB，免疫荧光等。",
+    "projectExp": [
+        {
+            "detail": "课题 1： 2015.02&mdash;2017.02 Simultaneous Detection of Spinal muscular atrophy (SMA) and Duchenne muscular dystrophies (DMD) with Multiplex Ligation-Dependent Probe Amplification-Based Real-Time PCR. [相关技能] 核酸提取；引物设计； MLPA； qPCR；撰写手稿 课题 2： 2016.08&mdash;2017.03 Evaluation of a Magnetic Cellulose-Based DNA ExtractionSystem to Improve the Performance of HybriBio Human Papillomavirus Genotyping and Screening Tests for Cervical Swab Samples. [相关技能] 核酸提取； PCR；膜杂交技术；撰写手稿 课题 3： 2016.02&mdash;至 今 The PHOX2B gene mutations in Congenital Central Hypoventilation&rsquo; Syndrome (CCHS) and its pathogenicity. [相关技能] NGS；细胞培养； WB；免疫荧光实验；撰写手稿"
+        }
+    ],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门市妇幼保健院",
+            "department": "分子生物学实验室",
+            "detail": "关于遗传有关的科研，例如：SMA产前诊断，G6PD检测，Y染色体微缺失检测等等...也会有关于流产物的一些研究和数据。",
+            "endDate": "今",
+            "position": "实验员",
+            "startDate": "2018-01"
+        }
+    ],
+    "workYears": 1.0
+}

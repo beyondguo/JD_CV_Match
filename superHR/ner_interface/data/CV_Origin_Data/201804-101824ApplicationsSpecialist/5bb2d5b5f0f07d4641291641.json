@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1990-9-11",
+        "currentCity": "厦门",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "中专",
+    "eduExp": [
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "2011-10",
+            "major": "计算机网络",
+            "school": "建阳市电子学校",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "通信/电信运营、增值服务",
+        "position": "销售代表,前台接待/总机/接待生,客服及支持,销售代表",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "万盟手机店",
+            "detail": "日常工作，手机销售",
+            "endDate": "2013-12",
+            "industry": "通信/电信运营、增值服务",
+            "position": "销售代表",
+            "startDate": "2012-10"
+        }
+    ],
+    "workYears": 5.0
+}

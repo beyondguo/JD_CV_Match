@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "山东新华安得医疗用品有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2012-07",
+            "major": "机械设计制造及其自动化",
+            "school": "宝鸡职业技术学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "区域销售专员/助理",
+        "salary": "24.00万（20000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "山东新华安得医疗用品有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n陕西地区经理| 负责西安，商洛，渭南，安康输液器销售\n主要项目：西安交通大学第一附属医院的输液器开展，陕西省肿瘤医院的避光输液器，陕西省中医医院的精密输液器，等数个二级医院的输液器销售，通过在新华的学习工作，对输液器产品有了深度的了解。参与陕西开始推广非邻苯精密输液器，微调输液器，避光输液器，消毒帽产品。\n参与操作陕西省不含塑化剂输液器收费项目\n参与运作消毒帽推广工作\n",
+            "endDate": "4000-10",
+            "position": "销售经理",
+            "startDate": "2016-11"
+        }
+    ],
+    "workYears": 6.0
+}

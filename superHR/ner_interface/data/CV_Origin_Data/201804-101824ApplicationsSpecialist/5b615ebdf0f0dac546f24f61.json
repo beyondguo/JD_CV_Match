@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "交通银行信用卡中心福州分",
+    "currentIndustry": "银行",
+    "currentPosition": "业务主管",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "化学",
+            "school": "西南民族大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "银行;工艺品/珠宝/玩具;中介服务",
+        "position": "销售经理/主管",
+        "salary": "12.00万（10000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "交通银行信用卡中心福州分",
+            "detail": "- 所在地区：福州 \n - 汇报对象：条线经理 \n - 下属人数：10人 \n - 职责业绩： \n1.负责交通银行信用卡产品的市场推广工作\n2.负责信用卡产品活动的宣传及运行工作\n3.负责分析对比同行业信用卡产品的优劣势及各银行信用卡产品市场份额。以及自身办卡过程中各阶段的数据分析。\n4.负责信用卡产品的后期客户维护工作\n",
+            "endDate": "4000-10",
+            "position": "业务主管",
+            "startDate": "2015-09"
+        }
+    ]
+}

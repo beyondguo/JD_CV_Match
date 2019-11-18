@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1992-02",
+        "currentCity": "福建龙岩市",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=2223076%2BDXY&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建龙岩市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "福建医科大学附属龙岩市第一医院",
+    "currentIndustry": "",
+    "currentPosition": "实习生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "医学检验",
+            "school": "长沙医学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "长沙医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "contractTerm": "",
+        "industry": "",
+        "position": "病理科,检验科,输血科,技师",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "本科毕业生，责任心强，对工作耐心细致，行动力，时间观念强，对自我的要求高。吃苦耐劳，踏实肯干，遵循自己的事情自己做，自己的责任自己担。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建医科大学附属龙岩市第一医院",
+            "department": "检验科",
+            "detail": "在福建医科大学附属龙岩市第一医院为期一年的实习工作，主要轮转了输血科，检验科生化室，血液室，门诊化验室和中心实验室。在各个科室学仪器应用，标本处理，报告审核等基本实际操作，学习和巩固基础理论知识。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2014-06",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

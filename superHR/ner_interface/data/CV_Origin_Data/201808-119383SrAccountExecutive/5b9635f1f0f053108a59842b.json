@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "currentCity": "汉中",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "西安金磁纳米生物技术有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "技术研发经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-06",
+            "major": "生物化学与分子生物学",
+            "school": "新疆医科大",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "医学检验",
+            "school": "新疆医科大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械;医疗/保健/美容/卫生服务;制药/生物工程",
+        "position": "医疗器械研发",
+        "salary": "12.80万（8000元/月 * 16个月）"
+    },
+    "otherLangResumeId": "5b9635f1f0f053108a59842b",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安金磁纳米生物技术有限公司",
+            "detail": "- 所在地区：汉中 \n - 下属人数：0人 \n - 职责业绩： \n主要职责和工作目标\n（1）为内部和外部的客户提供现场技术支持和问题解决。\n（2）根据公司操作守则处理客户投诉。\n（3）为内部员工、代理商或者客户提供相应的技术培训。\n（4）负责相关的实验室测试和操作规则的编写。\n（5）根据本公司的产品特性，提供创新的技术解决方案。\n",
+            "endDate": "4000-10",
+            "position": "技术研发经理",
+            "startDate": "2017-05"
+        }
+    ],
+    "workYears": 1.0
+}

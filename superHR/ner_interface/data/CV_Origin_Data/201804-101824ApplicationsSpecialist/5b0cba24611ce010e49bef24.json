@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "福州",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "西门子医疗系统有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售经理/主管",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2011-07",
+            "major": "英语",
+            "school": "四川外国语大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "医疗设备/器械",
+        "position": "售后支持经理/主管",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b0cba24611ce010e49bef24",
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西门子医疗系统有限公司",
+            "detail": "\n - 汇报对象：RD区域总监 \n - 下属人数：0人 \n - 职责业绩： \n西门子医疗系统有限公司 医学影像和治疗\n完成负责区域（福州市）的销售任务\n支持并配合代理商的工作\n维护客户关系，熟稔产品知识\n",
+            "endDate": "4000-10",
+            "position": "销售经理/主管",
+            "startDate": "2017-12"
+        },
+        {
+            "company": "东芝医疗系统(中国)有限公司",
+            "detail": "- 所在地区：福州 \n - 汇报对象：华南一区 区域经理 \n - 下属人数：0人 \n - 职责业绩： \n负责福建省省内东芝放射影像产品的维保服务协议和有偿维修事宜；\n例行拜访放射影像科和器械科，维护客户关系；\n缔结维保合同、跟进尾款支付\n",
+            "endDate": "2017-12",
+            "position": "客户经理",
+            "startDate": "2014-05"
+        },
+        {
+            "company": "太古国际航空服务上海有限公司",
+            "detail": "- 所在地区：上海 \n - 下属人数：0人 \n - 职责业绩： \n销售 &amp; 客户服务经理\n负责开拓新客户、缔结商务差旅协议；\n维护现有客户、定期拜访，并处理客户投诉；\n呈现精准的季度/年度企业差旅分析报告，以便客户做好成本控制\n",
+            "endDate": "2014-01",
+            "position": "客户服务主管",
+            "startDate": "2012-12"
+        },
+        {
+            "company": "外滩茂悦大酒店",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n客户经理 | 市场营销部\n维护企业客户关系，持续拜访客户；\n促成客户协议的达成；\n推荐并销售酒店客房、宴会厅、餐厅酒吧和商务会议室\n",
+            "endDate": "2012-11",
+            "position": "销售主管",
+            "startDate": "2011-01"
+        }
+    ]
+}

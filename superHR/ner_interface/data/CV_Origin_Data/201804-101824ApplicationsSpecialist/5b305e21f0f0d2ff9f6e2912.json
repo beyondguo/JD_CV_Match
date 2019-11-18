@@ -1,0 +1,69 @@
+{
+    "basic": {
+        "birthday": "1995-08",
+        "currentCity": "福建三明市",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "",
+        "registeredResidence": "福建三明市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "右江民族医学院附属医院",
+    "currentIndustry": "",
+    "currentPosition": "实习生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-06",
+            "major": "医学检验技术",
+            "school": "右江民族医学院",
+            "startDate": "2013-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未定级\n发表论文:\n《右江医学》上发表《广西壮族人群IL-27基因位点rs40837多态性研究》",
+    "graduateSchool": "右江民族医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "深圳市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "proSkill": "熟悉掌握检验科日常检验项目及罗氏、日立、贝克曼、希森美康的仪器的定标、质控、保养及小故障维护。",
+    "projectExp": [],
+    "selfComm": "本人性格开朗、乐于助人，做事严谨仔细、认真负责，同时善于观察周围的事物，善于收集资料分析问题。也喜欢与人交往，热爱生活。学习能力较强，刻苦努力，不断要求自己、提升自己。工作期间认真负责并与团队进行良好的互动，具有良好的沟通能力，对人对事也拥有较足够的耐心和信心，且勇于接受新鲜事物带来的挑战。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "右江民族医学院附属医院",
+            "department": "检验科",
+            "detail": "",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-07",
+            "type": ""
+        },
+        {
+            "company": "三明市第二医院",
+            "department": "检验科",
+            "detail": "在检验科主任领导下，完成检验科日常工作，包括样本采集、仪器定标、仪器质控、仪器维护及保养。已熟练掌握检验科日常检验程序和步骤。",
+            "endDate": "2018-06",
+            "industry": "",
+            "position": "医生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2017-08",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

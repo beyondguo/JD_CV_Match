@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "中国",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "江苏先声药业有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-06",
+            "major": "工商管理",
+            "school": "东北财经大学",
+            "startDate": "2009-09"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2009-06",
+            "major": "临床",
+            "school": "石家庄医学高等专科学校",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "销售经理/主管",
+        "salary": "24.00万（20000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "江苏先声药业有限公司",
+            "detail": "- 所在地区：中国 \n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2011-09"
+        }
+    ]
+}

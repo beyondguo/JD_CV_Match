@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "birthday": "1993-12",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "maritalStatus": "保密",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=2353859%2BDXY&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建福州市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "福州迈新生物技术有限公司",
+    "currentIndustry": "",
+    "currentPosition": "学术专员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-07",
+            "major": "生物科学",
+            "school": "福建师范大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未定级\n发表论文:\n《人牙本质涎磷蛋白启动子驱动 LacZ 报告基因在人牙胚间充质细胞中表达》发表于《生物工程学报》",
+    "graduateSchool": "福建师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "分子生物学",
+        "salary": "面议",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "大学期间进入本校的省级重点实验室，熟练掌握分子生物学方向的实验技能。期间参与多项课题研究，培养了严谨的科学态度和极强的责任心，此外有敏锐的洞察力和数据分析能力；曾经担任创新训练项目的负责人，我能够积极主动地工作，独立工作能力强；学习能力强。\n曾经担任宣传部部长，参与过较大型的公益宣传活动，有良好的交际技能，以及较强的学习能力和抗压能力。能够运用Photoshop，AI 等制图软件，熟练使用office软件，有过微信公众号运营经验。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州迈新生物技术有限公司",
+            "department": "市场部",
+            "detail": "1.制定本地区相关产品的学术推广计划：\n　　分析本地区相关产品治疗领域的市场趋势（市场容量、增长趋势、竞争产品和公司产品的市场份额等）；\n　　学习并掌握相关疾病知识、竞争产品知识；深刻了解本公司产品的特点、定位、核心推广信息；\n　　确定目标和行动计划。\n2.和其他职能部门密切合作，完成需要跨部门合作的任务；\n3.信息采集和反馈工作：及时将日常工作中收集到的市场信息、竞争产品信息、客户问题和建议反馈到市场部；\n4.负责本地区市场学术资料、礼品、学分的申请、管理和分发。",
+            "endDate": "2016-09",
+            "industry": "",
+            "position": "学术专员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-01",
+            "type": ""
+        },
+        {
+            "company": "福建师范大学生命科学学院",
+            "department": "发育实验室",
+            "detail": "1.协助项目负责人完成体外诊断试剂的产品研发、改进、检验类相关实验；\n2.实验室日常文件的管理和定期汇报；\n3.实验室使用化学试剂的管理和使用记录的整理；\n4.临床原始数据的录入和整理；\n5.实验室设备维护和日常记录；\n6.配合试验记录和生产记录的编写工作。",
+            "endDate": "2016-05",
+            "industry": "",
+            "position": "实验助理",
+            "salary": "",
+            "scale": "",
+            "startDate": "2013-07",
+            "type": ""
+        },
+        {
+            "company": "福建省疾病控制与预防中心",
+            "department": "毒理科实验室",
+            "detail": "",
+            "endDate": "2014-08",
+            "industry": "",
+            "position": "实验技术员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2014-08",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

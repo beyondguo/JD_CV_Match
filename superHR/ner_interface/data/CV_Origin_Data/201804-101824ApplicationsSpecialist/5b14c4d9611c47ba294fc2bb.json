@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1994-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "阿斯利康(无锡)贸易有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-06",
+            "major": "机械设计制造及其自动化机电一体化方向",
+            "school": "福建农林大学",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "全部行业",
+        "position": "其他",
+        "salary": "12.00万（10000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阿斯利康(无锡)贸易有限公司",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2016-11"
+        }
+    ]
+}

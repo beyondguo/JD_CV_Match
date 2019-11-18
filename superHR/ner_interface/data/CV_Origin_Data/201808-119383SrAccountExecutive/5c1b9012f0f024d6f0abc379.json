@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1979-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "陕西鼎亿鑫电子技术有限公司",
+    "currentIndustry": "计算机硬件/网络设备",
+    "currentPosition": "销售经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2000-07",
+            "major": "临床医学",
+            "school": "陕西中医药大学",
+            "startDate": "1997-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗设备/器械;环保",
+        "position": "市场经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西鼎亿鑫电子技术有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n负责市场开拓，与大客户保持良好沟通。\n",
+            "endDate": "4000-10",
+            "position": "销售经理",
+            "startDate": "2008-10"
+        },
+        {
+            "company": "陕西鼎亿鑫电子技术有限公司",
+            "detail": "- 所在地区：西安 \n",
+            "endDate": "4000-10",
+            "position": "销售经理",
+            "startDate": "2008-10"
+        }
+    ],
+    "workYears": 18.0
+}

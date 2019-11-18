@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1996-3-12",
+        "currentCity": "成都",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "莆田",
+        "zipCode": "610041"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "九州通医药集团股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "2018管培生",
+    "currentSalary": " 0万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-06",
+            "major": "预防医学",
+            "school": "四川大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 成都 ",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "生物/制药/医疗器械,储备干部/培训生/实习生",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "我是一个细心，能吃苦耐. 大学一年级在化工学院担任班长让自己的管理能力得到增强。有自制力，能帮助和爱护他人，善于学习，善于与人沟通的人\n抗压能力强，有很强的自我心理建设能力。",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

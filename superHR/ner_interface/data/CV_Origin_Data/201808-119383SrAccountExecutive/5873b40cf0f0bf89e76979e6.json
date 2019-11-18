@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1982-1-18",
+        "currentCity": "西安-灞桥区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "陕西省药材公司",
+    "currentPosition": "销售代表",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2004-07",
+            "major": "临床医学与医学技术",
+            "school": "西安医学院",
+            "startDate": "2001-09"
+        }
+    ],
+    "graduateSchool": "西安医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5873b40cf0f0bf89e76979e6",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西省药材公司",
+            "department": "销售部",
+            "detail": "药店，医院的开发维护上量，熟悉西安地区各个连锁以及西安阎良铜川的医院，有客户资源。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "销售代表",
+            "scale": "民营公司",
+            "startDate": "2004-09"
+        }
+    ],
+    "workYears": 15.0
+}

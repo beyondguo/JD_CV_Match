@@ -1,0 +1,73 @@
+{
+    "basic": {
+        "birthday": "1987-8-6",
+        "currentCity": "南平",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "南平",
+        "zipCode": ""
+    },
+    "certificate": " \n大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 7.9万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "C语言、汇编语言、java程序设计、matlab、计算机接口、算法设计与分析、软件工程、Delphi程序设计、计算机图形学、asp程序设计、操作系统等；\n毕业设计内容是用3ds max以及ae等制作工具完成一个简短的3d动画的展示，",
+            "endDate": "2010-06",
+            "major": "计算机科学与技术",
+            "school": "常州大学",
+            "startDate": "2006-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "计算机软件,计算机服务(系统、数据服务、维修),通信/电信/网络设备,银行",
+        "position": "数据库工程师/管理员,设备维护工程师",
+        "salary": "6000-7999 元/月 ",
+        "state": "我目前不想换工作\n到岗时间：1周内"
+    },
+    "langAbility": " \n\nC#.NET 熟练 ",
+    "projectExp": [
+        {
+            "detail": "3ds Max(开发工具)\npc(硬件环境)\nwin xp(软件环境)一个视频文件&mdash;&mdash;用3d的环境展示一个学校过程",
+            "endDate": "2010-06",
+            "name": "3d动画展示",
+            "responsibility": "全程制作",
+            "startDate": "2010-01"
+        }
+    ],
+    "selfComm": "第一份正式工作，一干就是八年。请相信我的坚持",
+    "trainExp": " \n2006/9--2010/7 专业课程 \n\n培训机构： 常州大学 \n培训地点： 江苏常州 \n2006/9--2010/7 专业课程 \n\n培训机构： 常州大学 \n培训地点： 江苏常州 \n2006/9--2010/7 专业课程 \n\n培训机构： 常州大学 \n培训地点： 江苏常州 \n2006/9--2010/7 专业课程 \n\n培训机构： 常州大学 \n培训地点： 江苏常州 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "南京紫津融畅信息科技服务有限公司",
+            "department": "设备支持备",
+            "detail": "沟通银行和公司的桥梁，负责整个南平区域内机器保养和维修",
+            "endDate": "4000-10",
+            "industry": "计算机服务(系统、数据服务、维修)",
+            "position": "技术支持/维护经理",
+            "scale": "1000-5000人",
+            "startDate": "2010-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "英才电子",
+            "department": "销售",
+            "detail": "电脑销售，装机、系统重装等",
+            "endDate": "2010-08",
+            "industry": "计算机硬件",
+            "position": "销售经理",
+            "scale": "少于50人",
+            "startDate": "2010-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 8.0
+}

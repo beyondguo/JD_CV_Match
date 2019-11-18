@@ -1,0 +1,60 @@
+{
+    "basic": {
+        "birthday": "1985-08",
+        "currentCity": "福建 福州-仓山区",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/3/3/fd7f4dc9-01db-4539-913e-1abc154262d3.jpg",
+        "registeredResidence": "福建-莆田"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2006-06",
+            "major": "护理学",
+            "school": "山东中西医大学",
+            "startDate": "2003-01"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州、莆田",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程、医疗设备/器械",
+        "position": "生物工程/生物制药、",
+        "salary": "8001-10000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "otherLangResumeId": "5b5ea301611cf79936af984d",
+    "projectExp": [],
+    "selfComm": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作认真负责，作风严谨细致，热爱且善于沟通、喜欢与人打交道，有较强的协调能力和组织能力与团队精神；活泼开朗、乐观上进、有爱心并善于施教并行；上进心强、勤于学习能不断提高自身的专业能力与综合素质。熟悉办公软件操作及公文写作，PPT制作讲解，充满信心和热情。熟练产品的安装，产品应用及常规维护。在未来的工作中，我将以充沛的精力，刻苦钻研的精神来努力工作，发挥自身价值，努力提高自己与企业同步发展，共创未来。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泰普生物科学（中国）有限公司",
+            "department": "",
+            "detail": "\n市场营销中心，进口设备推广、应用培训及售后服务\n",
+            "endDate": "2017-03",
+            "industry": "医药/生物工程",
+            "position": "产品销售经理市场营销部",
+            "scale": "500-999人",
+            "startDate": "2013-03",
+            "type": ""
+        },
+        {
+            "company": "中国移动福建分公司",
+            "department": "",
+            "detail": "\nSoho应用与管理\n",
+            "endDate": "2013-01",
+            "industry": "通信/电信运营、增值服务",
+            "position": "客户经理",
+            "scale": "10000人以上",
+            "startDate": "2007-10",
+            "type": ""
+        }
+    ],
+    "workYears": 12.0
+}

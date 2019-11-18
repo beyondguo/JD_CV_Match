@@ -1,0 +1,82 @@
+{
+    "basic": {
+        "birthday": "1984-1-2",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "龙岩",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "广东亿荣电子商务",
+    "currentPosition": "网络推广经理/主管",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "市场营销方向",
+            "endDate": "2007-07",
+            "major": "经济学",
+            "school": "西南大学育才学院",
+            "startDate": "2003-09"
+        }
+    ],
+    "graduateSchool": "西南大学育才学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "销售经理,销售",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5872c56ef0f023cc5f2d8f2d",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "华东宁波医药有限公司",
+            "department": "销售部",
+            "detail": "商业客户维护",
+            "endDate": "2018-06",
+            "industry": "制药/生物工程",
+            "position": "大客户销售",
+            "scale": "150-500人",
+            "startDate": "2018-03",
+            "type": "国企"
+        },
+        {
+            "company": "辉瑞制药有限公司",
+            "department": "商务及多元化",
+            "detail": "\n1，按计划拜访及开发门店，维系和连锁总部，店主及店员客情。2，关注产品进销存。3，关注竞品动销，并制定相应的竞品阻击方案。4，学术推广，进行产品知识和销售技巧培训。5，跟进公司其他市场活动",
+            "endDate": "2018-02",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "scale": "10000人以上",
+            "startDate": "2012-04",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "厦门可口可乐饮料有限公司",
+            "department": "销售部",
+            "detail": "\n1，定期拜访客户，开发客户，维系客情。2，结合销售政策建议客户下订单。3，做好产品生动化及冰冻化陈列。4，执行公司各项市场活动。5，管理经销商。6，随访带教团队成员",
+            "endDate": "2012-03",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "销售主管",
+            "scale": "10000人以上",
+            "startDate": "2007-08",
+            "type": "外资(欧美)"
+        }
+    ],
+    "workYears": 11.0
+}

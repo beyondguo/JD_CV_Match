@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1986-2-21",
+        "currentCity": "长沙",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2009-07",
+            "major": "应用化学",
+            "school": "湖南文理学院",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "长沙",
+        "contractTerm": "全职",
+        "industry": "通信/电信运营、增值服务",
+        "position": "大客户销售,大客户销售",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳电信宝安分公司新桥分居",
+            "department": "政企客户部",
+            "detail": "负责分包区内的客户关系维护以及新老客户业务开发。",
+            "endDate": "2017-08",
+            "industry": "通信/电信运营、增值服务",
+            "position": "大客户销售",
+            "startDate": "2009-06"
+        }
+    ],
+    "workYears": 10.0
+}

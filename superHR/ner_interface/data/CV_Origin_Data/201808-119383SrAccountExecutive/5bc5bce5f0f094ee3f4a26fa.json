@@ -1,0 +1,63 @@
+{
+    "basic": {
+        "birthday": "1993-4-2",
+        "currentCity": "西安-未央区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "临汾",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2015-06",
+            "major": "市场营销",
+            "school": "山西中医学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5bc5bce5f0f094ee3f4a26fa",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京汇创宜医疗科技有限公司",
+            "department": "销售部",
+            "detail": "2016年5月&mdash;&mdash;2018年4月 市场部市场专员\n1. 负责销售部培训，以及代理商市场开发、产品操作、临床应用等培训工作，累计进行培训60余次。\n2. 负责公司相关产品宣传资料的文案工作，同时负责企业微信公众号的内容运营。\n3. 策划新产品上市方案、促销方案等，并进行学术推广。\n4. 对接销售、代理商、终端用户，负责南中国区POCT售后技术支持工作。\n2018年4月&mdash;&mdash;至今 陕西省招商经理\n1. 负责陕西省销售政策制定，维护原有代理商渠道，并新开发两家经销商渠道。\n2. 协助代理商开发两家二级医院。\n3. 组织对代理商的产品知识培训，协助季度销售任务达成。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械销售",
+            "scale": "50-150人",
+            "startDate": "2016-05",
+            "type": "创业公司"
+        },
+        {
+            "company": "连云港正大天晴医药有限公司",
+            "department": "销售部",
+            "detail": "负责山西大医院消化内科、骨科、生物肿瘤科等科室的异甘草酸镁、异甘草酸二铵肠溶胶囊的销售推广工作；任职期间，我的业绩排办事处前50%。",
+            "endDate": "2016-03",
+            "industry": "制药/生物工程",
+            "position": "医药学术推广",
+            "scale": "1000-5000人",
+            "startDate": "2015-01",
+            "type": "国企"
+        }
+    ],
+    "workYears": 3.0
+}

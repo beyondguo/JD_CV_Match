@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1991-12-15",
+        "currentCity": "无锡-江阴市",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/12 大学英语六级 （472） ",
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2017-06",
+            "major": "药理学",
+            "school": "福建中医药大学",
+            "startDate": "2014-01"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": " 制药/生物工程 ",
+        "position": "",
+        "salary": "8000-10000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n\n英语 熟练 ",
+    "otherLangResumeId": "5b03b842611cd9a3b274e9cc",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "江阴天江药业有限公司",
+            "department": "研发部",
+            "detail": "负责新药工艺研发",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "医药技术研发人员",
+            "scale": "1000-5000人",
+            "startDate": "2017-07",
+            "type": "合资"
+        }
+    ],
+    "workYears": 1.0
+}

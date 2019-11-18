@@ -1,0 +1,78 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "汉中",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/pic/2012/6/2/1522F532CBDD4BA395279EE6B0A48A00.jpg",
+        "registeredResidence": "汉中"
+    },
+    "certificate": "\n2011.11 国家励志奖学金 ",
+    "confidentialResume": "N",
+    "currentSalary": " 15万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2012-06",
+            "major": "医用电子仪器与维护",
+            "school": "&nbsp;&nbsp;西安航空学院",
+            "startDate": "2010-10"
+        },
+        {
+            "degree": "高中",
+            "endDate": "2010-06",
+            "major": "理科",
+            "school": "&nbsp;&nbsp;城固第二中学",
+            "startDate": "2007-09"
+        }
+    ],
+    "hobbies": "足球。乒乓球，电子装配。",
+    "idStr": "",
+    "jobObjective": {
+        "city": "汉中、西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械、仪器仪表及工业自动化",
+        "position": "生物/制药/医疗器械",
+        "salary": "6001-8000元/月",
+        "state": "我目前在职，正考虑换个新环境"
+    },
+    "langAbility": "\n英语：  读写能力一般| 听说能力一般 ",
+    "projectExp": [
+        {
+            "detail": "\n项目简介：中国援非项目，为受援国医院提供技术支持，维修维护医院所有设备，培训医护人员正确的使用医疗设备，从而保证医院工作的正常进行！ \n",
+            "endDate": "2018-07",
+            "name": "中国援马达加斯加技术合作",
+            "startDate": "2016-01"
+        }
+    ],
+    "selfComm": "自毕业后一直从事医疗器械专业相关的工作，在工作中不断的能够发现问题解决问题，并对医疗器械维修有着浓厚的兴趣。 \n",
+    "trainExp": "2011-12-2012-01 ct，x线机，监护，激光相机，B超\n培训机构：彩虹培训中心\n所获证书：医用仪器调试工\n培训地点：西安航空学院主教学楼-1层\n培训描述：经过培训，我掌握了仪器的操作方法，经过老师的拆装培训了解了仪器的内部结构，以及各部件的作用。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中国援马达加斯加技术合作组",
+            "department": "",
+            "detail": "\n\n我现在主要负责手术室设备的保养维护，在这边维修维护了呼吸麻醉机、电动呼吸机，手术床，无影灯，心电监护仪，高频电刀，吸引器等手术设备，并参与调试维护中央供氧系统、空气层流净化系统，发电机，焚烧炉，尸体柜，等设备，即锻炼了自己独立思考的能力，又锻炼了自己团结协作的能力。\n",
+            "endDate": "2018-07",
+            "industry": "医药/生物工程",
+            "position": "医疗器械维修/保养",
+            "salary": "10001-15000元/月",
+            "scale": "",
+            "startDate": "2016-01",
+            "type": ""
+        },
+        {
+            "company": "陕西为公信息科技有限公司",
+            "department": "",
+            "detail": "\n我在公司主要从事mindray的检验产品、超声、监护的维修与维护，在工作的4年里，锻炼了自己的技术，并且适应了长时间的出差。\n",
+            "endDate": "2016-01",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修/保养",
+            "salary": "6001-8000元/月",
+            "scale": "",
+            "startDate": "2012-10",
+            "type": ""
+        }
+    ],
+    "workYears": 9.0
+}

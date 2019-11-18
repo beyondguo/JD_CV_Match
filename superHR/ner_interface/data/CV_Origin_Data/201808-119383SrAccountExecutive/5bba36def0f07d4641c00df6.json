@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "西安-雁塔区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "河北利华药业有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "西北销售经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "动物医学",
+            "school": "西北农林科技大学",
+            "startDate": "2008-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "生物工程/生物制药;分公司/代表处负责人;部门/事业部管理",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "5bba36def0f07d4641c00df6",
+    "projectExp": [],
+    "selfComm": "\n 与人为善，吃苦耐劳，敢打敢拼！ \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "河北利华药业有限公司",
+            "detail": "- 所在地区：西安-雁塔区 \n - 下属人数：8人 \n - 职责业绩： \n负责河北利华在陕甘宁地区的市场开发，销售，团队建设与管理。\n",
+            "endDate": "4000-10",
+            "position": "西北销售经理",
+            "startDate": "2016-08"
+        },
+        {
+            "company": "武汉科前动物生物制品有限责任公司",
+            "detail": "\n - 下属人数：3人 \n - 职责业绩： \n负责科前家禽陕西区市场开发，客户开发与维护。\n",
+            "endDate": "2016-08",
+            "position": "陕甘销售经理",
+            "startDate": "2015-08"
+        },
+        {
+            "company": "天津瑞普生物技术股份有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责天津瑞普陕西区销售，客户开发与销售跟踪。\n",
+            "endDate": "2015-08",
+            "position": "销售经理",
+            "startDate": "2013-08"
+        }
+    ]
+}

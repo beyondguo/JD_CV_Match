@@ -1,0 +1,297 @@
+{
+    "basic": {
+        "birthday": "1987-11-5",
+        "currentCity": "西安-雁塔区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/607cb0d2f15119be6bb070aff43d63c1.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "渭南",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "英科新创(厦门)科技有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "高级应用专员",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n生物化学、医学统计学、分析化学、检验仪器学、生理学、病理学、寄生虫学及检验、微生物学及检验、免疫学及检验、血液学检验、临床生物化学及检验、诊断学、内科学、药理学、计算机基础与应用等。",
+            "endDate": "2018-01",
+            "major": "医学检验",
+            "school": "上海交通大学医学院",
+            "startDate": "2015-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "生物化学、医学统计学、分析化学、生理学、病理学、寄生虫学及检验、微生物学及检验、免疫学及检验、血液学检验、临床生物化学及检验、诊断学、计算机基础与应用等",
+            "endDate": "2009-07",
+            "major": "医学检验",
+            "school": "西安医学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "extendFields": "",
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265104.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265106.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265108.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265111.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265112.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265115.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265119.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265120.0,
+            "strValue": "上海",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "9",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265122.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "10",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265124.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "上海",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "11",
+            "lastUpdate": "Jun 20, 2017 10:54:25 AM",
+            "lastUpdated": 1497927265128.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "上海交通大学医学院（函授）",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程",
+        "position": "售前/售后技术支持工程师,产品/品牌专员,技术支持，市场",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": " \n办公应用软件 熟练 \n英语 一般 ",
+    "otherLangResumeId": "587133b8f0f009f125de26c2",
+    "proSkill": "办公应用软件    熟练\n英语    一般\n",
+    "projectExp": [
+        {
+            "detail": "盐城血站梅毒项目因血站特殊原因需定期进行批间差实验结果接近临界值。",
+            "endDate": "2018-05",
+            "name": "试剂批间差存在差异",
+            "responsibility": "\n与老师沟通后分别不同两个批号结果都接近临界值，将批号反馈回公司后，公司质检查询记录结果良好，我进行了手工实验结果与公司结果基本吻合。与老师沟通后因血站是用仪器做酶免实验，手工实验通过只是证明试剂无问题，后判断应是仪器在加样中出现问题，建议老师与第三方工程师联系进行仪器维护，同时与公司总部协商重新给客户一批较稳定试剂来进行批间差实验。",
+            "startDate": "2018-05"
+        },
+        {
+            "detail": "阜阳人民医院进行梅毒、艾滋、丙肝15189性能验证实验。",
+            "endDate": "2018-03",
+            "name": "15189性能验证实验",
+            "responsibility": "与老师沟通15189性能验证实验方案进行调整后主要进行1、批间重复性实验；2、批内重复性实验；3、符合率实验；4、检出限实验（4.1 C50实验；4.2 \nC50验证；4.3 C5/C95实验）。进行10天的性能验证实验后将数据进行统一整理分析并反馈于老师，老师对结果较认可。",
+            "startDate": "2018-03"
+        },
+        {
+            "detail": "因业务拓展销售新开发了代理商，但因客户对公司产品不了解，故进行产品培训。",
+            "endDate": "2016-10",
+            "name": "培训代理商",
+            "responsibility": "因是新开发的代理商，对公司产品不了解，进行系统全面的培训，如公司概况、产品系列以及主推产品PPT的介绍。培训完成后对产品有一定的了解。",
+            "startDate": "2016-10"
+        },
+        {
+            "detail": "1、自身免疫性疾病项目推广，主要由销售、代理商、以及医院组织的甘肃省自身免疫项目推广。\n2、参加临检会以及风湿免疫会。",
+            "endDate": "2014-02",
+            "name": "产品推广",
+            "responsibility": "\n1、主要负责关于此次项目推广的培训PPT制作以及彩页、礼品等的前期准备，而后进行产品的培训，分别是公司概况、系列产品、主推产品包括试剂以及仪器的介绍、主推项目的临床意义等。培训完成后参加人员对产品有了更充分的了解在会后有较多的提问以及意向客户。\n2、主要负责提前申请彩页以及礼品、样机等，包括登记有意向客户以及进行会后总结。",
+            "startDate": "2014-02"
+        },
+        {
+            "detail": "就职深圳亚辉龙生物有限公司期间，在安康中心医院进行EB病毒实验，出现了与其他试剂厂家结果不吻合的情况。",
+            "endDate": "2014-01",
+            "name": "EB病毒实验对比出现不符",
+            "responsibility": "\n在安康中心医院进行EB病毒实验，出现了与其他试剂厂家结果不吻合的情况，老师提出质疑，我结合EB病毒的临床意义小儿如EB病毒阳性会表现的临床特征是发热等会导致结果阳性，建议与老师与临床沟通是否病人出现了临床症状。期间老师用PCR也进行了验证结果阳性，而后老师与临床医生沟通后病人临床症状于我所说一致，故老师对实验结果也比较认可。",
+            "startDate": "2014-01"
+        }
+    ],
+    "projectExpStr": "",
+    "salaryRemark": "6000-7999元/月",
+    "selfComm": "对待工作踏实稳定，能吃苦耐劳，有较强的适应能力和自学能力，有热情有责任心，性格开朗，勇于迎接新的挑战。\n校内职务 \n2005/4-2009/7 博翼文学社编辑部部长 ",
+    "trainExp": " \n2008/8--2009/7 检验科实习 \n培训机构： 西航职工医院 \n培训地点： \n培训描述： \n在实习期间，任实习小组组长，在这期间工作认真负责主要在微生物科室，免疫科室，生化科室，临检，血库等科室实习过得到了老师们的的好评，自己的专业动手能力也得到了很大提高。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "英科新创厦门",
+            "department": "技术支持服务部",
+            "detail": "1、负责酶免、金标、POCT、化学发光四条产品线的客诉问题；2、负责华东区大客户客诉回访；3、所负责项目的产品培训；4、15189的性能验证实验。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "高级应用工程师",
+            "scale": "1000-5000人",
+            "startDate": "2015-12",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "深圳亚辉龙生物科技有限公司",
+            "department": "市场部",
+            "detail": "主要工作为负责西北五省的1、产品前期市场推广、调研与 竞争产品信息的收集、整理与反馈； \n2、西北区全年展会、地方展会及学术会议等活动的推广组织与计划、实施及展会后总结；3、能够独立完成PPT的制作、编写及演讲并配合销售进行区域性的学术交流活动；4、收集客户需求，根据客户需求整理合理的产品市场方案推广给客户及代理商；5、即时处理、协调和解决客户反映的技术问题、提供技术维护和解决方案；6、对合作伙伴和最终用户进行针对性的产品现场培训。",
+            "endDate": "2015-11",
+            "industry": "制药/生物工程",
+            "position": "产品/品牌专员",
+            "scale": "150-500人",
+            "startDate": "2013-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "西安市妇产医院",
+            "department": "检验科",
+            "detail": "\n在检验科主要操做分为三大部分，生化室的质控、定标、半自动生化仪和各个生化项目的上机操作；临检室血常规，尿常规，凝血四项仪器等常规检查；在免疫室中的乙肝、梅毒、艾滋、丙肝等操作，对TCT的正常细胞形态的掌握和识别，并能辨认其异常形态。期间积累了一定的经验，掌握了检验常规技术操作，能够操作各种大型仪器。",
+            "endDate": "2013-02",
+            "industry": "医疗/护理/卫生",
+            "position": "检验科职员",
+            "scale": "50-150人",
+            "startDate": "2009-08",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 9.0
+}

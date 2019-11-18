@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1991-10-17",
+        "currentCity": "乌鲁木齐",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "乌鲁木齐",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "卫生检验",
+            "endDate": "2015-06",
+            "major": "医学检验",
+            "school": "四川大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 西安 ",
+        "contractTerm": "全职",
+        "industry": "政府/公共事业,教育/培训/院校",
+        "position": "政府事务管理,医药招商,招投标管理,医疗器械市场推广,医疗器械注册,客户维护",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "1.学习能力强，对新事物充满好奇心与挑战欲。\n2.性格稳重，做事细致。\n3.形象好，气质佳。人际沟通能力，协调能力强。\n4.检验专业知识从学到用，从用到教，掌握扎实。\n5.语言学习能力，运用能力强。除了能熟练掌握英语撰写、沟通能力外；熟练掌握中亚地区相关小语种（哈萨克、乌兹别克、柯尔克孜语言）",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "新疆维吾尔自治区医疗保障局",
+            "department": "医药价格与招标采购处",
+            "detail": "医药价格与招标采购处\n拟订全省药品、医用耗材、诊疗项目、医疗服务设施价格。草拟药品、医用耗材和检验试剂集中采购实施方案并组织实施。",
+            "endDate": "4000-10",
+            "industry": "政府/公共事业",
+            "position": "公务员",
+            "scale": "150-500人",
+            "startDate": "2016-11"
+        },
+        {
+            "company": "新疆石河子卫生学校",
+            "detail": "医学检验专业老师，教授生化检验、微生物检验，寄生虫检验等专业课理论学习与实际操作课程。",
+            "endDate": "2016-11",
+            "industry": "教育/培训/院校",
+            "position": "职业技术教师",
+            "scale": "500-1000人",
+            "startDate": "2015-08",
+            "type": "事业单位"
+        },
+        {
+            "company": "新疆出入境检验检疫局",
+            "detail": "参与由新疆出入境的食物中常见微生物相关检验。",
+            "endDate": "2015-06",
+            "industry": "150-500人",
+            "position": "微生物检验 (兼职)",
+            "scale": "政府机关",
+            "startDate": "2014-08"
+        },
+        {
+            "company": "GAP成都售卖部",
+            "detail": "实习商场销售",
+            "endDate": "2014-12",
+            "industry": "服装/纺织/皮革",
+            "position": "销售 (兼职)",
+            "startDate": "2013-08"
+        }
+    ],
+    "workYears": 4.0
+}

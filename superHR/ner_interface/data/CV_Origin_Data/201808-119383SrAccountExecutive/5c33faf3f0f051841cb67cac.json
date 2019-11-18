@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "birthday": "1990-7-25",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 15万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "在校期间的课程临床药学、工商管理学、医药营销、电子商务、商务谈判等",
+            "endDate": "2013-06",
+            "major": "医学类",
+            "school": "西安医学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "医药代表,高级医药代表",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [
+        {
+            "detail": "1、对辖区内的医院进行分析，筛选A、B级客户，根据2/8原则来规化活动\n分解每月销售任务，根据指标来分配到自己的医院以及能带来处方的客户，根据每个季度情况，策划组织活动，利用每次公司举办的城市会议覆盖一线客户，",
+            "endDate": "4000-10",
+            "name": "医药信息专员",
+            "responsibility": "完成指标，对自己区域的客户进行分析和跟进工作，负责每次会议前的客户参会以及会后的客户跟进工作",
+            "startDate": "2013-10"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "瀚辉医药科技有限公司（原海正辉瑞）",
+            "department": "销售部",
+            "detail": "在公司期间负责海正辉瑞甲强龙的销售，全年105%的达成，期间负责的区域陕西省人民医院，交通大学第一医院，高新医院，航天总医院等甲强龙的销售，\n2015年荣获陕晋冀大区的销售明星，\n在团队负责会议协调、会议策划等、培养实习生，在他们实习期给与工作指导等，目前有三名实习生被正式录用\n对辖区内的医院进行分析，筛选A、B级客户，根据2/8原则来规化活动\n分解每月销售任务，根据指标来分配到自己的医院以及能带来处方的客户，根据每个季度情况，策划组织活动，利用每次公司举办的城市会议覆盖一线客户，",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "高级医药学术推广",
+            "scale": "500-1000人",
+            "startDate": "2013-10",
+            "type": "合资"
+        }
+    ],
+    "workYears": 7.0
+}

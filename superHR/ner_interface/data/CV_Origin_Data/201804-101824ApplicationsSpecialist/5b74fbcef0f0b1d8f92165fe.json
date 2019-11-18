@@ -1,0 +1,65 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "福州",
+        "gender": " 男 ",
+        "maritalStatus": " 未婚",
+        "nationality": "中国",
+        "photoAddress": "http://static.tupu360.cn/porsche/uploads/talent_photo/1810/8d9ce84e78ff187ad452076ee60b52db.png",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "北京思塔高诊断产品贸易有限责任公司 ",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": " 服务工程师 ",
+    "currentSalary": "保密",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-12",
+            "major": "生物工程",
+            "school": "福建师范大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "graduateSchool": "福建师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "医疗设备/器械",
+        "position": "售前支持工程师;药品市场推广专员/助理;医疗器械市场推广",
+        "salary": "面议",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "英语,普通话",
+    "otherLangResumeId": "5b74fbcef0f0b1d8f92165fe",
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京思塔高诊断产品贸易有限责任公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t1.对售出的仪器进行安装、调试培训工作。 \n2.制定每个月的走访计划并执行预防性保养，提高满意度\n3.建立客户维修档案和联系方式，配件管理\n4.完成每年保修合同，配件销售额的指标，协助销售完成指标\n5.即时解读公司技术材料，对机器升级\n6，根据公司sop，对保内机器进行一年两次大保养并出鉴定报告\n          ",
+            "endDate": "4000-10",
+            "position": "服务工程师",
+            "startDate": "2017-07"
+        },
+        {
+            "company": "贝朗爱敦(上海)贸易有限公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t1.对售出的仪器进行安装、调试工作。 \n2.处理客户保养及维修问题，并负责跟查直至问题解决。 \n3.建立客户维修档案，管理好中英文维修手册、装箱清单、零配的采购和库存。 \n4.制定每月保养及维修计划。（待维修仪器处理方案等）。\n5.管理代理商，协助代理商服务客户\n6,完成每年保修合同，配件销售额的指标，协助销售完成指标",
+            "endDate": "2017-07",
+            "position": "技术支持工程师",
+            "startDate": "2015-12"
+        },
+        {
+            "company": "威士达医疗设备（上海）有限公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t1.对售出的仪器进行安装、调试工作。 \n2.处理客户保养及维修问题，并负责跟查直至问题解决。 \n3.建立客户维修档案，管理好中英文维修手册、装箱清单、零配的采购和库存。 \n4.制定每月保养及维修计划。（待维修仪器处理方案等）。\n          ",
+            "endDate": "2015-12",
+            "position": "工程师",
+            "startDate": "2014-12"
+        }
+    ],
+    "workYears": 6.0
+}

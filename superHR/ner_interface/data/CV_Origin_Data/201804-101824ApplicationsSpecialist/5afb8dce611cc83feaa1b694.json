@@ -1,0 +1,44 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "cityOfBirth": "福建宁德市",
+        "currentCity": "福建宁德市",
+        "gender": "女",
+        "photoAddress": ""
+    },
+    "certificate": "未参加",
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "福建医科大学",
+            "endDate": "4000-10",
+            "major": "本科",
+            "school": "2015-03 至 2017-12",
+            "startDate": "医学检验"
+        }
+    ],
+    "extendFields": "是否规培：已规培\n执业证书：未填写\n职称：职称职称初级",
+    "graduateSchool": "2015-03 至 2017-12",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州市",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5afb8dce611cc83feaa1b694",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "2014-05 至 2015-10",
+            "department": "宁德市医院",
+            "detail": "2013年-2014年在古田县医院检验科就职 2014-2015年在宁德市医院检验科进修 2015-至今在宁德市医院古田分院检验科",
+            "endDate": "4000-10",
+            "position": "检验科",
+            "startDate": "检验师"
+        }
+    ],
+    "workYears": 5.0
+}

@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "常州四药制药有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "高级医药代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-09",
+            "major": "市场营销",
+            "school": "南京中医药大学翰林学院",
+            "startDate": "2011-01"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "常州四药制药有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n&middot; 缬克（苏州三院，四院，明基），奥克（苏州中医院，明基）\n &middot; 独立开展医院各种活动高效执行公司下达的所有工作形式：包括早访，\n日常门诊拜访，夜访，家访等客情维护，慢病活动的组织以及开展 不定期举办心内科沙龙会，临床的病历收集等；\n月度业绩稳步增长，在市场环境变化的时候随时应变保证业绩稳步增量。年度增长量为15%\n",
+            "endDate": "4000-10",
+            "position": "高级医药代表",
+            "startDate": "2017-05"
+        }
+    ],
+    "workYears": 5.0
+}

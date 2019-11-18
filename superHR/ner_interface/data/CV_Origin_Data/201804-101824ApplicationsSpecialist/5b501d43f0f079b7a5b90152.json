@@ -1,0 +1,82 @@
+{
+    "basic": {
+        "birthday": "1992-06",
+        "currentCity": "福建厦门市",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=2386200%2BDXY&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建厦门市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门麦克奥迪医学检验所",
+    "currentIndustry": "",
+    "currentPosition": "病理技术员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "医学检验",
+            "school": "沈阳医学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "extendFields": "是否规培:已规培\n执业证书:暂无执业证书\n职称:职称初级\n发表论文:\n在校期间参加大学生科研课题，研究关于噬菌体治疗鲍曼不动杆菌的课题，被选中参加全国大学生科研竞赛，分别以第一作者第二作者发表两篇相关论文。",
+    "graduateSchool": "沈阳医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科,病理科,输血科",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b501d43f0f079b7a5b90152",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "本人性格活泼，乐观向上，做事细心谨慎，遇事沉着稳重，有较强的团队合作精神；善于思考，学习能力强，有较好的抗压能力，",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门麦克奥迪医学检验所",
+            "department": "病理技术室",
+            "detail": "从事病理技术的相关工作，能独自完成病理技术室的一整套完整工作，包括取材、包埋、切片、染色和免疫组化染色，并且熟悉病理科各类仪器的使用、维护和简单维修。工作态度好，责任心强，团结同事，学习劲头足。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "病理技术员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-12",
+            "type": ""
+        },
+        {
+            "company": "厦门眼科中心",
+            "department": "检验科",
+            "detail": "这份工作算是我毕业后的第一份工作，我刻苦学习，积极思考，向科室前辈请教，好在科室主任和各位同事都比较严格，让我练下了扎实的基本功。我工作态度端正，服务病人的意识强烈，善于与患者沟通，工作期间从没有收到来自病人的投诉。熟练检验科工作，能独立值班。",
+            "endDate": "2016-11",
+            "industry": "",
+            "position": "检验员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2015-10",
+            "type": ""
+        },
+        {
+            "company": "中国人民解放军第202医院",
+            "department": "检验科",
+            "detail": "实习期间，参与检验科的日常工作，熟练多项检验项目的操作和多种检验仪器的操作、保养；\n熟练掌握微生物室的各项工作，熟悉科室的工作流程；\n熟练显微镜的操作，能解读镜下血、尿、便涂片和多种分泌物涂片；\n",
+            "endDate": "2015-06",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2014-07",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

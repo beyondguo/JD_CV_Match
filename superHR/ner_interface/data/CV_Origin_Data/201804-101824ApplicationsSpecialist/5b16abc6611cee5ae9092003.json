@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1985-2-10",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 20万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "药学",
+            "school": "华中科技大学同济医学院",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "无",
+        "position": "",
+        "salary": "13000-20000 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州康奥美医疗器械有限公司",
+            "detail": "1、2010年-2011年：负责雅培检验试剂泉州重点客户销售；\n2、2011-2013年：负责飞利浦彩超、东芝普放大放类产品、西门子彩超在泉州龙岩三明地区的销售；\n3、2013-2014年：负责迈瑞监护麻醉呼吸类产品、STORZE等疼痛康复产品在泉州三明地区的销售；\n4、2015-至今：负责奥林巴斯胃肠镜泉州三明地区的销售；负责奥林巴斯内镜耗材福州莆田泉州三明地区的销售。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "销售经理",
+            "startDate": "2010-08"
+        }
+    ],
+    "workYears": 12.0
+}

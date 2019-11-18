@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "陕西康美达生物科技有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "市场部经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2010-07",
+            "major": "物理教育",
+            "school": "咸阳师范学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "市场拓展经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：负责人 \n - 所在公司：陕西康美达生物科技有限公司 \n - 项目简介： \n毒品检测实验室耗材供货商\n",
+            "endDate": "4000-10",
+            "name": "西安市公安局刑侦局",
+            "startDate": "2017-01"
+        }
+    ],
+    "selfComm": "\n 积极，敢于吃苦，团队合作 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西康美达生物科技有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：总经理 \n - 下属人数：3人 \n - 职责业绩： \n1。负责开拓目标市场，开发、推广维护；\n2。制定开发计划、开拓市场、组织实施开发方案，对开发效果进行监控分析和优化改进；\n3。负责与客户进行业务联络和沟通，维护客户关系；\n4。负责市场活动的组织、策划和执行。\n",
+            "endDate": "4000-10",
+            "position": "市场部经理",
+            "startDate": "2016-10"
+        },
+        {
+            "company": "陕西诺济医疗科贸有限公司",
+            "detail": "\n - 汇报对象：总经理 \n - 下属人数：7人 \n - 职责业绩： \n1。负责开拓目标市场，开发、推广维护；\n2。制定会员开发计划、开拓市场、组织实施开发方案，对开发效果进行监控分析和优化改进；\n3。负责与客户进行业务联络和沟通，维护客户关系；\n4。负责市场活动的组织、策划和执行。\n",
+            "endDate": "2016-09",
+            "position": "经理",
+            "startDate": "2010-05"
+        }
+    ],
+    "workYears": 8.0
+}

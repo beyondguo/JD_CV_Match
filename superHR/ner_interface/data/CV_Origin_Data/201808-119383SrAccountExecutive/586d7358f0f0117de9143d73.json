@@ -1,0 +1,109 @@
+{
+    "basic": {
+        "birthday": "1989-1-25",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/b7a28e28643afa1d1bee69d840d3cb3b.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2010/12 大学英语六级 \n2010/4 驾驶证 \n2009/12 大学英语四级 \n2009/12 普通话等级 （一级乙等） ",
+    "confidentialResume": "N",
+    "currentCompany": "美敦力(上海)管理有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "产品/品牌专员",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "陕西师范大学分子微生物专业理学硕士",
+            "endDate": "2015-06",
+            "major": "生物科学，技术",
+            "school": "陕西师范大学",
+            "startDate": "2012-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "西安工程大学生物工程专业工学本科",
+            "endDate": "2012-06",
+            "major": "生物工程",
+            "school": "西安工程大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "extendFields": "",
+    "graduateSchool": "陕西师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "生物/制药/医疗器械,面谈",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \nMS Powerpoint 熟练 ",
+    "otherLangResumeId": "586d7358f0f0117de9143d73",
+    "proSkill": "计算机／IT  熟练|36",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "6000-7999元/月",
+    "selfComm": "1.外企工作锻炼了较强的工作能力,能够用外文邮件沟通工作事宜,独立完成会务安排,并具备不错的口语水平;\n2.研究生学习培养了较强的学习能力,能够快速掌握新知识,有较强的逻辑思维和判断能力,善于独立分析和解决问题;\n3.本科期间担任学院科技学会主席,具备良好的心理素质和较强的应变能力,善于与人合作,有团队精神;\n4.本科期间一直担任班长,有较强的表达和沟通能力,待人真诚热情,处事积极乐观;\n5.积极参加&ldquo;挑战杯&rdquo;及创业计划大赛,有较强的创新能力,能够面对任何困难和挑战;\n6.利用暑期兼职锻炼自我,己具备了相当的社会实践操作能力,有很强的事业心和责任感。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "正浩生物",
+            "detail": "负责公司产品市场维护管理，包括现有项目的维护及新项目的开发推进，及产品培训，业务人员的培训，市场活动的策划开展。",
+            "endDate": "2018-03",
+            "industry": "",
+            "position": "项目经理/主管",
+            "startDate": "2017-03"
+        },
+        {
+            "company": "美敦力(上海)管理有限公司",
+            "department": "脊柱业务部门",
+            "detail": "\n美敦力（上海）管理有限公司转正工作，负责产品销售推广、产品培训与渠道维护管理工作，包括产品售前售后技术服务、与代理商的接洽、经销商的培训、相关产品的市场宣传宣讲活动、产品资料文献的整理编辑、自办会及第三方学术会议的开展，先后独立举办以下市场活动：第二届神经脊柱外科手术技术学习班、美敦力脊柱卫星会、西京脊柱肿瘤规范化诊治研讨班、西安交大一附院骨科论坛、陕西省医学会脊柱外科分会病例讨学习班，获得公司短期奖励计划。",
+            "endDate": "2017-01",
+            "industry": "医疗设备/器械",
+            "position": "产品专员",
+            "scale": "1000-5000人",
+            "startDate": "2015-06",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "美敦力(上海)管理有限公司",
+            "department": "脊柱业务部门",
+            "detail": "获得Trainee Camp项目比赛第一名。",
+            "endDate": "2015-06",
+            "industry": "医疗设备/器械",
+            "position": "实习",
+            "scale": "外资(欧美)",
+            "startDate": "2015-01"
+        },
+        {
+            "company": "陕西师范大学生命科学学院",
+            "department": "生命科学学院",
+            "detail": "担任本科生微生物学实验的教学工作。",
+            "endDate": "2013-02",
+            "industry": "学术/科研",
+            "position": "教学工作",
+            "scale": "事业单位",
+            "startDate": "2013-01"
+        },
+        {
+            "company": "杨凌新农夫生态农业公司进行",
+            "department": "生产部门",
+            "detail": "专业实习,了解生产环节,促进生产有序进行,实习期间按要求完成任务;",
+            "endDate": "2011-09",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "实习",
+            "scale": "民营公司",
+            "startDate": "2011-07"
+        }
+    ],
+    "workYears": 4.0
+}

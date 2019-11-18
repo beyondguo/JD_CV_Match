@@ -1,0 +1,39 @@
+{
+    "basic": {
+        "birthday": "1993-12-26",
+        "currentCity": "福州",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "无",
+    "eduExp": [],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "通信/电信运营、增值服务",
+        "position": "客服专员/助理,内勤",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "otherLangResumeId": "5b6fedfbf0f00fbf896c5a55",
+    "projectExp": [],
+    "selfComm": "性格开朗，工作认真负责，细心，有很强的职责心和进取心,不怕吃苦，能够很好的处理同事的关系，具有强烈的团队合作精神，并能承担必须的工作压力，\n\n做事塌实认真，能吃苦耐劳；学习潜力强，能够很快的理解新事物；性格开朗，诚实正直，谦和自信，乐于进取乐于奉献，勤奋好学，用心上进，有较强的社会适应潜力。工作踏实，认真细致，具有强烈的事业心和工作职责心，善于处理人际关系，具有极佳的团队合作精神，本人工作3年多。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阳光保险",
+            "detail": "主要负责后勤这方面",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2017-05"
+        }
+    ],
+    "workYears": 1.0
+}

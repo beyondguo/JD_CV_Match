@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "西安-新城区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "赛诺菲(中国)投资有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售专员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "公共卫生",
+            "school": "长春中医药大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗设备/器械",
+        "position": "区域销售专员/助理;大客户销售;医药销售代表",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "赛诺菲(中国)投资有限公司",
+            "detail": "- 所在地区：西安-新城区 \n - 职责业绩： \n负责区域内的业务增长\n",
+            "endDate": "4000-10",
+            "position": "销售专员",
+            "startDate": "2012-06"
+        }
+    ],
+    "workYears": 7.0
+}

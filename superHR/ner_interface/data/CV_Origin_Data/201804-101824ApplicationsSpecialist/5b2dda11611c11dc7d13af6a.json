@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1993-09",
+        "currentCity": "陕西 西安-雁塔区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/2/28/057879b0-3915-4e59-b8dc-52b9ea48d3fb.jpg",
+        "registeredResidence": "陕西-宝鸡"
+    },
+    "certificate": "2015/06 全国计算机应用技术证书",
+    "confidentialResume": "N",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-07",
+            "major": "森林工程",
+            "school": "东北林业大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "广告/会展/公关、教育/培训/院校",
+        "position": "培训师/讲师、广告/会展、生产管理/运营",
+        "salary": "4001-6000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "英语： 读写能力&nbsp;一般| 听说能力&nbsp;一般",
+    "projectExp": [],
+    "selfComm": "你好 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也许目前想要进入的行业不是我拿手的，不过我想任何一家公司要求工作经验的原因只是为了员工对这项工作更容易上手，做得更好，除非很强专业技能的工作，兴趣是最好的老师，毛爷爷也是，我会以最快速度学习并且适应，做到最好。 大学学机械，出来毕业创过业，后任职于数码行业国家级代理商，主要是销售拓展，现寻求更大的发展，希望你是我的伯乐！?? &nbsp;&nbsp;&nbsp;&nbsp;注：本人不海投简历，投递的都为属意企业，也希望双方以诚相待，线上标记薪资与实际相符，不接受线上标记为底薪+提成！（提成我会努力赚，但是底薪请讲清楚）谢谢！",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳伟仕佳杰科技有限公司",
+            "department": "",
+            "detail": "\n区域客户布局，核心客户维护，开发新客户，接待厂家，组织召开会议聚餐\n",
+            "endDate": "4000-10",
+            "industry": "计算机硬件",
+            "position": "区域经理",
+            "scale": "",
+            "startDate": "2016-09",
+            "type": ""
+        }
+    ],
+    "workYears": 2.0
+}

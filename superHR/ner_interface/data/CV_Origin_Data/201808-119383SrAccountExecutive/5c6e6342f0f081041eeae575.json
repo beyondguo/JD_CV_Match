@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1996-3-7",
+        "currentCity": "西安",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "财务管理",
+            "school": "山东财经大学东方学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "广告制作执行,广告客户主管/专员,AE",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [],
+    "selfComm": "这是自己喜欢的事情，会抱有热情和正确的态度。追求自己的人生",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "香港铑银匠",
+            "detail": "与客户进行交流，营销策划",
+            "endDate": "2019-02",
+            "industry": "",
+            "position": "销售经理",
+            "startDate": "2018-02"
+        }
+    ],
+    "workYears": 1.0
+}

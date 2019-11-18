@@ -1,0 +1,72 @@
+{
+    "basic": {
+        "birthday": "1990-3-10",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/34e1d91b436f2a275430c20be5814b13.jpg",
+        "politicalStatus": "中共党员",
+        "registeredResidence": "西安",
+        "zipCode": "710000"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 13万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "主要学习基础医学、临床医学、医学检验方面知识，受到医学检验操作技能的系统训练，具有临床医学检验及卫生检验的能力。",
+            "endDate": "2013-07",
+            "major": "医学检验",
+            "school": "西安医学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械,制药/生物工程",
+        "position": "销售代表,销售经理",
+        "salary": "15-20万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n英语 一般 ",
+    "projectExp": [
+        {
+            "detail": "渭南市八鱼乡卫生院血球分析仪装机。",
+            "endDate": "2019-01",
+            "name": "渭南市八鱼乡卫生院血球分析仪装机",
+            "responsibility": "",
+            "startDate": "2018-12"
+        }
+    ],
+    "selfComm": "2013年毕业后就职于西安市儿童医院，14年4月辞职，五月带着单车从西安钟楼出发一路骑行至拉萨，同年担任拉萨雍措青年旅舍店长职务，全权管理客栈。\n西安骑行至拉萨，这件事过后我发现其实我还是很有毅力的一个人，医学检验专业毕业的我，具有客栈营销和经营的经验，拥有坚持不懈的意志力，相信销售这份工作我定然可以胜任，同时，我也愿意让这份工作成为我的事业，为之奋斗。\n校内职务 \n2009/9-2013/7 班长 ",
+    "trainExp": " \n2012/5--2013/7 医学检验 \n培训机构： 西安市儿童医院 \n培训地点： \n培训描述： 于西安市儿童医院检验科免疫、微生物、生化、临检、门诊等科室实习，熟练掌握医学检验临床操作。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "迈克生物股份有限公司",
+            "department": "销售部",
+            "detail": "维护现有客户上量，推广开发新客户。目前年营业额500万元。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械销售代表",
+            "scale": "1000-5000人",
+            "startDate": "2015-05",
+            "type": "上市公司"
+        },
+        {
+            "company": "西安市儿童医院",
+            "department": "检验科",
+            "detail": "在西安市儿童医院检验科免疫室、生化室、临检室、门诊室、微生物室等科室从事检验师工作。",
+            "endDate": "2014-04",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "1000-5000人",
+            "startDate": "2013-07",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 6.0
+}

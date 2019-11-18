@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1990-7-15",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/c1200942f46ce589b6e4b1b17821f977.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "学习临床检验各个项目的基础理论，实验原理。学习检验指标对临床的重要性以及必要性。学习新项目的研究趋势。",
+            "endDate": "2016-06",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,医疗/护理/卫生",
+        "position": "技术支持/维护经理,临床技术支持",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：3个月内"
+    },
+    "projectExp": [
+        {
+            "detail": "收发校园大物件快递投递",
+            "endDate": "2015-06",
+            "name": "毕业生离校季，快递包裹",
+            "responsibility": "负责策划、宣传、招人、运送等一系列活动，活动仅仅持续半个月，已投递快递五千多件。",
+            "startDate": "2015-05"
+        },
+        {
+            "detail": "春，秋开学季电信手机及手机卡，电信营业厅管理",
+            "endDate": "2015-05",
+            "name": "陕西电信营业厅",
+            "responsibility": "\n主要负责春，秋开学季电信手机及手机卡的销售，平日里负责营业厅的经营管理，负责给营业厅洽谈招商合作，参与电脑维修人员，小商品出售，快递行业有资深合作。为电信营业厅提高了效益最大化。",
+            "startDate": "2012-02"
+        }
+    ],
+    "selfComm": "本人性格开朗，乐观，对生活充满激情，能吃苦耐劳，喜欢专注做自己喜欢做的事情，并且有很强的组织能力和社交能力。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安航天总医院",
+            "department": "检验科",
+            "detail": "\n在实验室里处理病人标本，其中包括临检、生化、免疫、微生物。承担着科里一些事务，每年为实习生讲课，讲课内容也在不断变化，对于疑难病例即时临床沟通，积极参加学术会议。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验师",
+            "scale": "1000-5000人",
+            "startDate": "2016-05",
+            "type": "国企"
+        },
+        {
+            "company": "西安交通大学第一附属医院",
+            "department": "检验科",
+            "detail": "\n在检验科实习，了解检验科仪器配置，检验科的工作流程，掌握检验科里各种仪器的工作原理，学习理论知识与实践相结合，了解Is15189评选的工作要求。处理好和各位老师的关系。",
+            "endDate": "2016-05",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "5000-10000人",
+            "startDate": "2015-06",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 2.0
+}

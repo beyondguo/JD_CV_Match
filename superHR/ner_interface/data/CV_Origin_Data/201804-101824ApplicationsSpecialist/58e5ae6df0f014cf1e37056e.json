@@ -1,0 +1,262 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1986-8",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "",
+        "registeredResidence": "江西-九江"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "深圳新产业医学生物工程有限公司",
+    "currentIndustry": "",
+    "currentPosition": "售前/售后技术支持工程师",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2009-07",
+            "major": "医学检验",
+            "school": "安徽理工大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768348.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768350.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768352.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768355.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768357.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768359.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768367.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768369.0,
+            "strValue": "南昌",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768371.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768373.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768376.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "20",
+                    "enumValue": "江西省",
+                    "id": "19",
+                    "isDefault": false,
+                    "orderIndex": 19.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Nov 15, 2017 1:12:48 PM",
+            "lastUpdated": 1510722768380.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "安徽理工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "江西,广东,上海",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/美容/保健/卫生服务",
+        "position": "医院/医疗/护理,销售行政/商务,销售业务",
+        "salary": "2001-4000元/月",
+        "state": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）"
+    },
+    "langAbility": "英语:读写能力:一般 | 听说能力:一般",
+    "otherLangResumeId": "58e5ae6df0f014cf1e37056e",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "积极进取，品质优秀。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳新产业医学生物工程有限公司",
+            "department": "技术服务部",
+            "detail": "主要负责福建地区，全自动化学发光免疫分析仪的技术服务工作，包括仪器的安装与培训、维护，实验观察与反馈，项目推广等。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "salary": "2001-4000元/月",
+            "scale": "500-999人",
+            "startDate": "2011-04",
+            "type": "合资"
+        },
+        {
+            "company": "福州艾迪康医学检验所",
+            "department": "实验室",
+            "detail": "负责日常标本检测与报告审核，主要是仪器免疫组即电化学发光仪器（罗氏E601和E411）的操作与维护。",
+            "endDate": "2011-03",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "实验室技术员",
+            "salary": "2001-4000元/月",
+            "scale": "",
+            "startDate": "2009-08",
+            "type": "民营"
+        }
+    ],
+    "workYears": 0.0
+}

@@ -1,0 +1,223 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "陕西省",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "西安科林生物科技有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "片区经理/免疫产品线经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2014-12",
+            "major": "医学检验",
+            "school": "陕西中医学院",
+            "startDate": "2011-09"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2010-07",
+            "major": "医学检验技术",
+            "school": "西安医学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "5",
+                "enumValue": "老数据待补",
+                "id": "4",
+                "isDefault": false,
+                "orderIndex": 4.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540082.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540086.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540092.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540095.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540099.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540112.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540118.0,
+            "strValue": "西安",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540125.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "Feb 8, 2018 3:05:40 PM",
+            "lastUpdated": 1518073540138.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "陕西中医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西省",
+        "industry": "医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "售后支持工程师;售前支持经理/主管",
+        "salary": "面议"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "58e5aef9f0f0b66f8268dfa3",
+    "proSkill": "",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：销售 \n - 所在公司：西安科林生物科技有限公司 \n - 项目简介： \n担任公司西安市部分医院的片区经理负责对应医院公司代理产品的销售工作，担任公司代理免疫产品的产品线项目经理，负责亚辉龙免疫产品，雅培免疫全线产品的销售综合工作。\n - 项目职责： \n负责职责项目的销售及对应片区的公司代理产品销售\n - 项目业绩： \n2017.1月至今把责任医院业务从年销售90万做到450万，直销设备7台，其中日立生化3台，亚辉龙发光2台，亚辉龙印迹仪1台，迈克血球1台。\n",
+            "endDate": "4000-10",
+            "name": "片区经理/免疫产品线经理",
+            "startDate": "2017-01"
+        },
+        {
+            "detail": "\n - 项目职务：技术支持工程师 \n - 所在公司：西安科林生物科技有限公司 \n - 项目简介： \n\n担任日立生化全系列的应用培训，巡回保养，技术支持。担任BD微生物系列的血培养仪，细菌鉴定仪的应用培训，技术支持。担任亚辉龙免疫产品的项目经理，负责仪器的应用培训，维护保养，技术支持。负责美艾利尔快速诊断产品的安装调试，应用培训，技术支持。担任迈克诊断试剂，利德曼诊断试剂的技术支持。\n - 项目职责： \n负责担任公司所销售产品的售前售后技术支持。并在服务中配合销售人员推广公司销售的配套耗材。\n - 项目业绩： \n\n2011.9月至2016年12月共培训日立生化50台次，BD微生物30台次，亚辉龙免疫20台次，应用培训共计100台次，组织公司销售部和医院科室技术培训20余次，累计技术服务2000余次；目前能独立安装培训日立，BD，YHLO全系仪器，2012年担任应用组长后在原有对客户被动服务的前提下改变服务模式，形成主动，计划，加定期学术推广的模式在客户中服务口碑有明显的提高：、在陕西用户中树立了不错的服务口碑。同时配合销售在区域用户内取得了不错的销售业绩。\n",
+            "endDate": "2016-12",
+            "name": "技术支持",
+            "startDate": "2012-09"
+        }
+    ],
+    "projectExpStr": "2012.09 - 至今\t技术支持工程师\r\n \t- 项目职务：技术支持工程师 \r\n- 所在公司：西安科林生物科技有限公司 \r\n- 项目简介：公司所有产品的售前售后技术支持。 \r\n- 项目职责： 负责担任公司所销售产品的售前售后技术支持。并在服务中配合销售人员推广公司销售的配套耗材。 \r\n- 项目业绩： 在技术服务过程中成功通过技术教育和服务推广和销售了公司的配套诊断试剂，成功增加一家长期合作的用户。",
+    "salaryRemark": "",
+    "selfComm": "个人非常喜欢和热爱技术工作，因为每次技术服务都是知识的积累，知识让人视野更宽阔，让人充实踏实。当时因为收入问题我选择做IVD销售，1年多的努力让我在业绩上有不错的成绩，但是自己还是最喜欢技术工作还是想好好用技术服务用户。同样是服务医院，个人还是最喜欢技术服务。同样正确、及时、高效的技术服务医院不仅可以给企业带来好的经济效益及用户口碑，也是对每一位检查病人的认真负责。所以这也是我深爱这个行业和职业的原因。\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安科林生物科技有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：销售总监 \n - 下属人数：0人 \n - 职责业绩： \n担任公司西安市部分医院的片区经理负责对应医院公司代理产品的销售工作，担任公司代理免疫产品的产品线项目经理，负责亚辉龙免疫产品，雅培免疫全线产品的销售综合工作。\n",
+            "endDate": "4000-10",
+            "position": "片区经理/免疫产品线经理",
+            "startDate": "2017-01"
+        },
+        {
+            "company": "西安科林生物科技有限公司",
+            "detail": "- 所在地区：陕西省 \n - 汇报对象：服务部经理 \n - 下属人数：3人 \n - 职责业绩： \n\n担任日立生化全系列的应用培训，巡回保养，技术支持。担任BD微生物系列的血培养仪，细菌鉴定仪的应用培训，技术支持。担任亚辉龙免疫产品的项目经理，负责仪器的应用培训，维护保养，技术支持。负责美艾利尔快速诊断产品的安装调试，应用培训，技术支持。担任迈克诊断试剂，利德曼诊断试剂的技术支持。\n",
+            "endDate": "2016-12",
+            "position": "售后服务工程师",
+            "startDate": "2011-09"
+        },
+        {
+            "company": "兵器工业521医院",
+            "detail": "- 所在地区：西安 \n - 汇报对象：主任 \n - 下属人数：0人 \n - 职责业绩： \n负责医院临床病人标本的生物化学实验室检测。\n2011年取得临床医学检验初级（士）资格证\n",
+            "endDate": "2011-09",
+            "position": "检验操作师",
+            "startDate": "2010-07"
+        }
+    ],
+    "workYears": 7.0
+}

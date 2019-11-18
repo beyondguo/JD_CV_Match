@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1981-01",
+        "currentCity": "陕西",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "香港奥美制药有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售主管",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2003-07",
+            "major": "临床医学与医学技术",
+            "school": "延安大学",
+            "startDate": "2000-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西",
+        "industry": "制药/生物工程;医疗设备/器械",
+        "position": "销售总监;区域销售总监",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "香港奥美制药有限公司",
+            "detail": "\n - 汇报对象：省区经理 \n - 下属人数：5人 \n - 职责业绩： \n负责区域内产品销售 和客情建立和维护 年300万\n",
+            "endDate": "4000-10",
+            "position": "销售主管",
+            "startDate": "2016-10"
+        },
+        {
+            "company": "四川成都通威有限公司",
+            "detail": "- 所在地区：北京 \n - 下属人数：10人 \n - 职责业绩： \n在职期间 能认真工作 按时完成和超额完成区域销售任务 有良好的客情关系\n",
+            "endDate": "2016-08",
+            "position": "地区经理",
+            "startDate": "2007-01"
+        },
+        {
+            "company": "西安瑞恒祥医药有限公司",
+            "detail": "\n - 下属人数：100人 \n - 职责业绩： \n在职期间负责西安及周边市场的销售和团队的管理工作 工作期间 踏实努力 能超额完成工作任务\n",
+            "endDate": "2006-08",
+            "position": "销售经理",
+            "startDate": "2003-09"
+        }
+    ],
+    "workYears": 15.0
+}

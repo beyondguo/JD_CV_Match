@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "厦门",
+        "gender": "男",
+        "maritalStatus": "保密",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "厦门优迈科医疗仪器有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "技术推进科科长",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "生命科学",
+            "school": "复旦大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械研发",
+        "salary": "未填",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "\n普通话\n",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门优迈科医疗仪器有限公司",
+            "companyDescription": "",
+            "department": "",
+            "detail": "职责业绩： 推进全自动化学发光免疫分析仪的试剂仪器一体化工作，提高仪器运行稳定性和重复性",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "技术推进科科长",
+            "salary": "保密",
+            "scale": "",
+            "startDate": "2013-07",
+            "type": ""
+        }
+    ],
+    "workYears": 5.0
+}

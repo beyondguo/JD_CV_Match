@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1992-05",
+        "currentCity": " 厦门",
+        "currentSalary": "年薪5 万元",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "uploads/talent_photo/1807/8a51a68cfaaa093cbce9b6192bf9e8f6.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门万泰凯瑞生物技术有限公司",
+    "currentPosition": "医疗器械研发",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-06",
+            "major": "生物科学，技术",
+            "school": "福建师范大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "graduateSchool": "福建师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械&emsp;制药/生物工程&emsp;学术/科研",
+        "position": "",
+        "salary": "6000-7999元/月",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [
+        {
+            "detail": "\n所属公司：厦门万泰凯瑞生物技术有限公司\n项目描述：公司任职期间负责项目的推进情况如下：\n1、f-PSA（游离前列腺肿瘤标志物）上限得以有效改进；使得该项目在中高区段的特异性得以改善.\n2、ferritin（铁蛋白）项目新鲜与陈旧标本差异得以解决，使得在临床中标本检测差异有效降低.\n3、c-PSA（结合前列腺肿瘤标志物）项目精密度得以有效改善，重复稳定性提高.\n4、T-PSA（总前列腺肿瘤标志物）项目筛选出阻断剂，有效提高该项目的抗干扰能力.\n5、以上四个项目在生产过程中，产品批间差有效控制在10-15%以内.\n责任描述：本人在公司中主要负责肿瘤标志物相关项目试剂研发（包括原料筛选，试剂稳定性、灵敏度、特异性优化等）、生产跟进与生产过程相关问题的协调解决以及产品批间差的把控； \n 另外还包含了诊断试剂标准品、质控品建立、相关临床试验工作以及部分客诉处理等.",
+            "endDate": "4000-10",
+            "name": "体外诊断试剂盒相关项目",
+            "startDate": "2015-07"
+        }
+    ],
+    "salaryRemark": "年薪5 万元",
+    "selfComm": "经过了3年的研发工作之后逐渐养成了严谨的工作态度，遇到问题不是一味的从外表寻根究底，而是多角度分析问题，从每个环节入手，直至找到问题所在。\n工作中积极主动是学习态度，认真负责是工作宗旨，生活中的我不算活泼开朗，但一定是稳重有活力的；只有把工作和生活结合的融洽，你才会走向成功。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门万泰凯瑞生物技术有限公司",
+            "department": "研发部",
+            "detail": "诊断试剂的实验室研究，包括生产反应工艺研究、稳定性研究、内部质控品标准品的建立以及临床相关工作的完成.",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "医疗器械研发",
+            "startDate": "2015-07"
+        }
+    ],
+    "workYears": 3.0
+}

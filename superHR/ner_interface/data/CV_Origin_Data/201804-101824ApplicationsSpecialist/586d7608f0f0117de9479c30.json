@@ -1,0 +1,72 @@
+{
+    "basic": {
+        "birthday": "1991-11-2",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/61cd439e282d79e59d5a78a74be7d256.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "福州",
+        "zipCode": ""
+    },
+    "certificate": " \n2013/3 CAD/SOLIDWORKS ",
+    "confidentialResume": "N",
+    "currentCompany": "海尔集团",
+    "currentPosition": "销售代表",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2014-06",
+            "major": "材料成型及控制工程",
+            "school": "福建船政学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "graduateSchool": "福建船政学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "销售代表,销售管理,城市经理",
+        "salary": "10-15万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：1周内"
+    },
+    "langAbility": " \n英语 良好 \n普通话 熟练 \n日语 一般 ",
+    "otherLangResumeId": "586d7608f0f0117de9479c30",
+    "proSkill": "英语    良好\n普通话    熟练\n日语    一般\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "",
+    "selfComm": "擅长kol，专注销售工作。\n优于处理客户关系。\n校内职务 \n2011/9-2014/7 宣传部副部长 \n职务描述： 负责人员分配，制作学校各项赛事宣传类的材料，包括宣传海报、宣传板、横幅等。 ",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "乐普(北京)医疗装备有限公司",
+            "department": "设备销售部",
+            "detail": "岗位职责：\n1、完成销售部及行业 / 区域发展战略规划的推进实施；\n2、完成公司下达的当期销售规模及利润额指标；\n3、独立跑市场，接触大客户完成公司的推销方案；\n4、与公司其他业务及职能部门就所负责项目积极协调，提供配合，共同合作；\n5、有效整合行业 / 区域经营资源，开发新的业务渠道及业务增长点；\n6、针对国内各大医院大型医疗设备的投资和销售方面的工作，主要包括医疗市场调研分析、商务沟通谈判、设备采购投标、客户资源开发和客情关系维护、临床学术会议策划实施等。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "500-1000人",
+            "startDate": "2017-08",
+            "type": "上市公司"
+        },
+        {
+            "company": "安硕文教用品（上海）股份有限公司",
+            "department": "国内销售",
+            "detail": "1 负责福建市场销售工作的开展；\n2 负责本区域市场客户的开发及管理；\n3 负责本区域市场开发及产品的推广；\n4 落实完成本区域的销售任务；\n5 主持本区域分销覆盖的开展",
+            "endDate": "2017-07",
+            "industry": "批发/零售",
+            "position": "城市经理",
+            "scale": "1000-5000人",
+            "startDate": "2014-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 5.0
+}

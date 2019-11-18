@@ -1,0 +1,207 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "西安-未央区",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "希森美康医用电子(上海)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2009-07",
+            "major": "临床医学检验",
+            "school": "xia西安医学院",
+            "startDate": "2006-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966652.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "医疗器械（非IVD)",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966654.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966656.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966658.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966660.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966663.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966664.0,
+            "strValue": "西安",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "女",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966666.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966668.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jul 6, 2018 5:22:46 PM",
+            "lastUpdated": 1530868966670.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "xia西安医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理/主管",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "586d970af0f0a58c426b284b",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "希森美康医用电子(上海)有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n不折不扣地完成上级制定的销售拓展目标；\n2、在市场经理的工作部署下，制定本区域的季度计划和月度计划，将其分解部署给各客户经理，并带领下属工作和定期评估；\n3、不断带领和督促下属建立和完善各地的分销网络，并达到既定销售目标；\n4、亲自帮助核心分销商建立稳定高效的动作系统，并领导下属为本市场的主要客户建立动作系统，持续推动所辖市场生意发展；\n5、勇于探索和创新，善于将自己和下属的工作经验加以归纳和提升，向上级提供宝贵建议\n",
+            "endDate": "4000-10",
+            "position": "区域经理",
+            "startDate": "2014-06"
+        }
+    ],
+    "workYears": 10.0
+}

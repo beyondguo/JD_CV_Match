@@ -1,0 +1,104 @@
+{
+    "basic": {
+        "birthday": "1986-11-2",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=55684194&amp;key=adcf38f50ff7834ae570b9bb52942232",
+        "politicalStatus": "无党派民主人士",
+        "registeredResidence": "福建省",
+        "zipCode": "350108"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 7.2万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2009-07",
+            "major": "电子科学与技术",
+            "school": "福建工程学院",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n\n英语 一般 ",
+    "otherLangResumeId": "5b023ad3611ca3a15ee70cbd",
+    "projectExp": [],
+    "selfComm": "\n我叫江庆洋，1熟悉模电和数电。2能够熟练使用Word\\PowerPoint\\Excel等办公软件处理日常事务。3熟练使用protel99se。4熟悉51及外围电路5熟悉c语言。工作期间不但充实了自己，也培养了自己多方面的技能。更重要的是，好的工作态度塑造了我朴实、稳重、创新的性格特点。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州听德立医疗设备有限公司",
+            "department": "技术部",
+            "detail": "1、在软件及硬件方向从事售前演示及售后技术维护、应用培训、升级管理、解决投诉等。\n2、负责公司产品的测试、安装、调测等各种技术支持工作； \n3、接收和协助解决客户遇到的各类现场技术问题，及时准确的把现场信息反馈给销售部门； \n4、负责方案建议书中技术方案部分的编制； \n5、熟练掌握和理解公司产品，能从机理和应用上解答客户的疑问，挖掘和引导客户潜在需求；支持市场和销售，为客户和工程人员提供相关培训。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "50-150人",
+            "startDate": "2013-06",
+            "type": "民营公司"
+        },
+        {
+            "company": "福州天虹电脑科技有限公司",
+            "department": "技术部",
+            "detail": "\n福州天虹电脑科技有限公司是一家集研究、开发、生产各类纺织缝制设备电脑控制系统的高新技术企业。公司拥有一套集电控产品研发、工控软件设计以及产品生产、质量控制、售后服务为一体的综合科研经营管理体系。1、提供产品技术支持，包括咨询解答、产品培训、现场技术指导、故障分析和排除等； \n2、负责市场部与研发部门的沟通与信息反馈，参与技术培训和技术研讨会； 3、收集客户反馈意见，制定市场需求，反馈给研发部门，跟踪其进展和市场反应； \n4、制定相关工具软件的作业指导书、产品说明书等技术文档；",
+            "endDate": "2013-04",
+            "industry": "仪器仪表/工业自动化",
+            "position": "售前/售后技术支持工程师",
+            "scale": "50-150人",
+            "startDate": "2009-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "微机应用设计与实践",
+            "detail": "c语言，汇编语言，设计一个多功能时钟系统",
+            "endDate": "2008-05",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2008-05"
+        },
+        {
+            "company": "eda综合实践",
+            "detail": "eda技术，设计一个交通灯系统和时钟系统。",
+            "endDate": "2007-12",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2007-12"
+        },
+        {
+            "company": "电子技术设计与实践",
+            "detail": "数电，设计并测试一个交通灯系统电路",
+            "endDate": "2007-05",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2007-05"
+        },
+        {
+            "company": "电子实习与整机安装",
+            "detail": "焊工组装，焊接组装一台便捷式收音机",
+            "endDate": "2006-12",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2006-12"
+        },
+        {
+            "company": "电子工艺实习",
+            "detail": "焊工技术，制作组装一个声光控开关。",
+            "endDate": "2006-05",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2006-05"
+        }
+    ],
+    "workYears": 9.0
+}

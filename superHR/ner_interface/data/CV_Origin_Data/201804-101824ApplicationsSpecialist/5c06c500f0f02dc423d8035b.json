@@ -1,0 +1,94 @@
+{
+    "basic": {
+        "birthday": "1986-11-8",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2013/6 雅思 （5.5） \n2010/1 大学英语六级 \n2006/1 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2012-01",
+            "major": "细胞生物学",
+            "school": "西北大学",
+            "startDate": "2009-01"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2009-07",
+            "major": "生物技术",
+            "school": "西北大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 西安 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械,教育/培训/院校",
+        "position": "医药技术研发人员,医药学术推广,药品注册,医疗器械注册,医疗器械市场推广,医疗产品研发和市场推广",
+        "salary": "15-20万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间："
+    },
+    "langAbility": " \nPhotoshop 一般 ",
+    "projectExp": [
+        {
+            "detail": "本项目的主要目标是开发脐带间充质干细胞制剂，利用其免疫调节功能，对糖尿病、自身免疫疾病进行干预治疗。",
+            "endDate": "4000-10",
+            "name": "干细胞制剂开发",
+            "responsibility": "1.筹建分子细胞生物学实验室，设备选型、采购、团队建设。\n2.完成干细胞制剂的质量研究，制定质量标准，已经由中国食品药品检定研究院进行复核。\n3.干细胞制剂生产管理。中试生产工艺调整，生产人员操作培训，质量管理培训。",
+            "startDate": "2015-07"
+        },
+        {
+            "detail": "\n本项目的目的为开发一种基于自体软骨细胞的组织工程化移植产品（CS-ACI），用于治疗运动及外伤导致的急性关节软骨缺损。该项目在西京、唐都、红会完成临床试验，为陕西省首个获得省卫计委批准应用于临床的三类医疗技术。",
+            "endDate": "2015-07",
+            "name": "自体软骨细胞移植项目",
+            "responsibility": "1. 完成技术开发过程中关键点的突破。\n2. 撰写完成备案资料，并现场答辩。\n3. 技术推广、临床应用支持。",
+            "startDate": "2013-10"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西佰鸿集团",
+            "department": "干细胞治疗事业部",
+            "detail": "负责干细胞研发团队建设和项目管理。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "干细胞研发负责人",
+            "scale": "民营公司",
+            "startDate": "2015-07"
+        },
+        {
+            "company": "陕西瑞盛生物科技有限公司",
+            "department": "研发部",
+            "detail": "开发自体软骨修复技术，并成功获得陕西省卫计委批准应用于临床。产品应用推广和技术支持。",
+            "endDate": "2015-06",
+            "industry": "医疗设备/器械",
+            "position": "研发工程师",
+            "scale": "民营公司",
+            "startDate": "2013-10"
+        },
+        {
+            "company": "西安交通大学附属中学",
+            "department": "高中部",
+            "detail": "负责讲授高中生物。",
+            "endDate": "2013-04",
+            "industry": "教育/培训/院校",
+            "position": "中学教师",
+            "scale": "非营利组织",
+            "startDate": "2012-07"
+        }
+    ],
+    "workYears": 6.0
+}

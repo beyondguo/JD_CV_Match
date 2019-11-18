@@ -1,0 +1,30 @@
+{
+    "basic": {
+        "birthday": "1996-1-1",
+        "currentCity": "福建省",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "",
+    "eduExp": [],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "2000-2999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5b1e93c0611c495490b51b13",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

@@ -1,0 +1,114 @@
+{
+    "basic": {
+        "birthday": "1985-09",
+        "currentCity": "西安莲湖区",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/12/30/6f008272-b27e-43e6-9755-635b36e9f370.jpg",
+        "registeredResidence": "西安"
+    },
+    "certificate": "\n2008.06 学位证 \n2006.09 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "陕西慧康生物有限公司",
+    "currentPosition": "合成工程师 ",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2008-06",
+            "major": "生物工程",
+            "school": "&nbsp;&nbsp;湖南工程学院",
+            "startDate": "2004-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2008-07",
+            "major": "生物工程系",
+            "school": "&nbsp;&nbsp;湖南工程学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "graduateSchool": "湖南工程学院",
+    "hobbies": "爱好诗歌朗诵",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程",
+        "position": "生物/制药/医疗器械、环境科学/环保、销售业务",
+        "salary": "不显示职位月薪范围",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "\n英语：  读写能力精通| 听说能力熟练 ",
+    "otherLangResumeId": "5b07d4c0611cc7db31e96af3",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "48710816",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "熟悉生物新药开发流程，精通基因克隆，文库构建等分子克隆技术，以及常规蛋白检测手段；熟悉蛋白纯化和细胞培养相关技术。\n熟练查阅相关专业资料，熟练应用电脑办公软件以及生物相关的软件和生物信息学技术。\n很强的适应能力和动手操作及试验能力，善于独立思考、钻研。 \n在校学习情况：\n曾获院校级 三等奖 2008.05 曾获 院校级优秀学生干部院校级 奖项描述：2008 年05月 在学生通讯社欢送毕业生晚会典礼中被授于 &ldquo;优秀学生干部&rdquo;证书。 2008.06 曾获 院校级优秀毕业论文 院校级 奖项描述：毕业论文《几种羰基去除剂对DNA保护作用的研究》被评为湖南工程学院08级优秀毕业论文 。 活动描述：曾担任湖南工程学院学生通讯社主要负责人，化学化工系学生会干部，生物工程0402班班长等职务。",
+    "trainExp": " \n2013/5--2014/6 C1小轿车驾驶 \n培训机构： 关中驾校 \n培训地点： 关中驾效训练场 \n培训描述： 掌握汽车驾驶技术 \n2010/3--2010/4 质量管理体系ISO9001-2008 \n培训机构： 中国质量认证中心西北评审中心 \n培训地点： 陕西省军区招待所 \n培训描述： 对质量管理体系ISO9001-2008培训后，使我在ISO9001-2000的基础上对质量管理体系有了更深刻的理解 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西慧康生物有限公司",
+            "department": "",
+            "detail": "\n各种生物多肽的合成及纯化工作。\n",
+            "endDate": "4000-10",
+            "industry": "医药/生物工程",
+            "position": "合成工程师",
+            "salary": "4001-6000元/月",
+            "scale": "",
+            "startDate": "2017-01",
+            "type": ""
+        },
+        {
+            "company": "西卡中国有限公司",
+            "department": "",
+            "detail": "\n西安 OEM的生产和运营,客户的技术服务及维护工作。\n",
+            "endDate": "2017-01",
+            "industry": "石油/石化/化工",
+            "position": "质量工程师（质量+运营+客户服务）",
+            "salary": "4001-6000元/月",
+            "scale": "",
+            "startDate": "2011-08",
+            "type": ""
+        },
+        {
+            "company": "山东步长制药有限公司",
+            "department": "",
+            "detail": "\n对药厂污水进行后期处理，经过化学和微生物处理以降低污水中COD含量，以达到排放的标准！\n",
+            "endDate": "2010-12",
+            "industry": "医药/生物工程",
+            "position": "污水处理工程师",
+            "salary": "2001-4000元/月",
+            "scale": "500-999人",
+            "startDate": "2010-07",
+            "type": "合资"
+        },
+        {
+            "company": "山东步长制药有限公司",
+            "department": "",
+            "detail": "\n在车间主任领导下，负责车间的安全技术工作，贯彻上级安全生产的指示和规定，并检查督促执行。\n",
+            "endDate": "2010-07",
+            "industry": "医药/生物工程",
+            "position": "药品生产/质量管理",
+            "salary": "2001-4000元/月",
+            "scale": "500-999人",
+            "startDate": "2009-07",
+            "type": "合资"
+        },
+        {
+            "company": "江苏正大天晴制药有限公司",
+            "department": "",
+            "detail": "\n作为药厂和医生的沟通桥梁，传递药厂最新的药品信息给医生，反馈医生对临床用药的情况。\n",
+            "endDate": "2009-07",
+            "industry": "医药/生物工程",
+            "position": "医药代表",
+            "salary": "2001-4000元/月",
+            "scale": "500-999人",
+            "startDate": "2008-07",
+            "type": "合资"
+        }
+    ],
+    "workYears": 11.0
+}

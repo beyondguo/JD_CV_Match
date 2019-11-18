@@ -1,0 +1,69 @@
+{
+    "basic": {
+        "birthday": "1995-8-15",
+        "currentCity": "西安",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2015-07",
+            "major": "护理学",
+            "school": "西安医学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售代表,销售代表",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "宁波维尔凯迪医疗器械有限公司",
+            "department": "市场部",
+            "detail": "在维尔凯迪医疗器械有限公司担任产品专员一职\n1.负责西北地区整体的产品市场的开发及推广。\n2.以开发市场前期产品的推广 定期拜访客户 医院的陌生拜访及陌生产品的推广。\n3.产品使用手术的跟台，了解产品在术中的使用情况。\n4.负责经销商及公司同事及医院客户的产品培训\n5.熟练掌握ppt及word相关的电脑操作\n6.协助销售人员的客户关系维护。\n7.会议展会的策划及组织。完成部门领导下达的任务。\n主要负责及开发的医院有 西安交通大学第一附属医院，高新医院，第九医院，长安医院",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "产品/品牌专员",
+            "scale": "500-1000人",
+            "startDate": "2018-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "健生医疗器械有限责任公司",
+            "department": "销售部",
+            "detail": "在职期间主要负责\n1.代理强生吻合器在交大一附院和长安医院的器械销售，\n2.日常工作分别为 客户的临床拜访，产品的上量工作3.主要客户的关系维护售后服务\n4.协助同事办理设备科招标事项。财务回款事项\n5.负责长安医院的产品销售设备科及其财务的工作。在任期间产品的销量明显上升。",
+            "endDate": "2017-12",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "500-1000人",
+            "startDate": "2016-08",
+            "type": "民营公司"
+        },
+        {
+            "company": "高新医院",
+            "detail": "医院实习期间，精准掌握各个科室的相关疾病的认识及护理。\n主要实习的科室为 骨科 妇科 新生儿科 血液科 心血管内科 消化外科 消化内科 肛肠科",
+            "endDate": "2016-03",
+            "industry": "医疗/护理/卫生",
+            "position": "护士/护理人员",
+            "startDate": "2015-07"
+        }
+    ],
+    "workYears": 3.0
+}

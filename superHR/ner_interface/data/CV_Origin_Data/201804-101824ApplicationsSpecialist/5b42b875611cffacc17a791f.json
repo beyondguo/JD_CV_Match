@@ -1,0 +1,66 @@
+{
+    "basic": {
+        "birthday": "1979-8-28",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=94788207&amp;key=a2144b7fd895ffca013522d5b0268d12",
+        "politicalStatus": "",
+        "registeredResidence": "福州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 5万元 ",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "1998-07",
+            "school": "福州第七中学",
+            "startDate": "1995-09"
+        },
+        {
+            "degree": "初中及以下",
+            "detail": "",
+            "endDate": "1995-07",
+            "school": "福州第七中学",
+            "startDate": "1992-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "快速消费品(食品、饮料、化妆品)",
+        "position": "销售代表",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "工作方面:拥有极强责任心与良好的职业道德，勤奋好学，上手快，积极主动，独立工作能强，对工作认真负责。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "伯恩物业管理有限公司",
+            "department": "客服部",
+            "detail": "伯恩物业前台主要是接听业主电话，和业主核对信息，收缴物业费",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "客服部前台",
+            "startDate": "2014-09"
+        },
+        {
+            "company": "福州鹰翔贸易有限公司",
+            "department": "业务部",
+            "detail": "福州鹰翔贸易有限公司主要代理青岛啤酒，工作主要做产品售后服务(比如对帐，结帐，收盖等工作)",
+            "endDate": "2014-07",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "经销商业务员",
+            "scale": "少于50人",
+            "startDate": "2010-08",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 8.0
+}

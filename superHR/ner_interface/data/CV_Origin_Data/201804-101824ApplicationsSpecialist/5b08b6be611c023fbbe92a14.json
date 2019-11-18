@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1993-01",
+        "currentCity": "陕西",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg",
+        "registeredResidence": "陕西-安康"
+    },
+    "confidentialResume": "N",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "高分子材料工程",
+            "school": "陕西科技大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "北京、上海、西安",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程、石油/石化/化工、环保",
+        "position": "销售工程师、",
+        "salary": "6001-8000元/月",
+        "state": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）"
+    },
+    "otherLangResumeId": "5b08b6be611c023fbbe92a14",
+    "projectExp": [],
+    "selfComm": "活泼开朗、乐观向上、兴趣广泛、适应力强、上手快、勤奋好学、脚踏实地、认真负责、坚毅不拔、吃苦耐劳、勇于迎接新挑战。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "康龙化成新药技术股份有限公司",
+            "department": "",
+            "detail": "\n实验方法的优化，出现问题及时发现，并能提出自己的意见！\n",
+            "endDate": "4000-10",
+            "industry": "外包服务",
+            "position": "研究员化学合成",
+            "scale": "",
+            "startDate": "2016-12",
+            "type": ""
+        },
+        {
+            "company": "旭川化学有限公司",
+            "department": "",
+            "detail": "\n负责对区域客户维护，开发潜在客户，及时发现市场风险！\n",
+            "endDate": "2016-12",
+            "industry": "石油/石化/化工",
+            "position": "销售工程师",
+            "scale": "",
+            "startDate": "2016-07",
+            "type": ""
+        }
+    ],
+    "workYears": 2.0
+}

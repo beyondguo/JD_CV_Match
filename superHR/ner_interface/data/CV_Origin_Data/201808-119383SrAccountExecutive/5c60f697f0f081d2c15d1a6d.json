@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "三星环新(西安)动力电池有限公司",
+    "currentIndustry": "电子技术/半导体/集成电路",
+    "currentPosition": "研发/制造技术",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-03",
+            "major": "机械设计制造及其自动化",
+            "school": "西安石油大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "三星环新(西安)动力电池有限公司",
+            "detail": "- 所在地区：西安 \n - 职责业绩： \n本人进入公司后，主要从事Cell 及模组研发，后从事cell&amp;模组不良分析工作。具体如下:\n一. Cell 集电器设计。 主要对新产品的jellroll 与Cell 输出端子连接部分(集电器)设计。保证jellroll 的焊接质量及内阻尽量小。\n二. Cell 新产品E-Run及M-Run。主要是对新产品设计进行验证及问题发现，并对图纸及工艺进行评价及改善。\n三. 模组技术。对模组所有尺寸进行管理，设计JIG以满足生产需要。产品合格率99.9％，产品特殊特性尺寸PPK 2.5以上。\n四. PACK 全球支援。 捷豹路虎项目pack \n全球支援网络中国区不良对应。主要对不良pack进行分析，包括模组及cell部品的电压,通信等进行检测，发现并分析问题原因及对策导入。已获得低压电工操作证，多次出差德国等地进行学习及不良分析。\n五. 产品测试及不良分析。对量产cell及模组进行不良分析，分析不良原因及对策反馈，熟悉使用常用分析设备，如: \n扫描电镜,CT设备，三次元测定设备，可使用充放电设备进行cell电化学特性分析。\n本人熟练使用CAD,solidworks \n软件，可以使用NX软件进行三维图纸及转化二维图纸。会使用ANSYS软件进行结构强度分析，模态分析，热分析，振动分析等。\n本人入职期间，获得两次公司优秀员工及部门优秀人员。\n",
+            "endDate": "4000-10",
+            "position": "研发/制造技术",
+            "startDate": "2016-06"
+        },
+        {
+            "company": "山东科瑞石油装备有限公司",
+            "detail": "\n - 下属人数：30人 \n - 职责业绩： \n主要进行增产设备的设计研发工作。 连续油管设备，井口防喷器，防喷盒，注入头的设计研发。\n",
+            "endDate": "2016-05",
+            "position": "研发工程师",
+            "startDate": "2013-04"
+        }
+    ],
+    "workYears": 7.0
+}

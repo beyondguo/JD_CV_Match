@@ -1,0 +1,55 @@
+{
+    "basic": {
+        "birthday": "1991-5-17",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "保密",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=369914192&amp;key=c0299a23d26266ec26a450912f4cee7d",
+        "politicalStatus": "",
+        "registeredResidence": "泉州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2010-07",
+            "school": "南安职业技术学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": " 快速消费品(食品、饮料、化妆品) ",
+        "position": "",
+        "salary": "3500-5000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "projectExp": [
+        {
+            "detail": "批发给零售商如小百货 地摊商",
+            "endDate": "4000-10",
+            "name": "小商品批发",
+            "responsibility": "",
+            "startDate": "2016-03"
+        }
+    ],
+    "selfComm": "肯干肯学肯花时间",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "个体",
+            "detail": "摆地摊卖服装 卖水果 批发零售小商品",
+            "endDate": "2018-01",
+            "industry": "",
+            "position": "销售代表",
+            "startDate": "2013-10"
+        }
+    ],
+    "workYears": 5.0
+}

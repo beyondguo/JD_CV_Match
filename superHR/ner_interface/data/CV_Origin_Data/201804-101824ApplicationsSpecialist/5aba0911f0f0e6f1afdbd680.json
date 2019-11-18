@@ -1,0 +1,44 @@
+{
+    "basic": {
+        "birthday": "1978-01",
+        "currentCity": "福建省",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "ncr",
+    "currentIndustry": "IT服务/系统集成",
+    "currentPosition": "customer service supervisor",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2001-07",
+            "major": "机械电子工程/机电一体化",
+            "school": "华南理工大学",
+            "startDate": "1997-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5aba0911f0f0e6f1afdbd680",
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "ncr",
+            "detail": "- 所在地区：福建省 \n",
+            "endDate": "4000-10",
+            "position": "customer service supervisor",
+            "startDate": "2003-01"
+        }
+    ],
+    "workYears": 17.0
+}

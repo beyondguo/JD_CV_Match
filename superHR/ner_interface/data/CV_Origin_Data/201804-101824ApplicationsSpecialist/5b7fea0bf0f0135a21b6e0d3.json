@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1991-9-18",
+        "currentCity": "福州-晋安区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2013-09",
+            "major": "计算机科学与技术",
+            "school": "福州外语外贸学院",
+            "startDate": "2010-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "公务员,计算机技术员",
+        "salary": "6-8万 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "骑士投资",
+            "department": "交易部",
+            "detail": "对A股盘面进行分析，对手中的股票有自己的判断，择机进行高抛低吸。",
+            "endDate": "4000-10",
+            "industry": "金融/投资/证券",
+            "position": "交易员",
+            "scale": "民营公司",
+            "startDate": "2016-10"
+        }
+    ],
+    "workYears": 5.0
+}

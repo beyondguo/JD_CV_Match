@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1987-4-1",
+        "currentCity": "陕西省",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5b89f7ecf0f0f035944d3d45",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安市西京医院",
+            "detail": "西安市三甲医院从事检验工作6年",
+            "endDate": "2018-09",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "scale": "5000-10000人",
+            "startDate": "2012-09",
+            "type": "非营利组织"
+        }
+    ],
+    "workYears": 6.0
+}

@@ -1,0 +1,100 @@
+{
+    "basic": {
+        "birthday": "1980-12-28",
+        "currentCity": "福州",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "强生(上海)医疗器材有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "高水平消毒产品线福建省区经理",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "第二学士学位",
+            "endDate": "2005-07",
+            "major": "英语",
+            "school": "华中科技大学",
+            "startDate": "2001-01"
+        },
+        {
+            "degree": "硕士",
+            "detail": "本硕联读",
+            "endDate": "2006-07",
+            "major": "动物遗传学",
+            "school": "华中农业大学",
+            "startDate": "1999-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程",
+        "position": "医疗器械市场推广,医疗器械销售经理/主管,医疗器械销售代表",
+        "salary": "15000-19999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：3个月内"
+    },
+    "otherLangResumeId": "5950bfc6f0f01f4bd038abfb",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "强生医疗器材有限公司",
+            "detail": "负责全省清洗消毒产品线设备及耗材",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "大客户销售",
+            "scale": "外资(欧美)",
+            "startDate": "2017-08"
+        },
+        {
+            "company": "通用电气（中国）有限公司",
+            "department": "超声",
+            "detail": "负责福州市县区、宁德、莆田、南平、龙岩等区域超声分销工作；\n指导、配合一级代理商，开发二级分销商，完成销售任务；\n拜访医院客户与维护良好客户关系；\n组织区域学术会、展会、讲座等市场活动，打造良好市场口碑；",
+            "endDate": "2017-07",
+            "industry": "医疗设备/器械",
+            "position": "渠道/分销专员",
+            "scale": "外资(欧美)",
+            "startDate": "2011-01"
+        },
+        {
+            "company": "华地国际控股集团有限公司",
+            "department": "百货事业部",
+            "detail": "负责集团下属12家百货公司会员营销策划、礼品卡销售、大客户联动营销、服务管理工作；\n购物卡市场策略制定、卡营销活动策划与全年销售目标达成；\n会员俱乐部运营，重点节假日会员营销策划；\n银行、通讯、商户等联盟合作伙伴的开发与营销合作；\n服务总台、贵宾中心的服务窗口的管理。",
+            "endDate": "2010-12",
+            "industry": "服装/纺织/皮革",
+            "position": "客户关系部经理",
+            "scale": "上市公司",
+            "startDate": "2009-01"
+        },
+        {
+            "company": "江苏华地国际控股集团有限公司",
+            "department": "百货事业部",
+            "detail": "负责集团下属12家百货公司会员营销策划、礼品卡销售、大客户联动营销、服务管理工作；\n购物卡市场策略制定、卡营销活动策划与全年销售目标达成；\n会员俱乐部运营，重点节假日会员营销策划；\n银行、通讯、商户等联盟合作伙伴的开发与营销合作；\n服务总台、贵宾中心的服务窗口的管理。",
+            "endDate": "2010-12",
+            "industry": "服装/纺织/皮革",
+            "position": "客户关系部经理",
+            "scale": "上市公司",
+            "startDate": "2009-01"
+        },
+        {
+            "company": "通用电气医疗系统（中国）有限公司",
+            "department": "客户服务工程师",
+            "detail": "用户需求调研，产品研发初期进行临床需求导入。\n\n客户投诉处理小组，通过及时有效地评估调查的全球市场的升级客户抱怨，揭示研发、生产环节中的不足，纠正预防措施的计划、执行、及有效性评估，组织召回服务项目(FMI)；",
+            "endDate": "2008-12",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械生产/质量管理",
+            "scale": "外资(欧美)",
+            "startDate": "2006-01"
+        }
+    ],
+    "workYears": 12.0
+}

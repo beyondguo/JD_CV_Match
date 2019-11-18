@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "福州-台江区",
+        "gender": "女",
+        "maritalStatus": "保密",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福瑞",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "初级临床医学检验师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "临床医学检验技术",
+            "school": "福建医科大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "",
+        "position": "",
+        "salary": "未填",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "\n普通话\n",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福瑞医学检验所",
+            "companyDescription": "",
+            "department": "",
+            "detail": "\n",
+            "endDate": "4000-10",
+            "industry": "医疗/保健/美容/卫生服务",
+            "position": "初级临床医学检验师",
+            "salary": "6500 元/月",
+            "scale": "",
+            "startDate": "2016-08",
+            "type": ""
+        }
+    ],
+    "workYears": 4.0
+}

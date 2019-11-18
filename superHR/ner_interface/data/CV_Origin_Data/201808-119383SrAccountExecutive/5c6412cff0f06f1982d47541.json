@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1979-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "联贸医疗用品技术(上海)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域销售经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-01",
+            "major": "口腔医学",
+            "school": "西安医学院",
+            "startDate": "2014-03"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2004-07",
+            "major": "高级护理学",
+            "school": "西安医学院",
+            "startDate": "2001-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "医疗器械市场推广;医药销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "联贸医疗用品技术(上海)有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：销售总监 \n - 下属人数：6人 \n - 职责业绩： \n1、负责贯彻落实公司营销策略、政策和计划；&nbsp;\n2、负责制订本区域市场开拓、新产品推广计划，并组织实施与效果评估；&nbsp;\n3、负责对行业市场的目标客户进行攻关，并协助经销商进行市场开拓；&nbsp;\n4、负责收集、分析、整理、归档客户需求、竞争对手等市场信息；&nbsp;\n5、负责经销商和客户的业务接洽、咨询及关系维护；&nbsp;\n6、负责销售计划的分解、落实，并进行跟踪与评估；&nbsp;\n7、协助财务部做好经销商的信用管理工作；&nbsp;\n8、负责正常类、关注类和可疑不良类应收账款的催收，并协助做好呆账催收工作；&nbsp;\n9、负责经销商和客户的合同、资料和档案管理；&nbsp;\n10、负责品牌、价格管理，并协调处理业务冲突；提供市场违规行为的信息，并协助处理。\n",
+            "endDate": "2019-01",
+            "position": "区域销售经理",
+            "startDate": "2011-02"
+        },
+        {
+            "company": "陕西美创医疗有限公司",
+            "detail": "\n - 汇报对象：CEO \n - 下属人数：6人 \n - 职责业绩： \n1、公关医院科室，落实公司销售任务达成。\n2、完善团队建设，指导团队技术能力。\n",
+            "endDate": "2011-02",
+            "position": "销售经理",
+            "startDate": "2008-05"
+        }
+    ],
+    "workYears": 16.0
+}

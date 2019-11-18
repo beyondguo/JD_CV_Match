@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1994-7-15",
+        "currentCity": "西安-长安区",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "汉中",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-06",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "观望有好机会会考虑\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "城固县医院",
+            "detail": "在该医院检验科主要负责罗氏机器的操作使用与保养",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "检验员",
+            "startDate": "2017-08"
+        }
+    ],
+    "workYears": 2.0
+}

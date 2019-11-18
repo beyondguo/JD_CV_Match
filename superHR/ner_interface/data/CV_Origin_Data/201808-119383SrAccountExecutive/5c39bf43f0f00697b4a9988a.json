@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1994-6-8",
+        "currentCity": "咸阳",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/ba81c88adc26689bfa53d3531b770272.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "咸阳",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 4.5万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2016-06",
+            "major": "生物医学工程",
+            "school": "陕西理工大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 咸阳 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "生物工程/生物制药,售前售后",
+        "salary": "8-10万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 熟练 ",
+    "projectExp": [
+        {
+            "detail": "本科毕业设计\n基于CRISPR系统的大肠杆菌多基因敲除技术体系构建\n本次设计是利用CRISPR/Cas9系统靶向切割基因的原理，针对细菌基因组，体外构建多基因同时敲除的CRISPR体系。通过测序鉴定，最终各靶序列成功插入CRISPR表达载体中，获得了多个打靶载体。",
+            "endDate": "2016-06",
+            "name": "毕业设计",
+            "responsibility": "学习并设计了实验的各个步骤\n负责实验各个步骤的完成以及实验细节记录",
+            "startDate": "2015-10"
+        }
+    ],
+    "selfComm": "\n本人从事分子生物实验工作四年，在工作中学习能力强且熟练掌握病毒基因组和动植物基因组提取及实时荧光定量PCR实验，做事积极主动，有较强的应变能力，工作细心，有良好的团队合作精神及沟通能力。坚持高效的工作态度，时刻秉持工作中的创新精神。\n 期望能从实验类工作更多向售前售后方向前进！\n 兼任办公内勤，熟悉金蝶、office等办公用软件（联系电话：15829952986）",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安天隆科技有限公司",
+            "department": "质量部",
+            "detail": "\n1.主要负责试剂盒功能性检验，通过生物实验验证试剂能否达到出厂标准，并如实填写检验报告（工作内容主要是提取病毒、动植物、细菌、全血、石蜡包埋等样本的DNA/RNA基因组，对病毒类产物进行实时荧光定量PCR扩增，分析实验结果）\n2.负责客户投诉试剂检验工作\n3.协助核酸提取仪、扩增仪及ATP仪器的生物实验\n4.负责质控品的制备，定标\n5.负责实验室耗材及部门办公用品申请、管理",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械生产/质量管理",
+            "scale": "150-500人",
+            "startDate": "2017-10",
+            "type": "合资"
+        },
+        {
+            "company": "西安擎科生物",
+            "department": "合成部",
+            "detail": "日常工作:\n1.负责引物合成实验的各项操作，了解引物合成各个环节原理\n2.完成引物产品的生产并保证合成质量\n3.按照实验要求独立合成引物、氨解、纯化、分装\n4.负责仪器的维护及合成后处理工作\n5.熟悉常规分子生物学实验类工作：PCR、电泳、酶切、转化、克隆、质粒及DNA提取等\n6.负责处理客户问题，维护与客户的合作关系",
+            "endDate": "2017-07",
+            "industry": "制药/生物工程",
+            "position": "生物工程/生物制药",
+            "scale": "创业公司",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 3.0
+}

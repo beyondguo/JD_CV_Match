@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1989-2-8",
+        "currentCity": "陕西省",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 5万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2010-07",
+            "major": "医学检验",
+            "school": "西安医学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医疗器械维修人员,应用工程师",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "\n工作至今一直在检验科工作，能胜任各岗位工作，强项岗位是免疫及发光免疫，因沟通及应变能力强，故负责门诊工作，兼顾急诊检验组长，工作认真负责，性格开朗，与同事关系融洽",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "汉中市铁路中心医院",
+            "department": "检验科",
+            "detail": "\n工作至今一直在检验科工作，能胜任各岗位工作，强项岗位是免疫及发光免疫，因沟通及应变能力强，故负责门诊工作，兼顾急诊检验组长，工作认真负责，性格开朗，与同事关系融洽",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "医学检验师",
+            "startDate": "2010-07"
+        }
+    ],
+    "workYears": 8.0
+}

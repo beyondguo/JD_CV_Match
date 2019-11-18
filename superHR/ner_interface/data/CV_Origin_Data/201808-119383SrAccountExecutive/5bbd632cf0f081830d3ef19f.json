@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1983-8-13",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "63f2f364bfa159157a736087071611f5_avatar_1520291176.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 9万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "旅游管理",
+            "school": "西北大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售经理,销售代表,销售代表",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5bbd632cf0f081830d3ef19f",
+    "projectExp": [],
+    "selfComm": "\n性格随和，沉着冷静。工作独立性较强，注重细节，做事认真细致，思路清晰，主次分明。工作积极主动，责任心与上进心较强，具有良好的沟通协调能力与合作的团队精神，协助相关部门完成相关工作。乐观自信的人生观我坚信自己会做得更好。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西华远医药集团西安医疗器械有限公司",
+            "department": "销售项目部",
+            "detail": "1，对负责医院进行开发和维护，定期拜访陌生客户和已有客户。\n2，高值耗材和设备的销售，与医院职能部门进行沟通，熟知医院流程。\n3，招标项目组负责人，带领团队完成招标项目。\n4，和供货商进行沟通，负责产品采购评估及筛选工作，并对供货商进行有效管理。\n5，对医院客户定期开办科会，进行产品和技术的培训。\n6，定期参加各类医疗器械学术会议，对公司赞助的学术活动进行策划和组织。\n7，临床手术及实验的跟台工作，能和临床进行完美的配合，对临床给予最好的服务。\n8，产品综述：美国美敦力，德国米道斯，德国迈科维ECMO设备及耗材。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "50-150人",
+            "startDate": "2013-07",
+            "type": "创业公司"
+        }
+    ],
+    "workYears": 12.0
+}

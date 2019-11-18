@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1993-01",
+        "currentCity": "深圳-龙华区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "富士康",
+    "currentIndustry": "通信(设备/运营/增值)",
+    "currentPosition": "机构工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-06",
+            "major": "机械设计制造及其自动化",
+            "school": "西安理工",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "仪器/仪表/工业自动化/电气;机械制造/机电/重工;互联网/移动互联网/电子商务",
+        "position": "技术或工艺设计经理;机械结构工程师",
+        "salary": "9.60万（8000元/月 * 12个月）"
+    },
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：测试设备工程师 \n - 所在公司：富士康科技集团 \n - 项目简介： \n此设备为机台组装完成后的第一个整机测试工站，需求为测试机台所有功能相关，确保组装无误且来料合格。\n困难：测试项目功能较多，设备结构复杂，且测试工位精度要求高。\n设计成果：运用多种气缸电机配合，配合软体控制测试时序，确保测试过程顺利完成，保证整机组装测试可靠，提高良率。\n - 项目职责： \n测试设备图纸审核以及测试过程中数据采集分析，直接汇报给苹果客户。\n",
+            "endDate": "2017-09",
+            "name": "QT1 (Quick Test 1) 整机功能快速测试",
+            "startDate": "2016-02"
+        }
+    ],
+    "selfComm": "\n 工作细致，乐于学习新的知识，长期与国外客户工作，英语沟通流畅，具有日语基础表达能力且在继续学习。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "富士康",
+            "detail": "- 所在地区：深圳-龙华区 \n - 汇报对象：苹果客户 \n - 下属人数：0人 \n - 职责业绩： \nCo-work with Apple iPhone department, \nAs a mechanical engineer of function test of iPhone.\nMain responsibilitiy:\nAcquiring product information and requirements from Apple TDL.\nVerifying product 3D drawing to design fixture structure.\nOffering design DFM for Apple to approve.\nTracking fixture status and analysis issues about fixture.\n主要和苹果公司合作，测试苹果手机系列产品，确保与苹果客户沟通无误，准确要求设备供应商按照要求提供治具对苹果手机产品进行测试，保证从工程验证到量产没有问题。\n",
+            "endDate": "4000-10",
+            "position": "机构工程师",
+            "startDate": "2015-07"
+        }
+    ],
+    "workYears": 4.0
+}

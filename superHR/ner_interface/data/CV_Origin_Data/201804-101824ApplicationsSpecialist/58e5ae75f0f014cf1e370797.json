@@ -1,0 +1,262 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1986-10-25",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "南平",
+        "zipCode": ""
+    },
+    "certificate": " \n2007/5 漳州卫生职业学院护理操作比赛第三名 \n2006/5 优秀青年志愿者称号 ",
+    "confidentialResume": "N",
+    "currentCompany": "施乐辉公司",
+    "currentIndustry": "医疗器械",
+    "currentPosition": "高级销售代表",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-06",
+            "major": "会计学",
+            "school": "福州闽江学院",
+            "startDate": "2015-01"
+        },
+        {
+            "degree": "大专",
+            "detail": "\n药理学，病理学，心理学，解剖学，生物化学，基础护理学，外科护理学，内科护理，妇科护理学，儿科护理学，精神科护理学，等课程。从事临床护理操作及病人的相关生活知识及服药知识的相关教育等",
+            "endDate": "2008-07",
+            "major": "护理学",
+            "school": "漳州卫生职业技术学院",
+            "startDate": "2005-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828442.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "制药行业",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828445.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828450.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828453.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828456.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828459.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828490.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "市场@#区域市场",
+                "id": "8",
+                "orderIndex": 8.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828492.0,
+            "strValue": "福州",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828494.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "19",
+                    "enumValue": "福建省",
+                    "id": "18",
+                    "isDefault": false,
+                    "orderIndex": 18.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jun 28, 2017 4:17:08 PM",
+            "lastUpdated": 1498637828500.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "福州闽江学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售经理/主管,医疗器械销售代表",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "otherLangResumeId": "58e5ae75f0f014cf1e370797",
+    "proSkill": "(包括IT技能、语言能力、证书、成绩、培训经历)\r\n\r\n技能/语言\r\n\r\n英语\r\n良好",
+    "projectExp": [],
+    "salaryRemark": "25万/年",
+    "selfComm": "责任心强！\n吃苦耐劳！\n适应能力强！ \n易接受新事物！ \n学习能力强！",
+    "trainExp": " \n2013/12--2013/12 CCI培训，产品知识，幻灯演讲，等 \n\n培训机构： 默沙东培训部 \n培训地点： 武汉 \n2011/10--2011/10 产品知识，GSS，幻灯演讲等 \n\n培训机构： 葛兰素史克培训部 \n培训地点： 上海 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "施乐辉公司",
+            "department": "内窥镜部",
+            "detail": "1. 开发、维护区域内的经销商渠道\n2 收集、分析区域市场同类产品相关信息，协调与配合市场部门组织展会、学术会议与新产品上市推广活动\n3.定期对代理商业务员和跟台员进行产品培训\n4.区域内重点客户的产品学术拜访，及时传递产品信息并得到客户的使用反馈信息\n5.独立完成公司设备和耗材在区域内的学术推广及在区域内举办产品学术推广活动\n6.2015年全年超额110完成，增长率45%，全国销售冠军，部门新产品开发奖和增长奖，获得公司的卓越销售奖\n7.2016年全年107%完成\n8.2017年全年110%完成",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "高级销售代表",
+            "scale": "1000-5000人",
+            "startDate": "2014-10",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "默沙东制药",
+            "department": "销售",
+            "detail": "工作内容：负责省立，省二医院泰能产品的销售。\n工作的业绩：省二人民医院的纯销从接手市场的六十几支到两百多支；\n 省立医院纯销从四百多涨到八百多支，负责肝胆外科，内外ICU，血液科，急诊ICU，急诊内的开发和上量\n 从接手市场后每个季度百分百完成指标",
+            "endDate": "2014-10",
+            "industry": "制药/生物工程",
+            "position": "医药代表",
+            "scale": "5000-10000人",
+            "startDate": "2013-07",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "葛兰素史克",
+            "department": "呼吸产品组",
+            "detail": "工作内容：负责呼吸科产品组在福州地区医院的推广工作。\n 负责医院3家，其中VIP医院2家，分别是福州省二人民、福州市第二医院。\n医院目标客户总数40人，其中VIP客户10人（新增培育的为3人）\n工作业绩：\n业绩增长率从开始的20%多做到后面的100%。\n所负责的医院中，福建省二人民接手时候纯销1万多到现在的3万多。\n省二人民舒利迭三个规格正式进药，福州市第二医院舒利迭两个规格正式进药。\n在目标医院开展形式多样科室会，患者教育讲座以及负责区域内其他学术会议",
+            "endDate": "2013-04",
+            "industry": "制药/生物工程",
+            "position": "医药代表",
+            "scale": "500-1000人",
+            "startDate": "2011-05",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "福建省级机关医院",
+            "department": "干部保健科",
+            "detail": "临床护理（干部保健病房）\n 负责日常的护理操作及完成临床护理治疗工作\n 完成住院病人的输液工作，注射工作，及发放口服药等完成患者每天的治疗。\n 和医生，同事，形成良好的合作关系，配合好医生抢救及临床治疗。\n 良好的服务态度，认真，耐心，细心的工作态度和病人形成很好的护患关系。\n工作业绩：工作期间获得病人及家属的好评，并获得&ldquo;优秀护士&rdquo;的称号。",
+            "endDate": "2011-04",
+            "industry": "医疗/护理/卫生",
+            "position": "护士/护理人员",
+            "scale": "150-500人",
+            "startDate": "2008-08",
+            "type": "国企"
+        }
+    ],
+    "workYears": 10.0
+}

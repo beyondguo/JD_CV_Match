@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1970-01",
+        "currentCity": "福建",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福州福利医院",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "康复中心负责人",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "1995-07",
+            "major": "中西医结合临床医学专业",
+            "school": "福建中医学院",
+            "startDate": "1991-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "医院管理人员",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州福利医院",
+            "detail": "- 所在地区：福建 \n - 职责业绩： \n康复中心负责人\n",
+            "endDate": "4000-10",
+            "position": "康复中心负责人",
+            "startDate": "1995-01"
+        }
+    ],
+    "workYears": 24.0
+}

@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1985-01",
+        "currentCity": "温州-乐清",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "温州-乐清"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "杭州康韵生物科技股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "应用工程师",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2009-02",
+            "major": "临床医学检验",
+            "school": "浙江医药高等专科学校",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "温州;杭州;福州",
+        "industry": "医疗设备/器械",
+        "position": "售后支持工程师;售前支持工程师;客户代表",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5abda1c8f0f0669efbdaf0fb",
+    "projectExp": [],
+    "selfComm": "\n 熟悉医院检验科环境 具备临床医学检验知识 熟悉大型发光免疫和生化仪的构造、原理 熟悉生化免疫流水线 具有客户现场培训、使用指导经验 \n具有解决各类技术问题经验 丰富的维修经验 丰富的厂家培训经历 维护良好的客户关系 良好的沟通能力 具有英语读写能力 关注行业动态，热爱学习\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "杭州康韵生物科技股份有限公司",
+            "detail": "- 所在地区：温州 \n - 下属人数：2人 \n - 职责业绩： \n1.售前技术支持\n2.项目参数维护\n3.项目性能验证\n4.客户应用培训\n5.客户应用问题解决\n6.新产品应用支持\n7.仪器安装、保养、维修、配件管理\n8.熟悉的产品：美国雅培的生化、免疫及其流水线；美国血液技术公司的血栓弹力图。\n",
+            "endDate": "4000-10",
+            "position": "应用工程师",
+            "startDate": "2014-01"
+        },
+        {
+            "company": "杭州康韵生物科技股份有限公司",
+            "detail": "- 所在地区：温州 \n - 下属人数：0人 \n - 职责业绩： \n1.驻医院技术员，参与医院检验科日常工作\n2.化学发光免疫分析仪的使用，维修，应用支持\n3.取得检验师职称\n",
+            "endDate": "2014-01",
+            "position": "检验技术员",
+            "startDate": "2009-02"
+        }
+    ],
+    "workYears": 9.0
+}

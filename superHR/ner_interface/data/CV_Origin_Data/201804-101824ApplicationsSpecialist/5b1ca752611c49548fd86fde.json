@@ -1,0 +1,63 @@
+{
+    "basic": {
+        "birthday": "1987-6-20",
+        "currentCity": "福建省",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "中专",
+    "eduExp": [
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "电子信息科学与技术",
+            "school": "职业中专",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "电子信息科学与技术",
+            "school": "职业中专",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "电子信息科学与技术",
+            "school": "职业中专",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "无",
+        "position": "",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "漳州传正光电科技有限公司",
+            "detail": "负责公司技术工程部日常工作",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "电子/电器维修工程师/技师",
+            "startDate": "2009-06"
+        }
+    ],
+    "workYears": 1.0
+}

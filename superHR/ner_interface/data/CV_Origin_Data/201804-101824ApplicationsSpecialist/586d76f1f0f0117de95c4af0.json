@@ -1,0 +1,96 @@
+{
+    "basic": {
+        "birthday": "1984-11-8",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "e83ab0e23e5b823576cc4c18b57474a2_0_16200.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "其他",
+        "zipCode": "354014"
+    },
+    "certificate": " \n2006/3 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "奥林巴斯（北京）销售服务有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "售后服务工程师",
+    "currentSalary": " 18万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "测控技术与仪器",
+            "school": "西安航空学院",
+            "startDate": "2003-09"
+        }
+    ],
+    "graduateSchool": "西安航空学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "其他,售前/售后技术支持工程师",
+        "salary": "8000-9999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5bc5e6aef0f094ee3f595df2",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "15817534",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "年薪18 万元",
+    "selfComm": "勤恳、扎实、灵活、主动",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "奥林巴斯（北京）销售服务有限公司",
+            "department": "华东内镜服务部",
+            "detail": "负责区域内设备（手术室妇科、泌尿、普外科、胃镜室、呼吸科、耳鼻咽喉科）新品装机、培训、以及跟台对应！\n区域内所有设备的故障对应、现场服务、维修对应、并针对于故障问题做相应故障预防培训！\n定期的用户回访、制定NTC、故障预防培训！\n定期设备科巡回拜访、维修回款事宜！\n定期做出服务总结，并制定相应的改善方案！提高用户满意度。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售后服务工程师",
+            "scale": "1000-5000人",
+            "startDate": "2012-10",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "杭州龙鑫科技有限公司",
+            "department": "售后服务部",
+            "detail": "负责区域内本公司尿液分析仪，尿沉渣设备的新机安装，培训，定期回访做设备的维护保养，及时处理客户端的故障\n定期做出服务总结，并制定相应的改善方案！提高用户满意度",
+            "endDate": "2012-10",
+            "industry": "医疗设备/器械",
+            "position": "售后服务工程师",
+            "scale": "50-150人",
+            "startDate": "2011-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "韩华新能源（启东）有限公司",
+            "department": "设备部",
+            "detail": "主要工作内容：\n1：负责太阳能电池生产车间丝网印刷流水线设备的故障处理，好维修时效性，减少停机时间，提高生产效率。\n2：定制相关的维护保养得计划，确保流水线设备处于较好的运行状态。\n3：收集设备故障，进行数据分析，进行针对性的保养计划。\n4：定期召开工程师会议，共同探讨和学习生产线设备的相关技术知识。",
+            "endDate": "2011-09",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "设备工程师",
+            "scale": "1000-5000人",
+            "startDate": "2010-08",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "新加坡AMKOR半导体",
+            "department": "设备",
+            "detail": "主要工作内容：\n1. 负责Wafer cleaner（水洗），Sputter（气体溅镀 PVD \nchamber钛钨和铜），Coater（光阻涂膜），Aligner（汞灯曝光），Desume（气洗），PR \nstrip（化学洗光阻），Etch（蚀刻），Plater（化学电镀），Reflow（高温成球） Oven(烤箱 \n120度恒温和0～320度)，X－ray等所有设备的日常PM，解决生产过程中Machine alarm，并给与操作员一定的指导，有效预防类似故障。\n2. 对设备重要环节（气压，chiller的液位，温度，化学药水，电机转速，filter指数）做daily check。以保证设备的正常状态应对生产。\n3 . 根据日常环境变化作出及时调整，提高设备生产效率。\n4. 协助工程师setup新设备。试跑设备并观察记录各环节的数据指数，作出分析，相应的作出改善直至达到生产标准。\n5. 在设备的使用过程中，提供有力的技术支持，现场参与设备故障，维修难题的解决，进行相应的维修或技术改进。\n6. 及时处理生产过程中的设备突发问题，加快Up Time。\n7. 收集设备生产数据,进行问题分析处理,预防和改善设备生产。\n8. 配合工艺和生产管理人员的工作，达到满足需求，保证生产的顺利进行。",
+            "endDate": "2010-06",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "设备助理工程师",
+            "scale": "500-1000人",
+            "startDate": "2008-06",
+            "type": "外资(非欧美)"
+        }
+    ],
+    "workYears": 12.0
+}

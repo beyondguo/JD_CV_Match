@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "喀什",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "政府部门",
+    "currentIndustry": "政府/公共事业/非营利机构",
+    "currentPosition": "行政",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2010-05",
+            "major": "影视动画",
+            "school": "西安玛雅动画学院",
+            "startDate": "2009-04"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "喀什;西安;乌鲁木齐",
+        "industry": "环保;新能源;基金/证券/期货/投资",
+        "position": "经销商;大客户销售;医药销售代表",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 学习，吃苦，服从，落实，执行 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "政府部门",
+            "detail": "- 所在地区：喀什 \n - 汇报对象：主任 \n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "行政",
+            "startDate": "2012-12"
+        },
+        {
+            "company": "西安灵境科技有限公司",
+            "detail": "\n - 汇报对象：设计部经理 \n - 下属人数：0人 \n - 职责业绩： \n1.完成西安世园会规划馆多媒体沙盘视频特效后期制作及现场调试\n2.完成刘文辉庄园宣传片拍摄及后期制作\n3.腊子口红色纪念馆幻影成像，互动翻书，互动投影等项目的后期特效及现场调试\n4.独立完成虎门销烟纪念馆的纪录片片头设计，宣传片设计制作，半景画特效制作。\n",
+            "endDate": "2011-10",
+            "position": "后期制作",
+            "startDate": "2010-05"
+        },
+        {
+            "company": "佳能（中国）有限公司北京分公司",
+            "detail": "\n - 汇报对象：店长 \n - 下属人数：0人 \n",
+            "endDate": "2009-03",
+            "position": "销售",
+            "startDate": "2007-09"
+        }
+    ]
+}

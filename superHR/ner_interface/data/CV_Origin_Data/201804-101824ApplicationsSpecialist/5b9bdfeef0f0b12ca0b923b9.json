@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1981-1-24",
+        "currentCity": "福州",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 30万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2004-07",
+            "major": "制药工程",
+            "school": "福建中医药大学",
+            "startDate": "2000-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "销售行政及商务,销售专员",
+        "salary": "30-40万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "otherLangResumeId": "5b9bdfeef0f0b12ca0b923b9",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "施维雅（天津）制药有限公司",
+            "detail": "市场调查分析及策略制定",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "业务分析经理/主管",
+            "startDate": "2007-09"
+        },
+        {
+            "company": "施维雅（天津）制药有限公司",
+            "detail": "市场调查分析及策略制定",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "业务分析经理/主管",
+            "startDate": "2007-07"
+        }
+    ],
+    "workYears": 14.0
+}

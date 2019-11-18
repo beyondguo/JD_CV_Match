@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1972-01",
+        "currentCity": "厦门",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "厦门金三木机电",
+    "currentIndustry": "仪器/仪表/工业自动化/电气",
+    "currentPosition": "电子/电器维修工程师/技师",
+    "degree": "中技",
+    "eduExp": [
+        {
+            "degree": "中技",
+            "endDate": "1991-07",
+            "major": "电子工程与自动化",
+            "school": "安庆电子技校",
+            "startDate": "1989-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "industry": "仪器/仪表/工业自动化/电气",
+        "position": "电子/电器维修",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门金三木机电",
+            "detail": "- 所在地区：厦门 \n - 职责业绩： \n医疗设备、及控制电子板维修！\n",
+            "endDate": "2017-01",
+            "position": "电子/电器维修工程师/技师",
+            "startDate": "2005-01"
+        }
+    ]
+}

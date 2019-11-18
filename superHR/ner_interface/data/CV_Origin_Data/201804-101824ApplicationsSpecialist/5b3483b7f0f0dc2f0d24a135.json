@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1995-10",
+        "currentCity": "广东珠海市",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=2648763&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建福州市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "珠海市第二人民医院",
+    "currentIndustry": "",
+    "currentPosition": "实习生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2018-04",
+            "major": "医学检验技术",
+            "school": "湖南中医药大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未定级",
+    "graduateSchool": "湖南中医药大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "contractTerm": "",
+        "industry": "",
+        "position": "其他",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "本人具备扎实的理论知识，善于与人沟通，具有较强的亲和力，能够处理好医患关系及同事关系；做事踏实认真，有较强的责任感和上进心，能时刻保持归零的心态；我已经从心理和能力等方面做好了走上工作岗位的充分准备，希望在新的起点，以新的姿态，展现出新的面貌，并且在工作中不断学习、进步。\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "珠海市第二人民医院",
+            "department": "检验科",
+            "detail": "完成检验科微生物、血液、生化、免疫、分子生物、临检、血库各科室的轮科实习工作，熟悉各种临床标本的检验流程，基本掌握现代化检验仪器的标本操作规程、日常维护。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2017-07",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

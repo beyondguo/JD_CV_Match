@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "Shanghai",
+        "gender": "Male",
+        "nationality": "China",
+        "registeredResidence": "Japan"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "贝克曼库尔特日本（丹纳赫）",
+    "currentIndustry": "Medical Equipment/Devices",
+    "currentPosition": "Value Enginner (VAVE)",
+    "degree": "Bachelor",
+    "eduExp": [
+        {
+            "degree": "Bachelor",
+            "endDate": "2011-07",
+            "major": "Process Equipment(s) and Control Engineering",
+            "school": "East China University of Science &amp; Technology",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "Shanghai;Japan;europe",
+        "industry": "Automobiles/Motorcycles;Medical Equipment/Devices;Professional Services (Consult/Accounting/Legal/Translate)",
+        "position": "Automotive Project Management;Project Manager/Supervisor;Medical Equipment R&amp;D",
+        "salary": "360.00K(30000Yuan/Month * 12Months)"
+    },
+    "projectExp": [],
+    "selfComm": "\n Weichat: 118095524 and Email: stefantu@163.com \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Beckman Coulter Japan Ltd（Danaher Group）",
+            "detail": "- 所在地区：Japan \n - 下属人数：0人 \n - 职责业绩： \n&bull; Reduce direct material cost, improving instrument functionality and \ninstrument quality through VAVE projects and supplier change projects for the \nDiagnostic device: automatic biochemical blood testing equipment.\n&bull; Lead projects by pulling together design, specification packages and \nmanaging test/validation plans. Working effectively with a \ncross-functional/global staff and supply chain. Communication with suppliers to \ncontrol and improve the product quality and risk control.\n&bull; Creating and executing project plans on-time, on-budget in line to achieve \nannual cost saving target.\nThe detail responsibility of the project is as following:\n- Feasibility and Cost Analysis\n- Supplier Review and Selection\n- Creating Project Plan (Design Change Plan or Development Plan)\n- Detail Drawing Design \n- Risk Management (SRA/FMEA) \n- Verification Protocol or Validation Plan and Test\n- Technical Reports Creation \n- Updated documents (Drawing, BOM, Specification) in system\n- Project Internal Audit sand Handover\n&bull; Organizing VAVE workshop, discuss and summarize the effective VAVE project \nto create the Funnel target; Analyzing and recommend future projects which will \nresult in improved instrument cost, performance and quality.\n",
+            "endDate": "4000-10",
+            "position": "Value Engineer",
+            "startDate": "2016-09"
+        },
+        {
+            "company": "ABB Electrical Machines Ltd",
+            "detail": "- 所在地区：Shanghai \n - 下属人数：0人 \n - 职责业绩： \n&bull; Engineering mechanical design for the product High voltage motor. Provide \nrequired drawings and documents to customer. Create and maintain the bill of \nmaterials for production, Technical support for sales to clarify and define \norder information, Technical support to Purchasing, Sourcing and Service . \nIntroduce the witness test for the customer .\n&bull; Check the mechanical design of the products and guarantee the on time \ndelivery of the order. Make the solutions for uncertain technical issues and \nsolve the problem with engineering change and other accidental incidents; \nsupport the production process in time.\n&bull; Take responsibility as NPI project engineer and completed the new product \nAMDRg Explosion-flameproof motor transfer project.\n- Cooperation with global R&amp;D team and business trip to Italy factory, \nanalysis and establish the local PDM architecture; Learn the certification \nknowledge and technology of new product.\n- Developed the process to design and production of explosion-proof motor. \nCompleted design of prototype motor on time. Be in charge of Explosion-proof \nmotor, including design check and other related issues\n&bull; Write design instruction. Provide training for the department and the \ncompany.Take part in 4Q project and optimize internal work processes, and \nimprove efficiency\n&bull; Guiding and leading new staff for design; Training mentee for department\n",
+            "endDate": "2016-06",
+            "position": "Mechanical Engineer",
+            "startDate": "2011-07"
+        }
+    ],
+    "workYears": 8.0
+}

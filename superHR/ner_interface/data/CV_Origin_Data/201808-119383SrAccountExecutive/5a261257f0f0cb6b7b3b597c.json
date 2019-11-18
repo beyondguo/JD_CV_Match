@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1993-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "深圳市安健科技股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "客服工程师",
+    "currentSalary": " 9.6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "应用物理学",
+            "school": "西安工业大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "其他",
+        "salary": "9.60万（8000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "5a261257f0f0cb6b7b3b597c",
+    "projectExp": [],
+    "selfComm": "\n 适应能力强，敢于不断尝试新事物，勇于挑战自我，敢于承担责任，吃苦耐劳，自我学习能力较强。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "莱凯医疗器械(北京)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n1.负责陕西地区EMS碎石机装机医院的定时回访\n2.负责手术跟台，确保手术过程中术者对机器的正常使用\n3.负责新机器的安装\n4.负责故障机器的维修以及处理医院抱怨\n5.负责相应耗材的推广\n",
+            "endDate": "2018-08",
+            "position": "维修服务工程师",
+            "startDate": "2018-03"
+        },
+        {
+            "company": "深圳市安健科技股份有限公司",
+            "detail": "- 所在地区：济南 \n - 下属人数：0人 \n - 职责业绩： \n1.负责山东省地区DR以及胶片打印机的安装，维修，以及装机医院的回访，另外还有机器延保的销售。\n2.熟悉医疗器械售后服务流程。\n3.熟悉与民营私立以及公立医院沟通交流的方式。\n4.掌握DR产品工作原理，能熟练并独立的安装机器，排查故障以及完成维修\n5.协助医院将DR系统接入PACS系统以及HIS系统\n6.负责新装机医院操作医生的培训\n",
+            "endDate": "2017-12",
+            "position": "维修服务工程师",
+            "startDate": "2015-09"
+        }
+    ],
+    "workYears": 3.0
+}

@@ -1,0 +1,89 @@
+{
+    "basic": {
+        "birthday": "1989-12-21",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "泉州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2009-07",
+            "major": "农学",
+            "school": "长江大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "仪器仪表/工业自动化,制药/生物工程,建筑/建材/工程,家居/室内设计/装潢,农/林/牧/渔",
+        "position": "渠道/分销经理,区域销售经理,销售工程师,销售工程师",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [],
+    "selfComm": "\n本人09年至今一直在从事销售相关的工作，先后从事过农资产品、建材卫浴、实验教学设备方面的销售工作，目前在福州发展，想找一份跟上述行业相关的工作，，本人有渠道销售方面的工作经验，对建材卫浴产品从生产，到价格制定、客户开发、渠道建设、促销活动制定等流程比较熟悉。也有工程招投标方面的工作经验。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建远明生物科技有限公司",
+            "department": "销售部",
+            "detail": "负责奥林巴斯显微镜在福州地区高校科研单位的销售推广工作",
+            "endDate": "4000-10",
+            "industry": "仪器仪表/工业自动化",
+            "position": "销售工程师",
+            "scale": "少于50人",
+            "startDate": "2017-12",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京智云达科技股份有限公司",
+            "department": "销售部",
+            "detail": "负责公司产品在福建区域的渠道销售工作",
+            "endDate": "2017-12",
+            "industry": "仪器仪表/工业自动化",
+            "position": "销售工程师",
+            "scale": "150-500人",
+            "startDate": "2016-08",
+            "type": "上市公司"
+        },
+        {
+            "company": "南京畅翔仪器设备有限公司",
+            "department": "销售部",
+            "detail": "负责目标客户的销售维护工作，包括招投标等工作",
+            "endDate": "2016-02",
+            "industry": "仪器仪表/工业自动化",
+            "position": "销售工程师",
+            "startDate": "2015-07"
+        },
+        {
+            "company": "爱浪卫浴",
+            "department": "销售部",
+            "detail": "负责区域市场的开发维护工作，包括团队建设，促销活动制定，渠道建设，品牌推广等工作",
+            "endDate": "2015-06",
+            "industry": "建筑/建材/工程",
+            "position": "区域销售经理",
+            "startDate": "2013-01"
+        },
+        {
+            "company": "味丹生物",
+            "department": "销售部",
+            "detail": "负责区域市场的客户开发维护工作",
+            "endDate": "2013-01",
+            "industry": "农/林/牧/渔",
+            "position": "销售代表",
+            "startDate": "2009-09"
+        }
+    ],
+    "workYears": 10.0
+}

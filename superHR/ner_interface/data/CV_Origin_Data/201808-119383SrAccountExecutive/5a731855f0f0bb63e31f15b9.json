@@ -1,0 +1,101 @@
+{
+    "basic": {
+        "address": "",
+        "birthday": "1989-01",
+        "bloodType": "",
+        "bwh": "",
+        "cityOfBirth": "",
+        "currentCity": "西安-碑林区",
+        "ethnic": "",
+        "gender": "男",
+        "maritalStatus": "",
+        "mobileCountry": "中国",
+        "nationality": "中国",
+        "personalId": "",
+        "photoAddress": "",
+        "politicalStatus": "",
+        "qq": "",
+        "registeredResidence": "渭南",
+        "stature": "",
+        "weight": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "正大天晴药业集团股份有限公司",
+    "currentIndustry": "",
+    "currentPosition": "产品经理/产品组经理",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2015-06",
+            "major": "微生物学",
+            "school": "西北大学",
+            "startDate": "2012-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-06-01",
+            "major": "生物技术",
+            "school": "长春工业大学",
+            "startDate": "2008-09-01"
+        }
+    ],
+    "graduateSchool": "西北大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": [
+            "西安"
+        ],
+        "contractTerm": "",
+        "industry": [
+            "制药/生物工程;医疗设备/器械"
+        ],
+        "position": [
+            "药品市场推广经理/主管;产品经理/主管;市场经理/主管"
+        ],
+        "salary": "面议",
+        "state": ""
+    },
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：产品经理 \n - 所在公司：正大天晴药业集团股份有限公司 \n - 项目简介： \n区域高端学术交流活动，品牌学术活动平台搭建\n - 项目职责： \n大中型活动的策划、组织、协调，沟通区域KOL，沟通活动主题及内容等\n - 项目业绩： \n所负责领域年同期增长率35%，产品覆盖率进一步提升，专家观念有了显著改善\n",
+            "endDate": "2017-11",
+            "name": "区域高端学术平台搭建与维护",
+            "startDate": "2016-03"
+        }
+    ],
+    "projectExpStr": "2016-03--2017-11:区域高端学术平台搭建与维护\r\n\r\n - 项目职务：产品经理 \r\n - 所在公司：正大天晴药业集团股份有限公司 \r\n - 项目简介： \r\n区域高端学术交流活动，品牌学术活动平台搭建\r\n - 项目职责： \r\n大中型活动的策划、组织、协调，沟通区域KOL，沟通活动主题及内容等\r\n - 项目业绩： \r\n所负责领域年同期增长率35%，产品覆盖率进一步提升，专家观念有了显著改善",
+    "salaryRemark": "",
+    "selfComm": " 本人对待工作认真负责、积极主动；能和内部同事进行良好的团队合作，对内外部客户沟通能力强，执行策划能力强，抗压能力强，可以适应出差！ ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "正大天晴药业集团股份有限公司",
+            "department": "",
+            "detail": "2018- 10  - 至今\t\t    产品组经理，带三位下属\r\n2017-10 - 2018 - 10               产品经理\r\n2016-09 &ndash; 2017-10                助理产品经理,  西安\r\n\r\n工作职责：\r\n先后负责抗生素、呼吸、抗骨代谢、肿瘤等产品线。\r\n负责西北区域抗生素、呼吸、内分泌、肿瘤产品等活动的策划、执行，贯彻落实中央市场部产品策略，协助执行全国性学术会议。\r\n市场分析调研、产品推广策略制定、学术会议的举办、产品内部培训、KOL的拜访与维护以及未来上市产品前期调研工作等。\r\n区域KOL网络的建立与维护；\r\n区域销售人员的产品知识、疾病知识的培训；\r\n所负责领域产品数据的整理和分析、产品策略的制定及实施；\r\n所负责领域产品及竞品的市场调研分析；\r\n所负责领域产品同比增长35%以上，其中所负责抗生素产品年增长率35.4%，抗骨代谢增长率78%，呼吸产品增长12.6%，同时建立并维护陕西等地区相关领域的高端专家网络。 \r\n\r\n2015-07 - 2016-09                     产品经理助理, 南京\r\n工作职责：\r\n负责西北、华北、豫鄂等地区抗生素产品的学术推广工作，制定、落实产品推广策略。\r\n负责全国抗生素活动的开展和协助，策划执行部分全国性活动并实施；\r\n重点专家KOL网络的建立与维护；\r\n销售人员的产品知识培训；\r\n所负责领域数据的整理和分析；\r\n所负责产品的市场调研分析。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "产品经理/产品组经理",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2015-07-01"
+        },
+        {
+            "company": "江苏康缘集团有限责任公司",
+            "department": "",
+            "detail": "药物研发工作，发表SCI论文一篇:Haixing Yang，Chao Huang，Yonghua Wang et. A novel Systems Pharmacology model for herbal medicine injection: a case using Reduning Injection. BMC Complementary and Alternative Medicine.2014,14:430 (IF:1.88)",
+            "endDate": "2015-02",
+            "industry": "",
+            "position": "研发",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2013-08"
+        }
+    ],
+    "workYears": 4.0
+}

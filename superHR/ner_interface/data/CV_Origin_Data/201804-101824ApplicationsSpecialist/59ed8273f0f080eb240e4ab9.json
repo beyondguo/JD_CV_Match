@@ -1,0 +1,108 @@
+{
+    "basic": {
+        "address": "",
+        "birthday": "1987-10",
+        "bloodType": "",
+        "bwh": "",
+        "cityOfBirth": "",
+        "currentCity": "福建福州",
+        "ethnic": "",
+        "gender": "男",
+        "maritalStatus": "",
+        "mobileCountry": "中国",
+        "nationality": "",
+        "personalId": "",
+        "photoAddress": "",
+        "politicalStatus": "",
+        "qq": "",
+        "registeredResidence": "",
+        "stature": "",
+        "weight": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "广州市华粤行仪器有限公司",
+    "currentIndustry": "",
+    "currentPosition": "资深销售工程师",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "专业描述\r\n2011 核心期刊上发表论文《大肠杆菌葡萄糖脱氢酶基因的克隆与原核表达》 第一作者\r\n2010 核心期刊上发表论文《KEGG数据库\r\n在生物合成研究中的应用》 第一作者\r\n2010 参加教材分子生物学与基因操作的编写\r\n2010 2011从事国家自然科学基金项目分子生物学类课\r\n题(生物合成生产神经系统药品吡咯喹啉醌)",
+            "endDate": "2011-06",
+            "major": "生物化工",
+            "school": "北京化工大学",
+            "startDate": "2008-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "专业描述\r\n主修课程\r\n分子生物学、细胞生物学、基因工程、微生物学、生物化学、生物技术制药等",
+            "endDate": "2008-06",
+            "major": "生物工程",
+            "school": "北京化工大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "graduateSchool": "北京化工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": [],
+        "contractTerm": "",
+        "industry": [],
+        "position": [],
+        "salary": "",
+        "state": ""
+    },
+    "otherLangResumeId": "59ed8273f0f080eb240e4ab9",
+    "proSkill": "从事过分子生物学、微生物学、细胞生物学及生物工艺等实验，并能熟练使用相关设备",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：销售 \n - 所在公司：广州市华粤行仪器有限公司 \n - 项目简介： \n终端客户需要打包采购两百万左右金额的设备\n - 项目职责： \n推荐产品、谈判交流，确保项目成功\n - 项目业绩： \n项目最终成功中标并完成采购\n",
+            "endDate": "2015-06",
+            "name": "仪器设备打包采购",
+            "startDate": "2014-12"
+        }
+    ],
+    "projectExpStr": "2014-12--2015-06:仪器设备打包采购\r\n\r\n - 项目职务：销售 \r\n - 所在公司：广州市华粤行仪器有限公司 \r\n - 项目简介： \r\n终端客户需要打包采购两百万左右金额的设备\r\n - 项目职责： \r\n推荐产品、谈判交流，确保项目成功\r\n - 项目业绩： \r\n项目最终成功中标并完成采购",
+    "salaryRemark": "",
+    "selfComm": "责任心强、善于与人打交道。 喜欢做销售，适合做销售",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "广州市华粤行仪器有限公司",
+            "department": "",
+            "detail": "工作描述\r\n负责福建区域各大高校、研究所、医院、政府事业单位以及其他生命科学领域单位的仪器设备及配套耗材的销售工作。 ?销售方式包括经销\r\n商渠道的分销以及重点客户的直销。 ?负责产品:常规分子生物学设备、细胞生物学设备、微生物学设备、生物制药设备及其他通用实验设\r\n备。 ?工作职责:完成公司分配的业绩任务；把握好公司的终端重点客户；管理发展分销渠道，配合代理商工作；掌握公司产品知识，为代理\r\n商提供技术支持，给用户介绍产品特点；熟悉产品采购的流程，直接或间接参与大型的招标活动。 ?从2013年开始公司在福建区域的销售额从\r\n50万元增长到目前的500多万元",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "资深销售工程师",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2012-12"
+        },
+        {
+            "company": "博奥生物有限公司",
+            "department": "",
+            "detail": "工作描述\r\n负责产品\r\nmRNA、miRNA、SNP、蛋白芯片等科研项目服务销售 ?承担mRNA、miRNA、SNP、蛋白芯片等科研项目服务，以及分子生\r\n物学实验室常用仪器销售工作",
+            "endDate": "2012-11",
+            "industry": "",
+            "position": "销售工程师",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2012-04"
+        },
+        {
+            "company": "北京诺赛基因组研究中心有限公司",
+            "department": "",
+            "detail": "工作描述\r\n负责产品\r\n高通量测序、蛋白组学、基因工作、分子生物学等实验外包项目 ?承担高通量测序、蛋白组学、基因工作、分子生物学实验外包\r\n项目，开发新客户资源，建立维系客户关系，确定项目合作，跟踪项目进展已经售后服务支持",
+            "endDate": "2012-03",
+            "industry": "",
+            "position": "销售工程师",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2011-06"
+        }
+    ],
+    "workYears": 7.0
+}

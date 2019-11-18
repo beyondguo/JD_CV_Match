@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "通用电气公司（GENERAL ELECTRIC）",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域项目经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2010-07",
+            "major": "生物医学工程",
+            "school": "第四军医大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "项目经理/主管;产品经理/主管;销售代表",
+        "salary": "18.00万（15000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "58857277f0f00bc796d8d9f4",
+    "projectExp": [],
+    "selfComm": "\n 活泼开朗，吃苦耐劳。沟通，组织，协调能力强，英语口语良好，抗压能力良好。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "通用电气公司（GENERAL ELECTRIC）",
+            "detail": "- 所在地区：西安 \n - 汇报对象：region manager \n - 下属人数：0人 \n - 职责业绩： \n负责所辖区域内GE全线产品的场地技术指导，定期对代理商、销售进行场地技术培训。负责平衡区域内销售业绩与发货风险，帮助销售团队在更小的风险下拿到销售业绩。\n",
+            "endDate": "4000-10",
+            "position": "区域项目经理",
+            "startDate": "2011-12"
+        },
+        {
+            "company": "通用电气公司（GENERAL ELECTRIC）",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n负责所辖区域内CT安装与维修\n",
+            "endDate": "2011-12",
+            "position": "CT售后服务工程师",
+            "startDate": "2010-07"
+        }
+    ],
+    "workYears": 8.0
+}

@@ -1,0 +1,65 @@
+{
+    "basic": {
+        "birthday": "1990-4-12",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=78262505&amp;key=55060c63fc742e2befd0e2f58ae6e177",
+        "politicalStatus": "",
+        "registeredResidence": "福州",
+        "zipCode": ""
+    },
+    "certificate": " \n2009/6 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "该专业主要包括医学药学的基础课程，相关的实验操作及设计，药品的研发过程，市场开发及基础法规。",
+            "endDate": "2012-06",
+            "major": "药学",
+            "school": "上海交通大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,房地产",
+        "position": "销售经理,其他",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "otherLangResumeId": "5af903ae611c49b2ebaa5333",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "91729332",
+    "projectExp": [],
+    "selfComm": "执着，为人诚实，奋进。做事有毅力，不怕吃苦。\n校内职务 \n2009/9-2010/9 上海交通大学药学院学生会体育部副部长 \n\n职务描述： 院内的各种体育活动及比赛的策划、组织工作；组队参与学校的各类体育赛事；协助其他部门完成一些学生工作。 \n2008/9-至今 班级体委 \n2008/9-至今 上海交通大学南区宿舍15楼404寝室长 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建易升金融网络有限公司",
+            "detail": "开发港股和美股业务的代理商，并做好跟进和后期维护。",
+            "endDate": "4000-10",
+            "industry": "金融/投资/证券",
+            "position": "销售代表",
+            "scale": "50-150人",
+            "startDate": "2017-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "福建冠景旅游开发实业有限公司",
+            "department": "外联部，采购部",
+            "detail": "\n1在外联部的主要工作包括办理房地产开发所需要的相关证件（建设用地规划许可证、建设工程规划许可证、建筑工程施工许可证、国有土地使用证和商品房预售许可证；办理企业资质），与当地政府有关部门负责人及主要办事员维系良好关系并适时进行有效沟通交流。2在采购部期间负责采购办公室用品、售楼部空调电脑家具及开盘礼品等物料，参与施工工地材料品牌的定制和定价。",
+            "endDate": "2017-06",
+            "industry": "房地产",
+            "position": "基础",
+            "scale": "50-150人",
+            "startDate": "2012-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 6.0
+}

@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1989-08",
+        "currentCity": "陕西 咸阳",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg",
+        "registeredResidence": "陕西-咸阳"
+    },
+    "confidentialResume": "N",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2011-06",
+            "major": "机械设计制造及其自动化",
+            "school": "西安工业大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "咸阳",
+        "contractTerm": "全职",
+        "industry": "房地产/建筑/建材/工程、医疗设备/器械",
+        "position": "房地产项目策划专员/助理、会展策划/设计、",
+        "salary": "4001-6000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "英语： 读写能力&nbsp;一般| 听说能力&nbsp;一般",
+    "otherLangResumeId": "5ba34a39f0f04220de278043",
+    "projectExp": [
+        {
+            "detail": "责任描述：\n项目简介：独立开发用户，并完成公司的任务指标，并开发新用户，将公司此产品在咸阳市场做到从无到有，并且实现业绩翻倍！",
+            "endDate": "2018/07",
+            "name": "陕西昱鼎医疗科技有限公司",
+            "startDate": "2015/08"
+        },
+        {
+            "detail": "责任描述：\n项目简介：担任咸阳宝鸡地区销售经理，承担公司指标任务，拓展市场并维护客勤关系，按时完成公司指标任务.",
+            "endDate": "2015/07",
+            "name": "山东新华医疗器械股份有限公司",
+            "startDate": "2011/10"
+        }
+    ],
+    "selfComm": "有一定医疗行业工作经验，思维活跃，创新能力强，有一定的策划经验，可快速适应工作，学习能力强，抗压能力强。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西昱鼎医疗科技有限公司",
+            "department": "",
+            "detail": "\n负责区域内市场开拓、维护、销售，按公司策略制定销售计划，分解任务指标，制定完成方案\n",
+            "endDate": "2018-07",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "经理",
+            "scale": "",
+            "startDate": "2015-08",
+            "type": ""
+        }
+    ],
+    "workYears": 7.0
+}

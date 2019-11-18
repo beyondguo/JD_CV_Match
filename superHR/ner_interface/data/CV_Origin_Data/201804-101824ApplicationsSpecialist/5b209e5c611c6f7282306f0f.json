@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1989-6-7",
+        "currentCity": "泉州",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2010-06",
+            "major": "经济与金融",
+            "school": "福建商业高等专科学校",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "泉州",
+        "contractTerm": "全职",
+        "industry": " 保险 ",
+        "position": "",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "细心认真",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泉州太平洋人寿保险公司",
+            "department": "法人渠道部门",
+            "detail": "负责南安安溪两个机构",
+            "endDate": "4000-10",
+            "industry": "保险",
+            "position": "客户经理/主管",
+            "startDate": "2017-12"
+        }
+    ],
+    "workYears": 7.0
+}

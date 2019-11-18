@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "西安-高新区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "力成半导体（西安）有限公司",
+    "currentIndustry": "电子技术/半导体/集成电路",
+    "currentPosition": "工艺设备工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "机械设计制造及其自动化",
+            "school": "西安工业大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "电子技术/半导体/集成电路;仪器/仪表/工业自动化/电气;原材料及加工",
+        "position": "维修工程师;工艺/制程工程师(PE);集成电路IC设计/应用工程师",
+        "salary": "11.90万（8500元/月 * 14个月）"
+    },
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：工程师 \n - 所在公司：力成半导体(西安)有限公司 \n - 项目简介： \n在PTIXA分厂尚未开启Hanmi 3rd vision 的情况下，独立setup完成，并且training产线ME能够独立完成此功能的setup及维护\n - 项目职责： \nSetup，training 推进3rd vision功能的开启，为公司进行cost down\n - 项目业绩： \n为公司进行缩减人力cost down\n",
+            "endDate": "2017-12",
+            "name": "完成对机台辅助功能的增加",
+            "startDate": "2017-09"
+        }
+    ],
+    "selfComm": "\n 拥有较高及适应高压工作的能力，曾因工作需求，任职多个岗位且均能够胜任 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "力成半导体（西安）有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：部门经理 \n - 下属人数：0人 \n - 职责业绩： \n现从事封装工艺，设备结构改善维护工作。具备国家认可的工程师职称。全程参与建厂并在在职期间提出5个project，每年从人力，设备，工艺等方面平均帮助公司节约300万元。日常负责事物：\n 1. 计划并执行改进制程设备良率与降低制造成本的项目,对于PLC能够简单的应用调整\n 2. 对机台进行setup，机构改善，维修保养\n 2. 负责产线相应的UPH改善及KIT 2nd source评估\n 3. 负责公司产品的新工艺导入和维护\n 4. 协助设计人员解决工艺相关问题，并提供技术支持\n 5. 协助质量工程师，测试工程师分析失效产品并提出改善意见\n 6. 编制产品的工艺文件，制定材料消耗工艺定额（BOM）.根据工艺要求，对现有工艺设备进行验证及改进工作\n 7. 针对量产及其他问题协调沟通部门间的合作\n技能专长：\n 1.能够熟练运用品质管理工具FMEA、Control plan、SPC、JUMP、8D等\n 2. 通过ISO014001：2015、GB/T28001-2011，\n QC080000:2012internal auditor,6Sigma等\n 3. 对于PCB、EMC等直间材有深刻认识了解，可以针对相关问题提出有效的解答\n 4. 熟知TOWA YPM1180、Y1E、EO-BATT 2402G、Fico Miss ‖、\n Intercon8808, Hanmi30000L&amp;3800L、SAT、X-ray等机器。\n 5. 对于实验室的基础实验均能够独立完成，如De-cap、Cross section、EDX等。\n",
+            "endDate": "4000-10",
+            "position": "工艺设备工程师",
+            "startDate": "2015-07"
+        }
+    ],
+    "workYears": 4.0
+}

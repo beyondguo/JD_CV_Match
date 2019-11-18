@@ -1,0 +1,94 @@
+{
+    "basic": {
+        "birthday": "1981-10-21",
+        "currentCity": "西安-未央区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2002-07",
+            "major": "电子信息工程",
+            "school": "江西蓝天学院",
+            "startDate": "1999-09"
+        },
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "1999-07",
+            "school": "修水三中",
+            "startDate": "1996-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "贵阳",
+        "contractTerm": "全职",
+        "industry": "电子技术/半导体/集成电路",
+        "position": "电子/电器维修工程师/技师,硬件工程师",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "十年以上工作经验，动手分析能力强，对电子产品制程精通，",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海剑桥科技股份有限公司",
+            "detail": "1，不良品维修与反馈\n2，新人培训\n3，制程改善\n4，物料管控\n5，库房监管",
+            "endDate": "2018-07",
+            "industry": "",
+            "position": "电子/电器维修工程师/技师",
+            "startDate": "2015-08"
+        },
+        {
+            "company": "富士康",
+            "department": "生产部",
+            "detail": "1.产线不良品分析维修。\n2.分析维修库存wip\n3.不良分析原因反馈。\n4.大批不良分析。",
+            "endDate": "2015-08",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "维修工程师",
+            "scale": "外资(非欧美)",
+            "startDate": "2014-10"
+        },
+        {
+            "company": "华平电子",
+            "department": "研发部",
+            "detail": "1.新产品导入跟进，不良品分析，制程改善\n2.产品批量不良分析\n3.相关工程问题解决\n4.材料变更，bom更新\n5.硬件测试，环境搭建。",
+            "endDate": "2013-06",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "产品工程师",
+            "scale": "民营公司",
+            "startDate": "2012-05"
+        },
+        {
+            "company": "环旭电子股份有限公司",
+            "department": "生产部",
+            "detail": "1.产线不良品分析维修\n2.维修结果反馈\n3.制程改善",
+            "endDate": "2012-05",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "维修工程师",
+            "scale": "外资(非欧美)",
+            "startDate": "2008-04"
+        },
+        {
+            "company": "达丰电脑",
+            "department": "生产部",
+            "detail": "1.产线不良品维修分析\n2.对制程，材料，设计所导致不良，总结报告反馈。\n3.制程改善提出\n4.新人培训，指导",
+            "endDate": "2008-04",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "维修工程师",
+            "scale": "外资(非欧美)",
+            "startDate": "2002-07"
+        }
+    ],
+    "workYears": 17.0
+}

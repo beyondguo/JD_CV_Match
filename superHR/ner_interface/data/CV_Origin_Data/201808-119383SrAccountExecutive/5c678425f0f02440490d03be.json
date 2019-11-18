@@ -1,0 +1,30 @@
+{
+    "basic": {
+        "birthday": "1997-9-14",
+        "currentCity": "上海-浦东新区",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/01e2df0a64a613dec2e8611b6eddf27b.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "上海",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "",
+    "eduExp": [],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "我目前不想换工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 2.0
+}

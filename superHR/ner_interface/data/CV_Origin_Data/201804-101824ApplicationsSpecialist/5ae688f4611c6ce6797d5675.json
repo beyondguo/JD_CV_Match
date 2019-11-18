@@ -1,0 +1,270 @@
+{
+    "basic": {
+        "birthday": "1979-8-1",
+        "currentCity": "厦门",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/869857a1922a84acce58158048823f03.jpg",
+        "politicalStatus": "无党派民主人士",
+        "registeredResidence": "厦门",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门康元医疗科技发展有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域销售经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2000-07",
+            "major": "工程造价管理",
+            "school": "辽宁大学",
+            "startDate": "1996-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712673.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712675.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "面试",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aea6f89ae62d542879bc",
+            "id": "3",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712677.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "4",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712678.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "5",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712680.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712681.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "发出",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2af4bf89ae62d542879fc",
+            "id": "7",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712683.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "8",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712686.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "9",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712687.0,
+            "strValue": "厦门",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "10",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712688.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712690.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "19",
+                    "enumValue": "福建省",
+                    "id": "18",
+                    "isDefault": false,
+                    "orderIndex": 18.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Feb 27, 2019 3:15:12 PM",
+            "lastUpdated": 1551251712693.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "辽宁大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理,省级销售经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": "英语:  读写能力 一般| 听说能力 一般",
+    "otherLangResumeId": null,
+    "proSkill": "驾驶  熟练|80",
+    "projectExp": [
+        {
+            "detail": "工作业绩及销售产品\n1．2017年福建地区完成销售飞利浦超声、希森美康凝血分析仪、高敏发光HISCL-5000、糖化血红蛋白分析仪、卡尔史托斯腹腔镜、肿瘤基因测序检测项目等产品。完成多家终端医院销售工作，并全面开发、维护省内100多家分销渠道（经销商）客户关系以及开展分销业务合作。2017年团队完成900万全年销售指标的达成,达到95%渠道覆盖率等公司要求的各项工作要求。\n2.2016年福建地区完成销售日立生化、阿洛卡超声、西门血球2120、尿沉渣、美国TEG血栓弹力图、迈瑞监 \n护仪、雷杜米特血气、奥林巴斯超声内镜、肿瘤基因测序检测项目等产品。2016年团队完成750万全年销售指标的达成,达到95%渠道覆盖率等公司要求的各项工作要求。\n3.带领4人团队，负责福建区域销售工作，在检验、影像、肿瘤、消化内、心内、妇科、麻醉、ICU等科室建立、维护、深化客户关系，并影响客户成为&ldquo;产品代言人&rdquo;。",
+            "endDate": "2016-12",
+            "name": "医疗设备项目",
+            "responsibility": "",
+            "startDate": "2015-01"
+        }
+    ],
+    "projectExpStr": "2015/01 - 2016/12\r\n医疗设备销售项目\r\n责任描述:工作业绩及销售产品\r\n1．2016年福建地区完成销售飞利浦超声、希森美康凝血分析仪、高敏发光HISCL-5000、糖化血红蛋白分析仪、卡尔史托斯腹腔镜、基因测序检测项目等产品。完成多家终端医院销售工作，并全面开发、维护省内100多家分销渠道(经销商)客户关系以及开展分销业务合作。2016年个人完成500万全年销售指标的达成,达到95%渠道覆盖率等公司要求的各项工作要求\r\n2. 2015年福建地区完成销售日立生化、阿洛卡超声、西门血球2120、尿沉渣、美国TEG血栓弹力图、迈瑞监  护仪、雷杜米特血气、奥林巴斯超声内镜、基因测序检测项目等产品。2015年个人完成450万全年销售指标的达成,达到95%渠道覆盖率等公司要求的各项工作要求\r\n3.带领4人团队，负责福建区域销售工作，在检验、影像、肿瘤、消化内、心内、妇科、麻醉、ICU等科室建立、维护、深化客户关系，并影响对方成为&ldquo;产品代言人",
+    "salaryRemark": "",
+    "selfComm": "自我评价\n具有10年以上销售经验,有销售管理理念及药品器械招商经验，熟悉临床科室及医院客户资源，掌握器械、药品渠道资源，熟悉器械及药品招投标流程。带领4人团队，负责福建、浙江区域销售工作，在检验、影像、肿瘤、消化内、心内、妇科、麻醉、ICU等科室建立、维护、深化客户关系，并影响客户成为&ldquo;产品代言人&rdquo;。",
+    "trainExp": " \n2016/5--2016/6 基因测序项目培训 \n培训机构： 上海誉衡基因检验有限公司 \n培训地点： 上海 \n培训描述：  \n2007年7月 深圳大学职业经理人营销管理专业 课程培训 \n2008 年9 月 普斯曼(北京)医疗科技有限公司 产品培训 \n2010 年3 月 西门子医学诊断(上海)有限公司 客户关系及检验产品培训 \n2012 年6 月 飞利浦医学影像(上海)有限公司 超声产品培训 \n2015年4月 希森美康医用电子（上海）有限公司 检验产品培训 \n2016年5月 上海誉衡基因检验有限公司 基因测序项目培训\n2017年8月 深圳港大医院 心肺运动康复项目培训 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门康元医疗科技发展有限公司",
+            "department": "市场营销部",
+            "detail": "工作经历\n2008.9-至今 厦门康元医疗科技发展有限公司 省区销售经理\n工作职责：\n1、负责公司福建、浙江区域医学影像超声、检验类设备及试剂、肿瘤基因测序类检验项目的销售，确保达成销售目标; \n2、熟悉第三方肿瘤基因测序检测市场，以及设备代投标业务，掌握福建地区医疗器械、药品、耗材经销商渠道资源，以及各大厂商渠道资源，确保产品的销售份额最大化; \n3、为确保达成目标，跟进并辅导下属销售代表，包括产品知识、客户沟通、关键客户管理、区域规划及管理、团队合作等方面，关注下属员工成长，并针对其需求给到相应培训或辅导; \n4、分析区域销售和市场数据，制订相关工作计划，包括重点项目的筛选和跟进，确保合理制订预算和资源合力利用,及时落实执行情况;\n5、协调技术工程师开展售后服务，确保产品的正常运转，维护客户利益，建立良好口碑，树立公司品牌形象;\n6、提交工作阶段报告，总结并评估各项工作，不断提升工作质量。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "区域销售经理",
+            "scale": "50-150人",
+            "startDate": "2008-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "辽宁恒泰电气有限公司",
+            "department": "销售部",
+            "detail": "2001年3月&mdash;&mdash;2008年6月 辽宁恒泰电气有限公司 职位：销售经理\n工作地点:福建 江西\n1、负责配电网自动化产品二遥故障指示器、电力远程核相仪、电缆识别仪等产品在国家电网系统销售工作；\n2、负责电力系统的客户开发与维护，具有成熟的销售网络和人脉资源；\n3、熟悉电网系统行业招标流程，有独立操作项目的招投标经验和商务攻关经验；\n4、负责开展项目信息掌握、跟踪、谈判、签单等商务活动；\n5、负责客户关系维护、应收账款回收及后续项目开发；\n6、协调工程技术、售后服务人员与客户关系的处理；\n7、具有良好的沟通协调能力、较强的语言表达能力和交际能力，有主动和勤奋的工作作风。",
+            "endDate": "2008-06",
+            "industry": "仪器仪表/工业自动化",
+            "position": "销售经理",
+            "scale": "50-150人",
+            "startDate": "2001-03",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 18.0
+}

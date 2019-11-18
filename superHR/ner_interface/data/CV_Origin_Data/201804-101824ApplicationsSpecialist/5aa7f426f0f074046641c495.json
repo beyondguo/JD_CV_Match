@@ -1,0 +1,226 @@
+{
+    "basic": {
+        "birthday": "1990-11",
+        "currentCity": " 上海",
+        "currentSalary": "年薪20 万元",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "uploads/talent_photo/1806/c2664e5456e4ae92cee48ace7a0f99fa.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": "2010/3  全国大学生计算机二级证书",
+    "confidentialResume": "N",
+    "currentCompany": "STEMCELL Technologies",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售代表",
+    "currentSalary": " 14.5万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-07",
+            "major": "生物科学及生物技术类",
+            "school": "中国科学院大学",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "制药工程",
+            "school": "中国药科大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925718.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925719.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "生命科学－科研",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925721.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925723.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925725.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925729.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925731.0,
+            "strValue": "上海",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "女",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925732.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925734.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "上海",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jun 27, 2018 11:25:25 AM",
+            "lastUpdated": 1530069925737.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "graduateSchool": "中国科学院大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "上海",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "",
+        "salary": "15-20万元/年",
+        "state": "1个月内"
+    },
+    "langAbility": " \n\n英语 熟练 ",
+    "otherLangResumeId": "5aa7f426f0f074046641c495",
+    "proSkill": "英语熟练",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "STEMCELL Technologies",
+            "department": "销售部",
+            "detail": "目前本人所在公司为一家外资生物试剂公司，主营业务包括细胞分选与细胞培养产品。负责地区为上海的医院及科研用户，协助经销商完成销售指标。通过对产品的介绍和售后服务积累了大量医院客户如瑞金医院，中山医院，长海医院等。\n\n工作职责范围如下：\n销售任务： 负责STEM CELL仪器、耗材、试剂全线产品的销售\n 制定并提出所负责地区的年度业务计划，根据销售和营销总体计划按季度和年度设定销售目标。\n代理商培训：制作产品培训资料，对经销商进行产品知识和销售技巧培训\n代理商管理：将经销商销售指标进行分割细化，分析季度和年度指标\n 对每一个销售机会进行跟踪管理\n 制订市场推广目标，协助经销商开展市场活动，并每月对代理商组织 会议，每季度进行任务考核。\n 维护管理上海地区渠道，防止经销商窜货\n\n主要业绩：\n从FY2018起，所带领的两家经销商均实现了销售额的同比大幅增长，其中一家增幅超过50%\n发展并保持与当前客户的良好业务关系，对薄弱机构院校进行集中的产品宣讲和市场促销活动，开发了大量新用户。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "scale": "外资(欧美)",
+            "startDate": "2017-04"
+        },
+        {
+            "company": "辉瑞投资有限公司",
+            "department": "专利药销售部门",
+            "detail": "作为医药信息沟通专员独立负责专利药物乐瑞卡在新华医院（三甲）的销售工作，进行产品推广和客户服务，如拜访医生、召开产品介绍会和开展其他活动。熟悉医药企业尤其外企的药品销售模式，对三甲和社区医院与药企的关系有深入了解。实习期间乐瑞卡的月均销量从80盒迅速增加到120盒。",
+            "endDate": "2017-02",
+            "industry": "制药/生物工程",
+            "position": "医药信息沟通专员（实习） (兼职) ",
+            "scale": "5000-10000人",
+            "startDate": "2016-10"
+        }
+    ],
+    "workYears": 1.0
+}

@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "birthday": "1993-9-19",
+        "currentCity": "厦门",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "宁德",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/12 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 0.01万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "生物工程(方向为有机合成与药物合成)",
+            "school": "华侨大学",
+            "startDate": "2016-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "药学",
+            "school": "南京中医药大学翰林学院",
+            "startDate": "2012-01"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "医药学术推广,药品市场推广主管/专员,临床协调员,临床研究员,生物工程/生物制药,产品专员",
+        "salary": "10-15万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": " \n英语 良好 ",
+    "projectExp": [
+        {
+            "detail": "华侨大学创新基金，2w",
+            "endDate": "4000-10",
+            "name": "《可修饰导向基作用下的C-H键官能化研究》",
+            "responsibility": "负责人",
+            "startDate": "2016-09"
+        },
+        {
+            "detail": "本科毕业论文",
+            "endDate": "2016-05",
+            "name": "金振口服液治疗小儿支气管炎性咳嗽作用机制研究",
+            "responsibility": "参与",
+            "startDate": "2015-12"
+        }
+    ],
+    "selfComm": "\n具备良好的心态与责任心，乐观向上，积极进取，有良好的团队意识，熟练查阅文献的技巧，熟练掌握office软件的使用以及PPT制作，并能够有效的讲解，兴趣广泛，有较强的适应能力，学习能力以及动手能力。本科期间作为宣传委员，举办过羽毛球比赛，有过4次导购经历，曾担任过家教，硕士期间担任有机化学实验助教，及参加硕博学术论坛。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "家教",
+            "detail": "初中物理，",
+            "endDate": "2015-06",
+            "industry": "",
+            "position": "家教 (兼职)",
+            "startDate": "2015-03"
+        },
+        {
+            "company": "万达广场",
+            "detail": "共有4个寒暑假导购经历",
+            "endDate": "2012-09",
+            "industry": "",
+            "position": "导购人员 (兼职)",
+            "startDate": "2012-07"
+        }
+    ],
+    "workYears": 0.0
+}

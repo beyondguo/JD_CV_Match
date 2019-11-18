@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1994-01",
+        "currentCity": "厦门",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "上海罗氏制药有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药代表",
+    "currentSalary": " 18万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-06",
+            "major": "市场营销",
+            "school": "天津中医药",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州;厦门",
+        "industry": "医疗设备/器械",
+        "position": "医药销售代表",
+        "salary": "面议"
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "otherLangResumeId": "5adfc3cff0f0c1d5529701c1",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：实习生 \n - 所在公司：上海罗氏制药有限公司 \n - 项目简介： \n独立负责区域的药品推广，市场从0开始做，半年后业绩达到公司岗位最低生产力，成功转正。\n",
+            "endDate": "2017-07",
+            "name": "实习",
+            "startDate": "2016-07"
+        }
+    ],
+    "selfComm": "\n 是一个积极乐观的人，市场遇到问题主动寻找新的机会 \n",
+    "trainExp": " \n2015/9--至今 入职培训。 \n\n培训机构： 优衣库 \n培训地点： ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海罗氏制药有限公司",
+            "detail": "- 所在地区：南昌 \n - 汇报对象：地区经理 \n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2016-01"
+        },
+        {
+            "company": "上海罗氏制药有限公司",
+            "detail": "\n - 汇报对象：地区经理 \n - 下属人数：0人 \n - 职责业绩： \n平均季度指标75万，达成120。\n担任团队PACE先锋，获演讲技巧优胜奖。\n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 1.0
+}

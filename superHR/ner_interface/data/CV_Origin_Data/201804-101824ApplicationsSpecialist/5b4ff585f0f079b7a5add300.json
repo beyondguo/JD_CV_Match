@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1995-10",
+        "currentCity": " 厦门",
+        "currentSalary": "",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "uploads/talent_photo/1807/bb55b2584246327c03b248c2cb9c5bb1.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "深圳市新产业生物医学股份有限公司",
+    "currentPosition": "医疗器械维修人员",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2017-06",
+            "major": "医学检验",
+            "school": "福建卫生职业技术学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "graduateSchool": "福建卫生职业技术学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械&emsp;医疗/护理/卫生",
+        "position": "",
+        "salary": "4500-5999元/月",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "做事认真负责，积极向上，为人诚恳，乐观。有较好的沟通能力，和团队配合能力，思路清晰。在医院实习期间主动认真配合老师完成当天标本，对医院检验科仪器有初步了解，能进行一些日常的简单操作，好奇心强，乐于学习新的东西。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳市新产业生物医学股份有限公司",
+            "department": "国内技术服务部",
+            "detail": "负责公司投放给医院的仪器设备日常维护保养，解决故障，协助老师完成标本，维护与客户的关系，配合销售进行试剂的上量",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修人员",
+            "startDate": "2017-12"
+        },
+        {
+            "company": "福州市第二医院",
+            "department": "检验科",
+            "detail": "在福州市第二医院检验科实习，轮转过生化组，临床组，免疫组，门诊组，微生物组，pcr组。",
+            "endDate": "2017-07",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 2.0
+}

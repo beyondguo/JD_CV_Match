@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1996-01",
+        "cityOfBirth": "福建福州市",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "photoAddress": ""
+    },
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "莆田学院",
+            "endDate": "4000-10",
+            "major": "本科",
+            "school": "2014-09 至 2018-07",
+            "startDate": "医学检验技术"
+        },
+        {
+            "degree": "莆田学院",
+            "endDate": "4000-10",
+            "major": "本科",
+            "school": "2014-09 至 2018-06",
+            "startDate": "医学检验技术"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称未定级",
+    "graduateSchool": "2014-09 至 2018-07",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州市",
+        "position": "检验科",
+        "salary": "3000-3999",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b34ea94611cc6fcb244911e",
+    "proSkill": "英语四级 计算机一级",
+    "projectExp": [],
+    "selfComm": "自我评价：本人性格开朗，乐于助人，热爱集体。工作认真努力负责。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "2017-06 至今",
+            "department": "三明市第一医院",
+            "detail": "",
+            "endDate": "4000-10",
+            "position": "检验科",
+            "startDate": "实习生"
+        }
+    ]
+}

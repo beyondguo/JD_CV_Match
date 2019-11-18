@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1999-8-24",
+        "currentCity": "泉州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "中专",
+    "eduExp": [
+        {
+            "degree": "中专",
+            "detail": "",
+            "endDate": "2018-06",
+            "major": "交通运输",
+            "school": "福建经贸学校",
+            "startDate": "2016-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "泉州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "其他,其他",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5ba8e527f0f00da09297dbeb",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "个体店铺",
+            "detail": "肯学",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2017-09"
+        }
+    ],
+    "workYears": 1.0
+}

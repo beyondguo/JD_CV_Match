@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1979-12-8",
+        "currentCity": "西安-莲湖区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "西安",
+        "zipCode": "710000"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 3万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2001-07",
+            "major": "药学",
+            "school": "西安医学院",
+            "startDate": "1998-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "销售行政及商务,医药代表,医药销售经理/主管,医疗器械销售代表,医药招商",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5c32b6d0f0f096e7c8498647",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "43815960",
+    "projectExp": [],
+    "selfComm": "资深市场营销人员，单品种年销售额过四百万。在利君公司从事医药销售和市场工作达十年, 对市场营销, 渠道开发, 经销商管理，医院纯销工作有丰富的经验。",
+    "trainExp": " \n2007/8--2007/11 营销师 \n培训机构： 西北大学 \n培训地点： \n培训描述： 2008年2月取得国家二级营销师证书 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安利君制药有限责任公司",
+            "department": "销售公司",
+            "detail": "\n我主要负责陕西省内多贝斯（羟苯磺酸钙胶囊）产品的商务渠道建设及管理、医院药店终端开发和终端代表管理工作，年度完成销售回款在400万元以上。连续多年被评为利君优秀销售人员称号。我对陕西省内的终端网络包括otc药店网络和医院网络较为熟悉，拥有自己的医院药店网络资源。我希望有更大更好的平台能够让我一展身手，为您的企业添砖加瓦，作出应有的贡献！",
+            "endDate": "2014-03",
+            "industry": "制药/生物工程",
+            "position": "销售经理",
+            "scale": "500-1000人",
+            "startDate": "2001-07",
+            "type": "外资(非欧美)"
+        }
+    ],
+    "workYears": 18.0
+}

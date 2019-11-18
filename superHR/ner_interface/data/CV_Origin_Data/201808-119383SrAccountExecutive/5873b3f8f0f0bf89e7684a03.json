@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "阿斯利康制药有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药代表",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2013-07",
+            "major": "会计学",
+            "school": "西安培华学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "graduateSchool": "培华学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "医药销售代表",
+        "salary": "面议"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5873b3f8f0f0bf89e7684a03",
+    "proSkill": "",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "10-15万元/年",
+    "selfComm": "\n在工作中有较强抗压力，做事认真稳重，有较强的时间观念，执行力强，细心勤奋有责任心。领悟能力强，善于沟通,领会,发现,思考,想办法,找突破口来解除遇到的困难，保证工作质量。 \n在生活中性格开朗，自信热情，谦虚上进，积极进取，有一定的演讲和表达能力，具有极强的感染力。富于团队合作精神和集体荣誉感，善于沟通交际，具有良好的人际关系。\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阿斯利康制药有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：DSM \n - 下属人数：0人 \n - 职责业绩： \n工作业绩： \n连续全年达成在140%以上\n个人纯销量在整个大区30多家医院里排TOP前十。\n探寻，聆听，沟通，找生意点，推广策略分享指南，缔结产品特征利益转化，完善客户用药方案，做客情，探寻需求，关注点，谈项目。培养科室用药带头人，为产品影响力和声誉度及为生意量做好铺垫，提高科室里产品影响力。做城市会，开学术沙龙，提高客户地区影响力，培养产品学术的忠实者，和处方客户。一周一次的科会，培养科室处方习惯，扩大科室产品影响力，晚上夜访一线客情维护，了解科室最新消息及用药处方，培养忠实一线VIP处方枪手。\n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2013-06"
+        }
+    ],
+    "workYears": 5.0
+}

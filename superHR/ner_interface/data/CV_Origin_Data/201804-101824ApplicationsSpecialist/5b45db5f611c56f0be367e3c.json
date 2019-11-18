@@ -1,0 +1,46 @@
+{
+    "basic": {
+        "birthday": "1998-11-12",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2018-07",
+            "school": "福建师大二附中",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "兼职",
+        "industry": "生活服务,批发/零售,快速消费品(食品、饮料、化妆品),服装/纺织/皮革,家具/家电/玩具/礼品",
+        "position": "其他,其他",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "三盛地产",
+            "detail": "业绩良好",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2018-07"
+        }
+    ],
+    "workYears": 1.0
+}

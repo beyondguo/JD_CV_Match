@@ -1,0 +1,46 @@
+{
+    "basic": {
+        "birthday": "1986-3-1",
+        "currentCity": "上海",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "初中及以下",
+    "eduExp": [
+        {
+            "degree": "初中及以下",
+            "detail": "",
+            "endDate": "2008-03",
+            "major": "工程管理",
+            "school": "贵阳白云中学",
+            "startDate": "1992-03"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "无",
+        "position": "",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "家具安装",
+            "detail": "",
+            "endDate": "2017-05",
+            "position": "技工",
+            "startDate": "2005-05"
+        }
+    ],
+    "workYears": 1.0
+}

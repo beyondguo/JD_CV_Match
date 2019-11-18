@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1995-9-11",
+        "currentCity": "安庆",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/5b11774351de5c31053745a4f517f416.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "安庆",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 0.24万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n在校期间掌握临床检验基础、临床生化及检验、临床免疫及检验、临床血液及检验、临床微生物及检验、分子生物学及检验、临床输血及检验、核医学及检验、临床医学概论、临床实验室管理的基础知识。",
+            "endDate": "2019-06",
+            "major": "医学检验",
+            "school": "新疆医科大学",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 南京 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表,医疗器械销售经理/主管,医疗器械维修",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "otherLangResumeId": "5bcc8c92f0f01113758689fe",
+    "projectExp": [],
+    "selfComm": "1.本人有扎实的仪器使用基础 \n2.能独立完成生化分析仪 流式细胞仪 全血细胞分析仪等仪器的质控操控和保养 \n3.善于学习 不怕困难 \n4.有着良好的人际沟通能力 \n5.时间观念极强",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "新疆医科大学第四附属医院",
+            "department": "临床检验中心",
+            "detail": "目前是医院实习生，主要是在积累一定的经验与临床知识的同时帮助老师处理一些工作：\n1.进行各种仪器的日常质控，操作和保养。\n2.协助老师完成结果的审核。\n3.处理仪器使用过程中出现的一些问题。\n4.在仪器出现故障时与工程师取得联系并协助其完成故障的维修。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医学检验技术实习生",
+            "startDate": "2018-07"
+        }
+    ],
+    "workYears": 1.0
+}

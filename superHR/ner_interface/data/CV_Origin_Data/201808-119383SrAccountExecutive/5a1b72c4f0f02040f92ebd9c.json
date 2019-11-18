@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "声科（上海）医疗器械有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "4000-10",
+            "major": "工商管理",
+            "school": "西北大学",
+            "startDate": "2017-08"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2011-07",
+            "major": "英语",
+            "school": "西安翻译学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械;医疗/保健/美容/卫生服务;贸易/进出口",
+        "position": "销售经理/主管;区域销售经理/主管;大客户销售管理",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5a1b72c4f0f02040f92ebd9c",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "声科（上海）医疗器械有限公司",
+            "detail": "\n - 汇报对象：西北大区经理 \n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "销售经理",
+            "startDate": "2018-04"
+        },
+        {
+            "company": "广州金域医学检验中心有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n金域集团是一家全国连锁第三方独立实验室。本人主要负责西安市内20多家大中小型医院的检验产品推广工作，以检验科为主，近百种产品，主推遗传基因检测项目及普通筛查项目。在职期间，每年均超额完成销售任务， \n2013年被评为西安&ldquo;金域年度优秀员工&rdquo;，2016年被评为集团&ldquo;企业年度优秀员工&rdquo;。自接手市场以来，通过我的不懈努力，业绩成翻增长，在职期间，开发出陕西省第九医院，521医院，高新医院，陕西省人民医院产科，陕西省友谊医院，解放军451医院（公司协助），血液病研究所，安琪儿妇产医院，出入境检验检疫局等医院。市场产出从最初的接手的6万/月，增长到15年末的30万/月，并保持持续稳定增长。\n",
+            "endDate": "2018-04",
+            "position": "销售经理",
+            "startDate": "2013-03"
+        }
+    ],
+    "workYears": 8.0
+}

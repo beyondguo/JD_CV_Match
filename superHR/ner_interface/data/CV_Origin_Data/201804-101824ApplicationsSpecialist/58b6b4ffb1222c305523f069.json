@@ -1,0 +1,277 @@
+{
+    "basic": {
+        "address": "",
+        "birthday": "1984-10-16",
+        "bloodType": "",
+        "bwh": "",
+        "cityOfBirth": "",
+        "currentCity": "福州",
+        "ethnic": "",
+        "gender": "女",
+        "maritalStatus": "",
+        "mobileCountry": "中国",
+        "nationality": "",
+        "personalId": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "qq": "",
+        "registeredResidence": "福建省",
+        "stature": "",
+        "weight": "",
+        "zipCode": ""
+    },
+    "certificate": " \r\n2005/7 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentCompany": "捷迈（上海）医疗国际贸易有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售主管",
+    "currentSalary": "年薪30万元",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "主修课程：营养学，生物统计学，生物信息学，基因工程，分子生物学，微生物学",
+            "endDate": "2010-06",
+            "major": "分子生物学",
+            "school": "华南理工大学",
+            "startDate": "2007-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2007-06-01",
+            "major": "生物技术",
+            "school": "韶关大学",
+            "startDate": "2003-09-01"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441595.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "医疗器械（非IVD)",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441598.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "生命科学－科研",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441601.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441604.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441606.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441611.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441613.0,
+            "strValue": "广州",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "生物",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "8",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441616.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441618.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "广东省",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jun 16, 2017 4:57:21 PM",
+            "lastUpdated": 1497603441623.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "华南理工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": [
+            "福州"
+        ],
+        "contractTerm": "全职",
+        "industry": [
+            "制药/生物工程,医疗设备/器械"
+        ],
+        "position": [
+            "生物工程/生物制药"
+        ],
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑到岗时间：随时"
+    },
+    "langAbility": "粤语 精通 \r\n英语 熟练 \r\n\r\nMS Powerpoint 精通 ",
+    "otherLangResumeId": "58b6b4ffb1222c305523f069",
+    "proSkill": "粤语精通 英语熟练 MS Powerpoint精通",
+    "projectExp": [
+        {
+            "detail": "为基层华南区医院医生搭建与一流医院脊柱科医生学术学习的桥梁，8个月内完成近10场脊梁活动，促进学术发展的同时带来了区域生意大幅增长",
+            "endDate": "2013-12",
+            "name": "脊梁行动",
+            "responsibility": "",
+            "startDate": "2013-04"
+        },
+        {
+            "detail": "\n协调市场部，经销商，旅行社完成深圳地区最大规模颈椎路演活动，活动的规模近200人，从项目的构思，启动，前期准备到完成将近1个月时间。与会的知名专家来自北京上海广州和深圳，此次会议成功打开了强生脊柱品牌在深圳地区的影响力，树立了学术品牌，也大大促进生意的增长，一季度同比增长66%。",
+            "endDate": "2013-04",
+            "name": "深圳颈椎疾病高峰论坛",
+            "responsibility": "",
+            "startDate": "2013-03"
+        }
+    ],
+    "projectExpStr": "2017-2018：福建省高值耗材省标阳光采购系统产品以及价格录入工作完成。\r\n2017/6：福建医科大附属第一医院手术室3D机器人项目跟进，取得了阶段性成果。\r\n2015/4   ：福建省AOCC主办，会议参与人数647人，客户好评如潮，二季度销量增长21%。\r\n2014/5    ：北京协和医院脊柱科进修项目的参与，对内对外沟通，实现10名外院医生在北京协和医院的进修。\r\n2013 /3-4：颈椎疾病高峰论坛-深圳站\r\n协调市场部，经销商，旅行社完成深圳地区最大规模颈椎路演活动，活动的规模近100人，参与项目的构思，会前与客户、市场部以及经销商沟通，会中协调以及会后客户反馈跟进。与会的知名专家来自北京上海广州和深圳，此次会议成功打开了强生脊柱品牌在深圳地区的影响力，树立了学术品牌，也大大促进生意的增长，一季度同比增长66%。\r\n2013/9：德国Dr.Reinhardt China Road Show-东莞站\r\n担任教授和本地医生沟通的桥梁，负责会场和手术室的总体把握，通过此次会议，让当地医生更加了解强生的非融合产品和TLIF手术。为非融合产品在东莞建立了很好的品牌效应，对东莞东华医院，康华医院的开发有很大促进作用，两家医院生意翻番。\r\n2013/ 7-12&ldquo;脊梁行动&rdquo;区域路演项目：成功帮助团队同事策划8场在广州，惠州，贵州，南昌，汕头等地的路演，负责脊梁行动项目的构思，命名，目的，logo设计，内容设计等 ，该项目获得SPINE BU年度创新奖。",
+    "salaryRemark": "年薪30万元",
+    "selfComm": "自信，专业，亲和力强\r\n底薪 ：13.5*13\r\n销售奖金： 110k\r\n补助：交通 1.7k*12\r\n         话费 800 贴票\r\n",
+    "trainExp": "2013/6--2013/6 培训培训师 \r\n\r\n培训机构： 竞越 \r\n培训地点： \r\n2012/6--2012/6 ADINC \r\n\r\n培训机构： 强生骨科培训部 \r\n培训地点： \r\n2011/10--2011/10 大客户管理 \r\n\r\n培训机构： SILVERST NES \r\n培训地点： \r\n2010/12--2011/1 销售技巧及产品知识 \r\n\r\n培训机构： 上海勃林格殷格翰药业有限公司培训部 \r\n培训地点： 上海 \r\n\r\n培训描述： 1，7天内完成产品知识及销售技巧的实战演练。\r\n2，取得全国产品组考试第一（99分） \r\n2018/4                                       演讲技巧\r\n2016/11                                    高效能人士的7个习惯\r\n2015/7                                      沟通技巧及影响力\r\n2014/8                                       谈判技巧",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西门子医疗系统有限公司",
+            "department": "影像设备",
+            "detail": "负责福州影像设备销售，包括福州市所有私立医院和台江区三甲公立医院影像设备销售。\r\n一个月内完成福州所有民营医院影像设备摸底，以及迅速获得公立医院骨科拍片DR设备项目机会，以及协助完成省人民医院血管机验收工作。",
+            "endDate": "2017-10-01",
+            "industry": "医疗设备/器械",
+            "position": "客户经理",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2017-04"
+        },
+        {
+            "company": "强生医疗器材有限公司",
+            "department": "骨科创伤",
+            "detail": "DePuySynthesTrauma                        SPSR\r\n负责福建省骨科创伤业务，指标2700万，管理两家大经销商，业务全省覆盖。top10医院主要分布福州，漳州，厦门，宁德，泉州，莆田。全国50家权重医院占两家，增长25%，高增长医院13家，5%增长，利用全国AO平台建立了全省创伤AOCC委员会，与KOL建立良好的合作关系，熟悉全省骨科市场。\r\nDePuySynthes Spine\tSPSR\r\n1，负责广州中山一，二，三院，南医三院，深圳，东莞地区三甲医院骨科脊柱内固定产品销售，全年指标900万，YTD145%的完成，获得强生医疗器材有限公司2013年度Top Sales。\r\n2，管理7家经销商，独立开发三家经销商分别负责深圳，东莞部分市场。负责督促销售，销售数据上传管理，人员产品培训，库存备货。\r\n3，KOL国内国外会议陪同经历，与KOL维持稳固的客户关系。\r\n4，学术大会申办经验20余次。",
+            "endDate": "2017-02",
+            "industry": "医疗设备/器械",
+            "position": "高级医疗器械销售代表",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2011-11-01"
+        },
+        {
+            "company": "上海勃林格殷格翰药业有限公司",
+            "department": "销售",
+            "detail": "1，负责广东省人民医院与广州市文明微创的骨科镇痛药莫比可针剂的推广，主要针对外科住院部，包括日常拜访上至主任下至进修医生，科内会举办，产品介绍，做客情。季度平均完成率115％。\r\n2，独立开发成功5个外科科室，客户数达到100人，独立将产品开发零购进省医东病区。\r\n3，成功组织过大型莫比可产品广州城市会。",
+            "endDate": "2011-11",
+            "industry": "制药/生物工程",
+            "position": "医药代表",
+            "reasonsLeaving": "",
+            "salary": "",
+            "startDate": "2010-07"
+        }
+    ],
+    "workYears": 8.0
+}

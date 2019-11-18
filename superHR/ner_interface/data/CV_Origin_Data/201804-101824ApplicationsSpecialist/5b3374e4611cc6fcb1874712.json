@@ -1,0 +1,63 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "福州",
+        "gender": " 男 ",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "卡尔史托斯内窥镜(上海)有限公司 ",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": " 技术服务工程师 ",
+    "currentSalary": "11.20万（8000元/月 * 14个月）",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-06",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州;天津-河东区;天津-河西区",
+        "industry": "医疗设备/器械",
+        "position": "售后支持工程师",
+        "salary": "12.75万（8500元/月 * 15个月）",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "普通话",
+    "otherLangResumeId": "5b3374e4611cc6fcb1874712",
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "卡尔史托斯内窥镜(上海)有限公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t维修受理，设备按照，客户培训;\nTroubleshooting;\n专家会议支持，手术跟台;\n客户拜访，设备保养;\n客户建档;",
+            "endDate": "2018-05",
+            "position": "技术服务工程师",
+            "startDate": "2017-10"
+        },
+        {
+            "company": "西门子医学诊断产品(上海)有限公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t新装机客户培训及使用指导;\nTroubleshooting;\n用户资料信息收集整理;\n使用耗材指导管理，设备日常维护;\n召开客户会议，与客户沟通使用心得及新产品应用，维持客户关系;",
+            "endDate": "2017-10",
+            "position": "客户应用专员",
+            "startDate": "2017-03"
+        },
+        {
+            "company": "福州合创行贸易有限公司",
+            "detail": "职责业绩：\n\t\t\t\t\t\t\t\t\t新客户培训，耗材指导;\nTroubleshooting;\n定期客户拜访，维护设备;\n客户资料信息收集;\n会议支持，配合客户进行相应评估支持工作;\n与工程师配合，协同处理设备问题;",
+            "endDate": "2017-02",
+            "position": "技术支持",
+            "startDate": "2012-06"
+        }
+    ],
+    "workYears": 1.0
+}

@@ -1,0 +1,225 @@
+{
+    "basic": {
+        "birthday": "1981-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "贝克曼库尔特商贸(中国)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "临床应用专员",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2007-07",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2002-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "5",
+                "enumValue": "老数据待补",
+                "id": "4",
+                "isDefault": false,
+                "orderIndex": 4.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700401.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "10",
+                    "enumValue": "老数据待补",
+                    "id": "9",
+                    "isDefault": false,
+                    "orderIndex": 9.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700407.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700411.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700414.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700418.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700424.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700427.0,
+            "strValue": "西安",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "8",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700430.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700433.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Aug 3, 2017 1:55:00 PM",
+            "lastUpdated": 1501739700438.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "陕西中医药大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "医药学检验;医疗技术人员",
+        "salary": "19.50万（15000元/月 * 13个月）"
+    },
+    "langAbility": "\n英语、普通话\n",
+    "otherLangResumeId": "58fec75af0f0847a4d225c9e",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "\n 工作踏实稳重，高度责任感，精益求精。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "贝克曼库尔特商贸(中国)有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：LSS -S \n - 下属人数：0人 \n - 职责业绩： \n主要负责产品免疫和生化产品的新装机培训，性能验证，使用过程中的应用问题处理，新项目的推广，售前支持，科室ISO 方面提升等\n",
+            "endDate": "4000-10",
+            "position": "临床应用专员",
+            "startDate": "2017-06"
+        },
+        {
+            "company": "陕西迅达体外诊断试剂有限责任公司",
+            "detail": "\n - 汇报对象：市场部经理 \n - 下属人数：0人 \n - 职责业绩： \n主要负责贝克曼发光，沃芬血凝的应用工作。包括售前支持，新装机培训，使用过程中的应用问题处理，性能验证。负责沃文特粪便分析仪的市场工作以及应用工作。\n",
+            "endDate": "2017-05",
+            "position": "应用工程师",
+            "startDate": "2015-03"
+        },
+        {
+            "company": "武警陕西总队医院",
+            "detail": "- 所在地区：西安 \n - 下属人数：1人 \n - 职责业绩： \n\n负责检验科临检室标本审核、血图片的制作与筛查。血球，凝血各自的比对和性能验证。室内质控和室间质评的监测。每个仪器的SOP制作。负责的仪器有希森美康血球，迈瑞血球流水线；希森美康尿沉渣，STAGO与沃芬血凝；赛科希德血流变等\n",
+            "endDate": "2015-02",
+            "position": "主管检验技师",
+            "startDate": "2007-09"
+        }
+    ],
+    "workYears": 11.0
+}

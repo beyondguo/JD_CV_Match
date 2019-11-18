@@ -1,0 +1,39 @@
+{
+    "basic": {
+        "birthday": "1998-2-13",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2019-07",
+            "major": "动物科学",
+            "school": "福建农业职业技术学院",
+            "startDate": "2016-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "快速消费品(食品、饮料、化妆品),影视/媒体/艺术/文化传播,餐饮业,酒店/旅游,娱乐/休闲/体育",
+        "position": "其他,实习生",
+        "salary": "2000-2999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "otherLangResumeId": "5b853ebaf0f05e135a70ee92",
+    "projectExp": [],
+    "selfComm": "虽然说能力等方面并不全面，我会加油的\n校内职务 \n2016/9-至今 班干 \n2016/9-至今 学生会会员 ",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

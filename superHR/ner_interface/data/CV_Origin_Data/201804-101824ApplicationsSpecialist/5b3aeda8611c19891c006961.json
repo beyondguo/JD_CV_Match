@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1994-12-13",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=377070726&amp;key=7dd1619001b58a4b266de20a63073c60",
+        "politicalStatus": "",
+        "registeredResidence": "宁德",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-12",
+            "major": "国航",
+            "school": "厦门海洋学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "专业服务(咨询、人力资源、财会)",
+        "position": "大客户销售,销售代表,猎头/人才中介,网店/淘宝运营,人力资源,猎头/人才中介",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2015/10-2016/6 艺术团主持组 \n\n职务描述： 有独立主持过学校的表演展示晚会。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "君道人力资源有限公司",
+            "department": "市场部",
+            "detail": "利用专门的渠道去开发客户，主要是和人事以及老板打交道，打电话咨询公司是否需要招聘人员。我们提供招聘的服务，花更少的钱 ，拥有更多的招聘渠道。 渠道开发客户 \n电销 跟进维护客户 面访拜访的经验我都有。 由于公司自身平台问题，成单率非常低 \n而且抽成也很低。薪资这一块一直不满意，最后决定离职重新找工作。这是我的第一份工作 \n，如果不是因为自己自身的经济情况，我会一直坚持下去，但是几个月下来房租都快交不起了。 我对自己的学习能力，很有自由。经常收到领导组长的表扬，说我学的快 \n应变能力，语言组织能力都很厉害。",
+            "endDate": "2018-06",
+            "industry": "专业服务(咨询、人力资源、财会)",
+            "position": "猎头/人才中介",
+            "startDate": "2018-02"
+        }
+    ],
+    "workYears": 1.0
+}

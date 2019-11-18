@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1984-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "瀚晖制药有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "区域推广经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2009-09",
+            "major": "英语",
+            "school": "空军工程大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "瀚晖制药有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：大区经理 \n - 下属人数：0人 \n - 职责业绩： \n负责福建，江西，两湖，西北九个省份的乳腺，泌尿，淋巴领域并搭建学术平台与重点专家建立良好的合作关系，通过数据分析及随访诊断区域问题给予大区经理地区经理专业化建议，策划大区战略发展方向及产品并付之实施！\n",
+            "endDate": "4000-10",
+            "position": "区域推广经理",
+            "startDate": "2016-12"
+        },
+        {
+            "company": "瀚晖制药有限公司",
+            "detail": "\n - 汇报对象：地区经理 \n - 下属人数：0人 \n - 职责业绩： \n负责咸阳肿瘤产品，唐都医院，西京医院，交大二附院，省人民医院血液产品艾诺宁，克拉屈滨，连续16个季度超额达成指标，开发西京，唐都，交大二血液产品。\n",
+            "endDate": "2016-11",
+            "position": "资深医学信息专员",
+            "startDate": "2012-09"
+        },
+        {
+            "company": "山木英语",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责小学英语课程培训的，获得最佳培训老师称号\n",
+            "endDate": "2012-08",
+            "position": "英语培训老师",
+            "startDate": "2009-09"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1992-12-30",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/e73ca7b4d4f20a7f39b212d043c3b741.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "渭南",
+        "zipCode": "710038"
+    },
+    "certificate": "\n2017.06 数控铣工（高级工） \n2016.01 铣工（中级工） \n2016.06 数控车工（中级工） ",
+    "confidentialResume": "N",
+    "currentSalary": " 5万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "机械制造与自动化",
+            "school": "陕西工业职业技术学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 北京 ",
+        "contractTerm": "全职",
+        "industry": "机械/设备/重工,航天/航空,医疗设备/器械,通信/电信/网络设备,教育/培训/院校",
+        "position": "销售人员,工程/设备工程师,人力资源,销售、技术人员",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": "\n英语：  读写能力一般| 听说能力一般 ",
+    "proSkill": "\n铣工一般 ",
+    "projectExp": [],
+    "selfComm": "1.政治面貌：中共党员\n2.获得荣誉：\n国家励志奖学金\n优秀团干\n优秀团员\n三好学生标兵\n三好学生\n3.学校任职：\n院宣传部副部长\n系组织副部长（兼系团总支副书记）\n班长\n做事认真负责，有很强的责任心和团队协作能力",
+    "trainExp": "2016-07-2016-08 数控铣工技能培训\n培训机构：陕西工业职业技术学院工程技术训练中心\n\n2016-01-2016-03 数控车工技能培训\n培训机构：陕西工业职业技术学院工程技术训练中心\n\n2015-07-2015-08 铣工技能培训\n培训机构：陕西工业职业技术学院工程技术训练中心\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安铁路交通学校",
+            "department": "学生处",
+            "detail": "负责学生考勤、资助等学生事务，解决学生矛盾",
+            "endDate": "4000-10",
+            "industry": "教育/培训/院校",
+            "position": "辅导员",
+            "scale": "150-500人",
+            "startDate": "2017-08",
+            "type": "非营利组织"
+        },
+        {
+            "company": "西安铁路交通学校",
+            "department": "教务处",
+            "detail": "1.机械基础、机械制造基础、铁道概论、电力电子技术带课教师\n2.兼辅导员",
+            "endDate": "4000-10",
+            "industry": "教育/培训/院校",
+            "position": "职业技术教师",
+            "scale": "150-500人",
+            "startDate": "2017-08",
+            "type": "民营公司"
+        },
+        {
+            "company": "清华大学",
+            "department": "基础工业训练中心",
+            "detail": "协助实验室教师指导学生金工实习，科研加工",
+            "endDate": "2017-07",
+            "industry": "教育/培训/院校",
+            "position": "实训指导教师",
+            "scale": "500-1000人",
+            "startDate": "2016-10",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 3.0
+}

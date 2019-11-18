@@ -1,0 +1,93 @@
+{
+    "basic": {
+        "birthday": "1985-11-24",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=364423209&amp;key=5c8413aa726c60be871f92aee443eba7",
+        "politicalStatus": "",
+        "registeredResidence": "南平",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2014-07",
+            "major": "土木工程",
+            "school": "中国地质大学远程与继续教育学院",
+            "startDate": "2012-03"
+        },
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "楼宇智能化工程技术",
+            "school": "江西现代职业技术学院",
+            "startDate": "2003-07"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "机械/设备/重工,仪器仪表/工业自动化,通信/电信/网络设备,医疗设备/器械,电气/电力/水利",
+        "position": "销售工程师,大客户销售代表",
+        "salary": "8-10万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": " \n\n有驾照 熟练 ",
+    "projectExp": [],
+    "selfComm": "踏实，肯干，有干劲，有不服输的精神。良好的团队精神。本人有驾照和小车，做业务方便。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "特灵空调系统（中国）有限公司",
+            "department": "销售部",
+            "detail": "负责福州及闽北区域特灵空调末端产品的销售工作",
+            "endDate": "2018-06",
+            "industry": "机械/设备/重工",
+            "position": "销售工程师",
+            "scale": "500-1000人",
+            "startDate": "2018-01",
+            "type": "上市公司"
+        },
+        {
+            "company": "约克（中国）商贸有限公司",
+            "department": "销售部",
+            "detail": "负责公司闽北区域中央空调系统的售后服务销售工作\n负责空调设备、自控系统等售后服务业务，拓展机房相关的智能化、节能降耗、更新改造等业务范围，完成业绩指标。",
+            "endDate": "2017-11",
+            "industry": "机械/设备/重工",
+            "position": "服务销售工程师",
+            "scale": "150-500人",
+            "startDate": "2013-07",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "大金空调技术（广州）有限公司",
+            "department": "业务部",
+            "detail": "负责大金空调福州区域的售后服务销售工作，大修业务的开发，维保客户的",
+            "endDate": "2013-07",
+            "industry": "机械/设备/重工",
+            "position": "服务销售工程师",
+            "scale": "500-1000人",
+            "startDate": "2010-01",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "广东吉荣空调有限公司",
+            "department": "服务部",
+            "detail": "负责公司中央空调产品在福州地区的售后服务工作，安装，调试，维修，保养，验收。",
+            "endDate": "2009-12",
+            "industry": "机械/设备/重工",
+            "position": "售后工程师",
+            "scale": "500-1000人",
+            "startDate": "2006-10",
+            "type": "合资"
+        }
+    ],
+    "workYears": 12.0
+}

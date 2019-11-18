@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1995-05",
+        "currentCity": " 福建省",
+        "currentSalary": "",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "uploads/talent_photo/1807/4b1a7c283a44480d0e1d40eb00917df9.jpg",
+        "politicalStatus": "共青团员",
+        "zipCode": ""
+    },
+    "certificate": "2015/12  大学英语六级",
+    "confidentialResume": "N",
+    "currentCompany": "上海市肺科医院",
+    "currentPosition": "医药学检验",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2018-07",
+            "major": "医学检验",
+            "school": "重庆医科大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "graduateSchool": "重庆医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "4500-5999元/月",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "MS Excel熟练 英语熟练",
+    "projectExp": [
+        {
+            "detail": "\n项目描述：此比赛主要是通过销售主办方提供的物品（高于成本价），以此来锻炼参赛者口才、丰富同学们校园文化生活的一场趣味赛。\n责任描述：本人参与Super Sales销售技能大赛的策划（策划书的撰写与修改）、活动安排（如活动报名，人手安排，物品的准备等）及比赛结果的统计与宣布。",
+            "endDate": "2015-05",
+            "name": "Super Sales销售技能大赛",
+            "startDate": "2015-05"
+        }
+    ],
+    "salaryRemark": "",
+    "selfComm": "性格热情开朗，学习能力强，有一定的沟通交流能力与组织能力，具有团队协作友爱精神，熟悉检验流程与一起运作，熟练运用office相关软件。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海市肺科医院",
+            "department": "检验科",
+            "detail": "于上海市肺科医院实习期间参与检验科各个科室轮转，系统地学习检验科的检验流程与仪器运作，熟练掌握各个检测流程与仪器运作。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生|事业单位",
+            "position": "医药学检验",
+            "startDate": "2017-07"
+        }
+    ],
+    "workYears": 0.0
+}

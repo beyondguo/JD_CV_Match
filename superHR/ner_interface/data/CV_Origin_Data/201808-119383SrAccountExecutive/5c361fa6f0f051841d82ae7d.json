@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1988-2-2",
+        "currentCity": "西安-莲湖区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "陕西省",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "生物技术专业主要学习课程包括《免疫学》《生物化学》《分子生物学》《动物学》&hellip;&hellip;",
+            "endDate": "2011-07",
+            "major": "生物科学，技术",
+            "school": "西北大学",
+            "startDate": "2008-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售代表,销售经理",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "南京诺唯赞医疗科技有限公司",
+            "department": "营销中心",
+            "detail": "1.负责西安及周边区域内产品销售任务的完成，制定可执行性的销售计划，并成功实施；\n2.建立和维护客户关系关系；给予客户优质的服务和应用支持；\n3.及时建立健全客户档案，与客户保持长期良好的合作关系；\n4.分析和反馈当地的客户和市场上竞争对手的信息；\n5.准确按时的提交各项报表，认真参加公司相关培训和会议。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "150-500人",
+            "startDate": "2017-08",
+            "type": "创业公司"
+        }
+    ],
+    "workYears": 8.0
+}

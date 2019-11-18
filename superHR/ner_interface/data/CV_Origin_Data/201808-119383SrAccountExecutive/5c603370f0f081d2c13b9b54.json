@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1996-9-26",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 4万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "机械制造工艺与设备",
+            "school": "陕西国防工业技术学院",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "电子技术/半导体/集成电路",
+        "position": "测试员,测试员",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "比亚迪股份有限公司",
+            "department": "品质",
+            "detail": "比亚迪新产品的测试与维修",
+            "endDate": "4000-10",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "测试员",
+            "startDate": "2017-08"
+        }
+    ],
+    "workYears": 3.0
+}

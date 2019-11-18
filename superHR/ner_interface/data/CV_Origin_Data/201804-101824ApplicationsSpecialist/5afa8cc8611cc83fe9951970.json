@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1998-6-8",
+        "currentCity": "厦门",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "上饶",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "",
+            "endDate": "2016-09",
+            "school": "鄱阳中学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "无",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 2.0
+}

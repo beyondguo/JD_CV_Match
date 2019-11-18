@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "平凉",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "阿斯利康(无锡)贸易有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医药代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "市场营销",
+            "school": "河西学院",
+            "startDate": "2012-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "兰州;平凉;西安",
+        "industry": "制药/生物工程;医疗设备/器械",
+        "position": "医药销售代表",
+        "salary": "12.00万（10000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n 本人性格开朗、稳重、阳光、有活力，待人热情、真诚。工作认真负责，积极主动。有较强的组织能力、实际动手能力和团体协作精神，能迅速的适应各种环境，并融合其中。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阿斯利康(无锡)贸易有限公司",
+            "detail": "- 所在地区：兰州 \n - 汇报对象：DSM \n - 下属人数：0人 \n - 职责业绩： \n负责甘肃省庆阳市（环县，庆城县，合水县，华池县，宁县，正宁县）阿斯利康全线产品业务。主要覆盖心内科，呼吸科，儿科，肿瘤等科室。\n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2017-08"
+        },
+        {
+            "company": "九州通医药集团股份有限公司",
+            "detail": "\n - 汇报对象：部门经理 \n - 下属人数：0人 \n - 职责业绩： \n以&ldquo;小天鹅&rdquo;招入，在集团培训。新疆公司轮岗学习商业公司业务模式，之后去奎屯公司负责克拉玛依医院业务，开拓新市场。集团参加医院业务系统培训。 \n(内部转岗兰州)负责西固区人民医院，西固区中医院，甘肃省中医院业务及红固、永登、榆中等基层医疗市场。\n",
+            "endDate": "2017-09",
+            "position": "经理",
+            "startDate": "2016-06"
+        }
+    ],
+    "workYears": 2.0
+}

@@ -1,0 +1,195 @@
+{
+    "basic": {
+        "birthday": "1992-01",
+        "currentCity": "杭州-西湖区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "依图医疗",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "产品经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "医学检验",
+            "school": "中南大学湘雅医学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676075.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "4",
+                    "enumValue": "IVD(独立实验室）",
+                    "id": "3",
+                    "isDefault": false,
+                    "orderIndex": 3.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676078.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676081.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676083.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676086.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676091.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Meg Zou"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676093.0,
+            "strValue": "Chengdu",
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676097.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "四川省",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "May 18, 2018 5:27:56 PM",
+            "lastUpdated": 1526635676102.0,
+            "userName": "Meg Zou"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "杭州;上海",
+        "industry": "制药/生物工程;医疗设备/器械",
+        "position": "市场专员/助理;产品经理/主管",
+        "salary": "30.00万（20000元/月 * 15个月）"
+    },
+    "otherLangResumeId": "5ac58242f0f0d272770cca9f",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "依图医疗",
+            "detail": "- 所在地区：杭州-西湖区 \n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "产品经理",
+            "startDate": "2018-06"
+        },
+        {
+            "company": "成都艾迪康医学检测实验室有限公司",
+            "detail": "- 所在地区：成都 \n - 职责业绩： \n在成都市场部做了一年市场产品专员，因为较好的工作能力和不错的工作成绩，升职为特检销售主管。\n",
+            "endDate": "4000-10",
+            "position": "特检推广主管",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 2.0
+}

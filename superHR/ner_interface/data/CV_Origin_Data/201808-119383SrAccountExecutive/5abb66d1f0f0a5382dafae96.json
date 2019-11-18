@@ -1,0 +1,66 @@
+{
+    "basic": {
+        "birthday": "1998-6-1",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "北京诺禾致源科技股份有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "大区经理",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2016-06",
+            "major": "微生物学",
+            "school": "华侨大学",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗/护理/卫生,医疗设备/器械,学术/科研",
+        "position": "销售代表,销售工程师,售前/售后技术支持经理,销售经理,销售经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间："
+    },
+    "otherLangResumeId": "5abb66d1f0f0a5382dafae96",
+    "projectExp": [
+        {
+            "detail": "此项目是西京医院某科室承担的国家重点专项，主要采用单细胞测序平台来检测基因表达情况。项目金额50万",
+            "endDate": "4000-10",
+            "name": "西京医院单细胞测序项目",
+            "responsibility": "此项目也是本人一手跟进签订以及维护客户关系，客户关系较好。",
+            "startDate": "2018-03"
+        },
+        {
+            "detail": "本项目属于西京医院某科室与诺禾致源合作项目，是西京医院某科室承担的973项目",
+            "endDate": "2017-09",
+            "name": "西京医院250例样本基因组测序",
+            "responsibility": "此项目总金额60万，本人自己从客户挖掘，意向跟进以及合同签订都是本人一手执行。项目交付客户很满意，客户关系维护良好",
+            "startDate": "2017-06"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京诺禾致源科技股份有限公司",
+            "detail": "负责西北以及河南区域的医口市场，主要如四医大系统，西安交大系统，郑州大学系统，兰州大学系统等的高通量测序服务，主要是协助一线销售解决各种售前和售后的问题",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "区域销售经理",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 2.0
+}

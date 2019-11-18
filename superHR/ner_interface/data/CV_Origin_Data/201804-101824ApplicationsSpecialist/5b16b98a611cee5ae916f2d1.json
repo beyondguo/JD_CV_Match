@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1995-1-4",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 19万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "制药工程",
+            "school": "河北化工医药职业技术学院",
+            "startDate": "2013-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "",
+        "salary": "8000-9999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "projectExp": [],
+    "selfComm": "可以同专家建立友好合作的关系，能及时准确的向专家传递相关信息。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "石药集团抗肿瘤事业部",
+            "department": "招商代表",
+            "detail": "负责区域招商、大客户维护完成购销任务。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "startDate": "2015-12"
+        }
+    ],
+    "workYears": 3.0
+}

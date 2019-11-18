@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "美敦力(上海)管理有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "技术销售代表",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2016-06",
+            "major": "药事管理与临床药学",
+            "school": "西安交大",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2013-06",
+            "major": "制药工程",
+            "school": "西安交大",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表;医疗器械市场推广;招投标管理",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 具有一定工作经验，对医疗行业有所了解。曾负责过较大区域，跨区域管理能力较强。自我管理能力和学习能力强，可很快适应新的工作领域和环境 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "美敦力(上海)管理有限公司",
+            "detail": "\n - 汇报对象：地区经理 \n - 下属人数：0人 \n - 职责业绩： \n目前负责西北五省多条产品线设备、耗材的销售工作，主要为新产品、新医院的开发\n",
+            "endDate": "4000-10",
+            "position": "技术销售代表",
+            "startDate": "2018-07"
+        },
+        {
+            "company": "强生(上海)医疗器材有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：地区经理 \n - 下属人数：0人 \n - 职责业绩： \n负责陕西甘肃青海三省的耗材销售工作，两年内均超额完成指标\n",
+            "endDate": "2018-07",
+            "position": "高级产品技术专员",
+            "startDate": "2016-07"
+        }
+    ],
+    "workYears": 2.0
+}

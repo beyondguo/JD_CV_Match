@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1996-05",
+        "currentCity": "福建 福州-福清",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/7/10/416327fe-1bea-4ea4-a074-8999c9e9f6f9.jpg",
+        "registeredResidence": "福建-福州"
+    },
+    "certificate": "英语四级",
+    "confidentialResume": "N",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2018-06",
+            "major": "其他",
+            "school": "成都中医药大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称未定级\n发表论文：同型半胱氨酸和超敏C反应蛋白和冠心病相关性分析",
+    "graduateSchool": "2015-09 至今",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州、厦门",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/美容/保健/卫生服务、学术/科研",
+        "position": "化验/检验科医师、",
+        "salary": "2001-4000元/月",
+        "state": "应届毕业生"
+    },
+    "langAbility": "英语： 读写能力&nbsp;一般| 听说能力&nbsp;一般",
+    "otherLangResumeId": "5b12bb46611c47ba274a8be2",
+    "proSkill": "临床基础检验，临床生物化学检验，临床免疫学检验，微生物检验，寄生虫学检验，临床血液学检验。",
+    "projectExp": [],
+    "selfComm": "善于思考总结有良好的学习能力，工作认真负责。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中南置地",
+            "department": "",
+            "detail": "\n发掘邀约意向客户\n",
+            "endDate": "2018-04",
+            "industry": "房地产/建筑/建材/工程",
+            "position": "兼职电话销售",
+            "scale": "",
+            "startDate": "2018-04",
+            "type": ""
+        },
+        {
+            "company": "深圳华侨城医院",
+            "department": "",
+            "detail": "\n轮转各科室检验，夜班等\n",
+            "endDate": "2018-03",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "检验科实习生",
+            "scale": "",
+            "startDate": "2017-05",
+            "type": ""
+        }
+    ]
+}

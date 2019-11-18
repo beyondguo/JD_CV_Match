@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "福州-仓山区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "中交",
+    "currentIndustry": "交通/物流/运输",
+    "currentPosition": "轮机",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2010-07",
+            "major": "轮机工程",
+            "school": "集美大学",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州-仓山区",
+        "industry": "交通/物流/运输",
+        "position": "其他",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中交上航局航道建设有限公司",
+            "detail": "- 所在地区：合肥 \n - 下属人数：0人 \n",
+            "endDate": "2018-07",
+            "position": "轮机",
+            "startDate": "2010-07"
+        }
+    ],
+    "workYears": 9.0
+}

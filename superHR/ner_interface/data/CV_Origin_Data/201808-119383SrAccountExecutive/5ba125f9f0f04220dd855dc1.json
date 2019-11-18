@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1981-11-18",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "史帝瑞(上海)贸易有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "高级客户经理",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2005-07",
+            "major": "临床医学与医学技术",
+            "school": "陕西中医药大学",
+            "startDate": "2002-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表,医疗器械销售",
+        "salary": "2万以下 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5ba125f9f0f04220dd855dc1",
+    "projectExp": [
+        {
+            "detail": "\n该院是西北地区乃至全国排名前5位的医院，总计手术室40间，一体化手术室2间，2017年顺利中标此项目，主要负责该项目技术，图纸，院内的讲产品，使用科室等基础工作。",
+            "endDate": "4000-10",
+            "name": "兰州军区总医院，西京医院",
+            "responsibility": "招标前的外科产品的参数制定，使用科室产品教育，代理商相关合作方针的跟进等工作。",
+            "startDate": "2013-10"
+        }
+    ],
+    "selfComm": "积极进取，善于思考，勤奋向上，认真完成公司交代的任务。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "史帝瑞（上海）贸易有限公司",
+            "department": "销售部",
+            "detail": "产品：全自动清洗机，高温高压灭菌器，低温过氧化氢灭菌器，手术灯，手术床。\n科室：消毒供应科，手术室\n区域： 陕西，甘肃，宁夏，青海，新疆\n独立开发医院：西京医院，交大第一附属医院，西安市红会医院，兰州军区总院，解放军第一医院，新疆空军医院，银川市口腔医院。\n接手时为空白市场开发，维护大客户关系，完成公司各项绩效考核指标，独立做各级客户拜访；\n指导临床护士使用，并及时解决护士在临床上所遇到的问题；\n管理经销商在医院开展各种工作，提升医院的使用量，扩大公司的业务领域，树立公司的专业形象；\n业绩：销售代表期间完成率120-130%，增长40%\nFY2016.2017获得年度销售明星。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "客户经理",
+            "scale": "外资(欧美)",
+            "startDate": "2013-10"
+        }
+    ],
+    "workYears": 13.0
+}

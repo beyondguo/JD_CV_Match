@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1991-12",
+        "currentCity": " 福州-鼓楼区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福州农康医疗器械有限公司",
+    "currentPosition": "售前/售后技术支持工程师",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2015-06",
+            "major": "生物医学工程",
+            "school": "福建师范大学闽南科技学院",
+            "startDate": "2011-09"
+        }
+    ],
+    "graduateSchool": "福建师范大学闽南科技学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "",
+        "salary": "8-10万元/年",
+        "state": "观望有好机会会考虑\n到岗时间："
+    },
+    "otherLangResumeId": null,
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州农康医疗器械有限公司",
+            "department": "市场部",
+            "detail": "1.给客户提供代理产品技术支持，产品包括美国BD公司微生物诊断产品-血培养仪和细菌鉴定药敏分析仪;深圳迈瑞生物医疗电子股份有限公司检验产品-全自动血细胞分析仪和全自动生化分析仪，内容包括仪器理论培，实践操作培训，让客户更好的使用产品\n\n2.解决客户在实际工作中遇到的问题，给客户更好的体验，维护好客户关系，提升客户对产品的认可，促进二次销售。\n\n3.定期收集客户资料，巩固老客户，挖掘新客户。\n\n4.协助销售人员推广公司产品，定期给销售人员以及代理商以ppt形式培训所代理产品知识，提高销售专业技能，更好的完成公司制定销售目标。\n\n\n5.参与仪器招标过程中的院内议价环节，给院方领导介绍产品，介绍仪器卖点以及和竞争对手相比的优势分析。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "少于50人",
+            "startDate": "2016-09"
+        }
+    ],
+    "workYears": 3.0
+}

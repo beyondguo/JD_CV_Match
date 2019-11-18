@@ -1,0 +1,217 @@
+{
+    "basic": {
+        "birthday": "1971-01",
+        "currentCity": "乌鲁木齐-乌县",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "雅培贸易(上海)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "大区销售经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "1997-07",
+            "major": "临床医学",
+            "school": "新疆石河子医学院",
+            "startDate": "1994-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895112.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895114.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "床旁",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895116.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895119.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895121.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895127.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Wang Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895132.0,
+            "strValue": "成都/ 西安/ 乌鲁木齐",
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895137.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "四川省",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "31",
+                    "enumValue": "新疆维吾尔自治区",
+                    "id": "30",
+                    "isDefault": false,
+                    "orderIndex": 30.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "Nov 5, 2018 10:11:35 AM",
+            "lastUpdated": 1541383895144.0,
+            "userName": "Wang Wen"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "成都;西安;乌鲁木齐-乌县",
+        "industry": "医疗设备/器械",
+        "position": "区域销售总监",
+        "salary": "面议"
+    },
+    "otherLangResumeId": null,
+    "projectExp": [],
+    "selfComm": "\n 性格开朗，为人诚实正直，积极乐观，善于与人沟通，对工作认真负责，敢于挑战自我。有较强的组织，管理能力，重视团队合作 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "雅培贸易(上海)有限公司",
+            "detail": "- 所在地区：乌鲁木齐-乌县 \n - 汇报对象：大中华区总经理 \n - 下属人数：6人 \n - 职责业绩： \n工作职责\n负责产品： 雅培POCT仪器及耗材的销售\n负责区域： 四川，重庆，云南，贵州，西藏，新疆，陕西，甘肃，宁夏，青海。\n针对科室： 检验科及各临床科室\n日常工作:\n 1. 与总经理配合，参与公司业务策略的制定。\n 2. 与市场部，商务部，合规部合作制定负责大区的业务方案并负责执行。\n 3. 与市场部合作制定负责大区的VIP客户维护，市场推广方向及具体计划，负责执行。\n 4. 每初月和每个季度初期与自己的销售团队售后团队，和代理商团队进行业务回顾，共同制定下一步行动计划。\n销售团队和经销商管理：\n 1，季度会议：\n　　a.与销售和经销商一起做业务回顾，进行区域YTD业绩与去年同比分析.\n　　b.已成交业务机会及应用培训现状.\n　　c.根据销售差距做好下个月的行动计划。\n 2，月会：\n　　a.与销售和代理商一起回顾上月的重要推广活动，根据新的挑战及新的机 会做下一步具体计划。\n　　b.销量增长及销量下滑用户原因分析及解决方案。\n　　c.重点意向用户的进展及计划\n　　d.回顾已成单的交易，计划下一步的应用培训及市场活动。\n　　ｅ.确认停滞的业务机会\n　　ｆ.和销售及代理商确认各自要负责的主要行动计划。\n　　ｇ.销售产品知识培训\n　　ｈ.代理商库存及新订单核实\n３.月中内部销售电话会：\n ａ.每个销售的ＴＯＰ３的进展\n　　ｂ.销售跟进的行动计划进度\n　　ｃ.核查过程并做每月预估\n 4，每月协同拜访：\n 每月会和每个销售协同拜访客户，及时发现并解决市场及销售存在的问题\n工作业绩：\n 2011年负责西北五省的销售，指标达成率95%：\n 2012年指标达成率96%\n 2013年指标达成率98%获得最佳销售奖，\n 2014年8月暂时管理中国北区12个省及直辖市市场，指标达成率100%，获得最佳销售奖\n 2015年11月管理中国西区十省，指标达成率97%，获得最佳销售奖\n 2016年指标达成率100%，获得雅培总统俱乐部奖\n",
+            "endDate": "4000-10",
+            "position": "大区销售经理",
+            "startDate": "2011-01"
+        },
+        {
+            "company": "北京佰利申科贸有限公司",
+            "detail": "\n - 汇报对象：公司总经理 \n - 下属人数：1人 \n - 职责业绩： \n工作职责\n负责产品：雅培POCT仪器及耗材的销售\n负责区域：新疆及西北五省\n针对科室：检验及所有临床科室\n日常工作\n1，和总经理配合做区域内业务方案的制定并负责执行\n 2，与销售和代理商合作制定负责区域的业务具体实施方案并负责执行。\n 3. 与市场合作制定负责区域的VIP客户维护，市场推广方向及具体计划，负责执行。\n 4. 和代理商确认各自要负责的主要市场及计划，并负责执行，对代理商销售进行产品知识培训\n　　 5 代理商库存及新订单核实\n工作业绩 \n 2008年指标达成率100%\n 2009年指标达成率97%\n 2010年指标达成率100%\n 连续三年获得本公司及生产厂家颁发最佳销售奖\n",
+            "endDate": "2011-07",
+            "position": "销售经理",
+            "startDate": "2008-08"
+        },
+        {
+            "company": "力新仪器(上海)有限公司",
+            "detail": "\n - 汇报对象：新疆销售经理 \n - 下属人数：0人 \n - 职责业绩： \n 工作职责\n负责产品：雅培便携式血液分析仪及耗材的销售\n负责区域：新疆\n针对科室：急诊，呼吸，麻醉，检验。\n日常工作\n 1 与经理和代理商合作制定负责区域的业务具体实施方案并负责执行。\n 2. 与市场合作制定负责区域的VIP客户维护，市场推广方向及具体计 划，负责执行。\n 3. 和代理商确认各自要负责的主要市场及计划，并负责执行，对代理商销售进行产品知识培训\n　　 4 代理商库存及新订单核实\n工作业绩\n 2003年指标达成率100%\n 2004年指标达成率100%\n 2005年指标达成率100%\n 2006年指标达成率100%\n",
+            "endDate": "2008-07",
+            "position": "销售",
+            "startDate": "2003-09"
+        },
+        {
+            "company": "新疆阿克陶县人民医院",
+            "detail": "\n - 汇报对象：科室主任 \n - 下属人数：0人 \n - 职责业绩： \n普外科医生，主要负责烧伤，阑尾炎，疝气，肝胆胃肠道等外科疾病的手术及治疗。\n",
+            "endDate": "2003-08",
+            "position": "外科医生",
+            "startDate": "1997-01"
+        }
+    ],
+    "workYears": 25.0
+}

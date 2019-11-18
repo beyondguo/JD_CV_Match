@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1996-1-7",
+        "currentCity": "福建省",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医药学检验,客服及支持,应用技术支持",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

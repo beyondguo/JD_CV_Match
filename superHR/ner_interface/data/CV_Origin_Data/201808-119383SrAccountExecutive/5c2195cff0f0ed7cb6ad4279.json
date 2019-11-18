@@ -1,0 +1,272 @@
+{
+    "basic": {
+        "birthday": "1988-12-31",
+        "currentCity": "南京",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 20万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2014-07",
+            "major": "生物科学，技术",
+            "school": "西北农林科技大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106831.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106834.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106836.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106840.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3a26b09c7909715ed2e89",
+            "id": "5",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106845.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "市场@#临床价值市场",
+                "id": "9",
+                "orderIndex": 9.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106848.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106853.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "市场@#区域市场",
+                "id": "8",
+                "orderIndex": 8.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "肿瘤",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a2aa46f89ae62d5428786f",
+            "id": "8",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106855.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "9",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106857.0,
+            "strValue": "南京",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "10",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106859.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106862.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "10",
+                    "enumValue": "江苏省",
+                    "id": "9",
+                    "isDefault": false,
+                    "orderIndex": 9.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Jan 2, 2019 3:11:46 PM",
+            "lastUpdated": 1546413106867.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "南京",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "售前/售后技术支持经理,销售代表,技术支持工程师",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京诺禾致源生物信息科技有限公司",
+            "department": "医学技术服务事业部",
+            "detail": "1、负责公司遗传病及肿瘤方向的B端测序业务。\n1、负责事业部整体营收目标的制定、实施。负责财务预算编制、调整及实施。\n2、负责搭建遗传病诊断分析平台，制定平台在B端市场的推广策略。\n3、负责事业部所属肿瘤panel产品的跟新、市场调研及推广。制定肿瘤panel的推广计划。\n4、负责事业部的团队建设、人才培养、团队激励、人员稳定。\n5、目前已经搭建了14人的全国销售团队、18人的后端交付团队，包括运营、信息、产品及商务。\n6、带领团队搭建了临检方向极致周期的数据交付体系。目前已经可以稳定每月2000遗传病全外显子样本的数据交付。\n7、完成2018年Q1-Q3的4200万营收目标。\n8、熟悉目前遗传病诊断行业及肿瘤相关公司情况。与市面上主要的遗传病诊断公司及部分肿瘤公司有较好的联系。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "业务线总监",
+            "scale": "1000-5000人",
+            "startDate": "2018-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京诺禾致源生物信息科技有限公司",
+            "department": "遗传事业部",
+            "detail": "\n2017年6月-2017年12月：负责遗传病诊断业务线全外显子测序业务。负责与B端公司接洽，并对科室主任拜访。同时，负责业务线运营交付工作。在部门人员协调下，周期控制在7个自然日。完成与20家以上公司合作，同时，与部分科室专家建立联系。\n2017年1月-2017年6月：负责新生儿筛查事业部渠道扩展业务。主要对接北京儿童医院、上海儿童医学中心、新华医院等入院系统。同时，母婴渠道的开发，主要与南京大美达成合作意向。",
+            "endDate": "2018-01",
+            "industry": "制药/生物工程",
+            "position": "销售总监",
+            "scale": "1000-5000人",
+            "startDate": "2017-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京诺禾致源生物信息科技有限公司",
+            "department": "科技服务事业部",
+            "detail": "1、负责业务线技术支持团队的管理，考核及招聘。\n2、协助销售进行售前技术支持，辅助销售签单。\n3、协助运营及生信进行驻地售后问题解决。\n4、帮助客户进行项目方案撰写，跟进项目实施进度。",
+            "endDate": "2017-01",
+            "industry": "制药/生物工程",
+            "position": "售前/售后技术支持主管",
+            "scale": "1000-5000人",
+            "startDate": "2016-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京诺禾致源生物信息科技有限公司",
+            "department": "科技服务事业部",
+            "detail": "1、对所负责的片区进行售前技术支持。\n2、根据客户要求进行相关方案撰写及实验室或者科室宣讲会。\n3、协助销售进行售后问题处理。\n4、在相关高校或者科研院所进行产品宣讲会",
+            "endDate": "2016-01",
+            "industry": "制药/生物工程",
+            "position": "售前/售后技术支持工程师",
+            "scale": "1000-5000人",
+            "startDate": "2015-01",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 4.0
+}

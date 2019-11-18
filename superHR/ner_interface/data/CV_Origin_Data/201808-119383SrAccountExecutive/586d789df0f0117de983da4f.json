@@ -1,0 +1,252 @@
+{
+    "basic": {
+        "birthday": "1985-6-18",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": "710068"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "GE Healthcare",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "售后技术支持工程师",
+    "currentSalary": " 15万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2007-06",
+            "major": "自动化",
+            "school": "西安工业大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333096.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "医疗器械（非IVD)",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333098.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333099.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333101.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333102.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333104.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#工程师",
+                "id": "11",
+                "orderIndex": 11.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333105.0,
+            "strValue": "西安",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333106.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333107.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jul 9, 2018 12:58:53 PM",
+            "lastUpdated": 1531112333109.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "西安工业大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "售前/售后技术支持工程师,销售工程师,FAE 现场应用工程师",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5c1a6155f0f03a3df19d8b64",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "47241130",
+    "proSkill": "",
+    "projectExp": [
+        {
+            "detail": "c++(开发工具)\nTRI测试机(硬件环境)\nvc2005(软件环境)做过项目有电源管理，数模混合，音频功放等类IC测试。",
+            "endDate": "2010-12",
+            "name": "IC测试",
+            "responsibility": "协助客户将测试机与Prober/Handler通讯，负责IC测试外围电路设计及测试程序开发。",
+            "startDate": "2009-10"
+        },
+        {
+            "detail": "protel(硬件环境)项目有55000字高精度数字手持式万用表,带存储及与上位机实时通信功能。",
+            "endDate": "2009-08",
+            "name": "手持数字万用表表项目",
+            "responsibility": "负责设计原理图及改进设计方案，PCB制板并调试硬件电路，协助软件工程师对仪表各项功能参数进行测试修正，对整表性能进行测试，以及生产时的支持。",
+            "startDate": "2007-07"
+        }
+    ],
+    "projectExpStr": "2009/10-2010/12\tIC测试\r\n项目描述：\tc++(开发工具)\r\nTRI测试机(硬件环境)\r\nvc2005(软件环境)做过项目有电源管理，数模混合，音频功放等类IC测试。\r\n\r\n责任描述：\t协助客户将测试机与Prober/Handler通讯，负责IC测试外围电路设计及测试程序开发。\r\n\r\n\r\n\r\n2007/7-2009/8\t手持数字万用表表项目\r\n项目描述：\tprotel(硬件环境)项目有55000字高精度数字手持式万用表,带存储及与上位机实时通信功能。\r\n\r\n责任描述：\t负责设计原理图及改进设计方案，PCB制板并调试硬件电路，协助软件工程师对仪表各项功能参数进行测试修正，对整表性能进行测试，以及生产时的支持。",
+    "salaryRemark": "10000-14999元/月",
+    "selfComm": "\n为人诚恳，有开朗的性格和良好的心理素质；能吃苦耐劳；有良好的团队协作能力,组织能力以及动手能力；有创新意识。具有扎实的专业基础知识，有较强的自学能力，易于接受新事物，适应新环境。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "GE Healthcare",
+            "department": "GE Healthcare-SVC",
+            "detail": "负责医院超声影像设备的安装、日常维护保养与故障处理\n针对客户设备需求进行升级服务\n维护客户关系，配合service sales完成设备保修合同及配件销售任务",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售后技术支持工程师",
+            "scale": "10000人以上",
+            "startDate": "2010-12",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "德律电子有限公司",
+            "department": "IC 测试部",
+            "detail": "现场客服及技术支持",
+            "endDate": "2010-12",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "FAE 现场应用工程师",
+            "scale": "150-500人",
+            "startDate": "2009-10",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "西安胜利仪器有限公司",
+            "department": "研发部",
+            "detail": "\n在胜利仪器的2年多时间，使我对仪器仪表以及各类信号源有了更为深刻的认识，亦使我对电子产品的设计研发与工艺设计产生了浓厚的兴趣。在此期间，我主要负责参与设计并改进55000字高精度数字万用表，经过反复的实验，使我获得了许许多多宝贵的经验以及许许多多测试方面的知识。体会到作为一个技术开发人员应具有严谨的工作态度以及灵活的思维方式，还有最重要的因素&mdash;&mdash;团队合作的能力",
+            "endDate": "2009-09",
+            "industry": "仪器仪表/工业自动化",
+            "position": "电子技术研发工程师",
+            "scale": "50-150人",
+            "startDate": "2007-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 11.0
+}

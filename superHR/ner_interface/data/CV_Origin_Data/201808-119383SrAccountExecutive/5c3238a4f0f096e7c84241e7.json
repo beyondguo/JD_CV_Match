@@ -1,0 +1,76 @@
+{
+    "basic": {
+        "birthday": "1990-11-7",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/c53cfd50efec3d7cdf7c8137667e21f1.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "自动化",
+            "school": "西安科技大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "医疗器械销售代表,销售工程师",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：3个月内"
+    },
+    "projectExp": [
+        {
+            "detail": "商场空调主机商务洽谈，维护客户。",
+            "endDate": "4000-10",
+            "name": "西安益田假日中心",
+            "responsibility": "项目负责人。",
+            "startDate": "2017-04"
+        },
+        {
+            "detail": "省政府数据中心项目空调主机保养，商务洽谈。",
+            "endDate": "4000-10",
+            "name": "陕西省信息化中心",
+            "responsibility": "项目负责人。",
+            "startDate": "2015-04"
+        },
+        {
+            "detail": "商场中央空调主机保养，商务洽谈，客户维护。",
+            "endDate": "4000-10",
+            "name": "西大街百盛",
+            "responsibility": "项目负责人。",
+            "startDate": "2014-04"
+        },
+        {
+            "detail": "中央空调保养、改造、备件供应业务洽谈，地铁供应商。",
+            "endDate": "4000-10",
+            "name": "西安地铁",
+            "responsibility": "服务业务负责人。",
+            "startDate": "2014-01"
+        }
+    ],
+    "selfComm": "\n世界五百强企业（美国联合技术公司集团公司开利空调，全球最大的空调设备厂商）校招培训生，入职6年，2017年开利西北区服务业务合同和销售双冠，2018年西北区服务业务销冠，全国第6。商用空调领域基础扎实。有较强的韧性，商务沟通能力优，学习能力强，方案报告能力突出。熟悉外企的企业文化和管理流程。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "开利空调销售服务（上海）有限公司",
+            "detail": "\n2012年以开利培训生入职，学习服务流程及服务业务，2014年独立承担服务销售工程师职务，通过对直接用户的拜访，发掘服务业务机会，完成开利空调主机保养、维修、改造业绩指标，2017年西北区服务合同销售双冠军。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "服务销售工程师",
+            "startDate": "2012-07"
+        }
+    ],
+    "workYears": 7.0
+}

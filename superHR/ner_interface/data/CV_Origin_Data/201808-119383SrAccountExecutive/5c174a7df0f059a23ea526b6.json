@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1987-07",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/SZProj/newrd/img/banner/personpic_m.png",
+        "registeredResidence": "庆阳"
+    },
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2013-07",
+            "major": "冶金工程",
+            "school": "&nbsp;&nbsp;兰州资源环境职业技术学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售、医疗器械维修/保养",
+        "salary": "4001-6000元/月",
+        "state": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）"
+    },
+    "projectExp": [
+        {
+            "detail": "\n项目简介：负责飞利浦胎监，阴道镜安装、调试、培训以及日常问题的处理。 \n",
+            "endDate": "4000-10",
+            "name": "飞利浦",
+            "startDate": "2017-05"
+        },
+        {
+            "detail": "\n项目简介：负责雷度米特的ABL系列血气分析仪、AQT快速免疫分析仪的安装、调试、培训、日常问题的处理以及售后维修。 \n",
+            "endDate": "4000-10",
+            "name": "雷度米特医疗设备",
+            "startDate": "2017-05"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西恒鑫众康医疗科技有限公司",
+            "department": "",
+            "detail": "\n本人于2017-05-至今就职于陕西恒鑫众康医疗科技有限公司担任售后工程师一职\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售后工程师",
+            "scale": "",
+            "startDate": "2017-05",
+            "type": ""
+        }
+    ],
+    "workYears": 6.0
+}

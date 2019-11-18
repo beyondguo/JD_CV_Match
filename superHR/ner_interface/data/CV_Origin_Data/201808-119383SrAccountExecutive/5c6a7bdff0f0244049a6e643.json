@@ -1,0 +1,55 @@
+{
+    "basic": {
+        "birthday": "1993-8-1",
+        "currentCity": "荆州",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": "430000"
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "保险",
+            "school": "西安&#39;财经大学",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "金融学(含保险学)",
+            "endDate": "2018-07",
+            "major": "金融学",
+            "school": "西安财经大学",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "保险",
+            "school": "西安&#39;财经大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "1.良好的公共关系意识，善于沟通，具备活动策划和组织协调能力。\n2.良好的心态和责任感，吃苦耐劳，擅于管理时间，勇于面对变化和挑战。\n3.良好的学习能力，习惯制定切实可行的学习计划，勤于学习能不断提高。\n校内职务 \n2014/9-2015/9 外联部 \n职务描述： 宣传委员:主要做海报制作和活动推动策略计划 ",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

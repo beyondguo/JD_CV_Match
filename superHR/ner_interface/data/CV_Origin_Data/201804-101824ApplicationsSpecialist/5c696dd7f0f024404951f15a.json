@@ -1,0 +1,67 @@
+{
+    "basic": {
+        "birthday": "1981-01",
+        "currentCity": "泉州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "泉州"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "埃地沃兹真空泵制造(上海)有限公司",
+    "currentIndustry": "电子技术/半导体/集成电路",
+    "currentPosition": "FAE 现场应用工程师",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2005-07",
+            "major": "高分子材料与工程",
+            "school": "黑龙江大学",
+            "startDate": "2001-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "泉州;厦门",
+        "industry": "电子技术/半导体/集成电路",
+        "position": "售前支持经理/主管",
+        "salary": "面议"
+    },
+    "langAbility": " \n英语 良好 ",
+    "projectExp": [],
+    "selfComm": "\n",
+    "trainExp": " \n2011/8--2011/9 金刚石产品培训 \n培训机构： 圣戈班美国公司 \n培训地点： 波士顿 \n培训描述： 参加公司的专业知识培训，主要是负责的产品的制造工艺，工作原理等方面知识。通过掌握专业的知识更好的开发中国市场。 \n2006/3--2006/6 polish grinder 方面的专业知识 \n培训机构： 东京精密日本总部 \n培训地点： 东京 \n培训描述： 主要学习设备的各部分机构，原理．学习做设备self-grinding,teaching,cable \nconnect,及各个组成部分的功能，以及日常会遇到的一些问题及处理方法．还学习作为一个serves engeneer 应该在日常工作中应该完成的工作． ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "埃地沃兹真空泵制造(上海)有限公司",
+            "detail": "- 所在地区：泉州 \n - 下属人数：0人 \n - 职责业绩： \n公司主要为半导体行业Diffution, PVD,CVD, Etch, Litho,Metrology等各module提供真空设备产品,具体工作如下:\n1,售前协助销售制定推广方案,收集分析竟争对手的信息,制定切实可行的应对策略.\n2,收集了解客户各主机台型号信息,工艺信息, 根据客户工艺具体情况对真空设备选型.\n3,项目前期客户端技术介绍,疑问解答.\n4,根据客户具体的工艺对真空产品分别做特殊的参数设定.\n5,客户产品使用过程中如果有工艺设置问题,及时分析问题,提出改善方案.\n6,对客户提供技术培训.\n7,BKM,AIB,TIB等技术文件的编写,整理,与global team分享.\n8,各客户sales base, install base数据整理, 了解竟争对手的情况,及时和销售沟通,分析潜在风险.\n9,和FSE配合,为客户提供优质的售后服务\n",
+            "endDate": "4000-10",
+            "position": "FAE 现场应用工程师",
+            "startDate": "2017-01"
+        },
+        {
+            "company": "应特格(上海)微电子贸易有限公司",
+            "detail": "- 所在地区：上海 \n - 下属人数：0人 \n - 职责业绩： \n公司主要产品过滤器，chemical, special gas等各种电子化学品的销售工作。\n1,项目前期的技术推广,产品选型工作.\n2,和DF, CVD, Etch, Litho, facility.CMP终端用户建立良好的合作关系.\n3,收集对手信息, 维持及增大现有的市场份额.\n4,配合FAE,FSE为客户提供优秀的后续服务.\n5,货期的跟踪,提前备货, 货款的回收.\n6,后期使用中的技术问题及时协调各部门解决.\n",
+            "endDate": "2016-12",
+            "position": "Account Manager",
+            "startDate": "2015-12"
+        },
+        {
+            "company": "汉民科技(上海)有限公司",
+            "detail": "- 所在地区：北京 \n - 下属人数：0人 \n - 职责业绩： \n公司主要产品是EBARA CMP设备, 主要在各FAB化学机械研磨部门使用.\n1,负责CMP设备在FAB的安装,调试.\n2,Warranty内负责设备的维护,维修.\n3,客户技术人员的培训工作．\n4,receipe tuning, 当工艺有问题时需要调整receipe, 测试，直到达到客户工艺要求．\n5,及时处理客户遇到的各种突发问题，独立分析，需求对方资料，及时解决问题．\n",
+            "endDate": "2015-11",
+            "position": "FSE",
+            "startDate": "2012-11"
+        },
+        {
+            "company": "东京精密半导体设备有限公司",
+            "detail": "- 所在地区：上海 \n - 下属人数：2人 \n - 职责业绩： \n本人目前从事半导体设备技术支持工作，所属行业为半导体设备行业．主要工作职责是:\n1,负责wafer背面研磨减薄设备及划片设备前期选型.\n2,安装前的技术规格制定，安排安装.\n3,后期的维护，客户技术人员的培训．\n4,以及对工艺问题的处理。 当客户出现紧急问题时在最短时间内解决．\n5,维护和客户的良好合作关系，以及经常的客户拜访．凭借过硬的技术赢得了客户的良好信誉．\n",
+            "endDate": "2012-09",
+            "position": "售后服务工程师",
+            "startDate": "2006-09"
+        }
+    ],
+    "workYears": 13.0
+}

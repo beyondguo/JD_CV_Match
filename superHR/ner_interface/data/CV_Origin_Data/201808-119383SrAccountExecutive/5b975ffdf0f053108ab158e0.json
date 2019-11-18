@@ -1,0 +1,85 @@
+{
+    "basic": {
+        "birthday": "1990-5-16",
+        "currentCity": "西安",
+        "gender": "女",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/521e0060ba9e91b04e63086d0a2d01d2.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "国际经济与贸易",
+            "school": "西安培华学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械,制药/生物工程",
+        "position": "销售代表,销售代表",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5b975ffdf0f053108ab158e0",
+    "projectExp": [
+        {
+            "detail": "宝鸡市中心医院神经外科介入手术，动脉瘤弹簧圈开发入院",
+            "endDate": "2018-08",
+            "name": "宝鸡市中心医院开发",
+            "responsibility": "",
+            "startDate": "2018-03"
+        },
+        {
+            "detail": "西安交通大学第二附属医院开发入院，销售，跟台，维护，售后，招标，回款",
+            "endDate": "2018-08",
+            "name": "西安医学院第二附属医院",
+            "responsibility": "",
+            "startDate": "2015-03"
+        },
+        {
+            "detail": "西安交通大学第二附属医院销售，跟台，维护，售后，招标，回款",
+            "endDate": "2018-08",
+            "name": "西安交通大学第二附院医院入院，跟台",
+            "responsibility": "",
+            "startDate": "2013-11"
+        },
+        {
+            "detail": "陕西省人民医院销售，跟台，维护，售后，招标，回款",
+            "endDate": "2018-08",
+            "name": "陕西省人民医院",
+            "responsibility": "",
+            "startDate": "2013-11"
+        }
+    ],
+    "selfComm": "\n校内职务 \n2009/10-2012/3 学校团委组织部副部长 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "成都金峻商贸有限公司",
+            "detail": "神经外科介入手术耗材销售，动脉瘤弹簧圈，支架，普外支架，神经内科缺血支架等\n主要工作是销售跟台，手术后补货递发票，维护与设备科关系，维护大客户关系，开发新客户！招标，催款等",
+            "endDate": "2018-08",
+            "industry": "",
+            "position": "销售代表",
+            "startDate": "2013-10"
+        },
+        {
+            "company": "陕西众鑫浩业科技有限公司",
+            "detail": "推广销售产品\n维护客户关系\n投递发票\n催款",
+            "endDate": "2013-10",
+            "industry": "",
+            "position": "销售代表",
+            "startDate": "2012-10"
+        }
+    ],
+    "workYears": 7.0
+}

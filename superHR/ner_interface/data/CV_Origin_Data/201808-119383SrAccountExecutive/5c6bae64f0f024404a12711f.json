@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "北京",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "北京智德臻和医学检验所有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "总经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2020-07",
+            "major": "企业管理",
+            "school": "对外经济贸易大学",
+            "startDate": "2018-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "建筑外环境设计",
+            "school": "陕西科技大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "北京;西安",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "副总裁/副总经理;分公司/代表处负责人;总裁助理/总经理助理",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京智德臻和医学检验所有限公司",
+            "detail": "- 所在地区：北京 \n - 汇报对象：董事长 \n - 下属人数：58人 \n",
+            "endDate": "4000-10",
+            "position": "总经理",
+            "startDate": "2014-04"
+        }
+    ],
+    "workYears": 11.0
+}

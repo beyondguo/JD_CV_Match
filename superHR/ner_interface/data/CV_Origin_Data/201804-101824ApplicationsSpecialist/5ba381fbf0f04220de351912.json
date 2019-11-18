@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1990-11-28",
+        "currentCity": "昆明-五华区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "\n硕士阶段：生物化学与分子生物学专业，免疫学、生化、基因组学、生物信息学等为必修课程。获2016-2017学年校二等奖学金；任研究生会宣传委员；参与课题组&ldquo;灭活轮状病毒疫苗研发-重大专项&rdquo;；担任所疫苗宣传实践队伍队长并获&ldquo;优秀团队&rdquo;称号；熟练掌握miRNA调控病毒复制的实验设计、操作、数据分析、文章写作等过程及RT-qPCR、Western \nBlot、无菌实验、载体克隆、流行病学分析等相关仪器及技术。\n研究成果（第一作者）如下：\n《2017年深圳地区冬季诺如病毒基因分型与流行病学分析》；\n《轮状病毒NSP5真核表达载体的构建、鉴定及功能研究》；\n《LncRNA, miRNA and lncRNA-miRNA interaction in viral infection》；\n《mml-miR-7 suppresses Rotavirus(RV) replication via targeting RV \nNSP5 and cellular DNA-damage-inducible transcript 4 (DDIT4)》在投。",
+            "endDate": "4000-10",
+            "major": "生物科学，技术",
+            "school": "清华大学医学部北京协和医学院",
+            "startDate": "2016-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "\n本科阶段学习了植物学、植物生理学、动物学、动物生理学、微生物学、生物化学、遗传学、发育学、免疫学、心理学、教育学以及各类实验课目等课程并在实验室中参与了导师的科研项目，在蛋白质组实验室和微生物实验室都有一定的学习。 \n2012年，论文《番茄抗高温的蛋白机理》论文获校挑战杯一等奖。本科毕业论文是《番茄的高温胁迫下蛋白表达》。",
+            "endDate": "2014-06",
+            "major": "生物科学，技术",
+            "school": "扬州大学生物科学与技术学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "上海",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "otherLangResumeId": "5ba381fbf0f04220de351912",
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2017/9-2018/9 研究生会宣传委员 \n\n职务描述： 学校各类活动的策划和宣传工作 \n2012/6-2013/9 社团联合会主席 \n\n职务描述： 带领本学院14个社团举办各类活动，丰富学生的课余生活，并参与策划和组织了元旦晚会、毕业晚会等。 \n2011/6-2012/6 话剧社社长 \n\n职务描述： 排练、演出话剧，两次获得校级话剧大赛特等奖，对自身的协调、表达有很大帮助 \n2010/9-2011/6 班长 \n\n职务描述： 组织班级活动，带领班级建设，获得校优秀班集体称号 ",
+    "trainExp": " \n2017/9--2017/10 lncRNA的研究课题与实验设计 \n\n培训机构： 医药加培训中心 \n培训地点： 上海 \n\n培训描述： lncRNA的相关研究思路和实验设计，课题的撰写等 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "苏州大学临床免疫学研究所",
+            "department": "研发部",
+            "detail": "主要从事PD-1、PDL-1单抗研发工作。熟悉小鼠杂交瘤制备和筛选、动物免疫、稳定细胞系制备等技术，获得优秀员工称号。",
+            "endDate": "2015-10",
+            "industry": "制药/生物工程",
+            "position": "细胞培养技术员",
+            "scale": "50-150人",
+            "startDate": "2014-06",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 4.0
+}

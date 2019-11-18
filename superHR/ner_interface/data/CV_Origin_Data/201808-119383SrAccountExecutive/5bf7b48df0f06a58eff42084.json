@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "江苏恒瑞医药股份有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "医学信息沟通专员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "药学",
+            "school": "徐州医科大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "销售代表",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "江苏恒瑞医药股份有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n负责陕西省人民医院影像及微球产品的销售工作\n",
+            "endDate": "4000-10",
+            "position": "医学信息沟通专员",
+            "startDate": "2014-11"
+        },
+        {
+            "company": "江苏恒瑞医药股份有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n负责公司两个产品的学术推广\n",
+            "endDate": "2014-10",
+            "position": "学术专员",
+            "startDate": "2013-07"
+        }
+    ],
+    "workYears": 5.0
+}

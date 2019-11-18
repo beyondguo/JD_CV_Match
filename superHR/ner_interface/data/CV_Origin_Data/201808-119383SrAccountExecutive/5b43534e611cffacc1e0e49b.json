@@ -1,0 +1,87 @@
+{
+    "basic": {
+        "birthday": "1991-1-25",
+        "currentCity": "陕西省",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/91d87dee5b3d093dd87070ad01d51c4e.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2013/10 驾驶执照 \n2013/9 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2016-07",
+            "major": "水土保持",
+            "school": "中国林业科学研究院",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2013-07",
+            "major": "水土保持",
+            "school": "西南大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西省",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "销售管理,销售工程师",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5b43534e611cffacc1e0e49b",
+    "projectExp": [
+        {
+            "detail": "独立开发陕西区域，基因芯片、基因测序、转录组测序等产品的销售，举办学术会议，扩大公司产品知名度，提高市场占有率。",
+            "endDate": "4000-10",
+            "name": "基因芯片科研服务",
+            "responsibility": "",
+            "startDate": "2017-09"
+        },
+        {
+            "detail": "负责环评报告编写，和项目评审。",
+            "endDate": "2017-09",
+            "name": "环评编写",
+            "responsibility": "",
+            "startDate": "2016-07"
+        }
+    ],
+    "selfComm": "善于沟通，善于学习，工作勤奋。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海欧易生物医药科技有限公司",
+            "department": "销售部北区",
+            "detail": "\n负责整个西安市场的公司产品销售，主要是科研服务，有基因芯片、测序以及蛋白和代谢产品。负责产品的讲解，在科研领域的应用（主要是医学领域），相关文献的查找，协助技术支持进行讲座，对客户的实验方案进行优化。应用最多的科室包括肿瘤内科、肿瘤外科以及麻醉科和放疗科。独立完成回款、售后，有时还会参加招投标。",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售经理",
+            "scale": "150-500人",
+            "startDate": "2017-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京清大绿源科技有限公司",
+            "department": "技术部",
+            "detail": "\n负责相关文件的编写，技术勘察，以及专家的评审。文件的编写主要是环评相关的技术，现场的勘察，尽快负责理清现场情况。技术专家的评审，负责制作PPT，向有关单位和专家，汇报，确保项目的顺利通过。",
+            "endDate": "2017-09",
+            "industry": "环保",
+            "position": "环境影响评价工程师",
+            "scale": "500-1000人",
+            "startDate": "2016-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 3.0
+}

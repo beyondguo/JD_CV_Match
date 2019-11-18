@@ -1,0 +1,262 @@
+{
+    "basic": {
+        "birthday": "1988-9-13",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "福建省",
+        "zipCode": ""
+    },
+    "certificate": " \n2009/12 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "欧蒙医学诊断(中国)有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "FAE 技术应用工程师",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "专业课程：生物化学、分子生物学、基因工程、蛋白质工程、细胞工程、发酵工程、生态学、微生物学、植物生理学、细胞生物学\n本科毕业论文：不同胁迫条件下化感与非化感水稻PAL基因的表达变化分析",
+            "endDate": "2010-06",
+            "major": "生物科学，技术",
+            "school": "福建农林大学",
+            "startDate": "2006-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296348.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "IVD(厂商＆经销商)",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296351.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296354.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296356.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3a26b09c7909715ed2e89",
+            "id": "5",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296362.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "流水线@#Workflow",
+                "id": "13",
+                "orderIndex": 13.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296364.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296369.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "8",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296371.0,
+            "strValue": "福州",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "9",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296373.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "生物",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "10",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296377.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296382.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "19",
+                    "enumValue": "福建省",
+                    "id": "18",
+                    "isDefault": false,
+                    "orderIndex": 18.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Jan 15, 2018 4:18:16 PM",
+            "lastUpdated": 1516004296388.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "graduateSchool": "福建农林大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": " 学术/科研 ",
+        "position": "",
+        "salary": "15000-19999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "otherLangResumeId": null,
+    "proSkill": "英语    良好\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "15000-19999元/月",
+    "selfComm": "学习刻苦、良好的沟通与交流 \n工作积极、认真负责、有上进心\n待人诚恳、乐于助人、关心他人\n校内职务 \n2007/9-2008/9 团委组织部副部长 ",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "欧蒙（中国）医学诊断有限公司",
+            "department": "销售部",
+            "detail": "1、解决客户应用问题和投诉，确保高效高质量的售后服务。\n2、提供销售人员技术支持及相关临床科室项目推广，确保区域销售工作的开展。\n3、开展产品应用培训，确保客户正确使用产品。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "生物工程/生物制药",
+            "scale": "500-1000人",
+            "startDate": "2014-12",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "北京金菩嘉医疗科技有限公司",
+            "department": "客服部",
+            "detail": "\n技术支持：FISH检测、荧光定量PCR、HPV基因分型,主要是负责公司的体外诊断产品在福建省几家大型三甲医院病理科的应用技术支持，相关产品培训工作，参与部分市场推广活动。\n销售：进行客户的日常维护工作以及协助销售与客户进行信息沟通与交流。",
+            "endDate": "2014-03",
+            "industry": "医疗/护理/卫生",
+            "position": "技术支持工程师",
+            "scale": "500-1000人",
+            "startDate": "2010-08",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 8.0
+}

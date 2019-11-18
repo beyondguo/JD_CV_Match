@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1988-4-27",
+        "currentCity": "西安-未央区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/7b97671b7fbed9508ae73199aeda3219.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2010/12 CET-6 （461） \n2010/12 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 20万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "主要课程有分子生物学、植物病毒学、分子植物病理学。熟练掌握分子生物学技术",
+            "endDate": "2015-06",
+            "major": "植物保护学",
+            "school": "华中农业大学",
+            "startDate": "2012-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "食品科学与工程",
+            "school": "山西农业大学",
+            "startDate": "2008-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "植物保护学",
+            "school": "山西农业大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "销售代表,渠道/分销专员,客户代表,医药代表,医药销售代表",
+        "salary": "20-30万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：3个月内"
+    },
+    "otherLangResumeId": "5c234893f0f0ed7cb73c1bb6",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "569928447",
+    "projectExp": [],
+    "selfComm": "对于临床医疗市场的前沿和动向比较了解，善于分析和吸取经验； \n积极主动，抗压能力强，较强的学习能力；\n为人真诚，善于学习，团队荣誉感强。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海吉凯基因化学技术有限公司",
+            "department": "销售渠道事业部",
+            "detail": "1.系统整合客户资源，疏通销售渠道，全面负责所在单位（空军军医大学和西京医院）销售渠道事业部所有产品的推广与销售； \n2.寻找&ldquo;国家自然科学基金&rdquo;意向客户，签订（整体）实验外包实验合同，建设销售渠道； \n3.完成科研服务讲座/科会的策划与推广，建立和维护良好的客户关系；",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售工程师",
+            "scale": "150-500人",
+            "startDate": "2015-11",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 3.0
+}

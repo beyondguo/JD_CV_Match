@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "birthday": "1990-11",
+        "currentCity": " 厦门",
+        "currentSalary": "",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "uploads/talent_photo/1807/320ecb26a065c22795921f817dec1550.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "2018/3  雅思\n2012/11  大学英语四级",
+    "confidentialResume": "N",
+    "currentCompany": "麦考瑞大学",
+    "currentPosition": "实验室助理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-07",
+            "major": "实验室质量分析和管理",
+            "school": "麦考瑞大学",
+            "startDate": "2015-07"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2009-07"
+        }
+    ],
+    "graduateSchool": "麦考瑞大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "8-10万元/年",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "MS Project熟练 英语熟练 闽南语良好 MS Powerpoint熟练 MS Excel熟练 MS WORD熟练",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "2009-2014本人在福建医科大学学习医学检验专业并于2014年7月获得医学检验学士学位，2013年至2014年本人在厦门大学附属中山医院进行为期1年的实习工作，这期间在检验科各部门进行了实践操作。在本人本科毕业以后，因为对于实验室质量控制方面的热爱并希望进行更深层次的学习，所以选择了澳大利亚麦考瑞大学并于2017年7月获得麦考瑞大学实验室质量分析和管理硕士学位，本人毕业以后获得了留校担任实验室助理的机会，主要是带领当地高中学生进行简单的实验操作，另外也负责样本的准备、分类保存以及负责对仪器设备的使用、维护保养做好记录，配合设备管理员做好设备的检校或期间核查工作。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "麦考瑞大学",
+            "department": "科学学院",
+            "detail": "\n准备实验室测试溶液和试剂；使用分光光度计用于化学成分分析；通过专业软件程序记录各种化学测试结果；对仪器设备的维护保养，配合设备管理员做好设备的检校和核查工作；负责学生使用后化学试剂的保存和处理。",
+            "endDate": "2018-03",
+            "industry": "教育/培训/院校|事业单位",
+            "position": "实验室助理",
+            "startDate": "2017-07"
+        }
+    ],
+    "workYears": 1.0
+}

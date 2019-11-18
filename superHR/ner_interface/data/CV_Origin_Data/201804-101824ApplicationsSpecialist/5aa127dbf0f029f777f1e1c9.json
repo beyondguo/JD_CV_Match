@@ -1,0 +1,72 @@
+{
+    "basic": {
+        "birthday": "1985-01",
+        "currentCity": "福州",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "海豚基因",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售工程师",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "4000-10",
+            "major": "医学检验",
+            "school": "福建卫生职业技术学院",
+            "startDate": "2017-03"
+        },
+        {
+            "degree": "中专",
+            "endDate": "2004-07",
+            "major": "医学检验",
+            "school": "福建卫生职业技术学院",
+            "startDate": "2001-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "医药学检验",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5aa127dbf0f029f777f1e1c9",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：医药代表 \n - 所在公司：医药代理商 \n - 项目简介： \n从事辅仁药业，仁和药业的药店推广\n - 项目职责： \n从事医药品药店推广工作。\n - 项目业绩： \n福建省内的药品推广。\n",
+            "endDate": "2011-01",
+            "name": "医药销售",
+            "startDate": "2009-07"
+        }
+    ],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "海豚基因",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "4000-10",
+            "position": "销售工程师",
+            "startDate": "2017-01"
+        },
+        {
+            "company": "福建福州",
+            "detail": "- 所在地区：福州 \n - 下属人数：0人 \n - 职责业绩： \n检验科日常工作，生化免疫三大常规检测\n",
+            "endDate": "2013-01",
+            "position": "药师",
+            "startDate": "2011-03"
+        },
+        {
+            "company": "福建省立医院",
+            "detail": "\n - 下属人数：0人 \n",
+            "endDate": "2009-01",
+            "position": "院感科",
+            "startDate": "2007-01"
+        }
+    ],
+    "workYears": 13.0
+}

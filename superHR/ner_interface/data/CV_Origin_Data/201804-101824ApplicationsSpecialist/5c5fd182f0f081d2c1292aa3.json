@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1994-11-23",
+        "currentCity": "福建省",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "中技",
+    "eduExp": [
+        {
+            "degree": "中技",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "水文与水资源工程",
+            "school": "国光中学",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "泉州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "其他,保安人员,行李员,乘务员,按摩",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "两益",
+            "detail": "",
+            "endDate": "4000-10",
+            "position": "生产总监",
+            "startDate": "2018-02"
+        },
+        {
+            "company": "两益",
+            "detail": "",
+            "endDate": "4000-10",
+            "position": "生产总监",
+            "startDate": "2016-02"
+        }
+    ],
+    "workYears": 1.0
+}

@@ -1,0 +1,241 @@
+{
+    "basic": {
+        "birthday": "1983-01",
+        "currentCity": "陕西省",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "浙江星博生物科技股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "产品经理",
+    "currentSalary": "",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2013-03",
+            "major": "分子生物学和健康学",
+            "school": "国立意大利热那亚大学",
+            "startDate": "2010-04"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2007-07",
+            "major": "生物工程",
+            "school": "西北大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833330.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "制药行业",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833332.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833334.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833336.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833338.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833341.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Janet Tang"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833342.0,
+            "strValue": "上海",
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "男",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833344.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833345.0,
+            "userName": "Janet Tang"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "上海",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jul 24, 2018 2:30:33 PM",
+            "lastUpdated": 1532413833348.0,
+            "userName": "Janet Tang"
+        }
+    ],
+    "graduateSchool": "国立意大利热那亚大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "上海;西安;深圳",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "生物工程/生物制药;药品研发;医疗器械研发",
+        "salary": "20.40万（17000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "5880b07df0f0ab09e6a9ac9e",
+    "projectExp": [],
+    "salaryRemark": "",
+    "selfComm": "\n 学习能力强，抗压力潜质佳，爱拼搏，思维开阔。 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "浙江星博生物科技股份有限公司",
+            "detail": "- 所在地区：上海 \n - 下属人数：1人 \n - 职责业绩： \n任职岗位：市场部PM\n工作描述：产品上市前/后推广\n具体工作内容：\n男性不育IVD，胚胎实验室耗材产品临床推广（科室会）\n学术会议组织（男性不育与精子DNA碎片化关系学术沙龙.宁波）\n不育IVD市场分析和市场策略制定。\n",
+            "endDate": "4000-10",
+            "position": "产品经理",
+            "startDate": "2017-07"
+        },
+        {
+            "company": "西安医臻生物医药科技有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：5人 \n - 职责业绩： \n 市场部经理\n1. 推广基因检测产品，制作产品ppt（肿瘤和肿瘤分子，靶向药物施用性分\n析，化疗药物耐药性敏感性分析，以及优生优育相关的，叶酸代谢水平，\n无痛产前检测（NIPT）。设计制作产品宣传文案和广告单页。阅读相关文\n献，收集整理国内外精准医疗行业咨询。\n2. 培训销售代表培训。\n3. 举办科室会，宣讲公司精准医疗相关产品。多地区，包括江苏，甘肃，山\n西等，实地培训当地销售，和技术支持。\n MSL\n一）项目经验\n1. Medical strategy：\nNivolumab 在晚期胃癌三线治疗中的治疗应用（咸阳215 医\n院）\n使用Nivolumab 在治疗食管癌效果与患者MSI 的关系（连云\n港赣榆区人民医院）\n会议报告准备：EGFR-TKI 耐药NSCLC 与T790 的异质性状态\n报告（陕西省肿瘤医院）\n2. 学术会议联络：\n2017.4.21 中国抗癌协会肿瘤标志专业委员会（TBM）肿瘤\n标志物新技术全国推广培训班-陕西站\n2017.6.17 陕西省抗癌协会肿瘤标志专业委员会换届会议\n2017.9.1 TBM 委员会技术培训班（连云港）\n二）具体工作\n1） 通过收集文献，了解相关领域的疾病背景知识，治疗领域现状,并针对性\n制定医学策略；\n2） Situation/Gap 分析\n3） Action plan 制定：研究设计方案\n4） 获取 clinic data，数据利用；\n5） 维护和建立KOL 库，进行定期沟通维护并将重要信息反馈,定期对外部进\n行医学信息沟通和传达（CAR-T,PD-1,PD-L1 等方面）\n6） 学会会议等医学项目组织，举办和执行。\n7） 定期营销部，市场部多部门策略沟通\n 产品经理\n1. 独立承担神经自免疫疾病（MS,NMO，GBS,MF 等）自身抗体,副肿瘤抗体\n（anti-Hu，Ri 等），重症肌无力（anti-AchR，MuSK）检测产品的调研\n开发，临床推广（科室会，学术支持）。（已完成）\n2. 独立承担神内疾病（癫痫，MS，偏头痛等）全外显子检测产品调研开发，\n临床推广。（已完成80%）\n3. 正在准备自免疫其他疾病（lupus，RA 等）的基因检测和自抗体产品调研\n和开发。\n",
+            "endDate": "2017-07",
+            "position": "市场部经理；Medical Manager &amp; MSL",
+            "startDate": "2015-12"
+        },
+        {
+            "company": "西安悦蔻霖智生物技术科技公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：公司CEO \n - 下属人数：3人 \n - 职责业绩： \n\n工作描述：类人胶原蛋白的原核表达和纯化\n项目背景：\n胶原蛋白是人类结缔组织的主要成分，具有良好的生物相容性、可生物降解性\n以及生物活性，因此在食品、医药、组织工程、化妆品等领域获得广泛的应\n用。利用生物工程技术生产胶原蛋白具有可观的经济意义。\n本人负责工作：\n1.从人类cDNA 文库中调取人胶原蛋白I 型序列，设计并合成模板链collagen-li\nke polymer (CLP3.1)\n2.选取pUC18-SRRz 作为载体，构建重组质粒\n3.重组质粒转化到大肠杆菌株BL21 中\n4.诱导表达后,通过SDS-PAGE 和WesternBlot 对重组蛋白进行鉴定，对重组蛋\n白进行纯化。\n5.利用发酵生产的胶原肽产品，选取京尼平等作为交联剂，设计和研发注射型\n除皱胶原蛋白水凝胶。\n",
+            "endDate": "2015-12",
+            "position": "研发工程师",
+            "startDate": "2014-04"
+        },
+        {
+            "company": "意大利热那亚GALLIERA医院",
+            "detail": "- 所在地区：意大利 \n - 下属人数：0人 \n - 职责业绩： \n\n任职岗位：研究助理\n工作描述：工作描述：项目名称：设计和制备新型的心肌梗死生化诊断试剂盒\n项目背景：\n使用不同生化指标物marker，如H-FABP,Mb，CRP 等和相应抗体制备新型高\n效体外心梗诊断试剂盒。\n本人工作内容和目标：\n人心肌钙蛋白是WHO 推荐的用于检测心肌损伤的特异性较高的标志物。\n目标：克隆以及表达出具有生物活性的人心肌钙蛋白，为将来开发心肌损伤\n的快速诊断试剂盒或是快速诊断试纸提供低成本的抗原，为制备单抗提供保\n证。\n本人负责工作：\n1.从文库中调取人心肌钙蛋白（cTn）的基因\n2.选取pET-32a 作为载体，构建pET-32a-cTn重组质粒\n3.重组质粒转化到大肠杆菌株中\n4.诱导表达后,通过SDS-PAGE 和WesternBlot 对重组蛋白进行鉴定，对重组蛋\n白进行纯化\n",
+            "endDate": "2013-11",
+            "position": "研究助理",
+            "startDate": "2013-03"
+        },
+        {
+            "company": "意大利GASLINI儿童医院血液肿瘤科（实习）",
+            "detail": "- 所在地区：意大利 \n - 汇报对象：导师 \n - 下属人数：0人 \n - 职责业绩： \n\n 任职岗位：研究助理\n工作描述：人群B 细胞白血病免疫球蛋白的突变型谱系构建\n本人具体工作内容：\n1.随机抽样人群和B 细胞白血病病人血液样本，提取免疫B 细胞。\n2.从B 细胞中提取IgG 合成mRNA，以IgG 的重链高变区为目标，选取载体和\n利用大肠杆菌构建分子克隆。\n3.扩增克隆，进行样本测序。\n4.收集分析测序结果，筛选CLL 相关的高变区突变种类。\n",
+            "endDate": "2013-02",
+            "position": "研究助理",
+            "startDate": "2012-03"
+        },
+        {
+            "company": "陕西渭河化工厂",
+            "detail": "- 所在地区：渭南 \n - 汇报对象：车间主任 \n - 下属人数：0人 \n - 职责业绩： \n岗位责任：利用日本ssd工艺，使用生物污对工段上游排放的废水进行减毒，降浊处理。\n",
+            "endDate": "2010-01",
+            "position": "助理工程师",
+            "startDate": "2007-07"
+        }
+    ],
+    "workYears": 10.0
+}

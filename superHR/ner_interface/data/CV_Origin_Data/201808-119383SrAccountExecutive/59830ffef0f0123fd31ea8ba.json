@@ -1,0 +1,222 @@
+{
+    "basic": {
+        "birthday": "1991-1-7",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "医院",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "医院检验医师",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2013-07",
+            "major": "医学检验",
+            "school": "西安医学院",
+            "startDate": "2008-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193726.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "5",
+                    "enumValue": "IVD(医院)",
+                    "id": "4",
+                    "isDefault": false,
+                    "orderIndex": 4.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193729.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193733.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "纯本土企业",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193736.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193739.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193746.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "售后服务@#应用",
+                "id": "10",
+                "orderIndex": 10.0
+            },
+            "userName": "Sonia Yu"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193748.0,
+            "strValue": "西安",
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "女",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "8",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193751.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193753.0,
+            "userName": "Sonia Yu"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jan 14, 2019 4:23:13 PM",
+            "lastUpdated": 1547454193757.0,
+            "userName": "Sonia Yu"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,医疗/护理/卫生",
+        "position": "售前/售后技术支持工程师,医药学术推广,临床研究员",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：3个月内"
+    },
+    "otherLangResumeId": null,
+    "projectExp": [
+        {
+            "detail": "2014年8月至今\n 1：日常工作中与小组成员合作完成各项检验任务，参与年度质量控制\n 2：同时做好和试剂及仪器厂家两方的沟通，保证日常工作顺利进行。做到共同完成仪器维护和临床检验项目更新 3：及时向临床更新检验项目及进行开展新项目介绍课程\n工作期间熟练掌握罗氏电化学发光仪和雅培全自动化学发光系统。并能在其报警时有效并迅速的与工程师和电话远程系统合力解决实验室相关问题。",
+            "endDate": "4000-10",
+            "name": "检验科生化免疫检验负责",
+            "responsibility": "",
+            "startDate": "2014-08"
+        }
+    ],
+    "selfComm": "\n有丰富的检验工作经验及专业的临床检验知识，擅长与人沟通；有较强的组织能力、应变能力及服务意识；做事严谨，并有良好的团队协作精神；较强的责任心和吃苦耐劳精神，做事踏实，有责任心，有良好的沟通能力及团队协作能力。四年的检验科工作不仅丰富了临床知识，同时常与仪器方沟通，了解了医疗器械行业的发展，也懂得这个职位的以及更加清晰了自己未来的工作目标和人生职业规划，我也将以饱满的热情面对未来新的工作和挑战。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中国人民解放军第323医院",
+            "department": "生化免疫",
+            "detail": "2013年7月-2014年8月：熟悉生化，微生物及临检各分析仪器的使用及掌握丰富的检验项目临床意义\n2014年8月至今：负责电化学发光及化学发光各项目检验，包含肿瘤，激素，甲状腺功能，及传染病检测。熟练掌握罗氏电化学发光仪，雅培全自动电化学发光系统的操作及维护。\n负责内容1：日常工作中与小组成员合作完成各项检验任务，参与年度质量控制\n 2：同时做好和试剂及仪器厂家两方的沟通，保证日常工作顺利进行。做到共同完成仪器维护和临床检验项目更新 \n3：及时向临床更新检验项目及进行开展新项目临床意义课程介绍\n个人评价：有丰富的检验工作经验及专业的临床检验知识，擅长与人沟通；有较强的组织能力、应变能力及服务意识；做事严谨，并有良好的团队协作精神；较强的责任心和吃苦耐劳精神，做事踏实，有责任心，有良好的沟通能力及团队协作能力。四年的检验科工作不仅丰富了临床知识，同时了解了医疗器械行业的发展，以及更加清晰了自己未来的工作目标和人生职业规划，我也将以饱满的热情面对未来新的工作和挑战。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "检验科",
+            "scale": "1000-5000人",
+            "startDate": "2013-07",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 6.0
+}

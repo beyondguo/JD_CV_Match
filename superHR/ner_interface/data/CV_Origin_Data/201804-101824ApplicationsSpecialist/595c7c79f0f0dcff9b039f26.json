@@ -1,0 +1,237 @@
+{
+    "basic": {
+        "birthday": "1968-01",
+        "currentCity": "武汉",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "国科康仪",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售经理",
+    "currentSalary": " 40万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "1991-07",
+            "major": "医学检验",
+            "school": "同济医科大学",
+            "startDate": "1987-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435449.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "IVD(厂商)",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435452.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "2",
+                    "enumValue": "免疫",
+                    "id": "1",
+                    "isDefault": false,
+                    "orderIndex": 1.0
+                },
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "生化",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435455.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435458.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "带人经理",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435461.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435467.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Emmylou Lian"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435470.0,
+            "strValue": "武汉",
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "医学检验",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a162a2f89a2ab1cd60a42d",
+            "id": "8",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435473.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "9",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435476.0,
+            "userName": "Emmylou Lian"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "5",
+                    "enumValue": "湖北省",
+                    "id": "4",
+                    "isDefault": false,
+                    "orderIndex": 4.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "10",
+            "lastUpdate": "Jul 5, 2017 1:43:55 PM",
+            "lastUpdated": 1499233435481.0,
+            "userName": "Emmylou Lian"
+        }
+    ],
+    "graduateSchool": "同济医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "武汉;长沙;上海",
+        "industry": "制药/生物工程;医疗/保健/美容/卫生服务;医疗设备/器械",
+        "position": "医疗器械市场推广",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "595c7c79f0f0dcff9b039f26",
+    "projectExp": [],
+    "salaryRemark": "45万",
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "国科康仪",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责南中国区lvD公司的并购工作\n",
+            "endDate": "4000-10",
+            "position": "销售经理",
+            "startDate": "2018-01"
+        },
+        {
+            "company": "索灵诊断医疗设备(上海)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责两湖和江西省的免疫发光仪器和试剂销售。年销售额7千万。带4人\n",
+            "endDate": "2018-01",
+            "position": "销售经理",
+            "startDate": "2016-01"
+        },
+        {
+            "company": "雅培贸易(上海)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责湖北，陕西，新疆，青海，宁夏，甘肃，的渠道建立及销售。下边带3人\n",
+            "endDate": "2016-01",
+            "position": "销售经理",
+            "startDate": "2015-01"
+        },
+        {
+            "company": "贝克曼库尔特商贸(中国)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责两湖流式细胞推广及销售\n",
+            "endDate": "2015-01",
+            "position": "销售经理",
+            "startDate": "2014-01"
+        },
+        {
+            "company": "希森美康医用电子上海有限公司",
+            "detail": "- 所在地区：武汉 \n - 汇报对象：销售总监 \n - 下属人数：7人 \n - 职责业绩： \n1，负责湖北，湖南检验产品销售。代理价2.1亿\n2，负责该区域代理商管理，及新渠道筛选，\n3，负责该区域推广工作\n4，负责该区域VIP客户维护\n5，负责该区域销售团队的管理\n2011年完成代理商进货价1.1亿，2012年完成代理商进货1.5亿。2013年任务为2.1亿。平均每年增长40%左右。\n",
+            "endDate": "2013-12",
+            "position": "武汉办事处经理",
+            "startDate": "2010-10"
+        }
+    ],
+    "workYears": 33.0
+}

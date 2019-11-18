@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "强生(上海)医疗器材有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "高级销售代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "市场营销",
+            "school": "陕西中医药大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "客户经理/主管;大客户销售管理;渠道/分销专员",
+        "salary": "12.00万（10000元/月 * 12个月）"
+    },
+    "otherLangResumeId": "5a6690d6f0f08ca06c5c3bf1",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "强生(上海)医疗器材有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：DSM \n - 下属人数：0人 \n - 职责业绩： \n负责陕西省市场的设备招标，耗材销售，\n达成良好\n",
+            "endDate": "4000-10",
+            "position": "高级销售代表",
+            "startDate": "2015-04"
+        },
+        {
+            "company": "舒泰神(北京)生物制药股份有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责区域医院的产品进院和销售上量工作，主要负责消化内科和普外科等\n",
+            "endDate": "2015-03",
+            "position": "医药代表",
+            "startDate": "2013-11"
+        }
+    ],
+    "workYears": 7.0
+}

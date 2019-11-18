@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "福建省",
+        "gender": "女",
+        "maritalStatus": "保密",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "国药集团福建",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "应用支持",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "动植物检验检疫",
+            "school": "山东农业大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械市场推广",
+        "salary": "10.80万（9000元/月 * 12个月）",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "\n普通话\n",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "国药集团福建医学检验有限公司",
+            "companyDescription": "",
+            "department": "",
+            "detail": "职责业绩： 1.很好的确保仪器正常运行及相关维护，协助科室老师完成免疫组化实验；\n 2.工作能力沟通能力获得病理科科室老师医生的一致好评认可；\n 3.为销售提供了第一时间的资料，及时了解了竞争对手的情况及进展；\n 4.关注科室的情况，为销售提供了科室可能需要的仪器试剂的信息及方案，协助她们推广；\n 5.协助销售推广产品和及时回款；\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "应用支持",
+            "salary": "保密",
+            "scale": "",
+            "startDate": "2014-11",
+            "type": ""
+        },
+        {
+            "company": "山东省烟台绿叶制药集团&mdash;&mdash;绿叶动物保健品公司",
+            "companyDescription": "",
+            "department": "",
+            "detail": "职责业绩： 2012.12&mdash;2104.08 于绿叶制药集团从事品质保障（QA），主要负责抗体车间生产产品的质量保障工作，以及部分检验工作。\n2012.03&mdash;2012.11 于绿叶制药集团从事产品质量检测工作（QC），负责产品的效力检测，以及参与动态车间GMP验收工作，直接向质检总监汇报工作。\n",
+            "endDate": "2014-07",
+            "industry": "制药/生物工程",
+            "position": "质量检验员",
+            "salary": "",
+            "scale": "",
+            "startDate": "2012-07",
+            "type": ""
+        }
+    ],
+    "workYears": 6.0
+}

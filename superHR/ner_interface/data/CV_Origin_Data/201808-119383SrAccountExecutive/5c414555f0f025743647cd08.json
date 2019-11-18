@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1984-3-15",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/a10b40e3abaf03160741523f0399127a.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "铜川",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2007-06",
+            "major": "历史学",
+            "school": "陕西理工学院",
+            "startDate": "2003-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,建筑/建材/工程",
+        "position": "销售人员,区域销售经理",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1周内"
+    },
+    "langAbility": " \n英语 一般 ",
+    "projectExp": [],
+    "selfComm": "再给自己一次机会突破自我\n校内职务 \n2007/7-2007/12 西安维能达奥数培训学校从事助教工作 \n2005/2-2007/4 从事家教 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海沪鸽医疗器械有限公司",
+            "department": "销售部",
+            "detail": "负责甘肃、宁夏、青海、新疆的市场渠道开发维护以及终端市场直销客户的开发维护。\n11年-12年增长量一直保持在100%，13年保持在50%，14年至16年保持在30%以上，定期联系讲师在举办学术会议。",
+            "endDate": "2017-06",
+            "industry": "制药/生物工程",
+            "position": "医疗器械销售经理",
+            "scale": "150-500人",
+            "startDate": "2011-12",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 11.0
+}

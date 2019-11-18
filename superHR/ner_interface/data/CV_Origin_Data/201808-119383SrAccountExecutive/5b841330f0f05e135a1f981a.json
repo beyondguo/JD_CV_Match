@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1993-7-24",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "西安市第一医院",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "医学检验",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2013-07",
+            "major": "医学检验",
+            "school": "西安医学院",
+            "startDate": "2009-02"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程,多元化业务集团公司",
+        "position": "医药学检验,医药学检验",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5b841330f0f05e135a1f981a",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安市第一医院",
+            "department": "检验科",
+            "detail": "\n负责检验科sop文件整理，检验科安全隐患管理，负责临检室工作文件的编辑，负责免疫组罗氏601仪器检查项目的日常维护保养，常规，室内质量控制，室间质量评价和比对工作\n因表现出色2017年10月借调于西安市卫计委药政处采购联合体，负责数据管理，参与药品议价工作，2018年7月回岗。",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生",
+            "position": "医药学检验",
+            "startDate": "2014-01"
+        }
+    ],
+    "workYears": 5.0
+}

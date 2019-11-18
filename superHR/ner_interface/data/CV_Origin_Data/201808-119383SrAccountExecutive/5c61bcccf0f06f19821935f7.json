@@ -1,0 +1,84 @@
+{
+    "basic": {
+        "birthday": "1985-8-14",
+        "currentCity": "西安-未央区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "渭南",
+        "zipCode": ""
+    },
+    "certificate": " \n2011/5 药士 ",
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2009-05",
+            "major": "药学",
+            "school": "陕西兵器职工大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "陕西省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售主管,销售经理,客户经理/主管,其他,销售代表",
+        "salary": "10-15万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "本人有五年医疗护理耗材的销售经验，肯吃苦愿意学习，希望有稳定性工作，能够适应出差。\n校内职务 \n2009/7-2010/7 团委 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "美舒医疗器械贸易（上海）有限公司",
+            "department": "大中华销售部",
+            "detail": "负责美诺医疗陕西、甘肃、青海等地区手术室废液收集线、泌外系统、肠内营养、密闭式吸痰管产品推广、销售、、临床开发、后期维护等工作。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医药销售人员",
+            "scale": "外资(欧美)",
+            "startDate": "2018-12"
+        },
+        {
+            "company": "西安拓豪商贸有限公司",
+            "department": "销售部",
+            "detail": "负责贝朗输液耗材及3M伤口敷料的开发销售",
+            "endDate": "2018-11",
+            "industry": "医疗设备/器械",
+            "position": "业务代表",
+            "scale": "少于50人",
+            "startDate": "2014-04",
+            "type": "民营公司"
+        },
+        {
+            "company": "西安聚和医疗器械科技有限公司",
+            "department": "销售部",
+            "detail": "负责喉罩开发销售",
+            "endDate": "2014-03",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "少于50人",
+            "startDate": "2013-04",
+            "type": "民营公司"
+        },
+        {
+            "company": "西安泰生医药连锁有限公司",
+            "department": "销售部",
+            "detail": "负责店里日常销售和管理",
+            "endDate": "2013-03",
+            "industry": "医疗/护理/卫生",
+            "position": "其他",
+            "scale": "少于50人",
+            "startDate": "2009-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 10.0
+}

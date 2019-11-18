@@ -1,0 +1,74 @@
+{
+    "basic": {
+        "birthday": "1986-2-25",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/2e5ea7859bf9876482c1abb9f535c6e4.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "铜川",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "数控车床的编程与操作。",
+            "endDate": "2007-07",
+            "major": "机械设计制造及其自动化",
+            "school": "陕西铜川工业技术学院",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程,医疗/护理/卫生",
+        "position": "医疗器械销售代表,医疗器械销售",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [],
+    "selfComm": "本人积极乐观，稳重，乐于助人，有上进心，能吃苦，有责任心。",
+    "trainExp": " \n2008/11--2011/7 网络相关课程 \n培训机构： 宁波博翔职业培训学校 \n培训地点： 宁波市海曙大厦7楼 \n培训描述： 主要有《企业网络高级技术》，《ISA2004》，《Exchange 2003》,《Windows Server 2003 \n系统管理》等课程，主要是搭建各种服务器，如WEB，FTP，Exchange 2003,SQL server 2005，DNS等等，还有域控中活动目录的建立。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西利秦商贸有限公司",
+            "department": "利秦办",
+            "detail": "该公司的产品有：百威、哈尔滨啤酒、锐奥鸡尾酒、进口啤酒、唯怡植物蛋白等。\n工作内容：\n1.手机每天登录百威系统，拍门头照定位，进行日常客户拜访。\n2.每月初公司推出产品促销方案，我们所有业务去拜访客户时，向客户阐述产品的促销活动。\n3.向烟酒店和便利店不定期推销新产品，如箭牌口香糖、维维柠檬茶、德芙巧克力等。\n4.旺季的时候百威、哈尔滨啤酒做门店的堆头陈列。\n5.定期维护老客户，并不断开发新客户。",
+            "endDate": "4000-10",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "渠道/分销专员",
+            "scale": "500-1000人",
+            "startDate": "2015-12",
+            "type": "民营公司"
+        },
+        {
+            "company": "特变电工西安电气科技有限公司",
+            "department": "生产调试部",
+            "detail": "该公司主要生产不同功率的光伏逆变器、汇流箱、交直流配电柜等。\n工作内容：\n1、每天装配逆变器、交直流配电柜、汇流箱等产品。\n2、生产调试部门分为三个组：元器件、二次线、调试。\n3、本人在元器件组装配小元器件，有时也接二次线。\n4、完成部门领导布置的其他工作，有时出差办公。",
+            "endDate": "2015-11",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "生产技术员",
+            "scale": "150-500人",
+            "startDate": "2012-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "宁波绿色世纪健康管理有限公司",
+            "department": "业务部",
+            "detail": "业务推广，跑市场，会议营销，进行保健品系列产品的讲解，定期打电话发短信问候客户，邀请客户参加活动。",
+            "endDate": "2012-08",
+            "industry": "医疗/护理/卫生",
+            "position": "销售代表",
+            "scale": "150-500人",
+            "startDate": "2008-02",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 11.0
+}

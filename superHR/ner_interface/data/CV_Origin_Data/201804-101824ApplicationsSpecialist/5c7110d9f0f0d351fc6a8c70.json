@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1982-3-24",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2001-07",
+            "school": "福建三明卫生学校",
+            "startDate": "1998-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "生物/制药/医疗器械",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "对工作认真负责，有爱心，有较强的销售技巧",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "珠海金鸿药业股份有限公司",
+            "department": "销售部",
+            "detail": "负责区域内客户的开发以及维护，对产品专业知识的培训",
+            "endDate": "2015-11",
+            "industry": "制药/生物工程",
+            "position": "销售代表",
+            "startDate": "2013-05"
+        }
+    ],
+    "workYears": 6.0
+}

@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1983-1-16",
+        "currentCity": "福州",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 15万元 ",
+    "degree": "高中",
+    "eduExp": [
+        {
+            "degree": "高中",
+            "detail": "社会多元文化学",
+            "endDate": "2017-08",
+            "major": "交通运输",
+            "school": "敖江中学",
+            "startDate": "1995-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": " 环保 ",
+        "position": "",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [
+        {
+            "detail": "工业气体项目",
+            "endDate": "2017-10",
+            "name": "福建液化空气煤气化项目",
+            "responsibility": "负责给总经理开车兼行政采购和调度车辆工作事议",
+            "startDate": "2014-11"
+        }
+    ],
+    "selfComm": "思路清晰，团队合作精神，\n校内职务 \n1995/4-1997/7 学生委员 \n\n职务描述： 负责班主任安排日常生活和学习用品、班级管理。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "液化空气（福州）有限公司",
+            "department": "行政部门",
+            "detail": "在该公司负责给总经理开车兼行政临时釆购和调度班车司机和接待工作等",
+            "endDate": "4000-10",
+            "industry": "石油/化工/矿产/地质",
+            "position": "专职司机",
+            "scale": "150-500人",
+            "startDate": "2014-11",
+            "type": "外资(欧美)"
+        }
+    ],
+    "workYears": 16.0
+}

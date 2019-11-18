@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1993-9-27",
+        "currentCity": "福建省",
+        "gender": "男",
+        "maritalStatus": "保密",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/6891b129940c514843e98dedeb3a543b.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "宁德",
+        "zipCode": ""
+    },
+    "certificate": " \n大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "课程：药物分析，药理学，药剂学，生物药剂学与药代动力学，药物化学\n毕业设计：复方板蓝根利咽颗粒水提液的HPLC特征图谱的建立",
+            "endDate": "2016-06",
+            "major": "药学",
+            "school": "福建中医学院",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗/护理/卫生,医疗设备/器械",
+        "position": "医药销售经理/主管,销售主管",
+        "salary": "4500-5999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 精通 ",
+    "projectExp": [],
+    "selfComm": "作为应届毕业生，充满对未来的渴望与追求。自信与谦卑是与生俱来的品性，拥有自己独到的观念和想法，以及艰苦奋斗的决心与毅力。\n校内职务 \n2013/12-2014/7 药学院团委科技部副部长 \n职务描述： 主要负责收集学院创新创业比赛的资料与公文处理，组织成员培训等 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建省医药有限责任公司",
+            "department": "采购配置总部",
+            "detail": "在该公司主要负责进口药品采购相关工作，并为此与各厂家商务长期沟通，确定主要采购方案与采购指标。\n主要工作内容有：\n1.药品库存管理，符合公司库存管理原则\n2.采购数量的确定与商务的沟通交流\n3.部门日常事务处理\n4.主导返利台账的确定与及时催讨返利，台账的核销工作",
+            "endDate": "4000-10",
+            "industry": "批发/零售",
+            "position": "外贸采购员",
+            "scale": "50-150人",
+            "startDate": "2016-08",
+            "type": "国企"
+        },
+        {
+            "company": "厦门市医药研究所实习",
+            "detail": "来到厦门市医药研究所实习，完成本科毕业论文。",
+            "endDate": "2006-05",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2006-01"
+        }
+    ],
+    "workYears": 3.0
+}

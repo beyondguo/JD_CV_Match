@@ -1,0 +1,66 @@
+{
+    "basic": {
+        "birthday": "1985-09",
+        "currentCity": " 福建省",
+        "currentSalary": "年薪20 万元",
+        "gender": "男",
+        "maritalStatus": "",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "西门子诊断产品（上海）有限公司",
+    "currentPosition": "产品/品牌专员",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2008-07",
+            "major": "医学检验",
+            "school": "南方医科大学",
+            "startDate": "2004-08"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称中级\n参加会议：工作期间参加过多场行业交流会议，也在一些行业交流会中进行过一些专题的讲解",
+    "graduateSchool": "南方医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": ""
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5ba1ab09f0f04220dd9f7352",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "年薪20 万元",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西门子诊断产品（上海）有限公司",
+            "department": "临床市场部",
+            "detail": "\n工作于西门子诊断产品（上海）有限公司，负责福建省免疫以及蛋白产品的临床推广活动，期间多次举办科室会，院内会以及城市会议，讲解产品的临床应用方向，对代理商也进行过多次项目培训，推广方向，另外也配合应用同事解决临床抱怨等问题，在工作期间对蛋白及免疫产品学习到了丰富的医学知识，可以很好的和检验科以及临床科室沟通",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生|5000-10000人|外资(欧美)",
+            "position": "产品/品牌专员",
+            "startDate": "2016-12"
+        },
+        {
+            "company": "南京军区福州总医院",
+            "department": "检验科",
+            "detail": "\n毕业后就业于福州总院，主要工作于微生物实验室，可以主导临床微生物的检验工作，另外对于免疫检验，蛋白检验以及生化检验都有较丰富经验，可以很好的与团队配合与临床沟通，在工作期间也负责福建医科大学临床实验诊断学的教学工作，有较好的讲课经验",
+            "endDate": "2016-12",
+            "industry": "医疗/护理/卫生|1000-5000人|国企",
+            "position": "医药学检验",
+            "startDate": "2008-07"
+        }
+    ],
+    "workYears": 11.0
+}

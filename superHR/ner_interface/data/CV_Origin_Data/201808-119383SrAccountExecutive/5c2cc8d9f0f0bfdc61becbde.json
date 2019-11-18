@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1991-8-29",
+        "currentCity": "西安-曲江文化新区",
+        "gender": "男",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/92a00c494d555975e279c42642ab66f8.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 7万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2014-07",
+            "major": "应用物理学",
+            "school": "内蒙古民族大学",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "售前/售后技术支持工程师,医疗器械维修人员,医疗器械生产/质量管理,维修工程师",
+        "salary": "6-8万 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "\n本人性格沉稳，为人诚恳，适应能力强，具备相关的专业知识，对生活充满希望，对工作充满热情！能在短时间内适应新环境，敢于迎接挑战，我将以充沛的精力、饱满的热情和顽强的毅力来努力工作，不断提高自己，融入企业，与企业共同发展！",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "北京宏强富瑞技术有限公司",
+            "department": "西安分公司",
+            "detail": "\n负责区域内所有客户的各种仪器保养维修，主要包含10600，1550，1064，532，980，808波长的激光设备，宽光谱脱毛机，清洁类，射频类，超声类仪器设备。定期客户回访，客户接待，确保客户的满意度，增加客户与公司的黏性。",
+            "endDate": "2018-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "民营公司",
+            "startDate": "2014-07"
+        }
+    ],
+    "workYears": 5.0
+}

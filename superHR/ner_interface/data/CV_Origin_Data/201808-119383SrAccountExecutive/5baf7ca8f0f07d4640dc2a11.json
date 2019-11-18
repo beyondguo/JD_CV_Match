@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1984-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "强生",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "大客户经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2011-07",
+            "major": "中药学",
+            "school": "黑龙江中医药大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "大客户销售;销售代表;销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 性格外向、活泼开朗。亲和力强，善于沟通。 对人慷慨大方，热心，喜欢帮助别人。 有进取精神和团队精神。适应力强，具有较强的抗压能力。 诚信做人，诚信做事！ \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "强生",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n2017年完成全年指标\n",
+            "endDate": "4000-10",
+            "position": "大客户经理",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "常州市康迪医用吻合器有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：1人 \n",
+            "endDate": "2016-04",
+            "position": "区域经理",
+            "startDate": "2016-01"
+        },
+        {
+            "company": "美敦力(上海)管理有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n耳鼻喉及外科全线产品的推广\n学术会议的组织与参与，KOL客户的开发与维护\n设备的跟台试用，装机与维护\n经销商渠道的建设，培训与管理\n",
+            "endDate": "2015-05",
+            "position": "高代",
+            "startDate": "2011-07"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "basic": {
+        "birthday": "1993-05",
+        "currentCity": "福建厦门市",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "",
+        "registeredResidence": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "厦门基源医疗科技有限公司",
+    "currentIndustry": "",
+    "currentPosition": "助理研发工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2017-06",
+            "major": "医学检验",
+            "school": "广东医科大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "广东医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "1、积极学习临床必修课程，熟悉掌握理论知识，在校五年成绩优良，专业课基础扎实。通过计算机一级考试和国家英语六级考试 \n2、在广东省人民医院检验科实习期间，做事专心细致，态度认真，工作能力得到了带教老师的认可。3、本人性格活泼，为人友善，处事果敢；思想朴素，踏实勤勉；乐于助人，富有责任感。我正在寻找一个适合自己的发展平台，希望能够充分发挥自己的优势，共同努力成就一番事业",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门基源医疗科技有限公司",
+            "department": "医学检验部",
+            "detail": "负责各类样本（血液，游离血浆，组织切片，口腔拭子，唾液等）DNA提取，基础PCR，凝胶电泳，一代测序结果比对，引物设计，能够应用Ncbi ，primer3.0等网站的基本功能，独立完成核酸质谱实验的操作以及结果分析，对核酸质谱体系进行实验调试，能够熟练完成MassARRAY 核酸质谱分析系统，了解高通量测序的工作流程以及原理。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "助理研发工程师",
+            "salary": "",
+            "scale": "",
+            "startDate": "2017-07",
+            "type": ""
+        },
+        {
+            "company": "广东省人民医院",
+            "department": "检验科",
+            "detail": "",
+            "endDate": "2017-01",
+            "industry": "",
+            "position": "实习生",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-01",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

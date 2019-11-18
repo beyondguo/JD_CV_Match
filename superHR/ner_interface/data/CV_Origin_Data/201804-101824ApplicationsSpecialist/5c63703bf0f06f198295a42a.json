@@ -1,0 +1,75 @@
+{
+    "basic": {
+        "birthday": "1987-1-29",
+        "currentCity": "福州",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/69abbeb79f895342d29024aefed559bc.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "三明",
+        "zipCode": ""
+    },
+    "certificate": " \n2008/10 电工高级 （一般） \n2008/9 驾驶执照 （比较熟练） ",
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "信息技术为主",
+            "endDate": "2009-07",
+            "major": "电子信息工程",
+            "school": "湄洲湾职业技术学院",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "通信/电信/网络设备,通信/电信运营、增值服务",
+        "position": "通信技术工程师,无线通信工程师",
+        "salary": "元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [],
+    "selfComm": "\n本人具备较好的学习能力和适应能力及组织沟通能力；具有一定的通信和电子理论基础，有3年的通信工程建设工作经验。熟练掌握AutoCAD、VISIO绘图软件及相关办公软件。",
+    "trainExp": " \n2009/7--2009/9 通信网络基础知识 \n培训机构： 福建三元达通信股份有限公司 \n培训地点： 福州三元达总部 \n培训描述： \n对通信基础知识特别是GSM、SCDMA、TD、WCDMA进行系统原理学习，熟练CAD、VISIO画图软件和路测软件的应用，学习直放站及相关公司产品的工作原理及简单维修。\n2008/12--2009/1 无线覆盖及应用基础知识 \n培训机构： 福建先创电子有限公司 \n培训地点： 泉州先创总部 \n培训描述： 学习通信基础理论知识，学习相关设计软件（主要有AutoCAD、VISIO），学习公司设备工作原理及简单设备维护。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "厦门加华电力科技有限公司福州分公司",
+            "department": "生产",
+            "detail": "主要工作内容有：变压器排油注氮消防装置的安装维护，和分析仪（变电站相关设备的检测仪器）的组装调试,以及开车接送客户等。",
+            "endDate": "4000-10",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "电子工程师/技术员",
+            "scale": "50-150人",
+            "startDate": "2013-03",
+            "type": "合资"
+        },
+        {
+            "company": "福建新大陆通信科技股份有限公司",
+            "department": "工程技术部",
+            "detail": "在广电平台上从事数字电视发射机信号覆盖工程。主要工作内容有：数字电视发射机的安装、调试和开通，及无线信号质量的路测优化，设备的故障处理和日常维护。",
+            "endDate": "2013-03",
+            "industry": "通信/电信运营、增值服务",
+            "position": "无线通信工程师",
+            "scale": "500-1000人",
+            "startDate": "2011-03",
+            "type": "上市公司"
+        },
+        {
+            "company": "三元达通讯股份有限公司",
+            "department": "工程部",
+            "detail": "从事自\n移动联通电信手机信号覆盖的相关工程建设。主要工作内容有室内分布站点勘测、方案设计(AutoCAD绘图及文档）、工程施工督导、站点测试及开通、室内外直放站设备安装维护、通信网络维护等工作。",
+            "endDate": "2011-02",
+            "industry": "通信/电信/网络设备",
+            "position": "无线网络建设",
+            "scale": "500-1000人",
+            "startDate": "2009-07",
+            "type": "上市公司"
+        }
+    ],
+    "workYears": 10.0
+}

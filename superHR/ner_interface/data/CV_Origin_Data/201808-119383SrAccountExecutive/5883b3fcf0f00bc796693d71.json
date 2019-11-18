@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1990-3-24",
+        "currentCity": "咸阳",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "咸阳",
+        "zipCode": "710000"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "锐珂亚太投资管理（上海）有限责任公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "Service Sales",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2012-07",
+            "major": "生物医学工程",
+            "school": "河南科技大学",
+            "startDate": "2009-06"
+        }
+    ],
+    "graduateSchool": "河南科技大学（自考）",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表,医疗器械维修人员,工程师，销售代表",
+        "salary": "8000-9999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5c494baff0f0fc92fc37bc87",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "554344173",
+    "projectExp": [],
+    "selfComm": "严谨务实，以诚待人，团队协作能力强；英语听说读写能力强 吃苦耐劳，工作上有较强的管理和动手能力且有较强学习能力； \n敢于面对挑战，具有良好的适应性和做事情认真负责。 敬业，勇于拼搏 能够适应长期出差。\n校内职务 \n2009/9-2012/7 学生会干事 ",
+    "trainExp": " \n2014/9--2014/9 communication skill \n培训机构： 锐珂医疗 \n培训地点： 上海 \n2014/8--2014/8 moment of truth \n培训机构： 卓越培训 \n培训地点： 北京 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "锐珂亚太投资管理（上海）有限责任公司",
+            "department": "Service",
+            "detail": "\n2014年至今参与宁夏远程会诊项目，2015协助经销商在宁夏和陕西出售6块平板，提高carestream胶片占有率。协助团队在陕西的设备销售。2016-2018设备维护以及保修任务。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "Service Sales",
+            "scale": "10000人以上",
+            "startDate": "2014-08",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "飞利浦（中国）投资有限公司",
+            "department": "health care",
+            "detail": "主要负责宁夏以及西北5省的CT，DR的保修工作，协助销售保修的签约。提高设备买保率，提升Philips客户满意度。",
+            "endDate": "2014-08",
+            "industry": "医疗设备/器械",
+            "position": "Field Service",
+            "scale": "10000人以上",
+            "startDate": "2012-08",
+            "type": "外资(欧美)"
+        }
+    ],
+    "workYears": 7.0
+}

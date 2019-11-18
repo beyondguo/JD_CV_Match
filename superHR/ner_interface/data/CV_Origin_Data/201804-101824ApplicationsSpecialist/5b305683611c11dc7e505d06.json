@@ -1,0 +1,49 @@
+{
+    "basic": {
+        "birthday": "1994-01",
+        "currentCity": "漳州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "漳州市鸿康医药科技有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "客户经理",
+    "degree": "中专",
+    "eduExp": [
+        {
+            "degree": "中专",
+            "endDate": "2012-07",
+            "major": "数控",
+            "school": "漳州第一职业技术学校",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "漳州",
+        "industry": "制药/生物工程",
+        "position": "医药销售代表",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 有亲戚在医院上班，希望我能尽快入职这个行业 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "漳州市鸿康医药科技有限公司",
+            "detail": "- 所在地区：漳州 \n - 下属人数：0人 \n - 职责业绩： \n本人从事医药销售业务，主要负责临床的一些药品技术推广。\n",
+            "endDate": "4000-10",
+            "position": "客户经理",
+            "startDate": "2011-10"
+        },
+        {
+            "company": "弘韵贸易有限公司",
+            "detail": "- 所在地区：漳州 \n",
+            "endDate": "4000-10",
+            "position": "客户经理",
+            "startDate": "2011-10"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "basic": {
+        "birthday": "1994-10-17",
+        "currentCity": "福州",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/6 大学英语六级 \n2013/12 全国计算机等级二级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n本专业培养具备现代管理学理论基础、计算机科学技术知识及应用能力，掌握系统思想和信息系统分析与设计方法以及信息管理等方面的知识与能力，能在国家各级管理部门、工商企业、金融机构、科研单位等部门从事信息管理以及信息系统分析、设计、实施管理和评价等方面的高级专门人才。",
+            "endDate": "2016-07",
+            "major": "信息管理和信息系统",
+            "school": "福州大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 福州 ",
+        "contractTerm": "全职",
+        "industry": "计算机软件,互联网/电子商务",
+        "position": "售前/售后技术支持工程师,海外售前技术支持工程师",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": " \nPython 良好 \nSAP 熟练 \nHTML 熟练 \nSQL Server 精通 \nOracle 熟练 \nCSS 熟练 \n英语 熟练 ",
+    "projectExp": [
+        {
+            "detail": "1.负责海外客户邮件支持；\n2.负责Demo代码编写，协助客户解决问题；\n3.负责海外客户培训;\n4.根据客户需求，内部跟进提供解决方案",
+            "endDate": "4000-10",
+            "name": "海外项目支持",
+            "responsibility": "",
+            "startDate": "2018-01"
+        },
+        {
+            "detail": "将传统建行应用移植到安卓平台，功能以及相应需求依照传统pos以及相关规范要求。测试要求功能可正常运行，程序稳定",
+            "endDate": "4000-10",
+            "name": "建行收单项目",
+            "responsibility": "测试项目负责人，项目进度把控，项目bug跟踪等",
+            "startDate": "2016-07"
+        }
+    ],
+    "selfComm": "性格活泼开朗，做事认真细心，对工作充满热情，可接受频繁出差",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建联迪商用设备有限公司",
+            "department": "海外售前支持部",
+            "detail": "1.快速了解客户需求并分享一些解决方案\n2.根据项目需求，组织跨部门协调会议，确定项目实施方案；\n3.解决客户的问题，关于产品，软件使用各个方面",
+            "endDate": "4000-10",
+            "industry": "计算机软件",
+            "position": "其他",
+            "scale": "1000-5000人",
+            "startDate": "2018-01",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "福建联迪商用设备有限公司",
+            "department": "软件测试中心",
+            "detail": "1.负责公司软件产品的黑盒测试，具体又细分为软件新增功能的测试、软件bug纠正后的测试以及新版本发布前的测试。 \n2.负责测试计划、测试用例及测试报告等文档的编写 \n3.负责bug识别、归类、跟踪到解决的整个过程并以记录形式提交备查",
+            "endDate": "2018-01",
+            "industry": "计算机软件",
+            "position": "其他",
+            "scale": "1000-5000人",
+            "startDate": "2016-07",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "亚信联创科技（中国）有限公司",
+            "department": "软件测试",
+            "detail": "主要是通过在虚拟环境下的功能使用来测试软件的实际功能",
+            "endDate": "2016-05",
+            "industry": "计算机软件",
+            "position": "其他 (兼职)",
+            "scale": "5000-10000人",
+            "startDate": "2015-12",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "福建富士通信息软件有限公司",
+            "department": "产品部",
+            "detail": "\n从事数据库管理系统(DBMS)和数据库应用软件设计研发的相关工作人员的统称，有一部分运维工作的内容。他主要从事软件研发的工作，但同时也要参与数据库生产环境的问题优化和解决。",
+            "endDate": "2015-08",
+            "industry": "计算机服务(系统、数据服务、维修)",
+            "position": "数据库工程师/管理员 (兼职)",
+            "scale": "500-1000人",
+            "startDate": "2015-07",
+            "type": "合资"
+        }
+    ],
+    "workYears": 3.0
+}

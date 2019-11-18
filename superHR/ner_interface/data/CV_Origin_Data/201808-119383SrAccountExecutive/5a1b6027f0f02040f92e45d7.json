@@ -1,0 +1,73 @@
+{
+    "basic": {
+        "birthday": "1976-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "陕西怡辉医疗器械有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "商务经理",
+    "currentSalary": " 20万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2014-06",
+            "major": "英语",
+            "school": "西安翻译学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "不限",
+        "position": "",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5a1b6027f0f02040f92e45d7",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西怡辉医疗器械有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n负责公司产品在西北五省的经销商管理，甄选，发货，回款，物价，招标。\n",
+            "endDate": "4000-10",
+            "position": "商务经理",
+            "startDate": "2018-02"
+        },
+        {
+            "company": "辉瑞制药有限公司（PFIZER）",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n2011年起负责公司产品在陕西，甘肃，西宁的经销商甄选、管理、招标等常规工作。2013年后负责包括国控陕西等11家陕西经销商的价格，渠道，配送的日常工作。2017年通过国控陕西和派昂医药主导合作了榆林，宝鸡，商洛的基层市场覆盖销售项目。2013年,2016年荣获公司topsales \n。市场业绩由加入公司时的2000万/年增长到5000万/年。其中通过经销商渠道分销覆盖others1500万/年。负责公司经销商内购项目西北区管理，经销商分级制度西北区管理。在陕西商务领域积累了良好的客户关系和声誉。\n",
+            "endDate": "2018-02",
+            "position": "商务主管",
+            "startDate": "2011-02"
+        },
+        {
+            "company": "拜耳医药保健有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n临床推广，负责省人民医院，交大一附院及宝鸡地区拜糖平临床推广，期间有一年时间兼负责拜耳血糖仪在上述地区的销售工作。负责的宝鸡人民医院血糖试纸销售荣获西北区top。\n",
+            "endDate": "2011-01",
+            "position": "销售主管",
+            "startDate": "2007-01"
+        },
+        {
+            "company": "英国葛兰素史克公司（GLAXOSMITHKLINE）",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n心血管产品在陕西的临床推广工作，负责西京医院，唐都医院等。\n",
+            "endDate": "2007-01",
+            "position": "医药代表",
+            "startDate": "2003-01"
+        },
+        {
+            "company": "西安金花制药",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n从事金花转移因子在新疆地区的临床推广工作\n",
+            "endDate": "2003-01",
+            "position": "医药代表",
+            "startDate": "1999-01"
+        }
+    ],
+    "workYears": 21.0
+}

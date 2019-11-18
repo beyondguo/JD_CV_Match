@@ -1,0 +1,70 @@
+{
+    "basic": {
+        "birthday": "1981-11",
+        "currentCity": "陕西 西安-长安区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://mypics.zhaopin.cn/pic/2012/1/31/DFF496BED0A1433296896D70BF4D0E6E.jpg",
+        "registeredResidence": "陕西-西安"
+    },
+    "certificate": "2011年在亚特兰大获得&quot; President award for best sales&quot;",
+    "confidentialResume": "N",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2004-06",
+            "major": "应用物理学",
+            "school": "西北工业大学",
+            "startDate": "2000-07"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "贸易/进出口、加工制造（原料加工/模具）、医疗设备/器械",
+        "position": "销售业务",
+        "salary": "15000-25000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "英语： 读写能力&nbsp;精通| 听说能力&nbsp;精通",
+    "projectExp": [],
+    "selfComm": "有很强的进取精神，工作认真负责.能够自我激励，性格开朗，善于与人交往，团队工作能力强。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "大族激光科技产业集团股份有限公司",
+            "department": "",
+            "detail": "\n1，管理销售团队，制定销售策略\n2，出差美国/德国/新加坡/芬兰拜访客户，探讨现有项目及新项目机会\n3，协调公司资源，确保销售过程顺利进行\n4，处理报价及销售过程中客户投诉\n",
+            "endDate": "2018-03",
+            "industry": "大型设备/机电设备/重工业",
+            "position": "销售经理",
+            "scale": "1000-9999人",
+            "startDate": "2014-12",
+            "type": "股份制企业"
+        },
+        {
+            "company": "Genuine Parts Company",
+            "department": "",
+            "detail": "\n1.负责亚洲地区的产品销售 \n2.部沟通，及时解决销售过程的各种问题 \n3.拜访客户及维护客户关系 \n4.根据客户需求寻找相应产品 \n5.进行定单或合同的商务谈判讨论 \n6.熟悉电子绝缘材料 \n7.每年去美国一个月参加展会及销售培训\n8. 2011年在亚特兰大获得最佳销售奖\n",
+            "endDate": "2014-12",
+            "industry": "加工制造（原料加工/模具）",
+            "position": "销售经理",
+            "scale": "500-999人",
+            "startDate": "2009-03",
+            "type": "外商独资"
+        },
+        {
+            "company": "富士康",
+            "department": "",
+            "detail": "\n1．与客户合作制定工作计划，主导样品和试产阶段的工作，确保整个过程顺利完成。 \n2．与小组成员共同制定具体工作日程，并严格按照执行，依照实际情况及时调节。 \n3．主持周会讨论每个项目所出现的问题点，特别是一些影响工作进度的重点问题 \n4．针对项目状况制定当周及当月的项目报告，如项目现状、阶段性成果及可能出现的风险。 \n5．联合产品工程师、制作工程师生产出具有竟争力的产品，扩大市场份额。 \n6．每周三打电话到法国与客户讨论项目技术问题。 \n7．能够适应高节奏的工作环境。\n",
+            "endDate": "2009-02",
+            "industry": "通信/电信运营、增值服务",
+            "position": "项目管理专员",
+            "scale": "10000人以上",
+            "startDate": "2004-07",
+            "type": "股份制企业"
+        }
+    ]
+}

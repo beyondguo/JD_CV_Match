@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1990-12",
+        "currentCity": "陕西 西安",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/pic/2015/1/13/47b7a65f-c824-479b-876c-0177c92d3af7.jpg",
+        "registeredResidence": "陕西-渭南"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 7万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2013-07",
+            "major": "其他",
+            "school": "陕西中医学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程、医疗设备/器械",
+        "position": "售前/售后技术支持工程师、生物/制药/医疗器械、医院/医疗/护理",
+        "salary": "4001-6000元/月",
+        "state": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）"
+    },
+    "otherLangResumeId": "5b8c8deaf0f0f0359492e2b3",
+    "projectExp": [],
+    "selfComm": "思想成熟、为人诚实、个性稳重、具高度责任感。 &nbsp;&nbsp; 积极主动、独立工作能力强。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安迈高医疗科技有限公司",
+            "department": "",
+            "detail": "\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012年12月至2013年7月在咸阳二一五医院检验科实习。\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在就职于第四军医大学西京医院病理科，操作免疫组织化学实验，能熟练使用罗氏全自动染色仪器Benchmark XT和最新型Benchmark \nULTRA和日常的保养维护。\n",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "操作员",
+            "scale": "20-99人",
+            "startDate": "2014-04",
+            "type": ""
+        }
+    ],
+    "workYears": 5.0
+}

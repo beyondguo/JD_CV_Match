@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "Xi&#39;an",
+        "gender": "Female",
+        "nationality": "China",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "Hangzhou Bioer Technology Co., Ltd",
+    "currentIndustry": "Medical Equipment/Devices",
+    "currentPosition": "Regional Sales Manager",
+    "degree": "Master",
+    "eduExp": [
+        {
+            "degree": "Master",
+            "endDate": "2013-06",
+            "major": "Traditional Chinese Medicine (molecular biology) Postgraduate (Master&#39;s Degree)",
+            "school": "Shaanxi Normal University",
+            "startDate": "2010-09"
+        },
+        {
+            "degree": "Bachelor",
+            "endDate": "2010-07",
+            "major": "Chinese Medicine Undergraduate (Bachelor)",
+            "school": "Shaanxi University Of Traditional",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "Xi&#39;an",
+        "industry": "Medical Equipment/Devices",
+        "position": "Regional Sales Manager/Supervisor",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n Professional competence: 8 years of study in the professional field and \nobtained bachelor and master degree, 5 years of sales experience in reagents \nand instruments, good at market development and new business development. \nTraining ability: good at analyzing and studying sales skills, willing to share \nwith other colleagues, explain professional knowledge and sales points to all \nagent teams in person. Team coordination: as an excellent team leader to \ncoordinate the regional division and business contacts between different agents \nin the region, and achieve the goals together. Personality: I am optimistic, \npositive, active, self-disciplined and good at establishing and maintaining \ninterpersonal relationships quickly.\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Hangzhou Bioer Technology Co., Ltd",
+            "detail": "- 所在地区：Xi&#39;an \n - 下属人数：0人 \n - 职责业绩： \n Responsibilities: responsible for reagent channel sales in Northwest China, \nSichuan, Chongqing and Henan, as well as follow-up the project of enterprises \nand public institutions.\n reagent business development:\n The reagent sales volume in northwest China reached &yen;400,000 increased 300% \nyear on year.\n Sichuan and Chongqing new reagent customers have achieved sales volume of \n&yen;400,000 .\n In Henan, I have completed the first order of 50 kits from Henan Animal \nHusbandry since I took over the project in October 2018.\n development and follow-up with Zhengzhou Boao Biotechnology Co., Ltd., Jinyu \nMedical Inspection Group, Shaanxi Baimei Gene and other third party inspection \ninstitutions.\n Agent development: from 0 to 1, develop agency channels, 5 agents in \nnorthwest China, 2 agents in Sichuan and Chongqing, and 3 agents in henna, with \na total contract order quantity of 2.2 million.\n market development:\n Made a strange visit, communicated with the department teachers about the \ncurrent project, and mastered the progress and results of projects.\n Recommends reagent projects, relevant scientific research and technical \nprograms and application results.\n Provide sample sack, technical training and operation demonstration.\n Further communication with the head of the department about the use and \nmethod of reagent research so as to obtain technical approval.\n Project training: responsible for reagent technical training, market guidance \nand business cooperation negotiation for commercial agents.\n System sorting: established the price system for each agent, established the \nofficial discount setting, and ensure that agents in the region have no \nmalicious bidding and conflicts.\n Information Record: product sales license, registration certificate, business \nlicense and other qualifications shall be provided to the hospital for record; \nCollect and input related information of hospitals for reagent order.\n organization of conference:\n organized the industry exchange meeting &quot;northwest life science industry \ninstrument and reagent exchange meeting&quot;, invited 6 technical experts from \ndifferent manufacturers to give speeches, and nearly 100 relevant personnel \nfrom manufacturers and dealers of the same industry attended the meeting.\n Organized 6 outdoor touring exhibitions in southwest and northwest China \nconnected with the scientific research of universities to publicize and promote \nthe company&#39;s brand image.\n activity planning: conference process design, venue rental, host arrangement, \nelectronic invitation card design, check-in guidance and prize setting, etc\n",
+            "endDate": "4000-10",
+            "position": "Regional Sales Manager",
+            "startDate": "2017-11"
+        },
+        {
+            "company": "Xi &#39;An Chennuo Biotechnology Co., Ltd",
+            "detail": "- 所在地区：Shanxi \n - 下属人数：0人 \n - 职责业绩： \n Sales performance: completed the sales of 10 instruments, with nearly \n&yen;800,000 sales volume; Reagent sales increased by 1 million.\n customer relations:\n maintained the company&#39;s existing customer relations and developed new \ncustomers with the introduction of surrounding relationships.\n visited new customers and expanded the 4 new customers in the area, including \nthe First Affiliated Hospital of Xi &#39;An Jiaotong University, The Second \nAffiliated Hospital of Xi &#39;An Jiaotong University, Shaanxi People&#39;s Hospital, \nXi &#39;An Red Cross Hospital, Xi &#39;An Jiaotong University and Its Affiliated \nMedical Department.\n Balance payment collection: 10% quality guarantee deposit of the instrument \nwas paid in one year, and ensures the payment collection rate in three months \nwill be within the normal range of 60-80%.\n Bidding control: customer negotiation and communication, preparation of \nmaterials, analysis and confirmation of prices, whole process promotion and \ncontrol of the company&#39;s bidding projects, and coordination of bidding and \nrelated work in the region.\n Supplier maintenance: maintain good relationship with R&amp;D, production, \nprocurement and after-sales departments of the company, ensure timely and \naccurate order placing, delivery, installation, training and after-sales \nservice according to customer order requirements.\n",
+            "endDate": "2017-06",
+            "position": "Regional Sales Manager",
+            "startDate": "2014-04"
+        }
+    ],
+    "workYears": 5.0
+}

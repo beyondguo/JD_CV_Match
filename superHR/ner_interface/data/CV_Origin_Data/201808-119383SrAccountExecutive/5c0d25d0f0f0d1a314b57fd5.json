@@ -1,0 +1,35 @@
+{
+    "basic": {
+        "birthday": "1996-08",
+        "currentCity": "西安未央区",
+        "gender": "男",
+        "photoAddress": "http://img00.zhaopin.cn/SZProj/newrd/img/banner/personpic_m.png",
+        "registeredResidence": "西安"
+    },
+    "confidentialResume": "N",
+    "currentSalary": "性别：男",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2019-06",
+            "major": "国际商务",
+            "school": "&nbsp;&nbsp;西安工业大学北方信息工程学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职、实习",
+        "industry": "医药/生物工程",
+        "position": "销售业务",
+        "salary": "4001-6000元/月",
+        "state": "应届毕业生"
+    },
+    "projectExp": [],
+    "selfComm": "对销售工作有着很高的工作热情和坚韧的销售意愿，善于团队合作，指定工作计划，工作目标明确，执行力强，勤奋踏实，执行力强，有上进心，乐于交往敢于面对风险善于总结及规划。热心诚恳，乐观向上，有良好的品德与职业素质，细心负责。热爱学习，勇于探索喜欢有挑战性的工作，致力于在销售营销领域有所建树。",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

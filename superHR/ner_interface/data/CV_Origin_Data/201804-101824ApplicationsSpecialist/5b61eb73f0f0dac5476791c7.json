@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1998-6-3",
+        "currentCity": "泰安",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2021-07",
+            "major": "会计学",
+            "school": "山东服装学院",
+            "startDate": "2018-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "泰安",
+        "contractTerm": "全职",
+        "industry": "生活服务",
+        "position": "网络/在线客服,淘宝客服",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

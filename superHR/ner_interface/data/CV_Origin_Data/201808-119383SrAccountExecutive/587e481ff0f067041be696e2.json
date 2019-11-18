@@ -1,0 +1,52 @@
+{
+    "basic": {
+        "birthday": "1976-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": " \n1998/7 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "Besins",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "ASM",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "1998-07",
+            "major": "汉语言文学",
+            "school": "西北大学",
+            "startDate": "1994-09"
+        }
+    ],
+    "graduateSchool": "西北大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "区域销售总监",
+        "salary": "26.00万（20000元/月 * 13个月）"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "587e481ff0f067041be696e2",
+    "proSkill": "英语    良好\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "50-60万元/年",
+    "selfComm": "\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Besins",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n负责管理中国西区所有产品线（生殖医学、妇科、产科）的业务，包括对下属DSM、MR的发展，对KOL及下属的需求做出适当反应以达成区域的目标和任务 \n制定和实施大区的愿景和使命，建立一个业绩良好，极富生产力和士气高昂的团队\n领导区域销售团队，制定和执行区域销售策略，实现长短期业务目标 \n优化组织结构，整合区域资源，建立有效的区域管理体系 \n参与所负责区域的人员招聘和解聘，负责团队人员发展计划，进行绩效管理和激励 \n促进内外部管理团队和跨部门的合作，建立和保持有效沟通系统，及时与DSM、MR及公司领导沟通，确保每次城市会议达到有效的沟通和团队建设的作用 \n根据公司政策分配/批准及控制区域资源和预算，并确保管理区域要与公司政策或区域的管理方针相一致\n",
+            "endDate": "4000-10",
+            "position": "ASM",
+            "startDate": "2012-03"
+        }
+    ],
+    "workYears": 21.0
+}

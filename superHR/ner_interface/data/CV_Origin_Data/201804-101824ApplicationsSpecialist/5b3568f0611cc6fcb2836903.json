@@ -1,0 +1,43 @@
+{
+    "basic": {
+        "birthday": "1986-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "福建国药器械有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域销售经理",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2008-07",
+            "major": "物流管理",
+            "school": "福州大学",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理/主管",
+        "salary": "9.60万（8000元/月 * 12个月）"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建国药器械有限公司",
+            "detail": "- 所在地区：福州 \n - 职责业绩： \n美敦力，强生，蛇牌产品的市场维护\n定期开展沙龙，科室会\n",
+            "endDate": "4000-10",
+            "position": "区域销售经理",
+            "startDate": "2016-12"
+        }
+    ],
+    "workYears": 11.0
+}

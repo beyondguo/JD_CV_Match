@@ -1,0 +1,45 @@
+{
+    "basic": {
+        "birthday": "1991-01",
+        "currentCity": "福州-鼓楼区",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "中山大学达安基因股份有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "技术支持",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "生物技术",
+            "school": "福建农林大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州;南平",
+        "industry": "制药/生物工程",
+        "position": "售后支持经理/主管;售后支持工程师;售前支持经理/主管",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b893297f0f075347f9b82e2",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中山大学达安基因股份有限公司",
+            "detail": "- 所在地区：福州-鼓楼区 \n - 职责业绩： \n售前售中售后应用支持；设备安装调试、校准维护、维修工程师。\n",
+            "endDate": "4000-10",
+            "position": "技术支持",
+            "startDate": "2015-09"
+        }
+    ],
+    "workYears": 5.0
+}

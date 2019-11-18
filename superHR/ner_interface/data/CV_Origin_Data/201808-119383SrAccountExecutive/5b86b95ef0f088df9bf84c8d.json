@@ -1,0 +1,66 @@
+{
+    "basic": {
+        "birthday": "1977-01",
+        "currentCity": "北京",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "赛斯泰科（北京）生物有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "总经理",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2000-07",
+            "major": "中西医结合",
+            "school": "山东中西医结合大学",
+            "startDate": "1996-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "北京",
+        "industry": "制药/生物工程;医疗设备/器械;医疗/保健/美容/卫生服务",
+        "position": "首席执行官CEO/总裁/总经理;合伙人;副总裁/副总经理",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "5b86b95ef0f088df9bf84c8d",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "赛斯泰科（北京）生物有限公司",
+            "detail": "- 所在地区：北京 \n - 下属人数：15人 \n - 职责业绩： \n 负责整个公司\n",
+            "endDate": "4000-10",
+            "position": "总经理",
+            "startDate": "2013-09"
+        },
+        {
+            "company": "上海康祥卫生器材有限公司",
+            "detail": "- 所在地区：北京 \n - 下属人数：3人 \n - 职责业绩： \n负责东北地区检验仪器，生化试剂，糖化血红蛋白仪器及血气分析仪器的代理商渠道建设及管理工作\n",
+            "endDate": "2013-01",
+            "position": "东北大区经理",
+            "startDate": "2008-01"
+        },
+        {
+            "company": "博奥生物有限公司暨生物芯片（北京）国家工程研究中心",
+            "detail": "- 所在地区：北京 \n - 下属人数：0人 \n - 职责业绩： \n主要面对北京地区大三甲医院和科研院所销售生物芯片仪器及技术服务并且协助双方技术合作。获得公司销售冠军和公司五周年奖。\n",
+            "endDate": "2008-01",
+            "position": "销售经理",
+            "startDate": "2005-01"
+        },
+        {
+            "company": "康泰医学系统有限公司",
+            "detail": "- 所在地区：赣州 \n - 下属人数：0人 \n - 职责业绩： \n主要面对江西省内市场销售心脑电电生理医疗设备，康强超声，呼吸机，麻醉机等\n",
+            "endDate": "2005-01",
+            "position": "销售代表",
+            "startDate": "2000-08"
+        }
+    ],
+    "workYears": 18.0
+}

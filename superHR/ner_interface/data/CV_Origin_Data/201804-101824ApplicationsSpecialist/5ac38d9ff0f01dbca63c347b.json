@@ -1,0 +1,85 @@
+{
+    "basic": {
+        "birthday": "1992-10-12",
+        "currentCity": "上海-浦东新区",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "上海",
+        "zipCode": ""
+    },
+    "certificate": " \n2013/1 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2015-07",
+            "major": "生物科学",
+            "school": "华东理工大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "上海",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械",
+        "position": "市场/营销,生物/制药/医疗器械,市场营销专员",
+        "salary": "9000-13000 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n\n英语 熟练 ",
+    "otherLangResumeId": "5ac516cdf0f0d27276ac339b",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "558085440",
+    "projectExp": [],
+    "selfComm": "2015年毕业于华东理工大学生命科学专业后从事市场工作，现于一家跨国生物实验室供应商公司，就职于市场部任产品专员。平时工作分为以下几大类：\n\n1.售前支持（代理商培训、竞品分析、投资回报分析、产品引入、销售资料准备、客户疑问解答、会议支持）2.市场资料准备（PPT、彩页、宣传礼品）3.产品上市规划及市场分析4.产品定价 \n5.进口产品本土化 6.招标文件、代理商文件把关 7.电子媒体推广（网页及公众号）。\n \n公司共有13条生产线的产品，身为唯一的产品专员，有针对性的进行产品宣传，协助市场经理工作,支持销售推广从而达成业绩目标,是我本职工作，Office软件、Adobe \nIllustrator，Acrobat均为工作中必用的软件。\n 英语口语水平流利,与总部同事及国际客户交流,宣讲产品,交流工作均无障碍。\n 现在意向成为医疗设备或医药跨国公司市场部医院，或生物制药行业研究员职位，在为公司创造价值的同时进一步提升自我。HR可QQ：476084381 \n微信：tudongliang163 邮箱：tudongliang@163.com 进行进一步洽谈。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泰尼百斯",
+            "department": "市场部",
+            "detail": "隶属于总公司在中国子公司市场部，公司主营产品为动物实验室大型设备。\n平时工作分为以下几大类：\n\n1.市场分析及销售支持（代理商培训、竞品分析、投资回报分析、产品引入、销售资料准备、客户疑问解答、会议支持）2.市场资料准备（PPT、彩页、宣传礼品）3.产品上市规划及市场分析4.产品定价 \n5.进口产品本土化 6.招标文件、代理商文件把关 7.电子媒体推广（网页及公众号）。\n\n公司共有13条生产线的产品，身为唯一的产品专员，有针对性的进行产品宣传，协助市场经理工作,支持销售推广从而达成业绩目标,是我本职工作，Office软件(Word,PPT)、Adobe \nIllustrator，Acrobat均为工作中必用的软件。\n汇报对象：市场经理",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "产品/品牌专员",
+            "scale": "150-500人",
+            "startDate": "2017-03",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "Spacelink 上海灵柯创想展示制作有限公司",
+            "department": "海外部",
+            "detail": "进行海外项目报价、细节确认、寻找供应商、中英文文案编辑、维护客户关系等。",
+            "endDate": "2017-03",
+            "industry": "公关/市场推广/会展",
+            "position": "项目执行专员",
+            "scale": "少于50人",
+            "startDate": "2016-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "华东理工大学",
+            "department": "实验室",
+            "detail": "进行疫苗研发实习",
+            "endDate": "2015-07",
+            "industry": "制药/生物工程",
+            "position": "医药技术研发人员",
+            "scale": "事业单位",
+            "startDate": "2014-11"
+        },
+        {
+            "company": "各种大学志愿活动",
+            "detail": "在寒暑假进行志愿者活动，在校大一大二期间进行过多次生物社团组织活动。",
+            "endDate": "2015-07",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2011-09"
+        }
+    ],
+    "workYears": 2.0
+}

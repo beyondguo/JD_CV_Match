@@ -1,0 +1,83 @@
+{
+    "basic": {
+        "birthday": "1988-9-21",
+        "currentCity": "福州-鼓楼区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "来宾",
+        "zipCode": "350108"
+    },
+    "certificate": " \n2013/12 大学英语六级 \n2010/12 CCT-2 （合格） ",
+    "confidentialResume": "N",
+    "currentSalary": " 9万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "",
+            "endDate": "2014-06",
+            "major": "微生物",
+            "school": "福建师范大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 上海 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "医药技术研发人员,生物工程/生物制药,其他,研发工程师",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "projectExp": [
+        {
+            "detail": "大学实验室(硬件环境)福建省科技厅项目，课题老师与泉州第一医院，第二医院及180医院均有合作。主要优化如何能快速从感染者提供的样品中检测出病原菌种",
+            "endDate": "2016-04",
+            "name": "快速高效一次诊断儿童CNS感染45种致病菌诊断试剂盒",
+            "responsibility": "负责样品dna提取，pcr等一系列实验。",
+            "startDate": "2015-03"
+        }
+    ],
+    "selfComm": "1.熟悉使用office办公软件。\n2.英语6级。英语文献检索阅读熟练，可进行实验设计。\n3.可撰写注册文件。\n4.熟悉qPCR检测。有life平台（多重扩增法）和illumina平台（杂交捕获法）关于肿瘤突变检测的经验，能熟练进行一系列ngs检测实验。\n5.性格开朗，和客户相处关系融洽。但目前更倾向于做研发相关工作。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "燃石生物",
+            "department": "技术支持部",
+            "detail": "1.负责客户端肿瘤突变检测NGS平台搭建。（illumina）\n2.负责客户端NGS检测相关实验操作和理论知识的培训。\n3.对客户在进行肿瘤突变NGS检测过程中出现的相关问题进行解答，提供技术支持。（主要负责福建区域）",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "区域技术支持",
+            "scale": "500-1000人",
+            "startDate": "2017-09",
+            "type": "民营公司"
+        },
+        {
+            "company": "厦门致善生物科技股份有限公司",
+            "department": "研发部",
+            "detail": "1.负责遗传组项目相关研究材料和竞品信息的收集。\n2.进行试剂盒研发优化，撰写注册材料。\n3.对技术支持和销售人员进行培训和提供技术指导。",
+            "endDate": "2017-08",
+            "industry": "医疗设备/器械",
+            "position": "研发工程师",
+            "scale": "50-150人",
+            "startDate": "2016-08",
+            "type": "民营公司"
+        },
+        {
+            "company": "福州迪恩(外派至华侨大学生物医学学院)",
+            "department": "生物医学院实验室",
+            "detail": "1.主要从事实验室课题研究，学习life平台 ion torrent pgm 测序的应用，主方向为肿瘤靶向药物。\n2.总结完善文献中实验方案，进行核酸提取，pcr，克隆，测序样品建库上机等。\n3.有abi3500一代测序经验。",
+            "endDate": "2016-04",
+            "industry": "医疗/护理/卫生",
+            "position": "分子技术员",
+            "scale": "少于50人",
+            "startDate": "2015-03",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 4.0
+}

@@ -1,0 +1,65 @@
+{
+    "basic": {
+        "birthday": "1992-11",
+        "currentCity": " 福州-仓山区",
+        "currentSalary": "年薪5 万元",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "uploads/talent_photo/1807/941f0f66a121893add2d4ee88cc071a4.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "2015/6  大学英语四级",
+    "confidentialResume": "N",
+    "currentCompany": "福州艾迪康医学检验所",
+    "currentPosition": "病理医生",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2017-07",
+            "major": "临床医学与医学技术",
+            "school": "安徽医科大学",
+            "startDate": "2012-09"
+        }
+    ],
+    "graduateSchool": "安徽医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "5000-10000元/月",
+        "state": ""
+    },
+    "langAbility": "",
+    "proSkill": "英语良好",
+    "projectExp": [],
+    "salaryRemark": "年薪5 万元",
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州艾迪康医学检验所",
+            "department": "病理实验室",
+            "detail": "熟练掌握组织病理取材、细胞病理制片，基本掌握细胞病理阅片",
+            "endDate": "4000-10",
+            "industry": "医疗/护理/卫生|民营公司",
+            "position": "病理医生",
+            "startDate": "2018-02"
+        },
+        {
+            "company": "解放军第一七四医院",
+            "department": "临床科室",
+            "detail": "轮转于临床各科室",
+            "endDate": "2016-12",
+            "industry": "医疗/护理/卫生|事业单位",
+            "position": "实习医师",
+            "startDate": "2015-12"
+        }
+    ],
+    "workYears": 3.0
+}

@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1998-4-5",
+        "currentCity": "宝鸡",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "无",
+    "eduExp": [],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 西安 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,医疗/护理/卫生",
+        "position": "医药学检验,医学检验",
+        "salary": "2000-2999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "汉中市中心医院",
+            "detail": "2018年在汉中市中心医院实习至2019年3月",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "医药学检验",
+            "startDate": "2018-07"
+        }
+    ],
+    "workYears": 0.0
+}

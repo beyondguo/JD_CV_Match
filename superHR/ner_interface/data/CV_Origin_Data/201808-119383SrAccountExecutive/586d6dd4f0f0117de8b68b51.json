@@ -1,0 +1,101 @@
+{
+    "basic": {
+        "birthday": "1985-6-11",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-11/74394131277d2235450ff4dd48f9c0a5/5a49a7293ea0ab1812cc72a621caf1c6.jpg",
+        "politicalStatus": "中共党员",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "certificate": " \n2012/12 康代年度优秀员工 （年度评估优秀） \n2007/1 中级工程师 \n2006/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "康代Camtek影像科技深圳分公司",
+    "currentIndustry": "电子技术/半导体/集成电路",
+    "currentPosition": "售前/售后技术支持工程师",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "基础课：高等数学、大学英语、电路分析、模拟电子技术、数字电子技术、CAD、C语言\n专业课：自动控制技术、微机接口技术、电力电子技术、电机与电气控制技术、单片机应用技术、仪器仪表技术、供配电技术",
+            "endDate": "2008-06",
+            "major": "计算机控制技术（航空电子）",
+            "school": "西安航空学院",
+            "startDate": "2005-06"
+        }
+    ],
+    "graduateSchool": "西安航空学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "仪器仪表/工业自动化,电子技术/半导体/集成电路,医疗设备/器械,贸易/进出口,机械/设备/重工",
+        "position": "售前/售后技术支持经理,售前/售后技术支持工程师,售前/售后技术支持主管,电子/电器/半导体/仪器仪表,技术支持工程师",
+        "salary": "8000-12000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "592d7fc1f0f0ba67d136690c",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "96849997",
+    "proSkill": "英语    良好\n",
+    "projectExp": [
+        {
+            "detail": "康代全球首台商用绿油喷墨设备客户端评估硬件跟进，问题反馈，及最终处理。",
+            "endDate": "2016-08",
+            "name": "康代3D喷墨设备客户端评估",
+            "responsibility": "硬件校正以及打印质量的回馈。",
+            "startDate": "2015-10"
+        },
+        {
+            "detail": "康代Dragon系列软件升级至Phoenix软件，硬件光学头的升级改造。\n提高康代AOI效率和侦测能力！",
+            "endDate": "2012-12",
+            "name": "康代AOI升级",
+            "responsibility": "负责客户现场硬件升级，软件更进，以及和以色列总部研发沟通！",
+            "startDate": "2012-06"
+        }
+    ],
+    "projectExpStr": "2015-10-2016-08    康代3D喷墨设备客户端评估\n硬件校正以及打印质量的回馈。\n2012-06-2012-12    康代AOI升级\n负责客户现场硬件升级，软件更进，以及和以色列总部研发沟通！\n",
+    "salaryRemark": "5000-10000元/月",
+    "selfComm": "自信、自立、自强是我与生俱来的气质；\n诚信守信、主动积极和良好的团队意识是我立足之本；\n有良好的沟通能力，扎实的专业知识以及丰富的技术经验。",
+    "trainExp": " \n2015/5--2015/6 康代线路板3D打印 \n培训机构： 康代以色列总部 \n培训地点： 以色列 \n培训描述： 通过对PCB 行业全球首台商用最新技术防焊和字符3D打印的培训，了解熟悉了3D打印原理及其康代3D打印Gryphon的调试！ \n2011/5--2011/9 康代AOI的原理及设备调试 \n培训机构： 康代影像培训中心 \n培训地点： 苏州 \n培训描述： 通过对PCB AOI 的培训，能够清楚的认识及其调试AOI 设备！对AOI 有了深刻的认识！ \n2008/3--2008/6 半导体工艺及ASSY机器构造 \n培训机构： 赛意法半导体FLIPCHIP部 \n培训地点： \n培训描述： 在这次培训中都掌握半导体的工艺流程及具体的操作步骤，并使我对半导体行\n业有了全新的认识 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "海克斯康测量技术（青岛）有限公司",
+            "department": "商务部",
+            "detail": "1.精通光学测量的原理，对影像测量有深刻认识。\n2.精通海克斯康测量硬件光学部件选型测试，光学校正和测量精度补偿。\n3.精通光学镜头测试选型，以及各种光学测量传感器如基恩士，普雷茨特，欧姆龙等\n3.精通自动测量编程，以及客户培训。\n4.负责产品管理和客户产品调研以及售前技术支持。",
+            "endDate": "4000-10",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "产品工程师",
+            "scale": "500-1000人",
+            "startDate": "2017-04",
+            "type": "合资"
+        },
+        {
+            "company": "康代Camtek影像科技(苏州)有限公司",
+            "department": "售后服务部",
+            "detail": "1.精通自动光学检测原理，对光学影像设备有深入认识。\n2.精通自动光学检测硬件软件以及光学校正设定，对光学检测应用有深刻认识。\n3.精通AOI算法，应用设定以及客户培训。\n4.精通AOI 设备日常维护保养等。\n5.熟悉计算机硬件，软体系统以及TCP/IP协议等网络知识。\n6.熟悉康代3D打印绿油防焊和白字字符设备新技术。",
+            "endDate": "2017-04",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "售前/售后技术支持工程师",
+            "scale": "150-500人",
+            "startDate": "2011-05",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "意法半导体（深圳）有限公司",
+            "department": "FLIPCHIP",
+            "detail": "熟悉半导体Flipchip倒装芯片Bumping,laser marking,die sawing \n,VI的工艺流程以及设备技术原理，熟练使用倒装芯片Assembly各种机型,并能够对其进行维护维修和调试。\n1.熟悉半导体微波发生器的原理,熟悉半导体400PLASMA SYSTEM机型。\n2.熟悉半导体激光打标设备原理,熟悉韩国EO TECHNICS的CSM2000和CSM2002。\n3.精通半导体中的Die Saw机器工作原理,DIE SAW 机器的维护,维修和调试.熟悉机型有日本DISCO和东京精密ACCRETECH。\n4.精通半导体AVI设备原理和调试，熟悉机型有美国AUGUST。",
+            "endDate": "2011-05",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "设备工程师",
+            "scale": "500-1000人",
+            "startDate": "2008-06",
+            "type": "合资"
+        }
+    ],
+    "workYears": 10.0
+}

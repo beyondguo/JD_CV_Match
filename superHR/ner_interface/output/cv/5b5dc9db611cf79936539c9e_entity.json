@@ -1,0 +1,135 @@
+{
+    "in_path": "D:/Project/NER_Interface_v3_20190412/ner_interface/data/CV_Origin_Data/201808-119383SrAccountExecutive/5b5dc9db611cf79936539c9e.json",
+    "id": "5b5dc9db611cf79936539c9e",
+    "工作年限": 4.0,
+    "工作城市": [
+        "Shanghai"
+    ],
+    "专业": [
+        "International Business Development",
+        "International Business Economics Management",
+        "EASA Pilot License",
+        "Political Science/Business Admin."
+    ],
+    "毕业院校": [
+        "Parma University",
+        "Vilniius University",
+        "Baltic Aviation Academy",
+        "California State University"
+    ],
+    "学历": [
+        "Master",
+        "Master",
+        "Technical School",
+        "Bachelor"
+    ],
+    "工作经验": [
+        {
+            "工作公司": "Lufthansa Cargo",
+            "工作职位": [
+                "North Asia Commercial Manager"
+            ],
+            "岗位工作年限": 0.5,
+            "工作描述": {
+                "技能": [
+                    "Shanghai",
+                    "bull",
+                    "f",
+                    "r",
+                    "s",
+                    "o",
+                    "r",
+                    "s",
+                    "bull",
+                    "reported",
+                    "data",
+                    "and",
+                    "propose"
+                ],
+                "学历": [],
+                "专业": [],
+                "行业": [],
+                "职能": [],
+                "年限": [
+                    "-"
+                ],
+                "业务": [
+                    "人数:0人 "
+                ],
+                "产品": []
+            }
+        },
+        {
+            "工作公司": "Dimerco Express",
+            "工作职位": [
+                "Air Export Specialist"
+            ],
+            "岗位工作年限": 0.6,
+            "工作描述": {
+                "技能": [
+                    "Dallas",
+                    "bull",
+                    "A",
+                    "e",
+                    "a",
+                    "bull",
+                    "p",
+                    "r",
+                    "w",
+                    "m",
+                    "a",
+                    "a",
+                    "bull",
+                    "work",
+                    "and",
+                    "bull",
+                    "warehouse",
+                    "inventory",
+                    "for",
+                    "all"
+                ],
+                "学历": [],
+                "专业": [],
+                "行业": [],
+                "职能": [],
+                "年限": [
+                    "-"
+                ],
+                "业务": [
+                    "人数:0人 "
+                ],
+                "产品": []
+            }
+        }
+    ],
+    "自我评价": {
+        "技能": [
+            "positions",
+            "sales",
+            "or",
+            "marketing",
+            "department",
+            "where",
+            "my",
+            "language",
+            "skills",
+            "with",
+            "business",
+            "can",
+            "assist",
+            "the",
+            "more",
+            "advantages",
+            "the"
+        ],
+        "学历": [],
+        "专业": [],
+        "行业": [],
+        "职能": [],
+        "年限": [],
+        "业务": [],
+        "产品": []
+    },
+    "业务": "",
+    "产品": ""
+}

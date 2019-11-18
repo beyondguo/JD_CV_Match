@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "birthday": "1995-10-20",
+        "currentCity": "西安",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "7a92312630700a91591225556e6c497d_avatar_1514599412.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "医学检验",
+            "school": "陕西中医药大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 北京 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医药学检验,检验师",
+        "salary": "2000-2999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "第四军医大学",
+            "detail": "在第四军医大学学习了细胞培养，western blot等分子生物学的实验",
+            "endDate": "2018-07",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2018-06"
+        }
+    ],
+    "workYears": 0.0
+}

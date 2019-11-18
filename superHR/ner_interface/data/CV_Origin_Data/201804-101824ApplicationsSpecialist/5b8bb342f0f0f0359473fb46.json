@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1990-08",
+        "currentCity": "福建 泉州-惠安县",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/9/7/6fdde2e3-483b-477c-a68f-ec82bd2baa27.jpg",
+        "registeredResidence": "福建-泉州"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "深圳普门科技股份有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "高级销售经理",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "信息与计算科学",
+            "school": "黔南民族师范学院",
+            "startDate": "2009-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州、厦门、泉州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售业务、销售管理",
+        "salary": "10001-15000元/月",
+        "state": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）"
+    },
+    "otherLangResumeId": "5b8bb342f0f0f0359473fb46",
+    "projectExp": [
+        {
+            "detail": "责任描述：\n项目简介：概述： &nbsp;&nbsp;&nbsp;&nbsp;参与福建医科大学附属第二医院血栓防治中心示范基地项目建设 具体流程： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、协调医务科、护理部成立全院血栓防治小组； &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、多次组织专家到福建医科大学附属第二医院开会、授课，并将血栓评估表等纳入护士日常工作职责，加强相关医护人员重视； &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、将空气波压力治疗系统拿到血栓防治重点科室试用，有问题及时解决，获得客户对产品认同。 成果： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;顺利中标福建医科大学附属第二医院血栓防治中心项目建设方案，并成功将方案复制到漳州市医院等大型医院。",
+            "endDate": "2018/08",
+            "name": "福建医科大学附属第二医院血栓防治中心示范基地建设",
+            "startDate": "2017/07"
+        }
+    ],
+    "selfComm": "&nbsp;&nbsp;&nbsp;&nbsp; 6年左右的市场和销售领域从业经验，具备良好的沟通能力、人际交往能力和较强的团队合作精神，在市场营销、渠道开发和管理，经销商管理有丰富的经验； &nbsp;&nbsp;&nbsp;&nbsp;学习能力较强，产品上手快，专业课中学习了医疗设备原理及操作等，故能快速掌握设备的产品知识，并深入浅出，为我工作所用。 &nbsp;&nbsp;&nbsp;&nbsp; 多个岗位的历练使我接触了多方位的工作范畴，积累了全面的工作经验，强化了服务意识，市场分析营销、策划能力，良好的拓展意识和应变能力，学会整合一切资源、依靠团队力量的方式去攻克难关，完成年度销售任务。 &nbsp;&nbsp;&nbsp;&nbsp; 英语基础好。可适应出差。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "深圳普门科技股份有限公司",
+            "department": "",
+            "detail": "\n? \n担任闽西南（厦漳泉龙）公司治疗产品线的高级销售经理；对该区域客户情况熟悉，关系融洽，能够勤奋的工作，管理辖区内销售渠道，并搜寻、开发、筛选新渠道和经销商；\n? 作为厂家销售，拜访临床科室推介产品，了解意向和发掘新需求，维护原有客户关系；\n? 配合代理商/经销商进行市场营销活动，分解销售任务计划，全面完成公司既定任务目标；\n? 窗口医院建设与管理； \n? 定期拜访区域客户，发展新客户。\n? 组织召开市场推广学术活动\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "高级销售经理",
+            "scale": "",
+            "startDate": "2014-03",
+            "type": ""
+        }
+    ],
+    "workYears": 5.0
+}

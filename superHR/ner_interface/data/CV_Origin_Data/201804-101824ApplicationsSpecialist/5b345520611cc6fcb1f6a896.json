@@ -1,0 +1,74 @@
+{
+    "basic": {
+        "birthday": "1989-10-9",
+        "currentCity": "福州-鼓楼区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=324832510&amp;key=2a634e24287763c9feb9298f29e9c273",
+        "politicalStatus": "",
+        "registeredResidence": "宁德",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 15万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "\n西方经济学，管理学，市场营销学，策划学，会计学，休闲体育导论，休闲娱乐项目管理，休闲体育营销，运动项目概论，健身原理与方法，攀岩，网球，健美操，游泳，定向越野，登山。",
+            "endDate": "2012-06",
+            "major": "休闲体育",
+            "school": "武汉体育学院",
+            "startDate": "2008-10"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "销售经理,培训督导,销售经理/培训经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": " \n\n英语 良好 ",
+    "projectExp": [],
+    "selfComm": "本人性格开朗，诚实正直，谦和自信，乐于进取、乐于奉献，勤奋好学，积极上进，有较强的社会适应能力。\n　工作踏实，认真细致，具有强烈的事业心和工作责任心，善于处理人际关系，具有极佳的团队合作精神。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "平安人寿股份有限公司福建分公司",
+            "department": "培训部",
+            "detail": "1、组织与实施公司制式培训； \n2.组织与实施业务员层级的非制式培训班的教学工作，提高业务员层级的技能； \n3.组织实施各项产品培训；\n4、业务推动\n5、产品销售",
+            "endDate": "4000-10",
+            "industry": "保险",
+            "position": "销售，业务推动、培训讲师",
+            "scale": "10000人以上",
+            "startDate": "2012-12",
+            "type": "上市公司"
+        },
+        {
+            "company": "深圳市大运中心运营管理有限公司",
+            "department": "后勤保障部",
+            "detail": "\n实习期间主要负责大运中心体育场团队工作人员赛前和赛时饮用水的接收，入库管理和协调分配。以及赛时针对运动员及随队官员，技术官员，官员与贵宾，注册媒体的VIK饮料的协调配送。\n 实习工作中较好的完成了本职工作，荣获深圳第26届世界大学生夏季运动会大运中心体育场场馆团队突出贡献奖。",
+            "endDate": "2011-09",
+            "industry": "娱乐/休闲/体育",
+            "position": "后勤",
+            "scale": "150-500人",
+            "startDate": "2011-05",
+            "type": "国企"
+        },
+        {
+            "company": "武汉踏峰拓展有限公司",
+            "department": "拓展培训师",
+            "detail": "\n拓展培训课程方案设计，课程实施。曾先后培训了交通银行湖北省分行、亚洲心脏病医院、波司登服饰有限公司、金地集团、武汉电视台青少年夏令营、万达百货、武汉石化集团、百威啤酒、中建三局、西安杨森药业、武汉钢铁集团、长飞光纤等上百多家企业，培训学员5000多人次",
+            "endDate": "2012-06",
+            "industry": "娱乐/休闲/体育",
+            "position": "培训师 (兼职)",
+            "scale": "少于50人",
+            "startDate": "2009-03",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 9.0
+}

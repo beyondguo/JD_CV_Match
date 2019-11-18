@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1991-10",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=1678853%2BDXY&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建泉州市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentIndustry": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未填写",
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州市,厦门市,泉州市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "大学应届毕业生",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

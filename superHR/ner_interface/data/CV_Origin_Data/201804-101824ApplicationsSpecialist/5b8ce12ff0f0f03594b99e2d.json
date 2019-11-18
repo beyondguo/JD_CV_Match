@@ -1,0 +1,47 @@
+{
+    "basic": {
+        "birthday": "1996-8-2",
+        "currentCity": "厦门",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2018-06",
+            "major": "电子商务",
+            "school": "泉州华光职业学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "教育/培训/院校",
+        "position": "其他,京东运营店长",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2015/11-2018/6 组织部副部长 \n\n职务描述： 组织部主要是负责团办的交接任务，组织各部门携手创办活动等工作内容，校运会 \n，晚会等校内活动。2016年11月获得优秀部门奖，2018年6月获得优秀干部奖 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泉州红杉根电子商务有限公司",
+            "detail": "1、负责每日产品上新，美化产品图，维护后台数据\n2、负责京东店铺推广，提高店铺访客量和有效的转化率\n3、独立策划促销活动，每日开快车，及时的参与平台的各类营销的活动与引流\n4、分析店铺存在的不足，有针对性的进行改进，维护新老客户，负责售前售后服务",
+            "endDate": "2018-07",
+            "industry": "",
+            "position": "网店店铺管理员",
+            "startDate": "2017-11"
+        }
+    ],
+    "workYears": 1.0
+}

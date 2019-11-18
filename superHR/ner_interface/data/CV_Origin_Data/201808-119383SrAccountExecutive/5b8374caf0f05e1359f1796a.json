@@ -1,0 +1,45 @@
+{
+    "basic": {
+        "birthday": "1983-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "邦美（上海）商贸有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售主管",
+    "currentSalary": " 18万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2007-07",
+            "major": "临床医学",
+            "school": "第四军医大学",
+            "startDate": "2002-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗设备/器械",
+        "position": "销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n",
+    "trainExp": " \n2004/7--2005/7 临床实习 \n培训机构： 西安市第四人民医院 \n培训地点： \n培训描述： 西安市第四人民医院心内科,妇科,呼吸科,外科,中医科\n等多科室实习 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "捷迈(上海)医疗国际贸易有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：大区经理 \n - 下属人数：0人 \n - 职责业绩： \n渠道管理，大客户管理\n",
+            "endDate": "2016-02",
+            "position": "销售主管",
+            "startDate": "2013-08"
+        }
+    ],
+    "workYears": 11.0
+}

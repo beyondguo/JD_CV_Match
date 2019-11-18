@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1996-3-1",
+        "currentCity": "益阳",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2018-07",
+            "major": "电子信息科学与技术",
+            "school": "湘潭大学",
+            "startDate": "2014-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "广东省",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "硬件工程师,各种",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "projectExp": [],
+    "selfComm": "\n校内职务 \n2014/6-2016/6 学习委员 ",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

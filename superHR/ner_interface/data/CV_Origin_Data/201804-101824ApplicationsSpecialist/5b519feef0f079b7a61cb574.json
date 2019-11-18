@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1990-05",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "",
+        "registeredResidence": "湖南衡阳市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentIndustry": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2014-06",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称未填写",
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州市,厦门市,漳州市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科,输血科",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "proSkill": "大学英语六级、全国计算机二级",
+    "projectExp": [],
+    "selfComm": " 在学习上，勤奋刻苦，多次获得奖学金。在渗透课本知识的同时，注重理论与实践相结合，利用课余时间学习了Visual Basic 程序设计，并通过了全国计算机二级考试。\n    兴趣爱好广泛，喜欢读书、参加社团活动，学会了笛子和葫芦丝，并多次参加学校组织的晚会。性格独立，适应能力强，乐观积极向上，求知欲强，善于思考，具有良好的自学能力。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 0.0
+}

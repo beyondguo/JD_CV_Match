@@ -1,0 +1,61 @@
+{
+    "basic": {
+        "birthday": "1987-2-8",
+        "currentCity": "福州-仓山区",
+        "gender": "女",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "湖北省",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "制药工程",
+            "school": "武汉理工大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械,医疗/护理/卫生",
+        "position": "生物工程/生物制药,药品注册,药品市场推广经理,其他,应用专员",
+        "salary": "10-15万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 一般 ",
+    "projectExp": [],
+    "selfComm": "工作认真,态度严谨.",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州汇正生物科技有限公司",
+            "department": "市场部",
+            "detail": "1、 参与产品销售所需资料的整理，配合销售工作，参与客户开发。\n2、 了解各区域销售及客户使用状况及存在的问题，并提出有效的解决方案。\n3、 独立为客户进行试剂及设备的应用培训；独立完成实验，能够得到准确、合理的实验结果，并详实、完整记录实验过程。\n4、 负责对销售代表及经销商进行培训，并协助其制定推广及销售策略及并提出具体建议。\n5、 负责客户电话咨询和技术支持服务，并完整记录、归档，并向及时向厂家报告并跟踪解决。\n6、 与市场部共同策划本部门参与学术会议的内容和形式，并予以专业技术支持。\n请详细描述您的职责范围、工作任务以及取得的成绩等。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "生物工程/生物制药",
+            "scale": "民营公司",
+            "startDate": "2015-08"
+        },
+        {
+            "company": "泰普生物科学（中国）有限公司",
+            "department": "市场部",
+            "detail": "负责及时解决客户遇到的问题；负责统计工程师出差情况；负责追踪客户使用满意度；在医院提供技术支持",
+            "endDate": "2015-07",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "民营公司",
+            "startDate": "2008-07"
+        }
+    ],
+    "workYears": 11.0
+}

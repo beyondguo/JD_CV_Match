@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "birthday": "1994-06",
+        "currentCity": "陕西 西安-碑林区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/10/12/e789c697-b21e-476e-ae7d-7cf629d32584.jpg",
+        "registeredResidence": "陕西-汉中"
+    },
+    "confidentialResume": "N",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-06",
+            "major": "护理学",
+            "school": "陕西中医学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程",
+        "position": "医药学术推广、",
+        "salary": "6001-8000元/月",
+        "state": "我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）"
+    },
+    "otherLangResumeId": "5bd19307f0f0111376fff836",
+    "projectExp": [],
+    "selfComm": "2014年至2018年在在陕西省人民医院从事护理工作&nbsp;&nbsp;，随后就职于杭州九源基因工程有限公司，本公司主要负责陕西省人民医院，和高新医院的开发工作，在杭州九源工作期间积极克服工作上遇到的各种困难问题，配合上级领导完成工作任务，目前希望寻求更好的发展与学习平台。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "杭州九源基因工程有限公司",
+            "department": "",
+            "detail": "\n完成应有工作任务，配合上级领导完成开发医院的工作，同时学习产品知识，制作产品相关知识PPT，及讲解。\n",
+            "endDate": "2018-08",
+            "industry": "医药/生物工程",
+            "position": "药品学术专员",
+            "scale": "",
+            "startDate": "2018-05",
+            "type": ""
+        },
+        {
+            "company": "陕西省人民医院",
+            "department": "",
+            "detail": "\n毕业后在陕西省人民医院神经外科任职，经过四年的工作，不断学习，积累了一定的知识与经验，希望有不断学习的机会。\n",
+            "endDate": "2018-01",
+            "industry": "医疗/护理/美容/保健/卫生服务",
+            "position": "护士/护理人员",
+            "scale": "",
+            "startDate": "2013-08",
+            "type": ""
+        }
+    ],
+    "workYears": 5.0
+}

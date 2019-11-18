@@ -1,0 +1,75 @@
+{
+    "basic": {
+        "birthday": "1983-01",
+        "currentCity": "厦门",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "couldBuy": "N",
+    "currentCompany": "国药集团福建医学检验有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "应用支持经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2011-07",
+            "major": "水生生物学",
+            "school": "南京师范大学",
+            "startDate": "2007-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2007-07",
+            "major": "生物技术",
+            "school": "新疆大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "graduateSchool": "南京师范大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门;福州",
+        "industry": "医疗设备/器械;制药/生物工程",
+        "position": "医疗器械市场推广",
+        "salary": "面议",
+        "state": "在职，看看新机会"
+    },
+    "langAbility": "\n英语(CET6)、普通话\n",
+    "otherLangResumeId": "5b28ced9611cd3912863f666",
+    "projectExp": [],
+    "selfComm": "\n好学上进，认真敬业，严谨负责，适应能力强，敢于迎接新挑战。\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "国药集团福建医学检验有限公司",
+            "companyDescription": " 专业从事医疗设备和体外诊断试剂销售 ",
+            "department": "组织分子诊断部",
+            "detail": "职责业绩： 1、负责福建省闽西南区域本公司病理产品（主要为罗氏诊断产品）应用支持及市场推广；\n2、定期拜访病理及临床客户建立良好关系，传递产品的前沿医学信息，并制定行动计划；\n 3、组织参与协调各类病理相关的学术交流活动和会议；\n 4、病理产品的售前调研、售后应用和学术推广；\n 5、一定程度的参与销售工作，协助销售团队完成业绩。\n",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "应用支持经理",
+            "salary": "",
+            "scale": "100-499人",
+            "startDate": "2012-12",
+            "type": "国有企业"
+        },
+        {
+            "company": "南京市水产科学研究所",
+            "companyDescription": " 集科研、推广、生产于一体的公益性水产科研推广机构 ",
+            "department": "疫病防治中心",
+            "detail": "职责业绩： 1、主要负责水产品病害检测和研究；\n2、协助搭建水产品检测平台和实验室。\n",
+            "endDate": "2012-06",
+            "industry": "政府/公共事业/非营利机构",
+            "position": "助理研究员",
+            "salary": "",
+            "scale": "50-99人",
+            "startDate": "2011-07",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 7.0
+}

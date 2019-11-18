@@ -1,0 +1,63 @@
+{
+    "basic": {
+        "birthday": "1988-8-23",
+        "currentCity": "福州-晋安区",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2011-06",
+            "major": "药学",
+            "school": "福建生物工程职业技术学院",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械",
+        "position": "销售代表,销售代表",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": " \n英语 一般 \nOutLook Express 良好 ",
+    "projectExp": [],
+    "selfComm": "能吃苦耐劳、沉着冷静、有较强的适应能力。乐观直爽、开朗大方、有良好的生活习惯、、事业心强。责任心强、仔细认真、工作踏实。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州诺禾生物科技有限公司",
+            "department": "销售部",
+            "detail": "\n负责公司检测产品在负责附一医院上量工作，工作主要内容是日访、夜访、及家访，以及参加大型学术推广会，外出旅游，收集并反馈公司产品信息和竞争产品的销售情况和销售策略，接手市场时销售额2万多，通过大量拜访客户不断发现问题解决问题。开发潜在新科室以及维护巩固老客户关系，且得到他们的认可 \n目前业绩增长到30多万",
+            "endDate": "4000-10",
+            "industry": "制药/生物工程",
+            "position": "销售专员",
+            "scale": "少于50人",
+            "startDate": "2014-07",
+            "type": "民营公司"
+        },
+        {
+            "company": "广州福娜瑞贸易有限公司",
+            "department": "销售部",
+            "detail": "广州福娜瑞贸易有限公司\n负责福州地区医院的开发、维护， 工作主要以福州市区为主尤其是附一医院的高值耗材销售，以及其他医院设备在神经外科的开发工作，附一的销售量从接手后有明显的增长量。",
+            "endDate": "2014-07",
+            "industry": "制药/生物工程",
+            "position": "销售专员",
+            "scale": "50-150人",
+            "startDate": "2011-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 7.0
+}

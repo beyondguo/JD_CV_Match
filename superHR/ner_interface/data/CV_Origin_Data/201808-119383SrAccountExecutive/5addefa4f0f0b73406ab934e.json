@@ -1,0 +1,68 @@
+{
+    "basic": {
+        "birthday": "1989-11-24",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/e9f388b9f12a87922a12c20b90a60501.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 16万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "内外妇儿，影像学，传染病，寄生虫，生物化学，药理学，心理学，中医学，诊断学，等等",
+            "endDate": "2013-06",
+            "major": "临床医学与医学技术",
+            "school": "湖北理工学院",
+            "startDate": "2010-06"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "",
+        "salary": "",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5addefa4f0f0b73406ab934e",
+    "projectExp": [],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "威海威高血液净化制品有限公司",
+            "department": "威海威高血液制品有限公司",
+            "detail": "1.负责医院客户的关系管理，维护老客户，开发新客户\n2.处理客户的售前，售中，售后的支持服务\n3.负责收集管辖区域内招投标，客户信息，竞争对手的信息，注意市场动态\n4.配合市场部，共同组织区域内产品市场活动\n5.负责销售下单，送货，销售货款的回收",
+            "endDate": "2018-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械销售代表",
+            "scale": "10000人以上",
+            "startDate": "2016-06",
+            "type": "上市公司"
+        },
+        {
+            "company": "天津青松医疗科技有限公司",
+            "detail": "\n负责产品的推广培训，维护现有经销商，寻找合适代理经销商，开发医院，经常出差武汉及周边地级市拜访客户，和产品的试用跟台，按时参加公司会议，更深入的了解产品，召开科室会议讲解产品，及时沟通上级，按时做工作汇报，对竞品也不断认识学习，力争做到知己知彼百战百胜！具有较强的沟通能力和执行能力，亲和力！从事外科产品线高耗系列。",
+            "endDate": "2016-06",
+            "industry": "",
+            "position": "区域经理",
+            "startDate": "2015-01"
+        },
+        {
+            "company": "黄石中心医院",
+            "detail": "1办理患者的出入院手续，\n2.术前准备，谈话，签字，\n3.术中和上级完成手术，主攻胃肠外科，疝修补，骨科，\n4.术后换药，写病例，与患者沟通\n5.性格开朗外向，善与人交流沟通",
+            "endDate": "2015-01",
+            "industry": "医疗/护理/卫生",
+            "position": "住院医生",
+            "startDate": "2013-06"
+        }
+    ],
+    "workYears": 6.0
+}

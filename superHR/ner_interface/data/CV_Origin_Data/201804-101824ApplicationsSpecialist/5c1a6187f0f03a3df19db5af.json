@@ -1,0 +1,69 @@
+{
+    "basic": {
+        "birthday": "1995-7-12",
+        "currentCity": "合肥",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2018-12/74394131277d2235450ff4dd48f9c0a5/cfe2bf9adbd0894948a2eb06dc720793.jpg",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "淮北",
+        "zipCode": ""
+    },
+    "certificate": "2016.09 计算机二级 2016.03 校优秀团干 2017.09 国家级创新创业训练计划 2017.11 华图杯模拟面试比赛二等奖 2018.05 创新创业创业电子商务比赛三等奖 2018.06 校级优秀学生干部 2018.10 《计算机产品与流通》科学杂志上以第一作者发表论文",
+    "confidentialResume": "N",
+    "currentSalary": " 0万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2019-06",
+            "major": "公共事业管理",
+            "school": "安徽中医药大学",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "合肥",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,政府/公共事业",
+        "position": "营运经理,市场/营销,生物/制药/医疗器械,储备干部/培训生/实习生,全职",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": "英语： 读写能力良好| 听说能力良好",
+    "projectExp": [],
+    "selfComm": "本人活泼开朗，善于沟通，喜欢与人交流，吃苦耐劳，做事负责认真。\n校内职务 \n2017/9-至今 学生会副主席 \n职务描述： 负责学生课外活动，宣传，组织等，以及后期汇报工作。 \n2016/9-至今 班长 \n职务描述： 负责本班级所有事物与老师交流沟通。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "安中大地道药材有限公司",
+            "department": "校园合伙人",
+            "detail": "校园合伙人，负责宣传本公司的相关业务，组织校园活动等，以及后期工作整理汇报。",
+            "endDate": "2018-03",
+            "industry": "贸易/进出口",
+            "position": "经理助理/秘书 (兼职)",
+            "scale": "少于50人",
+            "startDate": "2017-10",
+            "type": "创业公司"
+        },
+        {
+            "company": "安徽易学有限公司",
+            "detail": "兼职教师，",
+            "endDate": "2017-09",
+            "industry": "教育/培训/院校",
+            "position": "兼职",
+            "startDate": "2017-07"
+        },
+        {
+            "company": "安徽好职优教育培训机构",
+            "detail": "组织策划校园宣传活动，定期汇报总结。",
+            "endDate": "2017-12",
+            "industry": "",
+            "position": "兼职",
+            "startDate": "2017-06"
+        }
+    ],
+    "workYears": 0.0
+}

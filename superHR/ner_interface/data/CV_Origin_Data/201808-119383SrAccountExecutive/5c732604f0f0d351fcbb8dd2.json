@@ -1,0 +1,50 @@
+{
+    "basic": {
+        "birthday": "1989-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "通用环球医疗集团有限公司",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "项目经理",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2016-07",
+            "major": "药物分析学",
+            "school": "陕西师范大学",
+            "startDate": "2011-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "制药工程",
+            "school": "西安交通大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗设备/器械;医疗/保健/美容/卫生服务",
+        "position": "品牌经理/主管;大客户销售管理;区域销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n 抗压能力 学习能力 沟通能力 组织协调能力 团队合作能力 学术科研能力 吃苦耐劳 区域内具有一定的医疗渠道和资源 培训后可以快速上岗 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "通用环球医疗集团有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n1.拜访医院科室，进行学术和市场调研，参与医疗项目实施\n2.组织学术会议，与业务人员相互配合，协调与会专家和客户的会议日程安排\n3.学习医药知识，行业信息，关注相关药品的动态\n4.参与项目谈判，积极提高自己的沟通交流技巧\n",
+            "endDate": "4000-10",
+            "position": "项目经理",
+            "startDate": "2016-06"
+        }
+    ],
+    "workYears": 3.0
+}

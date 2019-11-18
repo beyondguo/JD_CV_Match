@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1995-11-29",
+        "currentCity": "莆田",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "937ba6cda02f4926c043174276cc58f9_avatar_1511423478.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "莆田",
+        "zipCode": ""
+    },
+    "certificate": " \n2017/12 车工三级（高级） \n2017/6 维修电工四级（中级） \n2016/6 全国计算机一级 \n2016/6 全国计算机辅助技术培训项目(caxa) \n2015/12 高等学校英语应用能力考试（b级） ",
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "电子电路基础、PLC技术应用、数控技术、工业企业管理等课程。",
+            "endDate": "2018-07",
+            "major": "机械设计与制造",
+            "school": "闽北职业技术学院",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械维修人员,工程师",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5b3b41fd611c19891c33d0c7",
+    "projectExp": [],
+    "selfComm": "1、学习能力强，上进心强；\n2、具备良好的抗压能力；\n3、具有较好团队意识；\n4、性格外向，善于沟通，爱好长跑，登山等。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建誉凯医疗投资管理有限公司",
+            "department": "工程部",
+            "detail": "1、派驻医院，日常工作含巡检、保养和维修；\n2、擅长维修费森尤斯血透机、VELA呼吸机、希森美康检验、罗氏检验等设备；\n3、与厂家交流沟通，并有后续付款发票等问题的跟进。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "医疗器械维修人员",
+            "scale": "150-500人",
+            "startDate": "2017-12",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 1.0
+}

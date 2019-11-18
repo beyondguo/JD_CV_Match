@@ -1,0 +1,200 @@
+{
+    "basic": {
+        "birthday": "1987-01",
+        "currentCity": "广州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": " \n2011/4 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "库克(中国)医疗贸易有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "product specialist",
+    "currentSalary": " 23万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2012-07",
+            "major": "护理学",
+            "school": "中山大学",
+            "startDate": "2006-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177547.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "医疗器械（非IVD)",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177550.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177553.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177556.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177558.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177563.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Wang Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177566.0,
+            "strValue": "广州",
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177569.0,
+            "userName": "Wang Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "广东省",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "Jun 27, 2018 3:22:57 PM",
+            "lastUpdated": 1530084177575.0,
+            "userName": "Wang Wen"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "广州",
+        "industry": "医疗设备/器械;医疗/保健/美容/卫生服务;制药/生物工程",
+        "position": "医疗器械销售代表;医疗器械市场推广;药品市场推广专员/助理",
+        "salary": "面议"
+    },
+    "langAbility": " \n\n英语 熟练 ",
+    "otherLangResumeId": "5b6d58b3f0f0b9f19b79d586",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "18959018",
+    "projectExp": [],
+    "selfComm": "\n 诚信、讲原则，说到做到。有自制力，做事有始有终；具备医学背景和较强的学习能力；为人诚恳、适应力强，有较强的团队精神，态度认真。 \n",
+    "trainExp": " \n2017/4--至今 华尔街英语11-20级 \n\n培训机构： 华尔街英语 \n培训地点： 广州 \n2011/7--2012/7 内、外、妇、儿科护理学 \n\n培训机构： 中山大学附属第一医院 \n培训地点： 广州 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "库克(中国)医疗贸易有限公司",
+            "detail": "- 所在地区：广州 \n - 汇报对象：Regional Manager \n - 下属人数：0人 \n - 职责业绩： \n与代理商合作，负责管理全国五个省份的代理商，对代理商进行相关医学及产品知识培训，协助其完成销售任务，区域内医疗耗材学术推广,学术会议支持,收集和分析区域内市场和竞争对手信息，相关市场推广材料的设计制作，通过市场调研和竞争分析,协助制定竞争策略。\n",
+            "endDate": "4000-10",
+            "position": "产品专员",
+            "startDate": "2015-07"
+        },
+        {
+            "company": "广州英之扬科技有限公司",
+            "detail": "- 所在地区：广州 \n - 汇报对象：销售经理 \n - 下属人数：0人 \n - 职责业绩： \n公司专注于著名品牌医疗耗材及器材的推广和销售。是美国强生医疗器材有限公司、美国3M公司，美国巴德公司等世界500强企业指定合作伙伴，服务于省内各大三甲医院，如中山大学附属医院系统、广州医学院系统及各省级市级医疗机构100多家，涉及肿瘤、骨科、普外、妇产科、手术室、口腔、护理等20多个科室。\n",
+            "endDate": "2015-07",
+            "position": "销售代表",
+            "startDate": "2014-10"
+        },
+        {
+            "company": "中山大学附属第一医院",
+            "detail": "- 所在地区：广州 \n - 下属人数：0人 \n - 职责业绩： \n协助临床医生完成临床一线医疗工作，包括病人日常病程、病历的书写，跟教授出门诊，带病人做检查，跟台协助教授完成手术。临床药物试验的数据收集和整理，随访病人，移植科手术的数据记录。\n",
+            "endDate": "2014-10",
+            "position": "临床助理",
+            "startDate": "2012-08"
+        }
+    ],
+    "workYears": 6.0
+}

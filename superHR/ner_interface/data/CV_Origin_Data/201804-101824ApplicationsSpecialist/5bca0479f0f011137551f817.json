@@ -1,0 +1,38 @@
+{
+    "basic": {
+        "birthday": "1995-10-6",
+        "currentCity": "江苏省",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 0万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "4000-10",
+            "major": "药学",
+            "school": "徐州医科大学",
+            "startDate": "2015-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 厦门 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,学术/科研,检测，认证",
+        "position": "科研,化妆品研发,生物工程/生物制药,化学分析测试员,临床研究员,药物分析员",
+        "salary": "6000-7999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：3个月内"
+    },
+    "projectExp": [],
+    "selfComm": "在校担任班级组织宣传委员，有一定的组织能力。能按时按量且有质量的完成各项工作。有上进心，踏实努力。",
+    "version": "zh",
+    "workExp": [],
+    "workYears": 1.0
+}

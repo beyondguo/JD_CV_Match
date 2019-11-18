@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1987-9-24",
+        "currentCity": "福州-鼓楼区",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/0841cefae9d9dc2cec0cc7f0f57a9b38.jpg",
+        "politicalStatus": "",
+        "registeredResidence": "莆田",
+        "zipCode": "350000"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "成都云克药业有限公司",
+    "currentPosition": "销售经理 ",
+    "currentSalary": " 15万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "药品生产GSP、GMP、分析化学、微生物学、临床医学、药理学、生物化学、药物化学、药剂学、药物分析、制药技术、制药设备、生药学、专业英语等",
+            "endDate": "2009-06",
+            "major": "药学",
+            "school": "福建生物工程职业技术学院",
+            "startDate": "2006-06"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：未填写\n职称：职称职称未填写",
+    "graduateSchool": "2006-09 至 2008-11",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械",
+        "position": "生物/制药/医疗器械,销售经理",
+        "salary": "15-20万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：待定"
+    },
+    "langAbility": "英语： 读写能力&nbsp;良好| 听说能力&nbsp;良好",
+    "otherLangResumeId": "5c4bdfc4f0f087bee77f088c",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "本人吃苦耐劳、做事实事求是、认真负责。 \n 我性格乐观，能承受压力。遇事冷静，善于换位思考，能找对人，做对事，能站在对方的立场找出共同点，促成共赢。",
+    "trainExp": " \n2009/9--2009/10 药事法规，药品商品知识，药学知识. \n培训机构： 福建省药品监督管理局 \n培训地点： 福建省中医药大学 \n培训描述： 经过3月培训，考试及格取得GSP从业人员上岗证。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福州莱宝医疗器械有限公司",
+            "department": "销售部",
+            "detail": "1. 负责公司（西门子IVD省总代）医疗设备、试剂的市场推广和销售；\n2.完成公司下达的销售任务，促进公司业绩的增长；\n3.拓展销售渠道、调查收集市场信息，并及时反馈；\n4.建立完善客户资料，维护好客户关系；\n5.负责所辖区域销售货款的回收；\n6.领导交办的其他相关事务。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "少于50人",
+            "startDate": "2018-01",
+            "type": "民营公司"
+        },
+        {
+            "company": "上海诺诚电气股份有限公司",
+            "department": "销售部门",
+            "detail": "1.负责公司产品在福建省的医院临床推广。\n2.医院VIP客户的维护。\n3.医院客户需求了解及市场竞争对手动态的收集.完成销售任务.\n4.渠道商拓展与管理。\n5.相关耗材的销售。",
+            "endDate": "2017-06",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "500-1000人",
+            "startDate": "2012-05",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 9.0
+}

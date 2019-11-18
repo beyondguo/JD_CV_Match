@@ -1,0 +1,80 @@
+{
+    "basic": {
+        "birthday": "1991-6-29",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "咸阳",
+        "zipCode": ""
+    },
+    "certificate": " \n2015/12 驾驶执照 ",
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2017-09",
+            "major": "计算机科学与技术",
+            "school": "西安交通大学",
+            "startDate": "2015-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械,制药/生物工程",
+        "position": "销售经理,销售主管,销售经理",
+        "salary": "8000-20000 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "otherLangResumeId": "5afd05c0611cc83febe8b1ef",
+    "projectExp": [
+        {
+            "detail": "\n项目信息跟踪，拜访重点负责人，推入我们产品，找该负责人关系好的经销商，与经销商共同做好商务，项目拿下。前后花费6个月时间，关键点在于负责人合作的经销商共同做好商务关系。",
+            "endDate": "4000-10",
+            "name": "第三军医大学样本库项目",
+            "responsibility": "",
+            "startDate": "2018-01"
+        },
+        {
+            "detail": "产品及服务：一代测序 、引物、pcr试剂。\n业务主要客户：西北大学、西安交通大学医学院、西北工业大学、交大一附院等。\n已经覆盖70％客户、相比去年业务增长20％。",
+            "endDate": "4000-10",
+            "name": "产品销售",
+            "responsibility": "",
+            "startDate": "2017-05"
+        }
+    ],
+    "selfComm": "自信，勤奋，正直，诚恳并且有获得成功的坚定决心；\n学习能力强，能迅速接受新的理论与技能，不受经验限制；\n乐于在压力下工作，极强的吃苦精神；\n良好的执行力与团队意识；",
+    "trainExp": " \n2011/8--2012/8 网络工程师 \n\n培训机构： 北大青鸟 \n培训地点： \n\n培训描述： 获取OSTA网络管理员、网络工程师、信息安全专家 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "中科美菱低温科技股份有限公司",
+            "department": "销售部",
+            "detail": "负责地区的经销商渠道开发、经销商渠道管理、大项目合作、经销商的订货管理、回款进度以及市场调查、市场分析。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售经理",
+            "scale": "500-1000人",
+            "startDate": "2018-01",
+            "type": "国企"
+        },
+        {
+            "company": "西安擎科泽西生物技术有限责任公司",
+            "department": "市场部",
+            "detail": "销售有关：分子生物学 基因sanger法测序，以及引物合成、分子生物相关产品pcr聚合酶、电泳系列、全基因合成、载体构建用试剂。\n客户群体针对于与生命科学相关院校（211/985）",
+            "endDate": "2018-01",
+            "industry": "制药/生物工程",
+            "position": "客户代表",
+            "scale": "50-150人",
+            "startDate": "2017-01",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 6.0
+}

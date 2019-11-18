@@ -1,0 +1,82 @@
+{
+    "basic": {
+        "birthday": "1989-12-22",
+        "currentCity": "西安-周至县",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "西安",
+        "zipCode": "710127"
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 6万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "歌德学院是出国德语培训机构和德国文化交流中心，我学习的主要是基础德语及应用",
+            "endDate": "2016-03",
+            "major": "德语",
+            "school": "歌德学院北京分院",
+            "startDate": "2015-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "主修课程：综英，口语，泛读，文学概论，口译，商务英语，欧洲文化入门，英美文学，汉英-英汉翻译，计算机基础，高等数学（文）",
+            "endDate": "2012-07",
+            "major": "英语",
+            "school": "西北大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "贸易/进出口,文字媒体/出版,学术/科研,娱乐/休闲/体育,美容/保健",
+        "position": "英语翻译,审计专员/助理,图书管理员/资料管理员,外语培训师,外贸业务员",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "langAbility": " \n普通话 熟练 \n德语 良好 \n英语 良好 ",
+    "projectExp": [],
+    "selfComm": "\n我是一个执着追求梦想，并踏实努力进取的女孩，具有活泼乐观的性格，对人真诚，做事认真，具有良好的团队合作精神。英语专业的学习让我拥有了国际化的思维和开放灵活的思维能力。我的座右铭是心有猛虎细嗅蔷薇。\n校内职务 \n2008/9-2009/7 校刊《木香》秘书处小组长 \n职务描述： 作为枢纽联络各部门，排值班表，申请会议举办场所等后勤类工作，协助杂志的出版，发行等活动。在此期间与各部门的负责人建立良好的关系 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "学友有教育集团",
+            "department": "关爱成长留学中心",
+            "detail": "1.负责德语站点谷歌广告投放以及营收检测。\n2.使用Google Ads和Google Analytics等数据分析工具，进行广告效果分析，优化商品广告类型以及预算。",
+            "endDate": "4000-10",
+            "industry": "教育/培训/院校",
+            "position": "留学文案",
+            "scale": "150-500人",
+            "startDate": "2018-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "英孚教育集团",
+            "department": "运营部",
+            "detail": "成人英语培训课程售后服务以及再续费\n制定学习计划辅导学生英语学习\n团队内项目协调PMA英语课外活动lead",
+            "endDate": "2018-09",
+            "industry": "教育/培训/院校",
+            "position": "销售行政专员",
+            "scale": "10000人以上",
+            "startDate": "2016-07",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "金吉列留学咨询有限公司",
+            "department": "加拿大项目部/外联部/英国外联部",
+            "detail": "1.帮助超过2000名学生申请国外名校留学\n2.两年半加拿大教育体系工作经验和一年英国教育体系工作经验\n3.申请世界排名前200的名校",
+            "endDate": "2016-06",
+            "industry": "教育/培训/院校",
+            "position": "加拿大&amp;英国留学外联",
+            "scale": "1000-5000人",
+            "startDate": "2012-07",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 7.0
+}

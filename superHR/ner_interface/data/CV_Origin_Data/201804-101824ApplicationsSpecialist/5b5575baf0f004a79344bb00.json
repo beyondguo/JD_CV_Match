@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1990-11",
+        "currentCity": "福建泉州市",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://porsche.tupu360.com/Porsche/dxy/photo?sourceId=2984228%2BDXY&amp;key=9236b49a68e6bd877c378e28a1cc4676794b702c8c78eea3b71a820496a53f7d",
+        "registeredResidence": "福建泉州市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "泉州迪安医学检验所有限公司",
+    "currentIndustry": "",
+    "currentPosition": "实验室组长",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2015-07",
+            "major": "医学检验",
+            "school": "新乡医学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:执业医师\n职称:职称初级",
+    "graduateSchool": "新乡医学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "泉州市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "检验科",
+        "salary": "6000-6999",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b5575baf0f004a79344bb00",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "泉州迪安医学检验所有限公司",
+            "department": "实验室",
+            "detail": "实验室内部人员管理，日常事务的处理，标本检测及报告单审核发布等",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "实验室组长",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-01",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

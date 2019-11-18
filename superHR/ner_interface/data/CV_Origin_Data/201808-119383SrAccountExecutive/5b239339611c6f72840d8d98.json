@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1979-3-6",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "巴彦淖尔",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": "",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2001-07",
+            "major": "计算机应用",
+            "school": "交大职院",
+            "startDate": "1998-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "",
+        "position": "办事处/分公司/分支机构经理,渠道/分销主管,生物/制药/医疗器械,总监/部门经理,物业管理",
+        "salary": "10-15万 元/年 ",
+        "state": "目前正在找工作\n到岗时间：随时"
+    },
+    "otherLangResumeId": "5b239339611c6f72840d8d98",
+    "projectExp": [],
+    "selfComm": "\n具有一定的综合管理素质，良好的责任心，责任心强，良好的沟通能力，以往工作做过IT硬件销售，负责渠道销售，2004年开始做润滑油销售，负责陕西省的渠道销售，创造了比较喜人的业绩，由于一直在做渠道销售和管理工作，本人对渠道管理销售有比较多的认识个经验，具有一定的市场管理和人员管理能力，有驾照，B照，驾驶技术熟练，在医疗行业有一些代理商资源，和一些医院的资源，只要能给我专业的产品培训，我相信我可以做到公司所要求的事情",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "陕西海王医疗器械有限公司",
+            "detail": "\n负责公司产品的医学推广，经销商的开发，公司主营医疗耗材，设备，目前已经有了一部分关系客户，现在已经有肝胆，普外，骨科，心内，神内肛肠，泌尿等客户群体，目前接触的产品有床旁治疗设备，快速检验，吻合器，缝线，止血等产品，由于现在负责的是全科产品，所以基本涵盖了各个科室。\n 个人能力方面，具有较强的学习能力，工作负责",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "startDate": "2017-12"
+        },
+        {
+            "company": "电脑，润滑油，通讯",
+            "detail": "主要负责公司产品的渠道销售和团队管理，工作中凭着对工作认真负责的态度取的了良好的业绩",
+            "endDate": "2016-03",
+            "industry": "",
+            "position": "渠道/分销主管",
+            "startDate": "2001-08"
+        }
+    ],
+    "workYears": 17.0
+}

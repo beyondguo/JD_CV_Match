@@ -1,0 +1,82 @@
+{
+    "basic": {
+        "birthday": "1988-5-25",
+        "currentCity": "福州-仓山区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=323076903&amp;key=ee346965318912024a0a7d52191bacd1",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "福州",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 12万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2011-06",
+            "major": "生物工程",
+            "school": "湖南吉首大学",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程,医疗设备/器械",
+        "position": "医疗器械维修人员,售前/售后技术支持工程师,售后技术支持工程师",
+        "salary": "10-15万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "otherLangResumeId": "5b08d2a2611c023fbc0df3f7",
+    "projectExp": [],
+    "selfComm": "\n工作7年，刚毕业那段时期从事分析化学检测工作，而后进入医学检验行业，从事生化检验售后服务至今，喜欢从事现在技术服务工作。熟练操作各种生化分析仪，尤其是贝克曼、日立、雅培、西门子等系列仪器，动手和解决实际问题能力较强，有很好的协调能力和团队合作精神。自律性强能合理安排工作时间，有长期的差旅工作经验。\n 诚实努力，爱岗敬业，工作认真负责、待人随和。爱好运动，喜欢并擅长篮球、羽毛球。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "美康生物科技股份有限公司",
+            "department": "技术支持部",
+            "detail": "\n负责福建所辖区域内医院，体外诊断试剂的售后技术服务工作，主要是美康生化试剂在各种进口和国产全自动生化仪器的上项培训、调试、维护、性能验证等，协助客户完成产品的正常工作以及临床应用。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "售前/售后技术支持工程师",
+            "scale": "上市公司",
+            "startDate": "2015-11"
+        },
+        {
+            "company": "福建新大陆生物技术有限公司",
+            "department": "技术支持部",
+            "detail": "负责公司体外诊断试剂（主要使用于各种生化分析仪，如贝克曼，日立，雅培，东芝，迈瑞，迪瑞等系列生化仪器）上项调试售前售后技术支持服务，应用技术指导等工作。",
+            "endDate": "2015-06",
+            "industry": "制药/生物工程",
+            "position": "售前售后技术支持",
+            "scale": "50-150人",
+            "startDate": "2014-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "北京同仁堂健康药业（福州）有限公司",
+            "department": "质管部",
+            "detail": "使用液相（Waters，岛津）；Agilent气相从事药材含量以及药材农药残留检测。",
+            "endDate": "2014-03",
+            "industry": "制药/生物工程",
+            "position": "检验员",
+            "scale": "民营公司",
+            "startDate": "2013-04"
+        },
+        {
+            "company": "明一国际",
+            "department": "品质部",
+            "detail": "从事奶粉、米粉原辅料及成品检测。本人熟练操作微生物检测、生化分离及鉴定工作，熟练操作气相、液相，熟识质谱、光谱等仪器。",
+            "endDate": "2013-04",
+            "industry": "快速消费品(食品、饮料、化妆品)",
+            "position": "检验员",
+            "scale": "民营公司",
+            "startDate": "2011-06"
+        }
+    ],
+    "workYears": 7.0
+}

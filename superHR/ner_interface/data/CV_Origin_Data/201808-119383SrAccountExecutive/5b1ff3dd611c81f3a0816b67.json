@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "birthday": "1987-6-19",
+        "currentCity": "运城",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "运城",
+        "zipCode": ""
+    },
+    "certificate": " \n2009/5 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 8万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2010-07",
+            "major": "中药学",
+            "school": "西安海棠职业学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械,制药/生物工程",
+        "position": "销售人员,医药销售代表",
+        "salary": "6000-7999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：随时"
+    },
+    "otherLangResumeId": "5b1ff3dd611c81f3a0816b67",
+    "projectExp": [],
+    "selfComm": "自我评价: \n热情，稳重，有亲和力，善于总结和思考。我会以饱满的精神状态投入到工作当中去。愿与贵公司同命运 共发展！望能加入贵公司！\n校内职务 \n2018/12-至今 无 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阿斯利康制药有限公司",
+            "detail": "工作中积极认真负责,一切以公司，医生，患者利益为准则，能够通过自己的努力得到客户的认可。专业传递产品信息，并且独立开展科室会，提升病房份额和门诊的处方病人。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "销售代表",
+            "startDate": "2018-10"
+        },
+        {
+            "company": "阿斯利康制药有限公司",
+            "department": "销售部门",
+            "detail": "工作中积极认真负责,一切以公司，医生，患者利益为准则，能够通过自己的努力得到客户的认可。专业传递产品信息，并且独立开展科室会，提升病房份额和门诊的处方病人。",
+            "endDate": "2018-06",
+            "industry": "制药/生物工程",
+            "position": "医药销售代表",
+            "scale": "外资(欧美)",
+            "startDate": "2018-03"
+        },
+        {
+            "company": "运城曙光医院",
+            "department": "放射科",
+            "detail": "负责病人 病历的撰写，理疗。放射科的管理",
+            "endDate": "2017-10",
+            "industry": "医疗/护理/卫生",
+            "position": "放射科医师",
+            "scale": "少于50人",
+            "startDate": "2010-09",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 9.0
+}

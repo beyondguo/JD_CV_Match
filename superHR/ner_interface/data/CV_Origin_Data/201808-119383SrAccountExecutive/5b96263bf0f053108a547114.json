@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "birthday": "1984-01",
+        "currentCity": "西安",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "certificate": " \n2004/12 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "昆明贝克诺顿制药有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "高级学术专员",
+    "currentSalary": " 15万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2007-07",
+            "major": "生物工程",
+            "school": "陕西科技大学",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程",
+        "position": "医药销售代表;大客户销售",
+        "salary": "面议"
+    },
+    "langAbility": " \n\n英语 熟练 ",
+    "otherLangResumeId": "5b9a71a9f0f0f2f277174232",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "73907960",
+    "projectExp": [
+        {
+            "detail": "\n - 项目职务：销售主管 \n - 所在公司：上海赛金生物医药有限公司 \n - 项目简介： \n在西北区发起一项药品上市后多中心临床研究（IV期）\n - 项目职责： \n项目PI沟通，方案确定，启动会组织，西北区分中心项目推广\n - 项目业绩： \n项目与2015年4月成功启动\n",
+            "endDate": "4000-10",
+            "name": "一项多中心临床研究",
+            "startDate": "2015-04"
+        }
+    ],
+    "selfComm": "\n 有丰富的特药，生物制剂销售经验，学术推广能力强，大客户经验丰富 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "昆明贝克诺顿制药有限公司",
+            "detail": "- 所在地区：西安 \n - 下属人数：2人 \n - 职责业绩： \n负责交大一附院，交大二附院及渭南地区销售管理工作\n",
+            "endDate": "4000-10",
+            "position": "高级学术专员",
+            "startDate": "2016-06"
+        },
+        {
+            "company": "上海赛金生物医药有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：省区经理 \n - 下属人数：3人 \n - 职责业绩： \n负责西京医院、咸阳、汉中、安康和延安地区销售管理工作，西北地区学术推广工作。\n2014年销售冠军，2015年销售冠军\n",
+            "endDate": "2016-03",
+            "position": "销售主管",
+            "startDate": "2013-01"
+        },
+        {
+            "company": "陕西海天制药有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：市场部经理 \n - 下属人数：0人 \n - 职责业绩： \n1、召开学术会议：根据销售需要，选择医院及科室召开科室会议\n2、收集整理文献资料，为销售提供专业支持\n2011年-2012年连续获得&ldquo;优秀推广经理&rdquo;奖\n",
+            "endDate": "2012-12",
+            "position": "药品市场推广经理",
+            "startDate": "2011-05"
+        },
+        {
+            "company": "北京思达兴业仪器有限公司",
+            "detail": "- 所在地区：青岛 \n - 下属人数：0人 \n - 职责业绩： \n*负责科研院所及部分医院市场销售和推广公司的全线产品 \n*负责政府招标采购工作的跟进和服务 \n*了解和收集当地市场信息，并及时反馈和采取应对方案 \n*为分销商提供技术支持；\n2009年获得&rdquo;进步最快&ldquo;奖，2010年获得&rdquo;优秀业务代表&ldquo;奖\n",
+            "endDate": "2011-04",
+            "position": "销售代表",
+            "startDate": "2008-05"
+        }
+    ],
+    "workYears": 10.0
+}

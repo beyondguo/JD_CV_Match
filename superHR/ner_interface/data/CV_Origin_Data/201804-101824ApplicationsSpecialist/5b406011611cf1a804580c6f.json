@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "birthday": "1995-01",
+        "cityOfBirth": "福建福州市",
+        "currentCity": "福建福州市",
+        "gender": "女",
+        "photoAddress": ""
+    },
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "牡丹江医学院",
+            "endDate": "4000-10",
+            "major": "本科",
+            "school": "2014-09 至 2018-07",
+            "startDate": "医学检验技术"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称未定级",
+    "graduateSchool": "2014-09 至 2018-07",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "学生（含应届毕业生）"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b406011611cf1a804580c6f",
+    "projectExp": [],
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "2017-07 至 2018-06",
+            "department": "中国人民解放军第四七六医院",
+            "detail": "检验与处理标本",
+            "endDate": "4000-10",
+            "position": "检验科",
+            "startDate": "实习生"
+        }
+    ]
+}

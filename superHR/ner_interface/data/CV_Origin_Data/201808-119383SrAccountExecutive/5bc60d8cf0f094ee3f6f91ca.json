@@ -1,0 +1,224 @@
+{
+    "basic": {
+        "birthday": "1990-01",
+        "currentCity": "西安-雁塔区",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "雅培贸易(上海)有限公司",
+    "currentIndustry": "医疗/保健/美容/卫生服务",
+    "currentPosition": "医药代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2013-07",
+            "major": "制药工程",
+            "school": "广西民族大学",
+            "startDate": "2009-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "4",
+                "enumValue": "其他",
+                "id": "3",
+                "isDefault": false,
+                "orderIndex": 3.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383932.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "制药行业",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383956.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "9",
+                    "enumValue": "其他",
+                    "id": "8",
+                    "isDefault": false,
+                    "orderIndex": 8.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383959.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383961.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3a26b09c7909715ed2e89",
+            "id": "5",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383970.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "市场@#临床价值市场",
+                "id": "9",
+                "orderIndex": 9.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "6",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383987.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "7",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383993.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "销售@#销售",
+                "id": "2",
+                "orderIndex": 2.0
+            },
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "3",
+                    "enumValue": "妇女健康",
+                    "id": "2",
+                    "isDefault": false,
+                    "orderIndex": 2.0
+                }
+            ],
+            "fieldId": "58a2aa46f89ae62d5428786f",
+            "id": "8",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383995.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "9",
+            "lastUpdate": "Oct 22, 2018 10:46:23 AM",
+            "lastUpdated": 1540176383997.0,
+            "strValue": "西安",
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "女",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "59e421a8097a249a0171bd82",
+            "id": "10",
+            "lastUpdate": "Oct 22, 2018 10:46:24 AM",
+            "lastUpdated": 1540176384000.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "3",
+                "enumValue": "待定",
+                "id": "2",
+                "isDefault": false,
+                "orderIndex": 2.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "11",
+            "lastUpdate": "Oct 22, 2018 10:46:24 AM",
+            "lastUpdated": 1540176384003.0,
+            "userName": "Haley Wen"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "6",
+                    "enumValue": "陕西省",
+                    "id": "5",
+                    "isDefault": false,
+                    "orderIndex": 5.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "12",
+            "lastUpdate": "Oct 22, 2018 10:46:24 AM",
+            "lastUpdated": 1540176384007.0,
+            "userName": "Haley Wen"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "医疗/保健/美容/卫生服务",
+        "position": "销售代表",
+        "salary": "面议"
+    },
+    "otherLangResumeId": null,
+    "projectExp": [],
+    "selfComm": "\n 1.利用外企平台学习英文，能够熟练收发外文邮件。2.因工作性质，能更好和医生打交道，与很多医生私交较好 \n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "雅培贸易(上海)有限公司",
+            "detail": "- 所在地区：西安-雁塔区 \n - 下属人数：0人 \n - 职责业绩： \n负责陕西省人民医院、省妇幼保健院、省中医院、市中医医院、市第三医院妇科产品销售工作。曾在大区获得三等奖\n",
+            "endDate": "4000-10",
+            "position": "医药代表",
+            "startDate": "2013-03"
+        }
+    ]
+}

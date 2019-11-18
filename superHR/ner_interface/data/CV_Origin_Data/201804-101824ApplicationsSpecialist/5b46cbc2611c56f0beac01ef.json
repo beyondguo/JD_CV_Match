@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1996-9-27",
+        "currentCity": "厦门",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 0万元 ",
+    "degree": "中技",
+    "eduExp": [
+        {
+            "degree": "中技",
+            "detail": "",
+            "endDate": "2016-05",
+            "major": "力学",
+            "school": "酉阳板溪职教中心",
+            "startDate": "2013-08"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门",
+        "contractTerm": "全职",
+        "industry": "酒店/旅游",
+        "position": "销售代表,销售代表",
+        "salary": "3000-4499 元/月 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "projectExp": [
+        {
+            "detail": "业绩都是喝出来的，",
+            "endDate": "4000-10",
+            "name": "酒量好，吐了再来",
+            "responsibility": "积极认真，认真对待每一件事，酒吧专业知识教高",
+            "startDate": "2017-09"
+        }
+    ],
+    "selfComm": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "贝勒公馆",
+            "department": "营销部",
+            "detail": "酒吧酒水促销",
+            "endDate": "2017-01",
+            "industry": "酒店/旅游",
+            "position": "销售代表",
+            "startDate": "2016-08"
+        }
+    ],
+    "workYears": 2.0
+}

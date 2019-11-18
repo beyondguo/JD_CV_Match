@@ -1,0 +1,65 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "西安",
+        "gender": "女",
+        "nationality": "中国",
+        "registeredResidence": "西安"
+    },
+    "confidentialResume": "N",
+    "currentCompany": "益善生物技术股份有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "销售代表",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-07",
+            "major": "医学检验",
+            "school": "西安交通大学医学院",
+            "startDate": "2014-01"
+        },
+        {
+            "degree": "大专",
+            "endDate": "2010-07",
+            "major": "医学检验",
+            "school": "陕西中医学院",
+            "startDate": "2007-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "industry": "制药/生物工程;医疗设备/器械",
+        "position": "生物工程/生物制药",
+        "salary": "面议"
+    },
+    "otherLangResumeId": "58747a47f0f05934210fbd3d",
+    "projectExp": [],
+    "selfComm": "\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "益善生物技术股份有限公司",
+            "detail": "- 所在地区：西安 \n - 汇报对象：大区经理 \n - 下属人数：0人 \n - 职责业绩： \n1、负责指定区域的市场开发、客户维护和销售管理等工作。\n2、负责所属区域的产品宣传、推广和销售，完成销售的任务指标。\n3、制定自己的销售计划，并按计划拜访客户和开发新客户。\n",
+            "endDate": "4000-10",
+            "position": "销售代表",
+            "startDate": "2014-08"
+        },
+        {
+            "company": "西安高新医院",
+            "detail": "- 所在地区：西安 \n - 下属人数：0人 \n - 职责业绩： \n分别任职于检验科（检验师），体检科（外联部销售）\n",
+            "endDate": "2014-06",
+            "position": "医药学检验",
+            "startDate": "2012-10"
+        },
+        {
+            "company": "西安市雁塔区妇幼保健院",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n任职于门诊检验科，负责辖区幼儿园入托体检的常规检验工作。\n",
+            "endDate": "2012-05",
+            "position": "医药学检验",
+            "startDate": "2010-08"
+        }
+    ],
+    "workYears": 8.0
+}

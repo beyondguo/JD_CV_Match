@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1993-02",
+        "currentCity": " 莆田",
+        "currentSalary": "年薪8 万元",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "uploads/talent_photo/1807/c243999b0648a4be0021545583762fbc.jpg",
+        "politicalStatus": "",
+        "zipCode": ""
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "苏州华益美生物科技有限公司",
+    "currentPosition": "售前/售后技术支持工程师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-06",
+            "major": "生物科学，技术",
+            "school": "郑州轻工业学院",
+            "startDate": "2012-09"
+        }
+    ],
+    "graduateSchool": "郑州轻工业学院",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州&amp;emsp;厦门&amp;emsp;泉州",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械&amp;emsp;教育/培训/院校&amp;emsp;检测，认证&amp;emsp;公关/市场推广/会展&amp;emsp;娱乐/休闲/体育",
+        "position": "",
+        "salary": "6000-7999元/月",
+        "state": "1个月内"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5b4c1aa0f0f0f32f770630ab",
+    "proSkill": "",
+    "projectExp": [],
+    "salaryRemark": "年薪8 万元",
+    "selfComm": "做事认真负责，学习能力强，乐观主义，性格开朗。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "苏州华益美生物科技有限公司",
+            "department": "客服部",
+            "detail": "1.负责现场的设备安装，调试等技术支持工作；\n2.接受和协助解决客户遇到的各类现场技术问题，及时准确的把现场信息反馈给销售和研发部门；\n3.负责发货设备以及耗材清单的确认；\n4.支持市场和销售，为客户和实验人员提供相关培训；\n5.负责产品的实验演示；\n6.快捷准确并按照技术支持经理需求提供所有报告，如出差技术报告等；\n7.协助市场与销售部门进行产品的宣传工作与其他活动等。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械|50-150人|民营公司",
+            "position": "售前/售后技术支持工程师",
+            "startDate": "2016-06"
+        }
+    ],
+    "workYears": 2.0
+}

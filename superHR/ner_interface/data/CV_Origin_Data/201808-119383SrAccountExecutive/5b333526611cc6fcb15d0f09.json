@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "birthday": "1992-8-26",
+        "currentCity": "西安",
+        "gender": "男",
+        "maritalStatus": "",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "咸阳",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "广东上药桑尼克医疗科技有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "区域经理",
+    "currentSalary": " 16万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "关于医疗器械方面的维护以及销售，",
+            "endDate": "2015-07",
+            "major": "医疗器械与维护",
+            "school": "西安航空学院",
+            "startDate": "2012-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 西安 ",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "医疗器械销售代表,销售",
+        "salary": "8000-9999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5b333526611cc6fcb15d0f09",
+    "projectExp": [],
+    "selfComm": "\n对待工作有热情，有耐心，能吃苦，服从安排坚决完成任务，对人友善!善于学习!拒绝抱怨，只会努力，从业以来主要以直销形式进行市场开发，具有良好的直销经验，因目前在职公司并行业务有CT球管中国总代理业务，所以熟悉分销模式！\n校内职务 \n2013/10-至今 校学生会文艺部副部长 \n职务描述： 组织迎新晚会，元旦晚会，迎春晚会，校运动会文艺表演等！ ",
+    "trainExp": " \n2014/10--2014/11 迈瑞BC3000液路图 \n培训机构： 迈瑞 \n培训地点： \n培训描述： 初步学习迈瑞BC3000液路图 \n2014/3--2014/5 ct球管，柯达相机构件学习 \n培训机构： 西安彩虹医疗器械 \n培训地点： 西安航空学院彩虹医疗培训中心 \n培训描述： 学习影像设备ct,相机，打印机等！ ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "广东上药桑尼克医疗科技有限公司",
+            "detail": "在职期间主要负责新疆及西安地区医院大型影像设备（CT，MR，DSA）维保市场的开拓，新疆地区销售团队的建立与管理！",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "150-500人",
+            "startDate": "2014-11",
+            "type": "合资"
+        }
+    ],
+    "workYears": 4.0
+}

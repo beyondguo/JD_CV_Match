@@ -1,0 +1,97 @@
+{
+    "basic": {
+        "birthday": "1983-06",
+        "currentCity": "上海",
+        "gender": "男",
+        "photoAddress": "http://mypics.zhaopin.cn/pic/2014/9/30/295D9691912B4F0CAAB38727EA1DF43B.jpg",
+        "registeredResidence": "深圳"
+    },
+    "certificate": "2013/1日语二级证书\n2005/1大学英语六级\n",
+    "confidentialResume": "N",
+    "currentCompany": "ACG Pharmapack Pvt.(China)",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "Technical Engineer",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2010-03",
+            "major": "材料学",
+            "school": "&nbsp;&nbsp;昆明理工大学",
+            "startDate": "2007-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2006-07",
+            "major": "金属材料工程",
+            "school": "&nbsp;&nbsp;南昌航空大学",
+            "startDate": "2002-09"
+        }
+    ],
+    "graduateSchool": "昆明理工大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "上海、深圳、武汉、成都",
+        "contractTerm": "全职",
+        "industry": "贸易/进出口、检验/检测/认证、仪器仪表及工业自动化",
+        "position": "售前/售后技术支持工程师、销售工程师",
+        "salary": "不显示职位月薪范围",
+        "state": "我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "5a2fddd0f0f0769f8a69c851",
+    "proSkill": "IOS    一般\n英语    精通\n日语    一般\n",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "10000-14999元/月",
+    "selfComm": "工作状态良好，有事业心及责任感，善于学习，较强的组织协调能力",
+    "trainExp": "2016/10-2016/11制药行业压片机原理操作等\n培训机构：德国顶尖压片机公司\n培训地点：德国科隆\n培训描述：自费到德国顶尖的压片机公司获得认证，有Certificate。\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "ACG公司(上海)",
+            "department": "",
+            "detail": "\n \nACG为世界知名的制药设备研发、生产和销售集团，总部位于印度孟买，主要产品包括胶囊填充机(固体及液体填充)、压片机、泡罩机、装盒机和流化床包覆机，以及胶囊、PVC，和Inspection检测部件等。\n 本人日常工作内容包括：\n各个型号设备如AF90T/40T/25T、FluidoCap40T/20T、CartoBlis及HiCart等的安装调试，IQ/DQ/OQ各项验证(Validation&amp;trial)，客户培训验收，故障解决维修，HMI界面修改，PLC程序修改，现场技术翻译等；\n 协助客户做部分PQ trial，以及FDA认证（美国食品药品监督管理局）或GMP\n 认证所需的文件。\n",
+            "endDate": "4000-10",
+            "industry": "医药/生物工程",
+            "position": "技术工程师",
+            "scale": "1000-9999人",
+            "startDate": "2015-12",
+            "type": "外商独资"
+        },
+        {
+            "company": "德国InstrumentSystems公司(上海)",
+            "department": "",
+            "detail": "\n \nInstrumentSystems为精密光学测试及校准的专业公司，总部位于德国慕尼黑，主要产品包括光谱仪、影像光度计和色度计，代表机型有CAS140CT、Spectro320等。\n 本人日常工作内容包括：\n 光谱仪的校准(CAL-134/136/336)，光纤更换，Shutter/OD/VDE高压测试；\n 光学实验室体系文件的作成，SOP的编写，技术培训等。\n",
+            "endDate": "2015-03",
+            "industry": "仪器仪表及工业自动化",
+            "position": "应用工程师",
+            "scale": "500-999人",
+            "startDate": "2014-09",
+            "type": "代表处"
+        },
+        {
+            "company": "株式会社理学Rigaku(上海)",
+            "department": "",
+            "detail": "\n 日本理学集团(Rigaku \nCorporation)为生产X射线科学分析仪器设备的专业厂家，在世界上享有很高的声誉，事业板块分步于日本、美国、欧洲、中国等。营业品种有X射线衍射仪、荧光光谱仪、半导体分析仪、应力分析仪、X射线探伤机等。\n本人主要负责华东、西北、东南及部分华南地区主打机型Ultima(130万左右)、SmartLab(300万左右)、MiniFlex系列(60万左右)、D/max系列、MSF/PSF系列产品的安装调试培训、应用，保内(外)维修工作。具体如下：\n 海关商检、法检，联系客户确认实验室条件，清点部品，部件安装\n 主机及附件调试，做标准数据，客户培训，疑问解答，协助客户SOP作成\n 签订技术及商务验收报告，协助商务专员完成尾款的回款\n 保修期内仪器维修案子的及时跟进，常见故障信息的归类整理；保外维修备件的准备，维修并回款；售前技术支持，应用分析测试\n 定期召开中国用户协会交流会议；定期前往日本东京Rigaku总部学习培训，撰写技术报告；理学总部最新技术资料的整理及翻译。\n",
+            "endDate": "2014-03",
+            "industry": "仪器仪表及工业自动化",
+            "position": "技术支持工程师",
+            "scale": "500-999人",
+            "startDate": "2010-12",
+            "type": "外商独资"
+        },
+        {
+            "company": "深圳市富士康科技集团(FOXCONN)",
+            "department": "",
+            "detail": "\n 在集团PCEBG事业群镁合金涂装1课，掌握日本Sony和Toshiba等笔记本外壳的涂装流程；\n负责底漆线的签章和质检线的检查工作，分析不良点(如杂质，凹陷等)形成原因，严格控制OEM产品质量；现场5S管理，协助IE改善，成本控制；在全球机构采购总处协助大卷铝材采购。\n",
+            "endDate": "2007-05",
+            "industry": "电子技术/半导体/集成电路",
+            "position": "采购助理",
+            "scale": "10000人以上",
+            "startDate": "2006-07",
+            "type": "其它"
+        }
+    ],
+    "workYears": 13.0
+}

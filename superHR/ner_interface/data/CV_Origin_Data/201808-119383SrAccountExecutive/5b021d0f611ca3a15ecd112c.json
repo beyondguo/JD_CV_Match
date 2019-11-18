@@ -1,0 +1,111 @@
+{
+    "basic": {
+        "birthday": "1988-02",
+        "currentCity": "陕西 西安-雁塔区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://mypics.zhaopin.cn/avatar/2018/7/18/012b3657-e4ca-4908-9c4a-399cd81549e7.jpg",
+        "registeredResidence": "山西-吕梁"
+    },
+    "certificate": "2013/06 大学英语六级 2012/10 全国计算机等级三级A",
+    "confidentialResume": "N",
+    "currentCompany": "保诺科技(北京)有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "生物研究员",
+    "currentSalary": " 10万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "endDate": "2017-01",
+            "major": "生物化学与分子生物学",
+            "school": "北京科技大学",
+            "startDate": "2014-09"
+        },
+        {
+            "degree": "本科",
+            "endDate": "2014-07",
+            "major": "生物技术",
+            "school": "太原师范学院",
+            "startDate": "2010-09"
+        }
+    ],
+    "graduateSchool": "北京科技大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医药/生物工程、医疗设备/器械",
+        "position": "生物/制药/医疗器械",
+        "salary": "6001-8000元/月",
+        "state": "我目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "英语： 读写能力&nbsp;熟练| 听说能力&nbsp;良好",
+    "otherLangResumeId": "5b021d0f611ca3a15ecd112c",
+    "proSkill": "",
+    "projectExp": [
+        {
+            "detail": "责任描述：1、负责集中蛋白的表达纯化； 2、所有蛋白纯度、质谱数据的获取； 3、蛋白芯片平台的调试，确保平台的可信性\n项目简介：1、白塞病相关自身抗原蛋白载体构建及其表达纯化； 2、蛋白芯片平台的搭建以及质控测试；",
+            "endDate": "4000-10",
+            "name": "蛋白芯片联合检测多种白塞病自身抗原",
+            "startDate": "2015/09"
+        },
+        {
+            "detail": "责任描述：1、负责本实验设计； 2、所有验证工作及数据的处理 3、文章的写作\n项目简介：白塞病生物标志物的筛选&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究生课题&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国自然科学基金项目 &nbsp;&nbsp;1、利用间接免疫荧光、Western blotting等技术筛选自身免疫疾病抗原靶标； &nbsp;&nbsp;2、质谱鉴定，并对可能的靶标抗原进行载体构建及表达纯化； &nbsp;&nbsp;3、免疫共沉淀及ELISA等方法进行分子水平和临床水平的验证； &nbsp;&nbsp;成果： 《Electron Transfer Flavoprotein Subunit Beta is Involved in Behcet&rsquo;s Disease》（一作，J Clin Cell Immunol）",
+            "endDate": "2016/05",
+            "name": "自身免疫病biomarker的筛选",
+            "startDate": "2014/09"
+        }
+    ],
+    "projectExpStr": "2015/09 - 至今\n蛋白芯片联合检测多种白塞病自身抗原\n责任描述:1、负责集中蛋白的表达纯化\n2、所有蛋白纯度、质谱数据的获取\n3、蛋白芯片平台的调试，确保平台的可信性\n\n项目简介:1、白塞病相关自身抗原蛋白载体构建及其表达纯化\n2、蛋白芯片平台的搭建以及质控测试\n\n\n2014/09 - 2015/08\n自身免疫病生物标志物的筛选\n责任描述:1、负责本实验设计\n2、所有验证工作及数据的处理\n3、文章的写作\n\n项目简介:1、利用间接免疫荧光、Western blotting等技术筛选干燥综合症的抗原靶标\n2、质谱鉴定、用免疫共沉淀及ElISA等方法进行分子水平和临床水平的初步验证",
+    "selfComm": "具有生物医药研发相关工作经验，良好的团队合作能力和执行力，乐观上进。 \n兴趣爱好：\n",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "保诺科技（北京）有限公司",
+            "department": "",
+            "detail": "\n主要职责：肿瘤单抗药物前期研发及功能鉴定\n1. 筛选合适的杂交瘤细胞，构建嵌合抗体\n2. 抗体工程改造，抗体制备及其纯化，单克隆筛选\n3. 抗体库构建，抗体优化（筛选pH依赖的抗体），抗体人源化改造，功能鉴定\n4. 协助整理部分IND申报文件，其中两个分子已通过FDA审批，进入临床研究\n\n熟练掌握常规分子生物学实验技能，如载体构建、分子克隆、蛋白表达纯化、蛋白芯片、细胞培养、间接免疫荧光、Western \nblotting、质谱技术、免疫共沉淀、ELISA、FACS、Alphascreen等\n",
+            "endDate": "2018-05",
+            "industry": "医药/生物工程",
+            "position": "生物研究员",
+            "scale": "",
+            "startDate": "2017-05",
+            "type": ""
+        },
+        {
+            "company": "北京大学",
+            "department": "",
+            "detail": "\n主要职责：药物筛选平台管理维护\n1. 负责平台仪器（Opera Phoenix, Echo, Envision, Janus等）的日常使用与维护，\n数据处理与分析。提供技术服务，保证平台仪器设备的正常运转\n2. 发现仪器使用过程中出现的故障，及时跟工程师沟通，确保在最短时间内解决\n3. 与其它课题组沟通，了解其需求，辅助学生完成药物筛选 \n4. 利用化合物管理软件（RegMol）管理小分子化合物库\n",
+            "endDate": "2017-05",
+            "industry": "学术/科研",
+            "position": "药物筛选平台技术员",
+            "scale": "1000-9999人",
+            "startDate": "2016-05",
+            "type": "事业单位"
+        },
+        {
+            "company": "军事医学科学院",
+            "department": "",
+            "detail": "\n\n实习期间，学习了倒置共聚焦显微镜的理论相关知识，协助部分同学完成图像的采集和拍摄工作。在实践过程中，指导老师教给了很多做人做事的道理，让我受益匪浅，鼓励我在未来的道路上再接再厉，勇往直前。\n",
+            "endDate": "2016-02",
+            "industry": "学术/科研",
+            "position": "实习生",
+            "scale": "1000-9999人",
+            "startDate": "2016-01",
+            "type": "事业单位"
+        },
+        {
+            "company": "中科院微生物所",
+            "department": "",
+            "detail": "\n负责样品的接收与前处理处理，为校内外提供服务\n熟悉质谱（MALDI-TOF/TOF）平台运作流程\n",
+            "endDate": "2015-12",
+            "industry": "学术/科研",
+            "position": "实习生",
+            "scale": "1000-9999人",
+            "startDate": "2014-10",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 5.0
+}

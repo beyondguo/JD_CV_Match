@@ -1,0 +1,70 @@
+{
+    "basic": {
+        "birthday": "1988-01",
+        "currentCity": "福州",
+        "gender": "男",
+        "nationality": "中国",
+        "registeredResidence": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "融360",
+    "currentIndustry": "互联网/移动互联网/电子商务",
+    "currentPosition": "渠道总监",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "endDate": "2009-06",
+            "major": "经贸日语",
+            "school": "福建外经贸学院",
+            "startDate": "2003-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "福州",
+        "industry": "互联网/移动互联网/电子商务;规划/设计/装潢;汽车/摩托车",
+        "position": "销售经理/主管",
+        "salary": "面议"
+    },
+    "projectExp": [],
+    "selfComm": "\n\n",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "融360",
+            "detail": "- 所在地区：福州 \n - 汇报对象：区域经理 \n - 下属人数：0人 \n - 职责业绩： \n1.跟进总公司整体发展战略规划，以区域为核心制定拓展当地市场中长期合作。\n2、制定销售目标、计划，带领团队完成总公司下达的指标。\n",
+            "endDate": "4000-10",
+            "position": "渠道总监",
+            "startDate": "2017-11"
+        },
+        {
+            "company": "北京搜房网络技术有限公司",
+            "detail": "\n - 汇报对象：城市总经理 \n - 下属人数：0人 \n - 职责业绩： \n1，制定拓展本地合作项目，开展渠道合作。\n2，洽谈异业资源合作，落地。\n3，策划线上活动主题，配合甲方完成落地。\n4，负责电call，外拓，平台数据转化，产品培训\n",
+            "endDate": "2017-11",
+            "position": "渠道总监",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "拓速乐汽车销售(北京)有限公司",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n1，推动当地市场热度，及渠道。\n2，组织意向客群体验产品。\n3，结合商圈，房开，落地品宣。\n4，产品培训。\n",
+            "endDate": "2015-05",
+            "position": "大客户经理",
+            "startDate": "2014-10"
+        },
+        {
+            "company": "大众点评",
+            "detail": "\n - 汇报对象：城市经理 \n - 下属人数：0人 \n - 职责业绩： \n1，根据公司规划开发大型商户\n2，维系重点客户\n",
+            "endDate": "2014-05",
+            "position": "大客户销售",
+            "startDate": "2013-05"
+        },
+        {
+            "company": "国贸克莱斯勒",
+            "detail": "\n - 下属人数：0人 \n - 职责业绩： \n1，外展活动执行\n2，产品及技巧培训\n3，跟进网络订单及团队业绩\n",
+            "endDate": "2013-03",
+            "position": "DCC经理",
+            "startDate": "2010-03"
+        }
+    ]
+}

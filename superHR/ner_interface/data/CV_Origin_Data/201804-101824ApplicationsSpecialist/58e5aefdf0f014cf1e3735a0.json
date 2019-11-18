@@ -1,0 +1,217 @@
+{
+    "awards": "",
+    "basic": {
+        "birthday": "1986-9-29",
+        "currentCity": "厦门",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=346642730&amp;key=2a65e35eee4f99934e20321e73bb1914",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "厦门",
+        "zipCode": ""
+    },
+    "certificate": " \n2016/3 中级工程师 ",
+    "confidentialResume": "N",
+    "currentCompany": "阿斯利康(无锡)贸易有限公司",
+    "currentIndustry": "制药/生物工程",
+    "currentPosition": "区域市场经理",
+    "currentSalary": " 31万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2008-07",
+            "major": "生物工程",
+            "school": "集美大学",
+            "startDate": "2004-09"
+        }
+    ],
+    "fieldValue": [
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "2",
+                "enumValue": "可以进行",
+                "id": "1",
+                "isDefault": false,
+                "orderIndex": 1.0
+            },
+            "fieldId": "58a163d6f89a2ab1cd60a474",
+            "id": "1",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346011.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "8",
+                    "enumValue": "制药行业",
+                    "id": "7",
+                    "isDefault": false,
+                    "orderIndex": 7.0
+                }
+            ],
+            "fieldId": "58a16363f89a2ab1cd60a45d",
+            "id": "2",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346015.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "7",
+                    "enumValue": "分子－临床",
+                    "id": "6",
+                    "isDefault": false,
+                    "orderIndex": 6.0
+                }
+            ],
+            "fieldId": "58a164f8f89a2ab1cd60a4c1",
+            "id": "3",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346019.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "1",
+                    "enumValue": "外资企业",
+                    "id": "0",
+                    "isDefault": false,
+                    "orderIndex": 0.0
+                }
+            ],
+            "fieldId": "58a16444f89a2ab1cd60a47e",
+            "id": "4",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346023.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "一般员工",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a2aefff89ae62d542879ce",
+            "id": "5",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346027.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "fieldId": "58a2b322f89ae62d54287b09",
+            "id": "6",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346031.0,
+            "linkedEnumValue": {
+                "bValid": true,
+                "displayName": "市场@#临床价值市场",
+                "id": "9",
+                "orderIndex": 9.0
+            },
+            "userName": "Meg Zou"
+        },
+        {
+            "fieldId": "58b3c8c309c7909715ed2e8b",
+            "id": "7",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346034.0,
+            "strValue": "厦门",
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValue": {
+                "bValid": true,
+                "enumKey": "1",
+                "enumValue": "是",
+                "id": "0",
+                "isDefault": false,
+                "orderIndex": 0.0
+            },
+            "fieldId": "58a16210f89a2ab1cd60a3e0",
+            "id": "8",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346038.0,
+            "userName": "Meg Zou"
+        },
+        {
+            "enumValues": [
+                {
+                    "bValid": true,
+                    "enumKey": "19",
+                    "enumValue": "福建省",
+                    "id": "18",
+                    "isDefault": false,
+                    "orderIndex": 18.0
+                }
+            ],
+            "fieldId": "58b3c72a09c7909715ed2e8a",
+            "id": "9",
+            "lastUpdate": "May 17, 2018 4:22:26 PM",
+            "lastUpdated": 1526545346042.0,
+            "userName": "Meg Zou"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 厦门 ",
+        "contractTerm": "全职",
+        "industry": " 医疗设备/器械 ",
+        "position": "",
+        "salary": "20000-24999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：随时"
+    },
+    "langAbility": " \n\n普通话 精通 ",
+    "otherLangResumeId": "5a922d64f0f08ca5e8ab52ef",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "532239878",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "学历并无优势，但是通过几年的不断努力，无论是在技术上，还是在管理及与人的沟通交流都积累了很多的经验。在厦门的高校、医院、科研单位都有比较扎实的资源。",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "阿斯利康（无锡）贸易有限公司",
+            "detail": "工作职责：1、市场分析:关注收集区域市场及竞争对手相关信息市场数据分析; \n2、市场活动策划和执行:执行区域市场活动;根据区域专家观念及客户分类，搭建不同层级的客户交 流平台，确保预算范围内最大的客户覆盖; \n3、区域专家管理:建立并定期维护区域专家信息库;同区域专家进行定期沟通，传递品牌关键信息， \n建立专家观念;根据区域专家现有的观念/倾向，制定相应的区域专家发展计划;区域级讲者提供讲课 机会;VIP 跨区域讲课/交流;搭建区域 KOL \n及中青年交流合作平台; 4、销售团队支持:对销售团队进行培训;参加所有 RSM 在区域内召开的管理会及 DSM 团队的季度业 \n务汇报，协助各销售团队进行市场分析;区域内全国 TOP KOL 管理与销售团队共同拜访客户。 工作业绩：1、建立闽赣专家库:完成 134 \n位闽赣区域专家的专家库建立，并完成客户分级，建立不同层次的学术 平台覆盖; \n2、中央市场部活动在区域内落地，区域内活动的策划与执行:响应中央市场部的活动策略，针对区域 市场情况，将活动细化到区域落地执行，在岗 5 个月，完成了 60 \n余项的活动落地，覆盖 90%以上的区 域 KOL 客户; 3、区域市场分析:按月度进行区域市场分析，及时将市场信息(竞品信息、区域医药政策信息、进药 \n情况、新患数据、区域核心客户分析等内容)反馈给 RSM、DSM，及时调整相关的市场策略; 4、区域销售指标完成情况:在岗期间，区域销售额 104%达成; \n5、跨部门协作:整合中央市场部各品牌组、医学部、检测部门、KA 等部门的资源，提高资源利用率， 推进区域疾病全程化管理流程。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "区域市场经理",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "厦门基科生物医药科技有限公司",
+            "department": "研发部",
+            "detail": "工作职责： \n1、负责技术服务项目承接，与客户做好沟通，按照客户需求进行项目设计； \n2、负责做好项目统筹，并安排好部门成员工作，推进项目执行。阶段性跟客户汇报项目进展，并提供技术支持工作； \n3、负责培训部门成员规范实验操作，并培训成员技术及管理能力水平提升； \n4、负责新型创新技术研发，专利的撰写； \n5、配合市场营销的宣传讲座。 \n工作业绩：\n 1、带领小组成员 10 个月完成 KRAS（7 种突变型）、EGFR（29 种突变型）、BRAF（1 \n种突变型）的检测试剂盒研发工作：负责统筹组员的分工协作，分组承担位点体系设计及优化工作。前期通过市场调研明确产品定位，融合已有的稀有突变检测技术 \nARMS、cast-PCR 等平台，再加入创新的引物结构，分期完成所有位点的引物探针设计工作。在 touchdown 等程序优化的基础上，逐步优化体系中的各种 \nMg 离子、dNTP 等配比，并优化了多种 PCR 增强剂。实现扩增反应终体系核酸量为 10ng 和突变序列所占百分比确定最低突变百分率达到 \n0.5%。通过批内、批间差实验，完善稳定性等数据，以达到客户的需求；\n2、完成科研单位、高校等对接项目二十余项：其中包括使用 taqman 探针法、SYBR GREEN 染料法等平台实现微生物定性和定量检测；使用 \nHRM、taqman 探针扩增曲线法、FRET 探针熔解曲线法等平台实现SNP 分型检测；使用 taqman 探针法、SYBR GREEN 染料法、MLPA \n的相对定量平台实现 CNV 检测等；\n3、熟悉行业新技术的动态及相关的应用范畴：通过大量的科研项目，熟悉最前沿的 qPCR技术，包括 taqman探针溶解曲线、HRM、MLPA \n等技术的设计。并不断更新收集基因检测行业的前沿动态技术，熟悉 NGS、digital PCR 等的原理、应用范畴及平台优劣势，清晰各个技术平台的市场定位；\n4、实现临床实验室的规范化管理：按照 ISO9001 及 \nCNAS（ISO17025）的细则，建立起实验室管理制度，其中包括卫生体系、安全体系、库存管理体系及仪器管理等。制定明确的人员分工及对应岗位职责，做到有章可循，有规可依。在 \n2014 年 5 月配合完成了公司实验室 ISO9001 认证工作，并取得证书。",
+            "endDate": "2015-09",
+            "industry": "医疗设备/器械",
+            "position": "项目经理",
+            "scale": "少于50人",
+            "startDate": "2012-03",
+            "type": "民营公司"
+        },
+        {
+            "company": "厦门大学分子诊断教育部工程研究中心",
+            "department": "技术部",
+            "detail": "工作职责：\n1、统筹实验室管理工作，包括日常的实验室秩序维护，仪器设备等管理； \n2、负责科研项目研发； \n3、制定常规实验流程，培训新人常规的实验室操作； \n4、协助合作的公司进行试剂盒的报批工作，主要是研发材料及报批文件的编写及整理。\n工作业绩：\n 1、配合分实验室的建立，并负责完善日常的管理规范； \n2、完成了 HPV 病毒 30 种分型的检测试剂盒研发； \n3、完成多个科研项目课题，并发表 SCI 一篇。 主要参与的课题有：多色实时 PCR \n用于食源性致病菌的广谱检测与识别，覆盖常见的食源性致病菌，包括致病性大肠杆菌和志贺菌、沙门菌、单增李斯特菌、蜡样芽孢杆菌、金黄色葡萄球菌、霍乱弧菌、副溶血弧菌、变形杆菌和化脓性链球菌等。Yiqun \nLiao,Yulin\nZhou, Qiwei Guo,Xiaoting Xie,Ena Luo,Jian Li,Qingge Li. Simultaneous \nDetection, Genotyping, and Quantification of Human Papillomaviruses by \nMulticolor Real-Time PCR and Melting Curve Analysis. J Clin Microbiol, \n2013,51(2): 429&ndash;435；\n4、配合实验室成功举办第四届厦门大学荧光 PCR 基础与应用研讨会：主要责任是担任培训参会人员的基础 PCR 知识及相关的操作培训； \n\n5、配合实验室的合作公司，完成了两个结核耐药杆菌的试剂盒报批工作：主要承担的责任是报批工作中的技术相关文件的撰写，其中包含说明书、注册产品标准、工艺规程等指导性文件。",
+            "endDate": "2012-03",
+            "industry": "医疗设备/器械",
+            "position": "分实验室负责人",
+            "scale": "50-150人",
+            "startDate": "2008-06",
+            "type": "事业单位"
+        }
+    ],
+    "workYears": 10.0
+}

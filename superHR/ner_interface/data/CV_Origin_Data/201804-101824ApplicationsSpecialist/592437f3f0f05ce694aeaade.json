@@ -1,0 +1,86 @@
+{
+    "basic": {
+        "birthday": "1990-1-5",
+        "currentCity": "福州-仓山区",
+        "gender": "女",
+        "maritalStatus": "已婚",
+        "photoAddress": "http://i.51job.com/resume/ajax/image.php?type=avatar&amp;userid=91947392&amp;key=afec3ba237cbd4a513d3e3727187dcab",
+        "politicalStatus": "普通公民",
+        "registeredResidence": "南平",
+        "zipCode": ""
+    },
+    "certificate": " \n2010/6 大学英语四级 ",
+    "confidentialResume": "N",
+    "currentCompany": "福建省博特生物科技有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "省区经理",
+    "currentSalary": " 12万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "主修临床护理，辅修口腔护理与涉外护理。",
+            "endDate": "2011-05",
+            "major": "护理学",
+            "school": "厦门医学高等专科学校",
+            "startDate": "2008-09"
+        }
+    ],
+    "graduateSchool": "厦门医学高等专科学校",
+    "idStr": "",
+    "jobObjective": {
+        "city": "福建省",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "区域销售经理",
+        "salary": "10-15万 元/年 ",
+        "state": "观望有好机会会考虑\n到岗时间：1个月内"
+    },
+    "langAbility": "",
+    "otherLangResumeId": "592437f4f0f05ce694aeaafc",
+    "otherLangResumeSite": "51job.com",
+    "otherSourceId": "86841515",
+    "proSkill": "",
+    "projectExp": [],
+    "projectExpStr": "",
+    "salaryRemark": "10-15万元/年",
+    "selfComm": "工作方面：自信，务实，上进，有责任心，沟通力强，良好的市场分析能力与执行力。\n生活方面：热爱运动，热爱美食。",
+    "trainExp": " \n2010/3--2010/5 营养学 \n\n培训机构： 厦门医学高等专科学校 \n培训地点： 厦门医学高等专科学校 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "福建省博特生物科技有限公司",
+            "department": "销售部",
+            "detail": "1，负责公司产品的销售工作，收集与产品相关的市场信息。\n2，负责省内市场及经销商的协调工作，设定市场发展计划并有效执行。\n3，负责省内产品的学术推广的相关事宜，组织并参与相关的学术交流会，扩大产品在市场的影响力。\n4，建立和维护好客户关系\n5，完成公司设定的季度及年度销售任务。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "区域销售经理",
+            "scale": "50-150人",
+            "startDate": "2015-10",
+            "type": "民营公司"
+        },
+        {
+            "company": "江苏德长医疗科技有限公司",
+            "department": "市场销售部",
+            "detail": "1负责区域内的产品销售，渠道拓展和维护。\n2区域的学术与推广活动的开展，确保公司销售策略的实施。\n3掌握扎实的产品知识及娴熟的销售技巧\n4完成了公司年度的区域销售任务指标，提高产品在市场上的占有率。\n5与客户建立专业及良好的关系，保持和维护公司形象。\n6配合代理商产品招标及完成公司的年度销售任务。",
+            "endDate": "2015-10",
+            "industry": "医疗设备/器械",
+            "position": "区域销售经理",
+            "scale": "50-150人",
+            "startDate": "2013-03",
+            "type": "合资"
+        },
+        {
+            "company": "上海德真会口腔门诊",
+            "department": "口腔科",
+            "detail": "1，口腔护士协助配合口腔医生的诊疗过程。\n2，使用后器械归类，清洗，消毒。\n3，确定病人下次就诊的时间，项目或治疗结束患者的回访。\n4，对外籍人员用英文解释并介绍治疗过程与疗效。",
+            "endDate": "2012-12",
+            "industry": "医疗/护理/卫生",
+            "position": "护士/护理人员",
+            "scale": "150-500人",
+            "startDate": "2011-06",
+            "type": "民营公司"
+        }
+    ],
+    "workYears": 7.0
+}

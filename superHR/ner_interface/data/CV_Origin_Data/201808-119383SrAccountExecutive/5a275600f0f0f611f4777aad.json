@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1980-5-1",
+        "currentCity": "西安-高新技术产业开发区",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 20万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2006-07",
+            "major": "临床医学与医学技术",
+            "school": "长治医学院",
+            "startDate": "2001-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售代表",
+        "salary": "20-30万 元/年 ",
+        "state": "目前正在找工作\n到岗时间："
+    },
+    "otherLangResumeId": "5a275600f0f0f611f4777aad",
+    "projectExp": [
+        {
+            "detail": "于2012年给渭南中心医院销售日立实验室生化流水线一套",
+            "endDate": "4000-10",
+            "name": "渭南中心医院TLA",
+            "responsibility": "承上启下，负责大部分本项目医院与公司的衔接与运行。",
+            "startDate": "2012-08"
+        }
+    ],
+    "selfComm": "\n本人临床专业本科毕业，毕业后在临床外科工作4年余，专业知识较扎实，有一定的临床经验，和临床医生容易产生很好的沟通。工作期间，参与几个大项目的运作，有一定的经验。诚实可靠，工作认真，有责任感，有担当。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "西安科林生物科技有限公司",
+            "department": "销售部",
+            "detail": "在该公司主要负责渭南区域本公司经营所有产品的销售与运营：\n 1，开发三级医院大客户：于2012年给渭南中心医院销售日立生化流水线一套；2017年给西安一四一医院销售雅培生化流水线一条。\n 2，开发区域内的二级客户：工作期间分别完成了韩城市人民医院，华县人民医院，合阳县妇保院，渭南市骨科医院等客户的设备销售与后期的耗材销售。\n 3，于本区域内有关系的检验类经销商建立了很好的合作关系。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "民营公司",
+            "startDate": "2011-10"
+        }
+    ],
+    "workYears": 13.0
+}

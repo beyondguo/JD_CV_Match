@@ -1,0 +1,69 @@
+{
+    "basic": {
+        "birthday": "1987-6-23",
+        "currentCity": "杭州-滨江区",
+        "gender": "女",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentSalary": " 1万元 ",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "&quot;食品化学、食品微生物学、食品工程原理、食品工程实验、\n食品工厂设计、果品蔬菜加工学、畜产食品工艺学、粮油食品工艺学、\n食品工艺实验、食品分析与检验实验等。&quot;\nSPECIALIZED COURSES:\n《Food Chemical》《Food Microbiology 》《Food Microbiology Principle of food \nengineering》《Food factory design》《Fruits and vegetables processing》《Cereal and \noil technology》《Cereal and oil technology》《Food analysis and testing experiment》",
+            "endDate": "2009-07",
+            "major": "食品科学与工程",
+            "school": "农大 海外经历",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 上海 ",
+        "contractTerm": "全职",
+        "industry": "制药/生物工程",
+        "position": "贸易/外贸经理/主管,外贸业务员",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1周内"
+    },
+    "projectExp": [
+        {
+            "detail": "外贸业务，找我去开疆拓土吧！",
+            "endDate": "4000-10",
+            "name": "外贸业务员",
+            "responsibility": "",
+            "startDate": "2014-12"
+        }
+    ],
+    "selfComm": "My job is my life .my life is my job!",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "Germany office",
+            "department": "外贸部",
+            "detail": "采购跟单",
+            "endDate": "4000-10",
+            "industry": "贸易/进出口",
+            "position": "外贸经理",
+            "scale": "1000-5000人",
+            "startDate": "2015-01",
+            "type": "外资(非欧美)"
+        },
+        {
+            "company": "marketing union",
+            "department": "凯越国际贸易部",
+            "detail": "\n外贸业务员职务开发新客户、报价、维护客户、跟单、采购、出货！全能一条龙服务、外贸公司作息和IT公司一样、早九点到晚十点、五年的工作磨砺让我身经百战、独当一面！希望贵公司给予珍贵的机会！",
+            "endDate": "2014-12",
+            "industry": "贸易/进出口",
+            "position": "外贸业务员",
+            "scale": "500-1000人",
+            "startDate": "2009-07",
+            "type": "外资(非欧美)"
+        }
+    ],
+    "workYears": 10.0
+}

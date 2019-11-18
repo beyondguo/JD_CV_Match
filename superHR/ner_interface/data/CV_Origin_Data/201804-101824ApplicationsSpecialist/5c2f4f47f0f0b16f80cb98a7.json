@@ -1,0 +1,171 @@
+{
+    "basic": {
+        "birthday": "1993-8-15",
+        "currentCity": "无锡",
+        "gender": "男",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-01/74394131277d2235450ff4dd48f9c0a5/b4dd9c01652a47fa88bc60ea896d63ea.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "上饶",
+        "zipCode": "210095"
+    },
+    "certificate": " \n2016/6 中级工程师 \n2015/12 大学英语六级 ",
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "分子生物学（转基因方向）",
+            "endDate": "4000-10",
+            "major": "园艺",
+            "school": "南京农业大学",
+            "startDate": "2015-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "景观建筑，工科学士。",
+            "endDate": "2015-06",
+            "major": "风景园林",
+            "school": "海南大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 上海 ",
+        "contractTerm": "全职",
+        "industry": "房地产,贸易/进出口,快速消费品(食品、饮料、化妆品),保险,航天/航空",
+        "position": "销售管理,项目主管,储备经理人,总裁助理/总经理助理,医药销售经理/主管,海外销售",
+        "salary": "8000-9999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n口语交流 熟练 \nMS Powerpoint 熟练 ",
+    "projectExp": [
+        {
+            "detail": "奔走于浙江福建广东山东江苏等区域洽谈商务合作模式，确定意向并最终用了三个月时间初见渠道网络规模。",
+            "endDate": "4000-10",
+            "name": "国内光伏分布式渠道网络建设",
+            "responsibility": "",
+            "startDate": "2018-08"
+        }
+    ],
+    "selfComm": "喜欢与人交流，英语口语无障碍。\n阳光积极向上\n校内职务 \n2015/11-2017/3 南农校研会权益生活部长 \n职务描述： 作为权益部部长，主要负责与学校的各个部门对接比如后勤部门，发展与维护学生的生活权益。 \n2011/9-2013/6 海南大学台球协会策划部部长 \n职务描述： 策划及开展了&lsquo;海口高校间台球友谊赛&rsquo;，从活动的前期策划到开展到最后的圆满结束，全程参与负责。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "无锡尚德电力",
+            "detail": "作为管培生负责渠道销售业务，开发拓展国内销售业务及商业谈判。\n奔走于浙江福建广东山东江苏等区域洽谈商务合作模式，确定意向并最终用了三个月时间初见渠道网络规模。",
+            "endDate": "4000-10",
+            "industry": "电气/电力/水利",
+            "position": "渠道/分销经理",
+            "scale": "10000人以上",
+            "startDate": "2018-08"
+        },
+        {
+            "company": "尼泊尔",
+            "detail": "1.在滑翔圣地-博卡拉做志愿者，给中外游客提供便利；\n2.在奇特旺的大象孤儿院做志愿者，了解动物保护动物。",
+            "endDate": "2017-09",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2017-08"
+        },
+        {
+            "company": "拉萨青旅",
+            "detail": "在青旅做义工，接触了很多有意思的人听了很多有趣的故事。",
+            "endDate": "2017-08",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2017-07"
+        },
+        {
+            "company": "国际学术研讨会",
+            "detail": "作为国际学术研讨会的志愿者，负责接待及安排国外的科研工作者，受到好评并获得国际学术研讨会优秀志愿者。",
+            "endDate": "2016-11",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2016-11"
+        },
+        {
+            "company": "新疆（伊犁和喀什）青旅义工",
+            "detail": "在青旅做义工，接触了很多有意思的人听了很多有趣的故事。",
+            "endDate": "2016-08",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2016-07"
+        },
+        {
+            "company": "越南（沙巴和老街）",
+            "detail": "向外国游客介绍中国文化并做翻译。",
+            "endDate": "2016-07",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2016-06"
+        },
+        {
+            "company": "南京农业大学校研会权益部部长",
+            "detail": "研究生期间作为学校研究生会权益部部长，给在校学生争取了一些权益并举办了一些活动，如早餐文化节和文明宿舍等活动。并和学校的一些部门沟通，如后勤集团。",
+            "endDate": "2017-04",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2015-09"
+        },
+        {
+            "company": "斯里兰卡海龟保育志愿者",
+            "detail": "在海上佛国斯里兰卡做了一个月的海龟保育志愿者工作，并教当地小朋友英语，介绍中国文化。",
+            "endDate": "2015-06",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2015-06"
+        },
+        {
+            "company": "缅甸的玉石生意",
+            "detail": "往返中缅（缅甸和瑞丽，腾冲，芒市）了解玉石行业，给中外游客充当翻译。",
+            "endDate": "2015-04",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2015-03"
+        },
+        {
+            "company": "环海南岛实训",
+            "detail": "环海南岛实训，在五星酒店（文华东方，丽思卡尔顿）了解园林规划及绿化设计。",
+            "endDate": "2013-12",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2013-11"
+        },
+        {
+            "company": "骑行川藏线318",
+            "detail": "骑行中国景观大道318成都至拉萨（川藏线），历时一个月，2130KM.",
+            "endDate": "2013-08",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2013-07"
+        },
+        {
+            "company": "桂林写生实训",
+            "detail": "参加学校的实训，在桂林写生一个月。",
+            "endDate": "2012-08",
+            "industry": "",
+            "position": "其他",
+            "startDate": "2012-07"
+        },
+        {
+            "company": "海口市苍鹰小学",
+            "detail": "支教老师，面向学生授予知识。",
+            "endDate": "2013-06",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2011-09"
+        },
+        {
+            "company": "海南大学台球协会策划部部长",
+            "detail": "策划及开展了&lsquo;海口高校间台球友谊赛&rsquo;，从活动的前期策划到开展到最后的圆满结束，全程参与负责。",
+            "endDate": "2013-06",
+            "industry": "",
+            "position": "志愿者/社会工作者",
+            "startDate": "2011-09"
+        }
+    ],
+    "workYears": 1.0
+}

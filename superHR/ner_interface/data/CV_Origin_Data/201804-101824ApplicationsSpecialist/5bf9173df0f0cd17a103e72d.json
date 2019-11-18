@@ -1,0 +1,53 @@
+{
+    "basic": {
+        "birthday": "1996-01",
+        "cityOfBirth": "福建",
+        "currentCity": "福建",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "https://img1.dxycdn.com/2018/1027/096/3308413168569241567-7.jpg"
+    },
+    "certificate": "英语六级",
+    "confidentialResume": "N",
+    "eduExp": [
+        {
+            "degree": "福建医科大学",
+            "endDate": "4000-10",
+            "major": "本科",
+            "school": "2014-09 至 2018-07",
+            "startDate": "医学检验技术"
+        }
+    ],
+    "extendFields": "是否规培：未规培\n执业证书：暂无执业证书\n职称：职称职称未定级",
+    "graduateSchool": "2014-09 至 2018-07",
+    "idStr": "",
+    "jobObjective": {
+        "city": "全国",
+        "position": "检验科",
+        "salary": "面议",
+        "state": "目前处于离职状态，可立即上岗"
+    },
+    "langAbility": "",
+    "proSkill": "1. 熟悉检验科的操作作业， 2. 基本掌握基本仪器的操作和保养； 3. 掌握检验结果的核发 4. 熟悉特殊状况的处理",
+    "projectExp": [],
+    "selfComm": "自我评价：在校期间获得校优秀奖学金，学习态度认真。工作上认真负责，能承担中高强度工作的压力；能和同事保持良好沟通；善于学习，勤奋刻苦，适应性强，能够在短的时间内融入一个新的环境。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "2018-07 至 2018-10",
+            "department": "厦门长庚医院",
+            "detail": "主要经历岗前培训，包括检验科各个仪器的操作和保养，镜检判读学习，标本合格与否的判断，检验结果的解释和核发，质控结果的判断和处理，特殊标本的处理方法等等。",
+            "endDate": "4000-10",
+            "position": "检验科",
+            "startDate": "技师"
+        },
+        {
+            "company": "2017-07 至 2018-06",
+            "department": "福建医科大学附属第二医院",
+            "detail": "实习期间主要学习检验科的基本操作和流程掌握和巩固所学知识，知晓结果判读，判断质控和处理分析质控，参与仪器保养和试剂加载等。",
+            "endDate": "4000-10",
+            "position": "检验科输血科中心实验室",
+            "startDate": "实习生"
+        }
+    ]
+}

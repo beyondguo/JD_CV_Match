@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "birthday": "1992-05",
+        "currentCity": "福建漳州市",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "",
+        "registeredResidence": "福建漳州市"
+    },
+    "certificate": "",
+    "confidentialResume": "N",
+    "currentCompany": "漳州市医院",
+    "currentIndustry": "",
+    "currentPosition": "检验师",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "endDate": "2016-07",
+            "major": "医学检验",
+            "school": "福建医科大学",
+            "startDate": "2011-09"
+        }
+    ],
+    "extendFields": "是否规培:未规培\n执业证书:暂无执业证书\n职称:职称初级",
+    "graduateSchool": "福建医科大学",
+    "idStr": "",
+    "jobObjective": {
+        "city": "厦门市",
+        "contractTerm": "",
+        "industry": "",
+        "position": "行政管理",
+        "salary": "8000-9999",
+        "state": "目前在职，正考虑换个新环境"
+    },
+    "langAbility": "",
+    "proSkill": "",
+    "projectExp": [],
+    "selfComm": "",
+    "trainExp": "",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "漳州市医院",
+            "department": "检验科",
+            "detail": "入职的一年多，都是处于培训状态，需要到各个分组去学习，比如门诊、生化、免疫、微生物、临检等，到目前为止，基本熟练掌握各个分组的日常工作，并能独自顺利完成。前面一年经过每周2&mdash;3次跟班训练，目前已经单独值班。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "检验师",
+            "salary": "",
+            "scale": "",
+            "startDate": "2016-12",
+            "type": ""
+        }
+    ],
+    "workYears": 0.0
+}

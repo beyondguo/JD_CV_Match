@@ -1,0 +1,86 @@
+{
+    "basic": {
+        "birthday": "1988-7-6",
+        "currentCity": "西安-碑林区",
+        "gender": "男",
+        "maritalStatus": "已婚",
+        "photoAddress": "https://static.tupu360.com/cvresources/photo/2019-02/74394131277d2235450ff4dd48f9c0a5/cae972215716ff67588de4f07943165a.jpg",
+        "politicalStatus": "共青团员",
+        "registeredResidence": "西安",
+        "zipCode": "710000"
+    },
+    "certificate": " \n2008/9 全国计算机应用技术 （91） \n2008/9 全国计算机等级考试三级 （优秀） \n2008/3 全国计算机等级二级 （优秀） \n2007/9 大学英语四级 （良好） ",
+    "confidentialResume": "N",
+    "currentSalary": " 10万元 ",
+    "degree": "大专",
+    "eduExp": [
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2009-07",
+            "major": "计算机科学与技术",
+            "school": "陕西工业职业技术学院",
+            "startDate": "2006-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "其他,其他,区域销售经理",
+        "salary": "4500-5999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "langAbility": " \n\n英语 良好 \nJava 熟练 \n\nC/C++ 熟练 ",
+    "otherLangResumeId": "5b38f0dc611c19891b06f519",
+    "projectExp": [],
+    "selfComm": "一，人格魅力:积极，自信，踏实，能接纳一切。\n二，能力:喜欢并能与任何人沟通。\n三，态度:不卑不吭，平等，真诚待人。\n四，学习:喜欢看书，看报等。善于总结。",
+    "trainExp": " \n2007/10--2007/11 计算机软件开发流程 \n\n培训机构： 陕西圣宏科技有限公司 \n培训地点： 西安市丈八东路 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海贝生医疗科技有限公司",
+            "department": "销售部",
+            "detail": "1.针对儿科，负责（新生儿随访软件,）软件在陕西省内的推广，销售。\n2.在此期间，个人工作能力得到了大幅度提升。能够应付不同的人和事。不惧困难。",
+            "endDate": "4000-10",
+            "industry": "计算机软件",
+            "position": "区域销售经理",
+            "scale": "少于50人",
+            "startDate": "2017-08",
+            "type": "民营公司"
+        },
+        {
+            "company": "陕西德道医疗电子有限公司",
+            "department": "销售部",
+            "detail": "1.在医院体检科，儿科，妇产科等科室，负责超生骨密度，人体成份分析仪设备的销售，都是进口第一品牌，价值10-40万之间。\n2.累计销售额有100万，6台设备。\n3.负陕南陕北区域（安康市，汉中市，延安市，榆林市）。",
+            "endDate": "2017-07",
+            "industry": "医疗设备/器械",
+            "position": "销售代表",
+            "scale": "少于50人",
+            "startDate": "2016-04",
+            "type": "民营公司"
+        },
+        {
+            "company": "中国电信咸阳分公司",
+            "department": "接入维护中心",
+            "detail": "1.主要负责电话，宽带，网络电视的安装与维护,\n2.维护着自己管辖片区4000多户用户。\n3.每天至少要与5个用户打交道。\n4工作期内，没有一起越级投诉。",
+            "endDate": "2016-03",
+            "industry": "通信/电信运营、增值服务",
+            "position": "电信社区服务工程师",
+            "scale": "1000-5000人",
+            "startDate": "2011-10",
+            "type": "国企"
+        },
+        {
+            "company": "中国联通咸阳分公司",
+            "detail": "负责联通手机信号，铁塔机房的日常维护。",
+            "endDate": "2011-09",
+            "industry": "500-1000人",
+            "position": "通信技术工程师",
+            "scale": "国企",
+            "startDate": "2009-09"
+        }
+    ],
+    "workYears": 10.0
+}

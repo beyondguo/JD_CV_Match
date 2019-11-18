@@ -1,0 +1,84 @@
+{
+    "basic": {
+        "birthday": "1989-7-31",
+        "currentCity": "北京-朝阳区",
+        "gender": "女",
+        "maritalStatus": "未婚",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/woman.png",
+        "politicalStatus": "",
+        "registeredResidence": "龙岩",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "爱尔康(中国)眼科产品有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "实验室培训/管理员",
+    "currentSalary": " 15万元 ",
+    "degree": "硕士",
+    "eduExp": [
+        {
+            "degree": "硕士",
+            "detail": "\n专业课程包括内科学，病理生理学，眼科学，解剖学等。硕士三年期间，在医院接受规范化培训，并跟随导师做临床和基础医学方面的研究。毕业课题方向为糖尿病视网膜病变的研究及治疗。",
+            "endDate": "2016-06",
+            "major": "临床",
+            "school": "北京中医药大学",
+            "startDate": "2013-09"
+        },
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2013-06",
+            "major": "针灸推拿学",
+            "school": "北京中医药大学",
+            "startDate": "2008-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": " 厦门 ",
+        "contractTerm": "全职",
+        "industry": "医疗/护理/卫生,医疗设备/器械,制药/生物工程",
+        "position": "医院/医疗/护理,生物工程/生物制药,临床运用专员，医学联络官",
+        "salary": "10000-14999 元/月 ",
+        "state": "观望有好机会会考虑\n到岗时间：待定"
+    },
+    "langAbility": " \n英语 良好 ",
+    "otherLangResumeId": "5b8f934af0f03e8b31c13048",
+    "projectExp": [],
+    "selfComm": "临床实习3年，对常见疾病诊疗有一定认识，能够独立思考，解决问题。硕士研究方向糖尿病视网膜病变，发表相关论文数篇。",
+    "trainExp": " \n2013/9--至今 住院医师规范化培训 \n培训机构： 中日友好医院 \n培训地点： 中日友好医院 \n培训描述： 为期3年的住院医师规范化培训，在医院的各个科室轮转培训，对每个科室常见疾病的诊断和治疗有了详尽认识，并培养了独立思考、解决问题的能力。 ",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "爱尔康（中国）眼科产品有限公司",
+            "department": "手术产品部",
+            "detail": "实验室的维护、管理，为到访医生培训白内障手术。",
+            "endDate": "4000-10",
+            "industry": "医疗设备/器械",
+            "position": "实验室培训/管理",
+            "scale": "500-1000人",
+            "startDate": "2016-10",
+            "type": "外资(欧美)"
+        },
+        {
+            "company": "北京华德眼科医院",
+            "department": "住院部",
+            "detail": "眼科住院医师工作，管理住院病人，协助主刀医生手术。",
+            "endDate": "2016-10",
+            "industry": "医疗/护理/卫生",
+            "position": "专科医生",
+            "scale": "50-150人",
+            "startDate": "2016-05",
+            "type": "民营公司"
+        },
+        {
+            "company": "兼职出版社校对、编辑工作",
+            "detail": "在校期间，为中国中医药出版社兼职，主要工作为校对、编辑，并整理出版了民国讲义系列丛书中的《儿科学讲义》。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "学生实践 (兼职)",
+            "startDate": "2010-09"
+        }
+    ],
+    "workYears": 2.0
+}

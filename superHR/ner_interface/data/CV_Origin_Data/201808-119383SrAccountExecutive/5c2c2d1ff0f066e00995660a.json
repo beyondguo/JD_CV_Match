@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "birthday": "1985-11-2",
+        "currentCity": "西安",
+        "gender": "男",
+        "photoAddress": "http://img01.51jobcdn.com/im/2016/resume/man.png",
+        "politicalStatus": "",
+        "registeredResidence": "",
+        "zipCode": ""
+    },
+    "confidentialResume": "N",
+    "currentCompany": "上海梵华实业有限公司",
+    "currentIndustry": "医疗设备/器械",
+    "currentPosition": "销售主管",
+    "currentSalary": "",
+    "degree": "本科",
+    "eduExp": [
+        {
+            "degree": "本科",
+            "detail": "",
+            "endDate": "2011-06",
+            "major": "医疗器械工程",
+            "school": "上海理工大学",
+            "startDate": "2009-02"
+        },
+        {
+            "degree": "大专",
+            "detail": "",
+            "endDate": "2008-07",
+            "major": "计算机及应用（远程医疗技术）",
+            "school": "上海医疗器械高等专科学校",
+            "startDate": "2005-09"
+        }
+    ],
+    "idStr": "",
+    "jobObjective": {
+        "city": "西安",
+        "contractTerm": "全职",
+        "industry": "医疗设备/器械",
+        "position": "销售经理,销售经理",
+        "salary": "10000-14999 元/月 ",
+        "state": "目前正在找工作\n到岗时间：1个月内"
+    },
+    "projectExp": [],
+    "selfComm": "拥有11年的医疗耗材及设备的直销和分销管理经验，善于分析客户需求及市场状况并敏锐反应。\n执行力强，有一定的组织管理能力，懂得团队协作。\n乐于接受新的挑战，适应、学习能力强。\n性格开朗，待人诚恳，好学上进，谦虚自律。",
+    "version": "zh",
+    "workExp": [
+        {
+            "company": "上海梵华实业有限公司",
+            "detail": "1.直销产品-负责区域内医院医疗设备及耗材的销售及售后服务，主要涉及麻醉、重症、急诊及临床护理的设备和耗材。\n2.制定区域内医院销售计划并实施，完成销售指标及各项销售任务。\n3.分销产品-负责区域内经销商开发及管理。\n4.新入职代表产品培训并带其实际走访医院，对其进行工作安排和开销售会议。\n5.保持与原厂销售之间的业务沟通，负责产品医保的申报，组织安排学术会议。",
+            "endDate": "4000-10",
+            "industry": "",
+            "position": "销售经理",
+            "startDate": "2008-06"
+        }
+    ],
+    "workYears": 11.0
+}
